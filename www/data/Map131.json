@@ -1,0 +1,5460 @@
+{
+    "autoplayBgm": false,
+    "autoplayBgs": false,
+    "battleback1Name": "SF_Metal1",
+    "battleback2Name": "SF_Factory",
+    "bgm": {
+        "name": "",
+        "pan": 0,
+        "pitch": 100,
+        "volume": 90
+    },
+    "bgs": {
+        "name": "",
+        "pan": 0,
+        "pitch": 100,
+        "volume": 90
+    },
+    "disableDashing": false,
+    "displayName": "",
+    "encounterList": [],
+    "encounterStep": 30,
+    "height": 13,
+    "note": "",
+    "parallaxLoopX": false,
+    "parallaxLoopY": false,
+    "parallaxName": "",
+    "parallaxShow": true,
+    "parallaxSx": 0,
+    "parallaxSy": 0,
+    "scrollType": 0,
+    "specifyBattleback": false,
+    "tilesetId": 17,
+    "width": 17,
+    "data": [
+        1536,
+        7680,
+        7664,
+        7664,
+        7664,
+        7664,
+        7664,
+        7664,
+        7664,
+        7664,
+        7664,
+        7664,
+        7664,
+        7664,
+        7664,
+        7688,
+        1536,
+        1536,
+        7682,
+        7692,
+        7692,
+        7692,
+        7692,
+        7692,
+        7692,
+        7692,
+        7692,
+        7692,
+        7692,
+        7692,
+        7692,
+        7692,
+        7689,
+        1536,
+        1536,
+        7696,
+        8050,
+        8050,
+        8050,
+        8050,
+        8050,
+        8054,
+        8058,
+        8051,
+        8050,
+        8050,
+        8050,
+        8050,
+        8050,
+        7696,
+        1536,
+        1536,
+        7696,
+        8056,
+        8056,
+        8056,
+        8056,
+        8056,
+        8060,
+        1536,
+        8057,
+        8056,
+        8056,
+        8056,
+        8056,
+        8056,
+        7696,
+        1536,
+        1536,
+        7696,
+        1659,
+        1659,
+        1659,
+        1659,
+        1572,
+        1572,
+        1572,
+        1572,
+        1572,
+        1659,
+        1659,
+        1659,
+        1659,
+        7696,
+        1536,
+        1536,
+        7696,
+        1659,
+        1659,
+        1659,
+        1659,
+        1572,
+        1572,
+        1572,
+        1572,
+        1572,
+        1659,
+        1659,
+        1659,
+        1659,
+        7696,
+        1536,
+        1536,
+        7696,
+        1659,
+        1659,
+        1659,
+        1659,
+        1572,
+        1572,
+        1572,
+        1572,
+        1572,
+        1659,
+        1659,
+        1659,
+        1659,
+        7696,
+        1536,
+        1536,
+        7696,
+        1659,
+        1659,
+        1659,
+        1659,
+        1572,
+        1572,
+        1572,
+        1572,
+        1572,
+        1659,
+        1659,
+        1659,
+        1659,
+        7696,
+        1536,
+        1536,
+        7696,
+        1574,
+        1574,
+        1574,
+        1574,
+        1572,
+        1572,
+        1572,
+        1572,
+        1572,
+        1574,
+        1574,
+        1574,
+        1574,
+        7696,
+        1536,
+        1536,
+        7696,
+        1572,
+        1572,
+        1572,
+        1572,
+        1572,
+        1572,
+        1572,
+        1572,
+        1572,
+        1572,
+        1572,
+        1572,
+        1572,
+        7696,
+        1536,
+        1536,
+        7696,
+        1572,
+        1572,
+        1572,
+        1572,
+        1572,
+        1572,
+        1572,
+        1572,
+        1572,
+        1572,
+        1572,
+        1572,
+        1572,
+        7696,
+        1536,
+        1536,
+        7705,
+        7697,
+        7697,
+        7697,
+        7697,
+        7697,
+        7709,
+        1572,
+        7707,
+        7697,
+        7697,
+        7697,
+        7697,
+        7697,
+        7703,
+        1536,
+        1536,
+        1536,
+        1536,
+        1536,
+        1536,
+        1536,
+        1536,
+        1536,
+        1536,
+        1536,
+        1536,
+        1536,
+        1536,
+        1536,
+        1536,
+        1536,
+        1536,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        352,
+        352,
+        352,
+        352,
+        0,
+        0,
+        0,
+        0,
+        0,
+        352,
+        352,
+        352,
+        352,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        344,
+        344,
+        344,
+        344,
+        233,
+        0,
+        0,
+        0,
+        233,
+        344,
+        344,
+        344,
+        344,
+        0,
+        0,
+        0,
+        0,
+        352,
+        352,
+        352,
+        352,
+        0,
+        0,
+        0,
+        0,
+        0,
+        352,
+        352,
+        352,
+        352,
+        0,
+        0,
+        0,
+        0,
+        352,
+        352,
+        352,
+        352,
+        0,
+        0,
+        0,
+        0,
+        0,
+        352,
+        352,
+        352,
+        352,
+        0,
+        0,
+        0,
+        0,
+        352,
+        352,
+        352,
+        352,
+        0,
+        0,
+        0,
+        0,
+        0,
+        352,
+        352,
+        352,
+        352,
+        0,
+        0,
+        0,
+        0,
+        360,
+        360,
+        360,
+        360,
+        94,
+        0,
+        0,
+        0,
+        94,
+        360,
+        360,
+        360,
+        360,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "events": [
+        null,
+        {
+            "id": 1,
+            "name": "移動",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "characterIndex": 0,
+                        "characterName": "",
+                        "direction": 2,
+                        "pattern": 0,
+                        "tileId": 0
+                    },
+                    "list": [
+                        {
+                            "code": 250,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "name": "Move3",
+                                    "volume": 30,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        },
+                        {
+                            "code": 201,
+                            "indent": 0,
+                            "parameters": [
+                                0,
+                                133,
+                                17,
+                                5,
+                                2,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 0,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 1,
+                    "walkAnime": true
+                }
+            ],
+            "x": 8,
+            "y": 11
+        },
+        {
+            "id": 2,
+            "name": "移動",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "!SF_Door2",
+                        "direction": 2,
+                        "pattern": 1,
+                        "characterIndex": 3
+                    },
+                    "list": [
+                        {
+                            "code": 250,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "name": "Computer",
+                                    "volume": 35,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        },
+                        {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [
+                                0,
+                                {
+                                    "list": [
+                                        {
+                                            "code": 17
+                                        },
+                                        {
+                                            "code": 15,
+                                            "parameters": [
+                                                3
+                                            ]
+                                        },
+                                        {
+                                            "code": 18
+                                        },
+                                        {
+                                            "code": 15,
+                                            "parameters": [
+                                                3
+                                            ]
+                                        },
+                                        {
+                                            "code": 19
+                                        },
+                                        {
+                                            "code": 37
+                                        },
+                                        {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 17
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 15,
+                                    "parameters": [
+                                        3
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 18
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 15,
+                                    "parameters": [
+                                        3
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 19
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 37
+                                }
+                            ]
+                        },
+                        {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [
+                                -1,
+                                {
+                                    "list": [
+                                        {
+                                            "code": 12
+                                        },
+                                        {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": true,
+                                    "wait": true
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 12
+                                }
+                            ]
+                        },
+                        {
+                            "code": 250,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "name": "Move3",
+                                    "volume": 30,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        },
+                        {
+                            "code": 201,
+                            "indent": 0,
+                            "parameters": [
+                                0,
+                                132,
+                                21,
+                                5,
+                                2,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 1,
+                    "walkAnime": false
+                }
+            ],
+            "x": 8,
+            "y": 3
+        },
+        {
+            "id": 3,
+            "name": "転移装置",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": true,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "!Crystal",
+                        "direction": 2,
+                        "pattern": 1,
+                        "characterIndex": 3
+                    },
+                    "list": [
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "SYSTEM"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "転送装置をオンにします。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "工場入口へショートカットが開通しました。"
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                24,
+                                24,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": true,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": false
+                },
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 24,
+                        "switch1Valid": true,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": true,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "!Crystal",
+                        "direction": 4,
+                        "pattern": 1,
+                        "characterIndex": 3
+                    },
+                    "list": [
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "SYSTEM"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "工場入口へのショートカットは開通しています。"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": true,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": false
+                }
+            ],
+            "x": 14,
+            "y": 9
+        },
+        {
+            "id": 4,
+            "name": "中ボス",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "Monster04",
+                        "direction": 2,
+                        "pattern": 1,
+                        "characterIndex": 2
+                    },
+                    "list": [
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": true,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                },
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 38,
+                        "switch1Valid": true,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "characterIndex": 0,
+                        "characterName": "",
+                        "direction": 2,
+                        "pattern": 0,
+                        "tileId": 0
+                    },
+                    "list": [
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 0,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 8,
+            "y": 5
+        },
+        {
+            "id": 5,
+            "name": "中ボス2",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "SF_enemy1_3",
+                        "direction": 2,
+                        "pattern": 1,
+                        "characterIndex": 6
+                    },
+                    "list": [
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": true,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                },
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 38,
+                        "switch1Valid": true,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "characterIndex": 0,
+                        "characterName": "",
+                        "direction": 2,
+                        "pattern": 0,
+                        "tileId": 0
+                    },
+                    "list": [
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 0,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 7,
+            "y": 5
+        },
+        {
+            "id": 6,
+            "name": "中ボス2",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "SF_Monster",
+                        "direction": 2,
+                        "pattern": 1,
+                        "characterIndex": 3
+                    },
+                    "list": [
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": true,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                },
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 38,
+                        "switch1Valid": true,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "characterIndex": 0,
+                        "characterName": "",
+                        "direction": 2,
+                        "pattern": 0,
+                        "tileId": 0
+                    },
+                    "list": [
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 0,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 9,
+            "y": 5
+        },
+        {
+            "id": 7,
+            "name": "中ボス戦闘",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "characterIndex": 0,
+                        "characterName": "",
+                        "direction": 2,
+                        "pattern": 0,
+                        "tileId": 0
+                    },
+                    "list": [
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "……近付いたら巨大ミュータント兵との戦いになる。"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "準備は良いか、おれ？"
+                            ]
+                        },
+                        {
+                            "code": 102,
+                            "indent": 0,
+                            "parameters": [
+                                [
+                                    "はい",
+                                    "いいえ"
+                                ],
+                                1,
+                                0,
+                                2,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 0,
+                            "parameters": [
+                                0,
+                                "はい"
+                            ]
+                        },
+                        {
+                            "code": 221,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 201,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                131,
+                                8,
+                                9,
+                                8,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 1,
+                            "parameters": [
+                                7,
+                                7,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 222,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "巨大ミュータント兵"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "『…………グモオオオオオオオオオオオ！！』"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "サクラ"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "「へっ、覚悟しろよ、このデカブツ！！」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "ルリカ"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "「ケンイチさんは無理をせず、わたしたちのサポートを！」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "ケンイチ"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "「りょ、了解！！」"
+                            ]
+                        },
+                        {
+                            "code": 132,
+                            "indent": 1,
+                            "parameters": [
+                                {
+                                    "name": "maoudamasi_neorock42",
+                                    "volume": 30,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        },
+                        {
+                            "code": 301,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                19,
+                                false,
+                                true
+                            ]
+                        },
+                        {
+                            "code": 601,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 132,
+                            "indent": 2,
+                            "parameters": [
+                                {
+                                    "name": "maoudamasi_neorock13",
+                                    "volume": 30,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "巨大ミュータント兵"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "『ｸﾞﾓｫｫｫｫｫｫｫｫ…………』"
+                            ]
+                        },
+                        {
+                            "code": 212,
+                            "indent": 2,
+                            "parameters": [
+                                4,
+                                67,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 205,
+                            "indent": 2,
+                            "parameters": [
+                                4,
+                                {
+                                    "list": [
+                                        {
+                                            "code": 42,
+                                            "parameters": [
+                                                255
+                                            ],
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 15,
+                                            "parameters": [
+                                                10
+                                            ],
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 42,
+                                            "parameters": [
+                                                200
+                                            ],
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 15,
+                                            "parameters": [
+                                                10
+                                            ],
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 42,
+                                            "parameters": [
+                                                150
+                                            ],
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 15,
+                                            "parameters": [
+                                                10
+                                            ],
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 42,
+                                            "parameters": [
+                                                100
+                                            ],
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 15,
+                                            "parameters": [
+                                                10
+                                            ],
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 42,
+                                            "parameters": [
+                                                50
+                                            ],
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 15,
+                                            "parameters": [
+                                                10
+                                            ],
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 42,
+                                            "parameters": [
+                                                0
+                                            ],
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 2,
+                            "parameters": [
+                                {
+                                    "code": 42,
+                                    "parameters": [
+                                        255
+                                    ],
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 2,
+                            "parameters": [
+                                {
+                                    "code": 15,
+                                    "parameters": [
+                                        10
+                                    ],
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 2,
+                            "parameters": [
+                                {
+                                    "code": 42,
+                                    "parameters": [
+                                        200
+                                    ],
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 2,
+                            "parameters": [
+                                {
+                                    "code": 15,
+                                    "parameters": [
+                                        10
+                                    ],
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 2,
+                            "parameters": [
+                                {
+                                    "code": 42,
+                                    "parameters": [
+                                        150
+                                    ],
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 2,
+                            "parameters": [
+                                {
+                                    "code": 15,
+                                    "parameters": [
+                                        10
+                                    ],
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 2,
+                            "parameters": [
+                                {
+                                    "code": 42,
+                                    "parameters": [
+                                        100
+                                    ],
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 2,
+                            "parameters": [
+                                {
+                                    "code": 15,
+                                    "parameters": [
+                                        10
+                                    ],
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 2,
+                            "parameters": [
+                                {
+                                    "code": 42,
+                                    "parameters": [
+                                        50
+                                    ],
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 2,
+                            "parameters": [
+                                {
+                                    "code": 15,
+                                    "parameters": [
+                                        10
+                                    ],
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 2,
+                            "parameters": [
+                                {
+                                    "code": 42,
+                                    "parameters": [
+                                        0
+                                    ],
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 221,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 205,
+                            "indent": 2,
+                            "parameters": [
+                                5,
+                                {
+                                    "list": [
+                                        {
+                                            "code": 39,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 2,
+                            "parameters": [
+                                {
+                                    "code": 39,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 205,
+                            "indent": 2,
+                            "parameters": [
+                                6,
+                                {
+                                    "list": [
+                                        {
+                                            "code": 39,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 2,
+                            "parameters": [
+                                {
+                                    "code": 39,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                7,
+                                7,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "SYSTEM"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "ケンイチたちは巨大ミュータント兵を倒した！"
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 2,
+                            "parameters": [
+                                1,
+                                "01-01",
+                                0,
+                                0,
+                                0,
+                                0,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 222,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "サクラ"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "「よし、上出来だぜケンイチ」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "ルリカ"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "「この調子で、探索を続けましょう」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "ルリカ"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "「もちろん、危なくなる前に撤退するのも忘れずに」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "ケンイチ"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "「了解！！」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "ケンイチ"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "「よし、先に進もう！」"
+                            ]
+                        },
+                        {
+                            "code": 235,
+                            "indent": 2,
+                            "parameters": [
+                                1
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                38,
+                                38,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 603,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 132,
+                            "indent": 2,
+                            "parameters": [
+                                {
+                                    "name": "maoudamasi_neorock13",
+                                    "volume": 30,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                7,
+                                7,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 2,
+                            "parameters": [
+                                4
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 604,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                "いいえ"
+                            ]
+                        },
+                        {
+                            "code": 205,
+                            "indent": 1,
+                            "parameters": [
+                                -1,
+                                {
+                                    "list": [
+                                        {
+                                            "code": 1,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 1,
+                            "parameters": [
+                                {
+                                    "code": 1,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 0,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 1,
+                    "walkAnime": true
+                },
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 38,
+                        "switch1Valid": true,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "characterIndex": 0,
+                        "characterName": "",
+                        "direction": 2,
+                        "pattern": 0,
+                        "tileId": 0
+                    },
+                    "list": [
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 0,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 8,
+            "y": 8
+        },
+        {
+            "id": 8,
+            "name": "双子",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 7,
+                        "switch1Valid": true,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "001",
+                        "direction": 8,
+                        "pattern": 1,
+                        "characterIndex": 0
+                    },
+                    "list": [
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": true,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 7,
+            "y": 7
+        },
+        {
+            "id": 9,
+            "name": "双子",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 7,
+                        "switch1Valid": true,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "001",
+                        "direction": 8,
+                        "pattern": 1,
+                        "characterIndex": 4
+                    },
+                    "list": [
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": true,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 9,
+            "y": 7
+        },
+        {
+            "id": 10,
+            "name": "EV010",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "characterIndex": 0,
+                        "characterName": "",
+                        "direction": 2,
+                        "pattern": 0,
+                        "tileId": 0
+                    },
+                    "list": [
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "巨大ミュータント兵"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "『…………グモオオオオオオオオオオオ！！』"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "ケンイチ"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "「う……」"
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                "01-01",
+                                0,
+                                0,
+                                0,
+                                0,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "サクラ"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "「気圧されるなよ、ケンイチ」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "ルリカ"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "「この先を守る番人のようですね。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "　未来特警として、やるべきことは決まっています」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "ケンイチ"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "「う、うん、じゃなくて、はい！！」"
+                            ]
+                        },
+                        {
+                            "code": 235,
+                            "indent": 0,
+                            "parameters": [
+                                1
+                            ]
+                        },
+                        {
+                            "code": 123,
+                            "indent": 0,
+                            "parameters": [
+                                "A",
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 0,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 3,
+                    "walkAnime": true
+                },
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": true,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "characterIndex": 0,
+                        "characterName": "",
+                        "direction": 2,
+                        "pattern": 0,
+                        "tileId": 0
+                    },
+                    "list": [
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 0,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 15,
+            "y": 11
+        },
+        {
+            "id": 11,
+            "name": "中ボス戦闘",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "characterIndex": 0,
+                        "characterName": "",
+                        "direction": 2,
+                        "pattern": 0,
+                        "tileId": 0
+                    },
+                    "list": [
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "……近付いたら巨大ミュータント兵との戦いになる。"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "準備は良いか、おれ？"
+                            ]
+                        },
+                        {
+                            "code": 102,
+                            "indent": 0,
+                            "parameters": [
+                                [
+                                    "はい",
+                                    "いいえ"
+                                ],
+                                1,
+                                0,
+                                2,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 0,
+                            "parameters": [
+                                0,
+                                "はい"
+                            ]
+                        },
+                        {
+                            "code": 221,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 201,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                131,
+                                8,
+                                9,
+                                8,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 1,
+                            "parameters": [
+                                7,
+                                7,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 222,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "巨大ミュータント兵"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "『…………グモオオオオオオオオオオオ！！』"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "サクラ"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "「へっ、覚悟しろよ、このデカブツ！！」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "ルリカ"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "「ケンイチさんは無理をせず、わたしたちのサポートを！」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "ケンイチ"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "「りょ、了解！！」"
+                            ]
+                        },
+                        {
+                            "code": 132,
+                            "indent": 1,
+                            "parameters": [
+                                {
+                                    "name": "maoudamasi_neorock42",
+                                    "volume": 30,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        },
+                        {
+                            "code": 301,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                19,
+                                false,
+                                true
+                            ]
+                        },
+                        {
+                            "code": 601,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 132,
+                            "indent": 2,
+                            "parameters": [
+                                {
+                                    "name": "maoudamasi_neorock13",
+                                    "volume": 30,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "巨大ミュータント兵"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "『ｸﾞﾓｫｫｫｫｫｫｫｫ…………』"
+                            ]
+                        },
+                        {
+                            "code": 212,
+                            "indent": 2,
+                            "parameters": [
+                                4,
+                                67,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 205,
+                            "indent": 2,
+                            "parameters": [
+                                4,
+                                {
+                                    "list": [
+                                        {
+                                            "code": 42,
+                                            "parameters": [
+                                                255
+                                            ],
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 15,
+                                            "parameters": [
+                                                10
+                                            ],
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 42,
+                                            "parameters": [
+                                                200
+                                            ],
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 15,
+                                            "parameters": [
+                                                10
+                                            ],
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 42,
+                                            "parameters": [
+                                                150
+                                            ],
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 15,
+                                            "parameters": [
+                                                10
+                                            ],
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 42,
+                                            "parameters": [
+                                                100
+                                            ],
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 15,
+                                            "parameters": [
+                                                10
+                                            ],
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 42,
+                                            "parameters": [
+                                                50
+                                            ],
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 15,
+                                            "parameters": [
+                                                10
+                                            ],
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 42,
+                                            "parameters": [
+                                                0
+                                            ],
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 2,
+                            "parameters": [
+                                {
+                                    "code": 42,
+                                    "parameters": [
+                                        255
+                                    ],
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 2,
+                            "parameters": [
+                                {
+                                    "code": 15,
+                                    "parameters": [
+                                        10
+                                    ],
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 2,
+                            "parameters": [
+                                {
+                                    "code": 42,
+                                    "parameters": [
+                                        200
+                                    ],
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 2,
+                            "parameters": [
+                                {
+                                    "code": 15,
+                                    "parameters": [
+                                        10
+                                    ],
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 2,
+                            "parameters": [
+                                {
+                                    "code": 42,
+                                    "parameters": [
+                                        150
+                                    ],
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 2,
+                            "parameters": [
+                                {
+                                    "code": 15,
+                                    "parameters": [
+                                        10
+                                    ],
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 2,
+                            "parameters": [
+                                {
+                                    "code": 42,
+                                    "parameters": [
+                                        100
+                                    ],
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 2,
+                            "parameters": [
+                                {
+                                    "code": 15,
+                                    "parameters": [
+                                        10
+                                    ],
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 2,
+                            "parameters": [
+                                {
+                                    "code": 42,
+                                    "parameters": [
+                                        50
+                                    ],
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 2,
+                            "parameters": [
+                                {
+                                    "code": 15,
+                                    "parameters": [
+                                        10
+                                    ],
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 2,
+                            "parameters": [
+                                {
+                                    "code": 42,
+                                    "parameters": [
+                                        0
+                                    ],
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 221,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 205,
+                            "indent": 2,
+                            "parameters": [
+                                5,
+                                {
+                                    "list": [
+                                        {
+                                            "code": 39,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 2,
+                            "parameters": [
+                                {
+                                    "code": 39,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 205,
+                            "indent": 2,
+                            "parameters": [
+                                6,
+                                {
+                                    "list": [
+                                        {
+                                            "code": 39,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 2,
+                            "parameters": [
+                                {
+                                    "code": 39,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                7,
+                                7,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "SYSTEM"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "ケンイチたちは巨大ミュータント兵を倒した！"
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 2,
+                            "parameters": [
+                                1,
+                                "01-01",
+                                0,
+                                0,
+                                0,
+                                0,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 222,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "サクラ"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "「よし、上出来だぜケンイチ」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "ルリカ"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "「この調子で、探索を続けましょう」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "ルリカ"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "「もちろん、危なくなる前に撤退するのも忘れずに」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "ケンイチ"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "「了解！！」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "ケンイチ"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "「よし、先に進もう！」"
+                            ]
+                        },
+                        {
+                            "code": 235,
+                            "indent": 2,
+                            "parameters": [
+                                1
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                38,
+                                38,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 603,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 132,
+                            "indent": 2,
+                            "parameters": [
+                                {
+                                    "name": "maoudamasi_neorock13",
+                                    "volume": 30,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                7,
+                                7,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 2,
+                            "parameters": [
+                                4
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 604,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                "いいえ"
+                            ]
+                        },
+                        {
+                            "code": 205,
+                            "indent": 1,
+                            "parameters": [
+                                -1,
+                                {
+                                    "list": [
+                                        {
+                                            "code": 1,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 1,
+                            "parameters": [
+                                {
+                                    "code": 1,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 0,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 1,
+                    "walkAnime": true
+                },
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 38,
+                        "switch1Valid": true,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "characterIndex": 0,
+                        "characterName": "",
+                        "direction": 2,
+                        "pattern": 0,
+                        "tileId": 0
+                    },
+                    "list": [
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 0,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 7,
+            "y": 8
+        },
+        {
+            "id": 12,
+            "name": "中ボス戦闘",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "characterIndex": 0,
+                        "characterName": "",
+                        "direction": 2,
+                        "pattern": 0,
+                        "tileId": 0
+                    },
+                    "list": [
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "……近付いたら巨大ミュータント兵との戦いになる。"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "準備は良いか、おれ？"
+                            ]
+                        },
+                        {
+                            "code": 102,
+                            "indent": 0,
+                            "parameters": [
+                                [
+                                    "はい",
+                                    "いいえ"
+                                ],
+                                1,
+                                0,
+                                2,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 0,
+                            "parameters": [
+                                0,
+                                "はい"
+                            ]
+                        },
+                        {
+                            "code": 221,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 201,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                131,
+                                8,
+                                9,
+                                8,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 1,
+                            "parameters": [
+                                7,
+                                7,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 222,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "巨大ミュータント兵"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "『…………グモオオオオオオオオオオオ！！』"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "サクラ"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "「へっ、覚悟しろよ、このデカブツ！！」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "ルリカ"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "「ケンイチさんは無理をせず、わたしたちのサポートを！」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "ケンイチ"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "「りょ、了解！！」"
+                            ]
+                        },
+                        {
+                            "code": 132,
+                            "indent": 1,
+                            "parameters": [
+                                {
+                                    "name": "maoudamasi_neorock42",
+                                    "volume": 30,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        },
+                        {
+                            "code": 301,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                19,
+                                false,
+                                true
+                            ]
+                        },
+                        {
+                            "code": 601,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 132,
+                            "indent": 2,
+                            "parameters": [
+                                {
+                                    "name": "maoudamasi_neorock13",
+                                    "volume": 30,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "巨大ミュータント兵"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "『ｸﾞﾓｫｫｫｫｫｫｫｫ…………』"
+                            ]
+                        },
+                        {
+                            "code": 212,
+                            "indent": 2,
+                            "parameters": [
+                                4,
+                                67,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 205,
+                            "indent": 2,
+                            "parameters": [
+                                4,
+                                {
+                                    "list": [
+                                        {
+                                            "code": 42,
+                                            "parameters": [
+                                                255
+                                            ],
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 15,
+                                            "parameters": [
+                                                10
+                                            ],
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 42,
+                                            "parameters": [
+                                                200
+                                            ],
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 15,
+                                            "parameters": [
+                                                10
+                                            ],
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 42,
+                                            "parameters": [
+                                                150
+                                            ],
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 15,
+                                            "parameters": [
+                                                10
+                                            ],
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 42,
+                                            "parameters": [
+                                                100
+                                            ],
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 15,
+                                            "parameters": [
+                                                10
+                                            ],
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 42,
+                                            "parameters": [
+                                                50
+                                            ],
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 15,
+                                            "parameters": [
+                                                10
+                                            ],
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 42,
+                                            "parameters": [
+                                                0
+                                            ],
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 2,
+                            "parameters": [
+                                {
+                                    "code": 42,
+                                    "parameters": [
+                                        255
+                                    ],
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 2,
+                            "parameters": [
+                                {
+                                    "code": 15,
+                                    "parameters": [
+                                        10
+                                    ],
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 2,
+                            "parameters": [
+                                {
+                                    "code": 42,
+                                    "parameters": [
+                                        200
+                                    ],
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 2,
+                            "parameters": [
+                                {
+                                    "code": 15,
+                                    "parameters": [
+                                        10
+                                    ],
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 2,
+                            "parameters": [
+                                {
+                                    "code": 42,
+                                    "parameters": [
+                                        150
+                                    ],
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 2,
+                            "parameters": [
+                                {
+                                    "code": 15,
+                                    "parameters": [
+                                        10
+                                    ],
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 2,
+                            "parameters": [
+                                {
+                                    "code": 42,
+                                    "parameters": [
+                                        100
+                                    ],
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 2,
+                            "parameters": [
+                                {
+                                    "code": 15,
+                                    "parameters": [
+                                        10
+                                    ],
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 2,
+                            "parameters": [
+                                {
+                                    "code": 42,
+                                    "parameters": [
+                                        50
+                                    ],
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 2,
+                            "parameters": [
+                                {
+                                    "code": 15,
+                                    "parameters": [
+                                        10
+                                    ],
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 2,
+                            "parameters": [
+                                {
+                                    "code": 42,
+                                    "parameters": [
+                                        0
+                                    ],
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 221,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 205,
+                            "indent": 2,
+                            "parameters": [
+                                5,
+                                {
+                                    "list": [
+                                        {
+                                            "code": 39,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 2,
+                            "parameters": [
+                                {
+                                    "code": 39,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 205,
+                            "indent": 2,
+                            "parameters": [
+                                6,
+                                {
+                                    "list": [
+                                        {
+                                            "code": 39,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 2,
+                            "parameters": [
+                                {
+                                    "code": 39,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                7,
+                                7,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "SYSTEM"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "ケンイチたちは巨大ミュータント兵を倒した！"
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 2,
+                            "parameters": [
+                                1,
+                                "01-01",
+                                0,
+                                0,
+                                0,
+                                0,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 222,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "サクラ"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "「よし、上出来だぜケンイチ」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "ルリカ"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "「この調子で、探索を続けましょう」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "ルリカ"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "「もちろん、危なくなる前に撤退するのも忘れずに」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "ケンイチ"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "「了解！！」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "ケンイチ"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "「よし、先に進もう！」"
+                            ]
+                        },
+                        {
+                            "code": 235,
+                            "indent": 2,
+                            "parameters": [
+                                1
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                38,
+                                38,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 603,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 132,
+                            "indent": 2,
+                            "parameters": [
+                                {
+                                    "name": "maoudamasi_neorock13",
+                                    "volume": 30,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                7,
+                                7,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 2,
+                            "parameters": [
+                                4
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 604,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                "いいえ"
+                            ]
+                        },
+                        {
+                            "code": 205,
+                            "indent": 1,
+                            "parameters": [
+                                -1,
+                                {
+                                    "list": [
+                                        {
+                                            "code": 1,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 1,
+                            "parameters": [
+                                {
+                                    "code": 1,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 0,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 1,
+                    "walkAnime": true
+                },
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 38,
+                        "switch1Valid": true,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "characterIndex": 0,
+                        "characterName": "",
+                        "direction": 2,
+                        "pattern": 0,
+                        "tileId": 0
+                    },
+                    "list": [
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 0,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 9,
+            "y": 8
+        },
+        null,
+        null
+    ]
+}

@@ -1,0 +1,5993 @@
+[
+    null,
+    {
+        "id": 1,
+        "atypeId": 3,
+        "description": "【防御+5/精神+5/HP+75】\n特警隊の象徴的スーツ『ギア』、その基本型。",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 53,
+                "dataId": 2,
+                "value": 1
+            }
+        ],
+        "iconIndex": 137,
+        "name": "バイオギアLV0",
+        "note": "",
+        "params": [
+            75,
+            0,
+            0,
+            5,
+            0,
+            5,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 2,
+        "atypeId": 3,
+        "description": "【防御+10/精神+10/HP+100/SP+10】\n特警隊の象徴的スーツ『ギア』、その基本型。",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 53,
+                "dataId": 2,
+                "value": 1
+            }
+        ],
+        "iconIndex": 137,
+        "name": "バイオギアLV1",
+        "note": "",
+        "params": [
+            100,
+            10,
+            0,
+            10,
+            0,
+            10,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 3,
+        "atypeId": 3,
+        "description": "【防御+20/精神+20/HP+250/SP+25】\n特警隊の象徴的スーツ『ギア』、その基本型。",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 53,
+                "dataId": 2,
+                "value": 1
+            }
+        ],
+        "iconIndex": 137,
+        "name": "バイオギアLV2",
+        "note": "",
+        "params": [
+            250,
+            25,
+            0,
+            20,
+            0,
+            20,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 4,
+        "atypeId": 3,
+        "description": "【防御+40/精神+40/HP+500/SP+50】\n特警隊の象徴的スーツ『ギア』、その基本型。",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 53,
+                "dataId": 2,
+                "value": 1
+            }
+        ],
+        "iconIndex": 137,
+        "name": "バイオギアLV3",
+        "note": "",
+        "params": [
+            500,
+            50,
+            0,
+            40,
+            0,
+            40,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 5,
+        "atypeId": 3,
+        "description": "【防御+20/精神+10/HP+500/SP+10】\n銃弾すら弾く極薄の超強化特殊繊維によって作られている。",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 53,
+                "dataId": 2,
+                "value": 1
+            }
+        ],
+        "iconIndex": 137,
+        "name": "強襲型バイオギアLV1",
+        "note": "",
+        "params": [
+            500,
+            10,
+            0,
+            20,
+            0,
+            10,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 6,
+        "atypeId": 3,
+        "description": "【防御+30/精神+20/HP+750/SP+25】\n銃弾すら弾く極薄の超強化特殊繊維によって作られている。",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 53,
+                "dataId": 2,
+                "value": 1
+            }
+        ],
+        "iconIndex": 137,
+        "name": "強襲型バイオギアLV2",
+        "note": "",
+        "params": [
+            750,
+            25,
+            0,
+            30,
+            0,
+            20,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 7,
+        "atypeId": 3,
+        "description": "【防御+50/精神+40/HP+1000/SP+50】\n銃弾すら弾く極薄の超強化特殊繊維によって作られている。",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 53,
+                "dataId": 2,
+                "value": 1
+            }
+        ],
+        "iconIndex": 137,
+        "name": "強襲型バイオギアLV3",
+        "note": "",
+        "params": [
+            1000,
+            50,
+            0,
+            50,
+            0,
+            40,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 8,
+        "atypeId": 3,
+        "description": "【防御+10/精神+20/HP+100/SP+50】\nスーツ表面に刻まれた回路により様々な機能を発揮する。",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 53,
+                "dataId": 2,
+                "value": 1
+            }
+        ],
+        "iconIndex": 137,
+        "name": "雷撃型バイオギアLV1",
+        "note": "",
+        "params": [
+            100,
+            50,
+            0,
+            10,
+            0,
+            20,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 9,
+        "atypeId": 3,
+        "description": "【防御+20/精神+30/HP+250/SP+100】\nスーツ表面に刻まれた回路により様々な機能を発揮する。",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 53,
+                "dataId": 2,
+                "value": 1
+            }
+        ],
+        "iconIndex": 137,
+        "name": "雷撃型バイオギアLV2",
+        "note": "",
+        "params": [
+            250,
+            100,
+            0,
+            20,
+            0,
+            30,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 10,
+        "atypeId": 3,
+        "description": "【防御+40/精神+50/HP+500/SP+250】\nスーツ表面に刻まれた回路により様々な機能を発揮する。",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 53,
+                "dataId": 2,
+                "value": 1
+            }
+        ],
+        "iconIndex": 137,
+        "name": "雷撃型バイオギアLV3",
+        "note": "",
+        "params": [
+            500,
+            250,
+            0,
+            40,
+            0,
+            50,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 11,
+        "atypeId": 3,
+        "description": "【防御+75/精神+75/HP+1000/SP+100】\n重点的に童貞を守り射精を管理するマゾ用新型鎧。",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 53,
+                "dataId": 2,
+                "value": 1
+            }
+        ],
+        "iconIndex": 85,
+        "name": "NTRギア童貞型",
+        "note": "",
+        "params": [
+            1000,
+            100,
+            0,
+            80,
+            0,
+            80,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 12,
+        "atypeId": 3,
+        "description": "【攻撃+80/防御+80/精神+60/HP+1500/SP+200/HP再生10％】\n戦闘補助とちん媚び変態マゾアピールを両立させた最新鎧♡",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 7,
+                "value": 0.1
+            },
+            {
+                "code": 23,
+                "dataId": 0,
+                "value": 1.2
+            },
+            {
+                "code": 53,
+                "dataId": 2,
+                "value": 1
+            }
+        ],
+        "iconIndex": 84,
+        "name": "スレイブギア強襲型",
+        "note": "",
+        "params": [
+            1500,
+            200,
+            80,
+            80,
+            0,
+            60,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 13,
+        "atypeId": 3,
+        "description": "【防御+60/集中+80/精神+60/HP+1000/SP+500/HP再生10％】\n雷撃強化とちん媚び変態マゾアピールを両立させた最新鎧♡",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 7,
+                "value": 0.1
+            },
+            {
+                "code": 53,
+                "dataId": 2,
+                "value": 1
+            }
+        ],
+        "iconIndex": 84,
+        "name": "スレイブギア雷撃型",
+        "note": "",
+        "params": [
+            1000,
+            500,
+            0,
+            60,
+            80,
+            60,
+            50,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 14,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 15,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 16,
+        "atypeId": 1,
+        "description": "【状態異常無効】\n貴重なミスリル製だが装着個所に問題がある。",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 4,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 5,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 8,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 16,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 12,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 13,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 14,
+                "value": 0
+            },
+            {
+                "code": 53,
+                "dataId": 3,
+                "value": 1
+            }
+        ],
+        "iconIndex": 84,
+        "name": "ミスリルピアス",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 17,
+        "atypeId": 1,
+        "description": "【ステータス弱体化無効/ステータスボーナス（20％）】\nキモヒコの支配を完全に受け入れ隷属した証明。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 53,
+                "dataId": 5,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 8,
+                "value": 0.1
+            },
+            {
+                "code": 21,
+                "dataId": 0,
+                "value": 1.2
+            },
+            {
+                "code": 21,
+                "dataId": 1,
+                "value": 1.2
+            },
+            {
+                "code": 21,
+                "dataId": 2,
+                "value": 1.2
+            },
+            {
+                "code": 21,
+                "dataId": 3,
+                "value": 1.2
+            },
+            {
+                "code": 21,
+                "dataId": 4,
+                "value": 1.2
+            },
+            {
+                "code": 21,
+                "dataId": 5,
+                "value": 1.2
+            },
+            {
+                "code": 21,
+                "dataId": 6,
+                "value": 1.2
+            },
+            {
+                "code": 12,
+                "dataId": 2,
+                "value": 0
+            },
+            {
+                "code": 12,
+                "dataId": 3,
+                "value": 0
+            },
+            {
+                "code": 12,
+                "dataId": 4,
+                "value": 0
+            },
+            {
+                "code": 12,
+                "dataId": 5,
+                "value": 0
+            },
+            {
+                "code": 12,
+                "dataId": 6,
+                "value": 0
+            }
+        ],
+        "iconIndex": 84,
+        "name": "従属刻印",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 18,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 19,
+        "atypeId": 1,
+        "description": "【ステータス弱体化無効/ステータスボーナス（10％）】\nキモヒコの能力と共鳴しバイオギアが変化した。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 53,
+                "dataId": 5,
+                "value": 1
+            },
+            {
+                "code": 21,
+                "dataId": 0,
+                "value": 1.1
+            },
+            {
+                "code": 21,
+                "dataId": 1,
+                "value": 1.1
+            },
+            {
+                "code": 21,
+                "dataId": 2,
+                "value": 1.1
+            },
+            {
+                "code": 21,
+                "dataId": 3,
+                "value": 1.1
+            },
+            {
+                "code": 21,
+                "dataId": 4,
+                "value": 1.1
+            },
+            {
+                "code": 21,
+                "dataId": 5,
+                "value": 1.1
+            },
+            {
+                "code": 21,
+                "dataId": 6,
+                "value": 1.1
+            },
+            {
+                "code": 12,
+                "dataId": 2,
+                "value": 0
+            },
+            {
+                "code": 12,
+                "dataId": 3,
+                "value": 0
+            },
+            {
+                "code": 12,
+                "dataId": 4,
+                "value": 0
+            },
+            {
+                "code": 12,
+                "dataId": 5,
+                "value": 0
+            },
+            {
+                "code": 12,
+                "dataId": 6,
+                "value": 0
+            }
+        ],
+        "iconIndex": 84,
+        "name": "バイオギア強化",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 20,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 21,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 22,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 23,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 24,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 25,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 26,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 27,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 28,
+        "atypeId": 1,
+        "description": "【防+1/特防+1】\n幼いケンイチがプレゼントした赤い指輪。",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 53,
+                "dataId": 3,
+                "value": 1
+            }
+        ],
+        "iconIndex": 145,
+        "name": "おもちゃの指輪（赤）",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            1,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 29,
+        "atypeId": 1,
+        "description": "【防+1/特防+1】\n幼いケンイチがプレゼントした青い指輪。",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 53,
+                "dataId": 3,
+                "value": 1
+            }
+        ],
+        "iconIndex": 145,
+        "name": "おもちゃの指輪（青）",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            1,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 30,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 31,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 32,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 33,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 34,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 35,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 36,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 37,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 38,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 39,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 40,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 41,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 42,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 43,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 44,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 45,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 46,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 47,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 48,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 49,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 50,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 51,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 52,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 53,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 54,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 55,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 56,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 57,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 58,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 59,
+        "atypeId": 1,
+        "description": "【毒無効】\n毒から守ってくれる指輪。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 13,
+                "dataId": 4,
+                "value": 0
+            }
+        ],
+        "iconIndex": 145,
+        "name": "毒耐性デバイス",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 500
+    },
+    {
+        "id": 60,
+        "atypeId": 1,
+        "description": "【毒/猛毒無効】\n毒と猛毒から守ってくれる指輪。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 13,
+                "dataId": 4,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 12,
+                "value": 0
+            }
+        ],
+        "iconIndex": 145,
+        "name": "猛毒耐性デバイス",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1500
+    },
+    {
+        "id": 61,
+        "atypeId": 1,
+        "description": "【出血無効】\n出血から守ってくれる指輪。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 13,
+                "dataId": 16,
+                "value": 0
+            }
+        ],
+        "iconIndex": 145,
+        "name": "出血耐性デバイス",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 62,
+        "atypeId": 1,
+        "description": "【暗闇無効】\n暗闇から守ってくれる指輪。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 13,
+                "dataId": 5,
+                "value": 0
+            }
+        ],
+        "iconIndex": 145,
+        "name": "暗闇耐性デバイス",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 500
+    },
+    {
+        "id": 63,
+        "atypeId": 1,
+        "description": "【麻痺無効】\n麻痺から守ってくれる指輪。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 13,
+                "dataId": 13,
+                "value": 0
+            }
+        ],
+        "iconIndex": 145,
+        "name": "麻痺耐性デバイス",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1500
+    },
+    {
+        "id": 64,
+        "atypeId": 1,
+        "description": "【沈黙無効】\n沈黙から守ってくれる指輪。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 13,
+                "dataId": 6,
+                "value": 0
+            }
+        ],
+        "iconIndex": 145,
+        "name": "沈黙耐性デバイス",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 800
+    },
+    {
+        "id": 65,
+        "atypeId": 1,
+        "description": "【混乱無効】\n混乱から守ってくれる指輪。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 13,
+                "dataId": 8,
+                "value": 0
+            }
+        ],
+        "iconIndex": 145,
+        "name": "混乱耐性デバイス",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 66,
+        "atypeId": 1,
+        "description": "【睡眠無効】\n睡眠から守ってくれる指輪。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 13,
+                "dataId": 10,
+                "value": 0
+            }
+        ],
+        "iconIndex": 145,
+        "name": "睡眠耐性デバイス",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 500
+    },
+    {
+        "id": 67,
+        "atypeId": 1,
+        "description": "【魅了無効】\n魅了から守ってくれる指輪。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 13,
+                "dataId": 9,
+                "value": 0
+            }
+        ],
+        "iconIndex": 145,
+        "name": "魅了耐性デバイス",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 500
+    },
+    {
+        "id": 68,
+        "atypeId": 1,
+        "description": "【激昂無効】\n激昂から守ってくれる指輪。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 13,
+                "dataId": 7,
+                "value": 0
+            }
+        ],
+        "iconIndex": 145,
+        "name": "激昂耐性デバイス",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 800
+    },
+    {
+        "id": 69,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 70,
+        "atypeId": 1,
+        "description": "【攻+10】\n赤色の指輪型デバイス、攻撃力を上昇させる。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 12,
+                "dataId": 2,
+                "value": 0
+            }
+        ],
+        "iconIndex": 145,
+        "name": "パワーデバイスα",
+        "note": "",
+        "params": [
+            0,
+            0,
+            10,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 71,
+        "atypeId": 1,
+        "description": "【攻+25/防+10】\n赤色の指輪型デバイス、攻撃力と防御力を上昇させる。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 12,
+                "dataId": 2,
+                "value": 0
+            }
+        ],
+        "iconIndex": 145,
+        "name": "パワーデバイスβ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            25,
+            10,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 3000
+    },
+    {
+        "id": 72,
+        "atypeId": 1,
+        "description": "【防+10】\n黄色の指輪型デバイス、防御力を上昇させる。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 12,
+                "dataId": 3,
+                "value": 0
+            }
+        ],
+        "iconIndex": 145,
+        "name": "ガードデバイスα",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            10,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 73,
+        "atypeId": 1,
+        "description": "【HP+200/防+25】\n黄色の指輪型デバイス、HPと防御力を上昇させる。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 12,
+                "dataId": 3,
+                "value": 0
+            }
+        ],
+        "iconIndex": 145,
+        "name": "ガードデバイスβ",
+        "note": "",
+        "params": [
+            200,
+            0,
+            10,
+            25,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 3000
+    },
+    {
+        "id": 74,
+        "atypeId": 1,
+        "description": "【集中+10/精神+10】\n緑色の指輪型デバイス、集中力と精神力を上昇させる。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 12,
+                "dataId": 4,
+                "value": 0
+            },
+            {
+                "code": 12,
+                "dataId": 5,
+                "value": 0
+            }
+        ],
+        "iconIndex": 145,
+        "name": "マインドデバイスα",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            10,
+            10,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 75,
+        "atypeId": 1,
+        "description": "【SP+100/集中+15/精神+15】\n緑色の指輪型デバイス、精神力と特殊防御力を上昇させる。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 12,
+                "dataId": 4,
+                "value": 0
+            },
+            {
+                "code": 12,
+                "dataId": 5,
+                "value": 0
+            }
+        ],
+        "iconIndex": 145,
+        "name": "マインドデバイスβ",
+        "note": "",
+        "params": [
+            0,
+            100,
+            0,
+            0,
+            15,
+            15,
+            0,
+            0
+        ],
+        "price": 3000
+    },
+    {
+        "id": 76,
+        "atypeId": 1,
+        "description": "【敏捷+10】\n青色の指輪型デバイス、敏捷力を上昇させる。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 12,
+                "dataId": 6,
+                "value": 0
+            }
+        ],
+        "iconIndex": 145,
+        "name": "スピードデバイスα",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            10,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 77,
+        "atypeId": 1,
+        "description": "【敏捷+25】\n青色の指輪型デバイス、敏捷力を上昇させる。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 12,
+                "dataId": 6,
+                "value": 0
+            }
+        ],
+        "iconIndex": 145,
+        "name": "スピードデバイスβ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            25,
+            0
+        ],
+        "price": 3000
+    },
+    {
+        "id": 78,
+        "atypeId": 1,
+        "description": "【獲得金額2倍】\n金の指輪、金運を上昇させる。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 64,
+                "dataId": 4,
+                "value": 1
+            }
+        ],
+        "iconIndex": 145,
+        "name": "ゴールドリング",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 10000
+    },
+    {
+        "id": 79,
+        "atypeId": 1,
+        "description": "【アイテムドロップ率2倍】\n奇跡の指輪、幸運を呼び寄せる。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 64,
+                "dataId": 5,
+                "value": 1
+            }
+        ],
+        "iconIndex": 145,
+        "name": "ミラクルリング",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 10000
+    },
+    {
+        "id": 80,
+        "atypeId": 1,
+        "description": "【全ステータスアップ/状態異常能力低下無効】\n虹色の指輪、さらに獲得金額とアイテムドロップ率が二倍。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 64,
+                "dataId": 4,
+                "value": 1
+            },
+            {
+                "code": 64,
+                "dataId": 5,
+                "value": 1
+            },
+            {
+                "code": 12,
+                "dataId": 2,
+                "value": 0
+            },
+            {
+                "code": 12,
+                "dataId": 3,
+                "value": 0
+            },
+            {
+                "code": 12,
+                "dataId": 4,
+                "value": 0
+            },
+            {
+                "code": 12,
+                "dataId": 5,
+                "value": 0
+            },
+            {
+                "code": 12,
+                "dataId": 6,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 4,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 5,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 8,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 16,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 12,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 13,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 17,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 7,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 14,
+                "value": 0
+            }
+        ],
+        "iconIndex": 145,
+        "name": "レインボーリング",
+        "note": "",
+        "params": [
+            5000,
+            500,
+            500,
+            500,
+            500,
+            500,
+            500,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 81,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 82,
+        "atypeId": 1,
+        "description": "【攻+25/暗闇無効】\n精緻な狙いで攻撃力が上昇し暗闇を無効化する。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 13,
+                "dataId": 5,
+                "value": 0
+            }
+        ],
+        "iconIndex": 151,
+        "name": "サイバーグラス",
+        "note": "",
+        "params": [
+            10,
+            0,
+            25,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 4000
+    },
+    {
+        "id": 83,
+        "atypeId": 1,
+        "description": "【HP+100/弱熱耐性/弱電耐性】\n耐熱耐電加工を施した補助装備、赤い追加装甲。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 0.85
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.85
+            }
+        ],
+        "iconIndex": 147,
+        "name": "レッドガード",
+        "note": "",
+        "params": [
+            100,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 8000
+    },
+    {
+        "id": 84,
+        "atypeId": 1,
+        "description": "【HP+100/防御+15/混乱無効】\n電波を防ぐ特殊なバンド、混乱を無効化する。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 13,
+                "dataId": 8,
+                "value": 0
+            }
+        ],
+        "iconIndex": 151,
+        "name": "安全バンド",
+        "note": "",
+        "params": [
+            100,
+            0,
+            15,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 4000
+    },
+    {
+        "id": 85,
+        "atypeId": 1,
+        "description": "【攻+30/会心率+4％】\n腕輪型の攻撃補助装備、会心率が上昇する。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 2,
+                "value": 0.04
+            }
+        ],
+        "iconIndex": 147,
+        "name": "ブルーバングル",
+        "note": "",
+        "params": [
+            100,
+            0,
+            30,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 8000
+    },
+    {
+        "id": 86,
+        "atypeId": 1,
+        "description": "【HP+50/弱電耐性/出血無効】\n耐電コーティングを施した補助装甲の試作品。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.85
+            },
+            {
+                "code": 13,
+                "dataId": 16,
+                "value": 0
+            }
+        ],
+        "iconIndex": 147,
+        "name": "ブルーガード",
+        "note": "",
+        "params": [
+            50,
+            0,
+            30,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 4000
+    },
+    {
+        "id": 87,
+        "atypeId": 1,
+        "description": "【HP+200/弱体化耐性】\nミスリルを編み込んだ腰布、50％で弱体を無効化する。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 12,
+                "dataId": 2,
+                "value": 0.5
+            },
+            {
+                "code": 12,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 12,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 12,
+                "dataId": 5,
+                "value": 0.5
+            },
+            {
+                "code": 12,
+                "dataId": 6,
+                "value": 0.5
+            },
+            {
+                "code": 12,
+                "dataId": 7,
+                "value": 0.5
+            }
+        ],
+        "iconIndex": 147,
+        "name": "ミスリルの腰布",
+        "note": "",
+        "params": [
+            200,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 12000
+    },
+    {
+        "id": 88,
+        "atypeId": 1,
+        "description": "【攻撃+100/防御-100/集中+100/精神-100/会心率+6％】\n奇妙に揺らぐ奇怪な金属の腕輪、会心率が上昇する。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 2,
+                "value": 0.06
+            }
+        ],
+        "iconIndex": 147,
+        "name": "カオスバングル",
+        "note": "",
+        "params": [
+            0,
+            0,
+            100,
+            -100,
+            100,
+            -100,
+            0,
+            0
+        ],
+        "price": 24000
+    },
+    {
+        "id": 89,
+        "atypeId": 1,
+        "description": "【HP+100/熱耐性/電耐性】\n耐熱耐電加工を施した補助装備、不思議な輝きを帯びる。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 0.75
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.75
+            }
+        ],
+        "iconIndex": 147,
+        "name": "ミスリルガード",
+        "note": "",
+        "params": [
+            100,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 30000
+    },
+    {
+        "id": 90,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 91,
+        "atypeId": 1,
+        "description": "【攻撃+100/集中+100/ウイルス耐性】\n通常は防げない状態異常を防ぐための装置。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 13,
+                "dataId": 17,
+                "value": 0
+            }
+        ],
+        "iconIndex": 147,
+        "name": "電脳防壁",
+        "note": "",
+        "params": [
+            0,
+            0,
+            100,
+            0,
+            100,
+            0,
+            0,
+            0
+        ],
+        "price": 30000
+    },
+    {
+        "id": 92,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 93,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 94,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 95,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 96,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 97,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 98,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 99,
+        "atypeId": 1,
+        "description": "【攻+15/毒無効】\n攻撃力が上昇し毒を無効化する鬼の骨飾り。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 13,
+                "dataId": 4,
+                "value": 0
+            }
+        ],
+        "iconIndex": 147,
+        "name": "毒鬼の骨",
+        "note": "",
+        "params": [
+            0,
+            0,
+            15,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 4000
+    },
+    {
+        "id": 100,
+        "atypeId": 1,
+        "description": "【攻+15/敏+15/毒無効】\n攻撃力と敏捷性が上昇し毒を無効化する羽飾り。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 13,
+                "dataId": 4,
+                "value": 0
+            }
+        ],
+        "iconIndex": 147,
+        "name": "毒鳥の羽",
+        "note": "",
+        "params": [
+            0,
+            0,
+            15,
+            0,
+            0,
+            0,
+            15,
+            0
+        ],
+        "price": 5000
+    },
+    {
+        "id": 101,
+        "atypeId": 1,
+        "description": "【防+25/激昂無効】\n防御力が上昇し激昂を無効化する燃え続ける石。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 13,
+                "dataId": 7,
+                "value": 0
+            }
+        ],
+        "iconIndex": 147,
+        "name": "燃える石片",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            25,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 6000
+    },
+    {
+        "id": 102,
+        "atypeId": 1,
+        "description": "【攻+25/魔+25/激昂無効/沈黙無効】\n攻撃力と魔力が上昇し激昂と沈黙を無効化する石。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 13,
+                "dataId": 7,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 6,
+                "value": 0
+            }
+        ],
+        "iconIndex": 147,
+        "name": "赤と青の石",
+        "note": "",
+        "params": [
+            0,
+            0,
+            25,
+            0,
+            25,
+            0,
+            0,
+            0
+        ],
+        "price": 7000
+    },
+    {
+        "id": 103,
+        "atypeId": 1,
+        "description": "【魔+30/敏+30/混乱無効】\n魔力と敏捷性が上昇し混乱を無効化する古びた小刀。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 13,
+                "dataId": 8,
+                "value": 0
+            }
+        ],
+        "iconIndex": 147,
+        "name": "太古の守り刀",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            30,
+            0,
+            30,
+            0
+        ],
+        "price": 8000
+    },
+    {
+        "id": 104,
+        "atypeId": 1,
+        "description": "【HP+500/MP+250/敏+50】\nHPとMP、敏捷性が上昇する不気味な水晶。",
+        "etypeId": 5,
+        "traits": [],
+        "iconIndex": 147,
+        "name": "紫水晶",
+        "note": "",
+        "params": [
+            500,
+            250,
+            0,
+            0,
+            0,
+            0,
+            50,
+            0
+        ],
+        "price": 9000
+    },
+    {
+        "id": 105,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 106,
+        "atypeId": 1,
+        "description": "【HP+200/防+20/弱体化耐性】\n竜の牙で作ったブローチ、50％の確率で弱体を無効化する。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 12,
+                "dataId": 2,
+                "value": 0.5
+            },
+            {
+                "code": 12,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 12,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 12,
+                "dataId": 5,
+                "value": 0.5
+            },
+            {
+                "code": 12,
+                "dataId": 6,
+                "value": 0.5
+            },
+            {
+                "code": 12,
+                "dataId": 7,
+                "value": 0.5
+            }
+        ],
+        "iconIndex": 147,
+        "name": "竜のブローチ",
+        "note": "",
+        "params": [
+            200,
+            0,
+            0,
+            20,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 107,
+        "atypeId": 1,
+        "description": "【HP+500/防+20/弱体化無効】\n古い竜の牙で作ったブローチ、弱体を無効化する。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 12,
+                "dataId": 2,
+                "value": 0
+            },
+            {
+                "code": 12,
+                "dataId": 3,
+                "value": 0
+            },
+            {
+                "code": 12,
+                "dataId": 4,
+                "value": 0
+            },
+            {
+                "code": 12,
+                "dataId": 5,
+                "value": 0
+            },
+            {
+                "code": 12,
+                "dataId": 6,
+                "value": 0
+            },
+            {
+                "code": 12,
+                "dataId": 7,
+                "value": 0
+            }
+        ],
+        "iconIndex": 147,
+        "name": "古竜のブローチ",
+        "note": "",
+        "params": [
+            500,
+            0,
+            0,
+            20,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 108,
+        "atypeId": 1,
+        "description": "【MP+100/状態異常耐性】\n不可思議な色彩のブローチ、状態異常を50％で無効化する。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 13,
+                "dataId": 5,
+                "value": 0.5
+            },
+            {
+                "code": 13,
+                "dataId": 8,
+                "value": 0.5
+            },
+            {
+                "code": 13,
+                "dataId": 6,
+                "value": 0.5
+            },
+            {
+                "code": 13,
+                "dataId": 7,
+                "value": 0.5
+            },
+            {
+                "code": 13,
+                "dataId": 8,
+                "value": 0.5
+            },
+            {
+                "code": 13,
+                "dataId": 9,
+                "value": 0.5
+            },
+            {
+                "code": 13,
+                "dataId": 10,
+                "value": 0.5
+            },
+            {
+                "code": 13,
+                "dataId": 13,
+                "value": 0.5
+            },
+            {
+                "code": 13,
+                "dataId": 12,
+                "value": 0.5
+            }
+        ],
+        "iconIndex": 147,
+        "name": "奇石のブローチ",
+        "note": "",
+        "params": [
+            0,
+            100,
+            0,
+            10,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 109,
+        "atypeId": 1,
+        "description": "【MP+250/状態異常無効】\n太古の城の冠、今は存在しない金属で作られている。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 4,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 5,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 8,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 6,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 7,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 8,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 9,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 10,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 13,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 12,
+                "value": 0
+            }
+        ],
+        "iconIndex": 147,
+        "name": "太古の王冠",
+        "note": "",
+        "params": [
+            0,
+            250,
+            0,
+            10,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 110,
+        "atypeId": 1,
+        "description": "【状態異常無効】\n",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 4,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 5,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 8,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 6,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 7,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 8,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 9,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 10,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 13,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 12,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 21,
+                "value": 0
+            }
+        ],
+        "iconIndex": 147,
+        "name": "魔除けのアミュレット",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 111,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 112,
+        "atypeId": 1,
+        "description": "【転倒無効】\n軽やかな足取りで転倒を避ける靴。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 13,
+                "dataId": 14,
+                "value": 0
+            }
+        ],
+        "iconIndex": 140,
+        "name": "不転のブーツ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 113,
+        "atypeId": 1,
+        "description": "【敏+20】\n軽やかな足取りで敏捷度を大きく上昇させる靴。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 140,
+        "name": "加速のブーツ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            20,
+            0
+        ],
+        "price": 5000
+    },
+    {
+        "id": 114,
+        "atypeId": 1,
+        "description": "【敏+20/転倒無効】\n実際に小さな魔法の翼が生えている靴。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.1
+            },
+            {
+                "code": 13,
+                "dataId": 14,
+                "value": 0
+            }
+        ],
+        "iconIndex": 140,
+        "name": "翼のブーツ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            20,
+            0
+        ],
+        "price": 8000
+    },
+    {
+        "id": 115,
+        "atypeId": 1,
+        "description": "【攻+25】\n攻撃力を上昇させる鬼の腕輪。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 144,
+        "name": "怪力の腕輪",
+        "note": "",
+        "params": [
+            0,
+            0,
+            25,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 116,
+        "atypeId": 1,
+        "description": "【攻+50/防-25】\n防御力と引き換えに攻撃力を大きく上昇させる鬼の腕輪。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 144,
+        "name": "乱神の腕輪",
+        "note": "",
+        "params": [
+            0,
+            0,
+            50,
+            -25,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 5000
+    },
+    {
+        "id": 117,
+        "atypeId": 1,
+        "description": "【防-200/魔防-200/会心率+25％】\n全てを捨て力を求めた鬼神の腕輪。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 2,
+                "value": 0.25
+            }
+        ],
+        "iconIndex": 144,
+        "name": "怪力乱神の腕輪",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            -200,
+            0,
+            -200,
+            0,
+            0
+        ],
+        "price": 10000
+    },
+    {
+        "id": 118,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 119,
+        "atypeId": 1,
+        "description": "【炎撃耐性】\n炎撃から守ってくれる指輪。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 0.75
+            }
+        ],
+        "iconIndex": 145,
+        "name": "耐炎撃デバイス",
+        "note": "ブルー\n\nレッド\nグリーン\nイエロー",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 2000
+    },
+    {
+        "id": 120,
+        "atypeId": 1,
+        "description": "【土撃耐性】\n土撃から守ってくれる指輪。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 11,
+                "dataId": 6,
+                "value": 0.75
+            }
+        ],
+        "iconIndex": 145,
+        "name": "耐土撃デバイス",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 2000
+    },
+    {
+        "id": 121,
+        "atypeId": 1,
+        "description": "【雷撃耐性】\n雷撃から守ってくれる指輪。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.75
+            }
+        ],
+        "iconIndex": 145,
+        "name": "耐雷撃デバイス",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 2000
+    },
+    {
+        "id": 122,
+        "atypeId": 1,
+        "description": "【氷撃耐性】\n氷撃から守ってくれる指輪。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.75
+            }
+        ],
+        "iconIndex": 145,
+        "name": "耐氷撃デバイス",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 3000
+    },
+    {
+        "id": 123,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 124,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 125,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 126,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 127,
+        "atypeId": 1,
+        "description": "【防+5/暗闇無効】\n簡易的なものだが十分な性能を持ち、赤外線も見える。",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 5,
+                "value": 0
+            }
+        ],
+        "iconIndex": 132,
+        "name": "レーザーゴーグル",
+        "note": "<mat1:A6*1>\n<mat2:I118*2>\n<mat3:I125*1>\n<matG:200>",
+        "params": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 128,
+        "atypeId": 1,
+        "description": "【防+5/混乱無効】\n超音波攻撃を防ぐために耳栓を無理矢理くっつけた。",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 8,
+                "value": 0
+            }
+        ],
+        "iconIndex": 132,
+        "name": "強力耳栓",
+        "note": "<mat1:A6*1>\n<mat2:I118*2>\n<mat3:I124*1>\n<matG:200>",
+        "params": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 129,
+        "atypeId": 1,
+        "description": "【SP+50】\nブラスターの補助パーツ、バッテリーが増加する。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 144,
+        "name": "追加バッテリー",
+        "note": "<mat1:I130*1>\n<mat2:I112*2>\n<matG:300>",
+        "params": [
+            0,
+            50,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 130,
+        "atypeId": 1,
+        "description": "【攻+10】\nブラスターの補助パーツ、攻撃力を上昇させる。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 12,
+                "dataId": 2,
+                "value": 0
+            }
+        ],
+        "iconIndex": 145,
+        "name": "ブラスターデバイス",
+        "note": "<mat1:I130*1>\n<matG:300>",
+        "params": [
+            0,
+            0,
+            10,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 131,
+        "atypeId": 1,
+        "description": "【攻+10/SP+50】\n補助パーツを無理矢理くっつけた、意外となんとかなる。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 12,
+                "dataId": 2,
+                "value": 0
+            }
+        ],
+        "iconIndex": 145,
+        "name": "SPデバイス",
+        "note": "<mat1:A12*1>\n<mat2:A13*1>\n<matG:500>",
+        "params": [
+            0,
+            0,
+            10,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 132,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 133,
+        "atypeId": 1,
+        "description": "【防+4/HP+25】\n未来特警の制服だが、かなり痛んでいる。",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 137,
+        "name": "ボロボロのスーツ",
+        "note": "",
+        "params": [
+            25,
+            0,
+            0,
+            4,
+            0,
+            2,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 134,
+        "atypeId": 1,
+        "description": "【防+8/HP+75】\n廃材を寄せ集めてボロボロのスーツを修繕した。",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 137,
+        "name": "ジャンクスーツ",
+        "note": "<mat1:A1*1>\n<mat2:I117*4>\n<matG:50>",
+        "params": [
+            75,
+            0,
+            0,
+            8,
+            0,
+            5,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 135,
+        "atypeId": 1,
+        "description": "【防+16/HP+150】\nジャンクスーツをさらに強化し耐久性を上昇させた。",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 137,
+        "name": "メタルスーツ",
+        "note": "<mat1:A2*1>\n<mat2:I118*4>\n<matG:100>",
+        "params": [
+            150,
+            0,
+            0,
+            16,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 136,
+        "atypeId": 1,
+        "description": "【防+32/HP+300】\nメタルスーツをさらに強化し耐久性を上昇させた。",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 137,
+        "name": "フルメタルスーツ",
+        "note": "<mat1:A3*1>\n<mat2:I119*4>\n<matG:200>",
+        "params": [
+            300,
+            0,
+            0,
+            32,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 137,
+        "atypeId": 1,
+        "description": "【防+52/HP+600/SP+100/HP充電+10％】\n廃材の寄せ集めが特殊合金に極めて優秀な装備になった。",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 7,
+                "value": 0.1
+            }
+        ],
+        "iconIndex": 137,
+        "name": "ホワイトスーツ",
+        "note": "<mat1:A4*1>\n<mat2:I119*6>\n<mat3:I130*1>\n<matG:100>",
+        "params": [
+            250,
+            100,
+            0,
+            52,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 138,
+        "atypeId": 1,
+        "description": "【防+2/HP+25】\n廃材を寄せ集め制作したヘルメット、装備しないよりマシ。",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 132,
+        "name": "ジャンクヘルム",
+        "note": "<mat1:I117*2>\n<matG:50>",
+        "params": [
+            25,
+            0,
+            0,
+            2,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 100
+    },
+    {
+        "id": 139,
+        "atypeId": 1,
+        "description": "【防+4/HP+50/毒無効】\n高性能フィルターにより防毒性能を得たジャンクヘルム。",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 14,
+                "dataId": 4,
+                "value": 1
+            }
+        ],
+        "iconIndex": 132,
+        "name": "防毒マスク",
+        "note": "<mat1:A6*1>\n<mat2:I118*2>\n<mat3:I24*1>\n<matG:100>",
+        "params": [
+            50,
+            0,
+            0,
+            4,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 140,
+        "atypeId": 1,
+        "description": "【防+6/HP+100/毒/猛毒無効】\n極めて高い防毒性能とそれなりの防御性能を持つヘルム。",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 14,
+                "dataId": 4,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 12,
+                "value": 1
+            }
+        ],
+        "iconIndex": 132,
+        "name": "バイオヘルム",
+        "note": "<mat1:A7*1>\n<mat2:I119*3>\n<mat3:I24*1>\n<matG:300>",
+        "params": [
+            100,
+            0,
+            0,
+            6,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 141,
+        "atypeId": 1,
+        "description": "【防+12/HP+250/毒/猛毒無効/SP充電+10％】\n防毒性能、防御性能、自動充電機能を持つヘルム。",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 4,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 12,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 8,
+                "value": 0.1
+            }
+        ],
+        "iconIndex": 132,
+        "name": "ホワイトヘルム",
+        "note": "<mat1:A8*1>\n<mat2:I119*3>\n<mat3:I130*1>\n<matG:100>",
+        "params": [
+            250,
+            0,
+            0,
+            12,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 142,
+        "atypeId": 1,
+        "description": "【防+1】\n廃材を寄せ集め制作したプレート、装備しないよりマシ。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 129,
+        "name": "ジャンクプレート",
+        "note": "<mat1:I117*1>\n<matG:10>",
+        "params": [
+            0,
+            0,
+            0,
+            2,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 50
+    },
+    {
+        "id": 143,
+        "atypeId": 1,
+        "description": "【防+1/酸攻撃耐性（弱）】\n酸攻撃に対するコーティングを施したプレート。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 11,
+                "dataId": 6,
+                "value": 0.75
+            },
+            {
+                "code": 12,
+                "dataId": 3,
+                "value": 0.75
+            }
+        ],
+        "iconIndex": 129,
+        "name": "耐酸性プレート",
+        "note": "<mat1:A10*1>\n<mat2:I118*2>\n<mat3:I124*1>\n<matG:50>",
+        "params": [
+            0,
+            0,
+            0,
+            2,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 144,
+        "atypeId": 1,
+        "description": "【防+1/酸攻撃耐性（強）】\n酸攻撃に対する強力なコーティングを施したプレート。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 11,
+                "dataId": 6,
+                "value": 0.5
+            },
+            {
+                "code": 12,
+                "dataId": 3,
+                "value": 0.5
+            }
+        ],
+        "iconIndex": 129,
+        "name": "ゴールドガード",
+        "note": "<mat1:A11*1>\n<mat2:I119*2>\n<mat3:I125*1>\n<matG:150>",
+        "params": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 145,
+        "atypeId": 1,
+        "description": "【防+1/酸攻撃耐性（完全）】\n酸攻撃を完全にシャットアウトするプレート。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 11,
+                "dataId": 6,
+                "value": 0
+            },
+            {
+                "code": 12,
+                "dataId": 3,
+                "value": 0
+            },
+            {
+                "code": 12,
+                "dataId": 2,
+                "value": 0
+            }
+        ],
+        "iconIndex": 129,
+        "name": "ハイパーガード",
+        "note": "<mat1:A12*1>\n<mat2:I119*2>\n<mat3:I130*1>\n<matG:100>",
+        "params": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 146,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 147,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 148,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 149,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 150,
+        "atypeId": 5,
+        "description": "【小型盾/防+1/回避+2%】\n攻撃を受け流すための小型盾。",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.02
+            }
+        ],
+        "iconIndex": 129,
+        "name": "バックラー",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 100
+    },
+    {
+        "id": 151,
+        "atypeId": 5,
+        "description": "【小型盾/防+3/回避+4%】\n青銅の板で作られた小型盾。",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.04
+            }
+        ],
+        "iconIndex": 129,
+        "name": "ブロンズバックラー",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            3,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 700
+    },
+    {
+        "id": 152,
+        "atypeId": 5,
+        "description": "【小型盾/防+6/回避+5%】\n鉄板で作られた小型盾。",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            }
+        ],
+        "iconIndex": 129,
+        "name": "アイアンバックラー",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            6,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1800
+    },
+    {
+        "id": 153,
+        "atypeId": 5,
+        "description": "【小型盾/防+8/回避+8%】\n魔法の金属ミスリルで作られた小型盾。",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.08
+            }
+        ],
+        "iconIndex": 129,
+        "name": "ミスリルバックラー",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            8,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 4500
+    },
+    {
+        "id": 154,
+        "atypeId": 5,
+        "description": "【小型盾/防+10/回避+10%】\nドラゴンの鱗を貼り付けて作られた小型盾。",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.1
+            }
+        ],
+        "iconIndex": 129,
+        "name": "ドラゴンバックラー",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            10,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 7000
+    },
+    {
+        "id": 155,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 156,
+        "atypeId": 6,
+        "description": "【大型盾/防+4/HP+50】\n堅木を重ね合わせて作った盾。",
+        "etypeId": 2,
+        "traits": [],
+        "iconIndex": 128,
+        "name": "ウッドシールド",
+        "note": "",
+        "params": [
+            50,
+            0,
+            0,
+            4,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 400
+    },
+    {
+        "id": 157,
+        "atypeId": 6,
+        "description": "【大型盾/防+8/HP+100】\n頑丈な銅板を加工して作られた盾。",
+        "etypeId": 2,
+        "traits": [],
+        "iconIndex": 128,
+        "name": "ブロンズシールド",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            8,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 800
+    },
+    {
+        "id": 158,
+        "atypeId": 6,
+        "description": "【大型盾/防+12/HP+150】\n頑丈な鋼板を加工して作られた盾。",
+        "etypeId": 2,
+        "traits": [],
+        "iconIndex": 128,
+        "name": "アイアンシールド",
+        "note": "",
+        "params": [
+            150,
+            0,
+            0,
+            12,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 2000
+    },
+    {
+        "id": 159,
+        "atypeId": 6,
+        "description": "【大型盾/防+18/HP+300】\n魔法の金属ミスリルで作られた盾。",
+        "etypeId": 2,
+        "traits": [],
+        "iconIndex": 128,
+        "name": "ミスリルシールド",
+        "note": "",
+        "params": [
+            300,
+            0,
+            0,
+            18,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 6000
+    },
+    {
+        "id": 160,
+        "atypeId": 6,
+        "description": "【大型盾/防+24/HP+500】\nドラゴンの鱗を貼り付けて作られた盾。",
+        "etypeId": 2,
+        "traits": [],
+        "iconIndex": 128,
+        "name": "ドラゴンシールド",
+        "note": "",
+        "params": [
+            500,
+            0,
+            0,
+            24,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 12000
+    },
+    {
+        "id": 161,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 162,
+        "atypeId": 1,
+        "description": "【頭/防+1】\n頑丈な布製のバンダナ。",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 150,
+        "name": "布のバンダナ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 100
+    },
+    {
+        "id": 163,
+        "atypeId": 3,
+        "description": "【頭/防+4】\nなめし革で補強されたバンダナ。",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 150,
+        "name": "レザーバンダナ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            4,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 300
+    },
+    {
+        "id": 164,
+        "atypeId": 3,
+        "description": "【頭/防+6】\n鉄板で補強した革製のバンダナ。",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 150,
+        "name": "鉢金",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            6,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 600
+    },
+    {
+        "id": 165,
+        "atypeId": 3,
+        "description": "【頭/防+10】\n鉄の帽子。",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 131,
+        "name": "鉄帽子",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            10,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1500
+    },
+    {
+        "id": 166,
+        "atypeId": 3,
+        "description": "【頭/防+14】\nミスリルの糸で編まれたバンダナ。",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 150,
+        "name": "ミスリルバンダナ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            14,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 4200
+    },
+    {
+        "id": 167,
+        "atypeId": 3,
+        "description": "【頭/防+20】\n竜の鱗で補強したバンダナ。",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 150,
+        "name": "竜のバンダナ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            20,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 8000
+    },
+    {
+        "id": 168,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 169,
+        "atypeId": 2,
+        "description": "【頭/防+2/魔力+2/魔防+1】\n木で作られた帽子。",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 133,
+        "name": "木の帽子",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            2,
+            2,
+            1,
+            0,
+            0
+        ],
+        "price": 300
+    },
+    {
+        "id": 170,
+        "atypeId": 2,
+        "description": "【頭/防+4/魔力+6/魔防+2】\n魔法使いっぽい帽子。",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 133,
+        "name": "とんがり帽子",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            8,
+            3,
+            2,
+            0,
+            0
+        ],
+        "price": 600
+    },
+    {
+        "id": 171,
+        "atypeId": 2,
+        "description": "【頭/防+6/魔力+10/魔防+5/MP+10】\n魔法使いの帽子。",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 133,
+        "name": "マジカルハット",
+        "note": "",
+        "params": [
+            0,
+            10,
+            0,
+            6,
+            10,
+            5,
+            0,
+            0
+        ],
+        "price": 1200
+    },
+    {
+        "id": 172,
+        "atypeId": 2,
+        "description": "【頭/防+12/魔力+15/魔防+10/MP+50】\n優れた魔法使いの帽子。",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 134,
+        "name": "ミスリルハット",
+        "note": "",
+        "params": [
+            0,
+            50,
+            0,
+            12,
+            15,
+            10,
+            0,
+            0
+        ],
+        "price": 6000
+    },
+    {
+        "id": 173,
+        "atypeId": 2,
+        "description": "【頭/防+18/魔力+25/魔防+20/MP+100】\n賢者の帽子。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 134,
+        "name": "メイガスハット",
+        "note": "",
+        "params": [
+            0,
+            100,
+            0,
+            18,
+            25,
+            20,
+            0,
+            0
+        ],
+        "price": 10000
+    },
+    {
+        "id": 174,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 175,
+        "atypeId": 4,
+        "description": "【頭/防+4/HP+50】\n堅い木で作った兜。",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 132,
+        "name": "ウッドヘルム",
+        "note": "",
+        "params": [
+            50,
+            0,
+            0,
+            4,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 400
+    },
+    {
+        "id": 176,
+        "atypeId": 4,
+        "description": "【大型盾/防+8/HP+100】\n青銅で作られた兜",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 132,
+        "name": "ブロンズヘルム",
+        "note": "",
+        "params": [
+            100,
+            0,
+            0,
+            8,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 800
+    },
+    {
+        "id": 177,
+        "atypeId": 4,
+        "description": "【頭/防+12/150】\n頑丈な鋼板を加工して作られた兜。",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": -0.005
+            },
+            {
+                "code": 33,
+                "dataId": 0,
+                "value": -2
+            }
+        ],
+        "iconIndex": 132,
+        "name": "アイアンヘルム",
+        "note": "",
+        "params": [
+            150,
+            0,
+            0,
+            12,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 2000
+    },
+    {
+        "id": 178,
+        "atypeId": 4,
+        "description": "【頭/防+18/HP+300】\n魔法の金属ミスリルで作られた兜。",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 132,
+        "name": "ミスリルヘルム",
+        "note": "",
+        "params": [
+            300,
+            0,
+            0,
+            18,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 6000
+    },
+    {
+        "id": 179,
+        "atypeId": 4,
+        "description": "【頭/防+24/HP+500】\nドラゴンの鱗と角を加工して作られた兜。",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 132,
+        "name": "ドラゴンヘルム",
+        "note": "",
+        "params": [
+            500,
+            0,
+            0,
+            24,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 12000
+    },
+    {
+        "id": 180,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 181,
+        "atypeId": 1,
+        "description": "【防+1】\n",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 135,
+        "name": "布の服",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 200
+    },
+    {
+        "id": 182,
+        "atypeId": 3,
+        "description": "【防+8】\n厳しい旅にも耐える頑丈な服。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 135,
+        "name": "旅人の服",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            4,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 500
+    },
+    {
+        "id": 183,
+        "atypeId": 3,
+        "description": "【防+14】\nなめし革で作られた比較的軽い鎧。",
+        "etypeId": 4,
+        "traits": [],
+        "iconIndex": 136,
+        "name": "レザーアーマー",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            14,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1200
+    },
+    {
+        "id": 184,
+        "atypeId": 3,
+        "description": "【防+28】\nオイルで煮込んで硬化させた革鎧。",
+        "etypeId": 4,
+        "traits": [],
+        "iconIndex": 136,
+        "name": "ハードレザー",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            28,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 2800
+    },
+    {
+        "id": 185,
+        "atypeId": 3,
+        "description": "【身体/防+36】\n魔法の金属ミスリルで補強されたハードレザー。",
+        "etypeId": 4,
+        "traits": [],
+        "iconIndex": 136,
+        "name": "ミスリルレザー",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            36,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 10000
+    },
+    {
+        "id": 186,
+        "atypeId": 3,
+        "description": "【身体/防+48】\nドラゴンの鱗と革で制作されたハードレザー。",
+        "etypeId": 4,
+        "traits": [],
+        "iconIndex": 136,
+        "name": "ドラゴンレザー",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            48,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 15000
+    },
+    {
+        "id": 187,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 188,
+        "atypeId": 2,
+        "description": "【身体/防+4/魔力+2/魔防+2】\n木綿で作られた厚手のローブ。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 139,
+        "name": "木綿のローブ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            4,
+            2,
+            2,
+            0,
+            0
+        ],
+        "price": 500
+    },
+    {
+        "id": 189,
+        "atypeId": 2,
+        "description": "【身体/防+6/魔力+6/魔防+4】\n絹で作られた上質なマント。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 139,
+        "name": "絹のローブ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            6,
+            6,
+            4,
+            0,
+            0
+        ],
+        "price": 1200
+    },
+    {
+        "id": 190,
+        "atypeId": 2,
+        "description": "【身体/防+12/魔力+10/魔防+10/MP+10】\n優れた魔法使いの帽子。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "マジカルローブ",
+        "note": "",
+        "params": [
+            0,
+            10,
+            0,
+            12,
+            10,
+            10,
+            0,
+            0
+        ],
+        "price": 4000
+    },
+    {
+        "id": 191,
+        "atypeId": 2,
+        "description": "【身体/防+24/魔力+15/魔防+20/MP+50】\nミスリル銀糸で織られたローブ。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 139,
+        "name": "ミスリルローブ",
+        "note": "",
+        "params": [
+            0,
+            50,
+            0,
+            24,
+            15,
+            20,
+            0,
+            0
+        ],
+        "price": 12000
+    },
+    {
+        "id": 192,
+        "atypeId": 2,
+        "description": "【頭/防+36/魔力+25/魔防+40/MP+100】\n賢者の帽子。",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 134,
+        "name": "メイガスローブ",
+        "note": "",
+        "params": [
+            0,
+            100,
+            0,
+            36,
+            25,
+            40,
+            0,
+            0
+        ],
+        "price": 24000
+    },
+    {
+        "id": 193,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 194,
+        "atypeId": 4,
+        "description": "【身体/防+8/HP+100】\n鎖を編んだ比較的簡単に制作可能な金属鎧。",
+        "etypeId": 4,
+        "traits": [],
+        "iconIndex": 132,
+        "name": "チェインメイル",
+        "note": "",
+        "params": [
+            100,
+            0,
+            0,
+            8,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 800
+    },
+    {
+        "id": 195,
+        "atypeId": 4,
+        "description": "【身体/防+16/HP+200】\n青銅の板を張り付けた頑健な鎧。",
+        "etypeId": 4,
+        "traits": [],
+        "iconIndex": 137,
+        "name": "ラメラ―アーマー",
+        "note": "",
+        "params": [
+            200,
+            0,
+            0,
+            16,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1600
+    },
+    {
+        "id": 196,
+        "atypeId": 4,
+        "description": "【身体/防+36/HP+600】\n頑丈な鋼板を加工して作られた精巧かつ複雑な全身鎧。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 23,
+                "dataId": 0,
+                "value": 1.2
+            }
+        ],
+        "iconIndex": 132,
+        "name": "プレートアーマー",
+        "note": "",
+        "params": [
+            600,
+            0,
+            0,
+            36,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 4000
+    },
+    {
+        "id": 197,
+        "atypeId": 4,
+        "description": "【身体/防+36/HP+600】\n魔法の金属ミスリルで作られた全身鎧。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 23,
+                "dataId": 0,
+                "value": 1.2
+            }
+        ],
+        "iconIndex": 132,
+        "name": "ミスリルアーマー",
+        "note": "",
+        "params": [
+            600,
+            0,
+            0,
+            36,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 12000
+    },
+    {
+        "id": 198,
+        "atypeId": 4,
+        "description": "【身体/防+48/HP+1000】\nドラゴンの鱗と革で作られた最高級の全身鎧。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 23,
+                "dataId": 0,
+                "value": 1.2
+            }
+        ],
+        "iconIndex": 132,
+        "name": "ドラゴンアーマー",
+        "note": "",
+        "params": [
+            1000,
+            0,
+            0,
+            48,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 24000
+    },
+    {
+        "id": 199,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 200,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    }
+]
