@@ -3803,25 +3803,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: Well then, if the information\nis correct, the Pink Snake gang's base\nshould be around here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「さてと、情報が正しければ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　この辺りにピンクスネーク団の拠点があるわけだが」"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -3841,25 +3841,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: What do you think, Rurika? My\nintuition tells me that this one is a\nhit."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「どう思うよ、ルリカ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　あたしの直感だと、こいつは当たりみたいだぜ」"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -3895,25 +3895,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルリカ"
+                                "Rurika: Yes, I agree. At first glance,\nit looks like an abandoned old building,\nbut considering the security of this\narea, it's too quiet."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「そうですね、一見すると廃棄された古い建物ですが"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　この地区の治安を考えれば何事もなさ過ぎます」"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -3933,25 +3933,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルリカ"
+                                "Rurika: Since we know it's the Pink\nSnake gang's base, the residents in the\narea are too scared to approach."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ピンクスネーク団の拠点だとわかっているから、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　周辺の住民は恐れて近寄らない」"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -3971,25 +3971,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルリカ"
+                                "Rurika: Logically, I speculate the\nsame."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「論理的に、私はそう推察します」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -4018,56 +4018,18 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi: We did it, Onee-san! Let's get\nin there right away and crush them!!"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「やったな、ねえちゃんたち。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　早速乗り込んで、ぶっ潰してやろうぜ！！」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "サクラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お、やる気は十分って感じだな」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -4087,25 +4049,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルリカ"
+                                "Sakura: Oh, you seem to be full of\nmotivation."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「期待してますよ、ケンイチさん」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -4125,21 +4087,59 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Rurika: I'm counting on you, Kenichi-\nsan."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「お、おう！　見ててくれよ！"
+                                "Kenichi: Y-Yeah! Watch me! I'm also a\nmember of the Future Special Police, you\nknow!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　おれだって未来特警の一員なんだからな！」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4210,63 +4210,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おれの名前はケンイチ、特警隊員の…………見習いだ。"
+                                "My name is Kenichi, I'm a trainee... of\nthe Special Police."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当は年齢的にダメらしいんだけど。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "未来特警の新型装備『バイオギア』の適合者だったから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "特別に活動させてもらっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -4286,14 +4248,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラねえちゃんとルリカねえちゃんの幼馴染で。"
+                                "Actually, I'm not supposed to be\nallowed due to my age. But because I was\ncompatible with the Future Special\nPolice's new equipment, the 'Bio Gear,'\nthey're letting me participate in\nactivities as a special case."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "二人がおれの面倒を見てくれることになったのも大きい。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4310,14 +4286,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もちろん、ねえちゃんたちもバイオギアの適合者で。"
+                                "Sakura and Rurika are childhood friends.\nIt's a big deal that both of them have\nagreed to take care of me."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "正式な未来特警の隊員で、要するに、めちゃくちゃ強い。"
+                                ""
                             ]
                         },
                         {
@@ -4334,25 +4310,49 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たった二人でも、十人とか二十人を相手にできるほどだ。"
+                                "Of course, Onee-chan and the others are\nalso Bio Gear compatible. They are\nofficial members of the Future Special\nPolice, in other words, they're\nincredibly strong."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
                             "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Even with just the two of them, they\nare capable of taking on ten or twenty\npeople."
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -4387,7 +4387,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "赤い髪をしているのがサクラねえちゃん。"
+                                "Sakura is the one with red hair, Onee-\nsan."
                             ]
                         },
                         {
@@ -4404,25 +4404,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見てのとおり、おっぱいがデカかくて美人で、"
+                                "As you can see, she has big breasts and\nis beautiful. She gives off the vibe of\nbeing a justice-loving hero who has\nalways hated dishonesty."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "昔っから曲がったことが大嫌いな正義の味方って感じだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -4442,25 +4442,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おれもよく叱られた、って言うか殴られたけど。"
+                                "I was scolded a lot, or rather, I was\neven hit. But in return, I was taken\ncare of a lot."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "代わりにいっぱい、面倒を見てもらった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -4510,7 +4510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "青い髪をしてるのがルリカねえちゃん。"
+                                "The one with blue hair is Rurika, Onee-\nsan."
                             ]
                         },
                         {
@@ -4527,14 +4527,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見てのとおり、サクラねーちゃんとは双子の姉妹だ。"
+                                "As you can see, Sakura Onee-chan and I\nare twin sisters. She has big breasts,\nis beautiful, kind, and a bit cool."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "おっぱいがデカかくて美人で優しくて、ちょっと、クール。"
+                                ""
                             ]
                         },
                         {
@@ -4551,21 +4551,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "勉強を教えてもらったり、食事を作ってくれたり。"
+                                "I received help with my studies and she\ncooked meals for me. She's not only\nkind, but also strict at times. But,\nafter all, she took care of me a lot and\nlooked after me."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "優しいだけじゃなくて厳しいところもあるけれど。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "やっぱり、たくさん、面倒を見てらった。"
+                                ""
                             ]
                         },
                         {
@@ -4597,7 +4597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "二人とも美人で……強くて、優しくて。"
+                                "Both of them are beautiful... strong and\nkind."
                             ]
                         },
                         {
@@ -4614,7 +4614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おれにとっては最高のねえちゃんたちだ！"
+                                "They are the best Onee-chans to me!"
                             ]
                         },
                         {
@@ -4631,7 +4631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ただ、その、最高すぎて……ちょっと頭が上がらなくて。"
+                                "However, they are just too amazing... I\ncan't help but feel a little inferior."
                             ]
                         },
                         {
@@ -4648,7 +4648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "未だに、『弟』の、ままなのが、悩みでもある……"
+                                "Still, it's a concern that I'm still\nseen as a 'little brother'..."
                             ]
                         },
                         {
@@ -4665,45 +4665,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "昔はガキだったから、"
+                                "When I was a kid, I could confidently\nsay that I would marry my Onee-chans..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ねえちゃんたちをお嫁さんにするって堂々と言えたけど……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "昔から世話になりっぱなしで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今も見習い隊員として面倒を見てもらっていて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とてもじゃないけど男として、そんなこと、言えやしない。"
+                                ""
                             ]
                         },
                         {
@@ -4720,31 +4689,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "せめて、一人前の未来特警になって。"
+                                "I've been relying on them since a long\ntime ago, and even now they take care of\nme as a trainee member. As a man, I\ncan't possibly say such things."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ねえちゃんたちに認められるよな男にならないと恥ずかしい。"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だから！"
+                                ""
                             ]
                         },
                         {
@@ -4761,7 +4720,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今は、出来ることを、全力でやるんだ！"
+                                "At the very least, I have to become a\nfull-fledged Future Special Police\nofficer. It would be embarrassing if I\ncouldn't become a man recognized by my\nOnee-chans."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4778,14 +4744,48 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一人前の未来特警に！"
+                                "Therefore!"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ねえちゃんたちに認められる男になるために！！"
+                                "Now, I will do everything I can with\nall my might!"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "To become a full-fledged Future Special\nPolice officer! In order to become a man\nrecognized by my Onee-chans!!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4816,25 +4816,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi: Wait for me, Pink Snake Gang!\nI will definitely catch you!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「待ってろよピンクスネーク団！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　おれが必ず、捕まえてやるからなー！！」"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -4854,25 +4854,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: Oh, nice spirit, Kenichi! Let's\nget on board right away!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「おっ、良いじゃねえか！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　その意気だぜケンイチ、早速、乗り込むとするか！」"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -4892,25 +4892,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: Get pumped up and keep up with\nme! Above all, a full-fledged Future\nSpecial Police officer needs power!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「気合を入れてついて来いよ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　一人前の特警隊員には何よりパワーが必要だからな！」"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -4930,63 +4930,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルリカ"
+                                "Rurika: Honestly, Sakura, you're always\nprovoking him."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まったくサクラは焚きつけるんですから」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルリカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ケンイチさんも張り切るのは良いですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　一人前の特警隊員になるなら冷静さも忘れないように」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -5006,25 +4968,63 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Rurika: It's great that you're\nenthusiastic, Kenichi-san, but if you\nwant to become a full-fledged Future\nSpecial Police officer, don't forget to\nstay calm as well."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「う、は、はい！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
                             "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Kenichi: Y-Yes!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -5197,7 +5197,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こっちじゃない。"
+                                "Not this way."
                             ]
                         },
                         {
@@ -5305,7 +5305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こっちじゃない。"
+                                "Not this way."
                             ]
                         },
                         {
@@ -5413,7 +5413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こっちじゃない。"
+                                "Not this way."
                             ]
                         },
                         {
@@ -5521,7 +5521,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よし……行くぞ！！"
+                                "Alright... Let's go!!"
                             ]
                         },
                         {
@@ -5646,7 +5646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[241]回復薬α\\C[0]を入手した！"
+                                "Obtained \\C[4]\\I[241]Recovery Potion\nα\\C[0]!"
                             ]
                         },
                         {
@@ -5732,14 +5732,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自動販売機のようだ、"
+                                "It looks like a vending machine, but\nunfortunately the power is not on."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "残念ながら電源が入っていない。"
+                                ""
                             ]
                         },
                         {
