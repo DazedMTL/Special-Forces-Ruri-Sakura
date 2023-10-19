@@ -12619,38 +12619,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員チアガール03"
+                                "Store Clerk Cheerleader 03: I also cheer on the\nstage!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ステージの上で応援したりもするんだよー」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "店員チアガール03"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「下からだと……見えちゃってるよねー♪」"
+                                ""
                             ]
                         },
                         {
@@ -12667,14 +12643,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Store Clerk Cheerleader 03: You can see it from\nbelow... right?♪"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そ、そうかも……ですね、はい」"
+                                "Kenichi: Y-Yes, that might be... true, yes."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -12770,38 +12770,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員チアガール03"
+                                "Store Clerk Cheerleader 03: I also cheer on the\nstage!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ステージの上で応援したりもするんだよー」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "店員チアガール03"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「下からだと……見えちゃってるよねー♪」"
+                                ""
                             ]
                         },
                         {
@@ -12818,14 +12794,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Store Clerk Cheerleader 03: You can see it from\nbelow... right?♪"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そ、そうかも……ですね、はい」"
+                                "Kenichi: Y-Yes, that might be... true, yes."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -12962,25 +12962,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員チアガール01"
+                                "Shop Clerk Cheerleader 01: Wow, that's amazing.\nEven though you're younger than me, they let you\njoin the Future Special Police as an exception."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「へー、すごーい。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　わたしより年下なのに特例で未来特警に入れたんだ」"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -13000,14 +13000,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi: Uh, um, well, I'm just an apprentice\nthough..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「え、あ、まあ見習いだけど……ですけど」"
+                                ""
                             ]
                         },
                         {
@@ -13103,25 +13103,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員チアガール01"
+                                "Shop Clerk Cheerleader 01: Wow, that's amazing.\nEven though you're younger than me, they let you\njoin the Future Special Police as an exception."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「へー、すごーい。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　わたしより年下なのに特例で未来特警に入れたんだ」"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -13141,14 +13141,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi: Uh, um, yeah, I'm just an apprentice\nthough."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「え、あ、お、おう、見習いだけどな」"
+                                ""
                             ]
                         },
                         {
@@ -13285,14 +13285,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付チアガール"
+                                "Reception Cheerleader: Welcome!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「いらっしゃいませー」"
+                                ""
                             ]
                         },
                         {
@@ -13309,14 +13309,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付ブルマ"
+                                "Reception Cheerleader: Please give us lots of\nsupport!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「たくさん、応援されちゃってくださーい」"
+                                ""
                             ]
                         },
                         {
@@ -13393,14 +13393,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員チアガール04"
+                                "Store Clerk Cheerleader 04: Touch, touch, do your\nbest, do your best!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ふれー\\I[15]　ふれー\\I[15]　がんばれ\\I[15]　がんばれ\\I[15]」"
+                                ""
                             ]
                         },
                         {
@@ -13417,14 +13417,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員チアガール04"
+                                "Store Clerk Cheerleader 04: As you can see, I'm in\nthe middle of practicing my dance moves."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「見ての通り、ダンスの練習中だよー」"
+                                ""
                             ]
                         },
                         {
@@ -13520,14 +13520,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員チアガール04"
+                                "Store Clerk Cheerleader 04: Touch, touch, do your\nbest, do your best!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ふれー\\I[15]　ふれー\\I[15]　がんばれ\\I[15]　がんばれ\\I[15]」"
+                                ""
                             ]
                         },
                         {
@@ -13544,14 +13544,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員チアガール04"
+                                "Store Clerk Cheerleader 04: As you can see, I'm in\nthe middle of practicing my dance moves."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「見ての通り、ダンスの練習中だよー」"
+                                ""
                             ]
                         },
                         {
@@ -13688,25 +13688,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員チアガール02"
+                                "Shop Clerk Cheerleader 02: Isn't training and\nstuff tough? Future Special Police fight against\ncriminals, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「訓練とか大変じゃないの？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　未来特警って犯罪者と戦ったりするんだよね？」"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -13726,14 +13726,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi: It's tough, but that's my duty... because\nit's my duty."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「大変だけど、それが役目だ……役目ですから」"
+                                ""
                             ]
                         },
                         {
@@ -13829,25 +13829,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員チアガール02"
+                                "Shop Clerk Cheerleader 02: Isn't training and\nstuff tough? Future Special Police fight against\ncriminals, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「訓練とか大変じゃないの？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　未来特警って犯罪者と戦ったりするんだよね？」"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -13867,14 +13867,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi: It's tough, but that's my duty... because\nit's my duty."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「大変だけど、それが役目だ……役目ですから」"
+                                ""
                             ]
                         },
                         {
@@ -14011,14 +14011,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付ブルマ"
+                                "Receptionist Bloomers: Welcome!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「いらっしゃいませー」"
+                                ""
                             ]
                         },
                         {
@@ -14035,21 +14035,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付ブルマ"
+                                "Receptionist Bloomers: Huh? Worried? Well,\noccasionally we do get troublesome customers-"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「え？　不安？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　うーん、たまに困ったお客さんはいるけど―」"
+                                ""
                             ]
                         },
                         {
@@ -14126,25 +14126,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員ブルマ02"
+                                "Shop Clerk Bloomer 02: Isn't training and stuff\ntough? As a Future Special Police, do you fight\nagainst criminals?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「訓練とか大変じゃないの？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　未来特警って犯罪者と戦ったりするんだよね？」"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -14164,14 +14164,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi: W-Well, it's tough, but that's my duty...\nso..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「い、いや、大変ではあるけど、それが役目……ですから」"
+                                ""
                             ]
                         },
                         {
@@ -14267,25 +14267,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員ブルマ02"
+                                "Shop Clerk Bloomer 02: Isn't training and stuff\ntough? As a Future Special Police, do you fight\nagainst criminals?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「訓練とか大変じゃないの？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　未来特警って犯罪者と戦ったりするんだよね？」"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -14305,14 +14305,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi: W-Well, it's tough, but that's my duty...\nso..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「い、いや、大変ではあるけど、それが役目……ですから」"
+                                ""
                             ]
                         },
                         {
@@ -14449,21 +14449,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員ブルマ01"
+                                "Store Clerk Bloomers 01: Wow, that's amazing. Even\nthough you're younger than me, they let you join\nthe Future Special Police as an exception."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「へー、すごーい。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　わたしより年下なのに特例で未来特警に入れたんだ」"
+                                ""
                             ]
                         },
                         {
@@ -14480,14 +14480,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi: Uh, um, yeah, I'm just... an apprentice."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「え、あ、お、おう、見習いだけ……ですけど」"
+                                ""
                             ]
                         },
                         {
@@ -14583,21 +14583,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員ブルマ01"
+                                "Shop Clerk Bloomers 01: Wow, that's amazing. Even\nthough you're younger than me, they let you join\nthe Future Special Police as an exception."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「へー、すごーい。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　わたしより年下なのに特例で未来特警に入れたんだ」"
+                                ""
                             ]
                         },
                         {
@@ -14614,14 +14614,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi: Uh, um, yeah, I'm just... an apprentice."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「え、あ、お、おう、見習いだけ……ですけど」"
+                                ""
                             ]
                         },
                         {
@@ -14758,45 +14758,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員ブルマ04"
+                                "Store Clerk Bloomers 04: By the way, the girl next\nto me is my twin."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ちなみに、わたしと隣の子は双子です」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "店員ブルマ04"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「性格は違いますが異性の好みは似ているため、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いろいろと……大変です」"
+                                ""
                             ]
                         },
                         {
@@ -14813,14 +14782,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Store Clerk Bloomers 04: Our personalities are\ndifferent, but our preferences in the opposite sex\nare similar, so it's quite... challenging."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「は、はあ、そうなんですか……」"
+                                "Kenichi: H-Huh, is that so..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -14916,45 +14916,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員ブルマ04"
+                                "Store Clerk Bloomers 04: By the way, the girl next\nto me is my twin."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ちなみに、わたしと隣の子は双子です」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "店員ブルマ04"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「性格は違いますが異性の好みは似ているため、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いろいろと……大変です」"
+                                ""
                             ]
                         },
                         {
@@ -14971,14 +14940,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Store Clerk Bloomers 04: Our personalities are\ndifferent, but our preferences in the opposite sex\nare similar, so it's quite... challenging."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「は、はあ、そうなんですか……」"
+                                "Kenichi: H-Huh, is that so..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -15115,38 +15115,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員ブルマ03"
+                                "Shop Clerk Bloomer 03: We also dance on the stage,\nyou know~"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「わたしたちはステージの上で踊ったりもするよー」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "店員ブルマ03"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今度はプライベートで、見に来てね♪」"
+                                ""
                             ]
                         },
                         {
@@ -15163,14 +15139,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Shop Clerk Bloomer 03: Next time, come see us in\nprivate~♪"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「え、はい、機会があれば……見に来る、かも」"
+                                "Kenichi: Um, yes, if I have the chance... I might\ncome to see it."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -15266,38 +15266,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員ブルマ03"
+                                "Shop Clerk Bloomer 03: We also dance on the stage,\nyou know~"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「わたしたちはステージの上で踊ったりもするよー」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "店員ブルマ03"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今度はプライベートで、見に来てね♪」"
+                                ""
                             ]
                         },
                         {
@@ -15314,14 +15290,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Shop Clerk Bloomer 03: Next time, come see us in\nprivate~"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「え、はい、機会があれば……見に来る、かも」"
+                                "Kenichi: Um, yes, if I have the chance... I might\ncome to see it."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -15518,14 +15518,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi (He doesn't seem to have any particularly\nstrange traits...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（特に変なところはなさそうだな……）"
+                                ""
                             ]
                         },
                         {
@@ -15612,14 +15612,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi (He doesn't seem to have any particularly\nstrange traits...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（特に変なところはなさそうだな……）"
+                                ""
                             ]
                         },
                         {
@@ -15696,14 +15696,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi (He doesn't seem to have any particularly\nstrange traits...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（特に変なところはなさそうだな……）"
+                                ""
                             ]
                         },
                         {
@@ -15790,14 +15790,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi (He doesn't seem to have any particularly\nstrange traits...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（特に変なところはなさそうだな……）"
+                                ""
                             ]
                         },
                         {
@@ -15900,45 +15900,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルリカ"
+                                "Rurika: Hello, I'm from the Future Special Police.\nCould I have a little of your time to talk about\nstore security?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「こんにちは、未来特警のものです。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　お店の防犯などについて少しお時間をいただいても？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルリカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「申し遅れました、わたしは未来特警のルリカです」"
+                                ""
                             ]
                         },
                         {
@@ -15955,21 +15931,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付ブルマ"
+                                "Rurika: I apologize for the delay. I am Rurika\nfrom the Future Special Police."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はーい、未来特警のルリカさんですね！"
+                                "Receptionist Bloomer: Yes, you must be Rurika-san\nfrom the Future Special Police! I will call the\nstore manager, so please wait a moment!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　店長を呼びますので、少々、おまちくださーい！」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -15991,14 +15991,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルリカねえちゃんが、"
+                                "Rurika Onee-san started talking with the manager\nof the Bloomer Cafe in the back office."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "奥の事務室でブルマ喫茶の店長さんと話を始めた。"
+                                ""
                             ]
                         },
                         {
@@ -16015,14 +16015,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi (Alright, should I talk to the staff\nmembers?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（よし、おれは店員さんたちに話かけようかな）"
+                                ""
                             ]
                         },
                         {
@@ -16122,14 +16122,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi (I'll talk to the shop clerks)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（おれは店員さんたちに話かけよう）"
+                                ""
                             ]
                         },
                         {
@@ -16473,14 +16473,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi (Phew, I'm feeling a bit nervous)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（ふぅ、なんか、緊張するなあ）"
+                                ""
                             ]
                         },
                         {
@@ -16497,14 +16497,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi (I do have some experience with\nquestioning...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（聞き込みの経験自体はあるけど……）"
+                                ""
                             ]
                         },
                         {
@@ -16547,128 +16547,11 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員ブルマ01"
+                                "Shop Clerk Bloomers 01: What's wrong? Are you\nnervous, by any chance?"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どしたのー、もしかして緊張してるー？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "店員ブルマ02"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ、もしかして……照れちゃってる？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "店員ブルマ03"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ブルマのおねえさんに囲まれてるんだもんねー」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "店員ブルマ04"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今度はお客さんとしておいでよー、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　おねえさんたちとブルマな汗を流して楽しもー」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ケンイチ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「え、え、え、そ、そんなこと言われても……」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -16688,14 +16571,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こ、困るぜ。"
+                                "Shop Clerk Bloomers 02: Oh, could it be... you're\nfeeling embarrassed?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いや、でも、みんな美人で……なんか良い匂いする。"
+                                ""
                             ]
                         },
                         {
@@ -16712,7 +16595,124 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おまけにブルマだから、目のやり場に……"
+                                "Shop Clerk Bloomers 03: You're surrounded by\nbloomers Onee-sans, aren't you?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Shop Clerk Bloomers 04: This time, come as a\ncustomer and have fun sweating in bloomers with\nus, Onee-sans."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Kenichi: E-eh, even if you say that..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "U-uh, this is troublesome. Well, everyone is\nbeautiful... and they smell really nice."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Moreover, because they're wearing bloomers, my\neyes don't know where to look..."
                             ]
                         },
                         {
@@ -16759,14 +16759,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルリカ"
+                                "Rurika: It looks like fun, Kenichi-san."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「楽しそうですね、ケンイチさん」"
+                                ""
                             ]
                         },
                         {
@@ -16788,38 +16788,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi: U-uh, Rurika Onee-san!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「う、うわ、ルリカねえちゃん！？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ケンイチ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あ、ええと、店長さんとの話し合いは……」"
+                                ""
                             ]
                         },
                         {
@@ -16836,21 +16812,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルリカ"
+                                "Kenichi: Uh, well, about the discussion with the\nstore manager..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「終わりましたよ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そろそろ引き上げようと思いますが、どうします」"
+                                ""
                             ]
                         },
                         {
@@ -16867,14 +16836,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルリカ"
+                                "Rurika: It's finished, so I'm thinking of wrapping\nup soon. What do you think?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「もう少し、ブルマおねえさんたちに囲まれていますか？」"
+                                "Rurika: Are you surrounded by bloomers Onee-sans a\nlittle longer?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -16900,21 +16900,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi: N-No, I'm fine! I've also finished\nlistening to the shop clerks' conversation!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「い、いや、大丈夫です！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　こっちも店員さんたちの話は聞き終わったから！」"
+                                ""
                             ]
                         },
                         {
@@ -16931,14 +16931,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi: W-Well then, excuse me! Thank you for\neverything!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「そ、それじゃあ失礼します！　お世話になりました！」"
+                                ""
                             ]
                         },
                         {
@@ -16955,25 +16955,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ま、まあ、ちょっと……ブルマって良いなって思ったけど。"
+                                "W-Well, um... I-I thought that bloomers were nice,\nbut..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -17402,21 +17402,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: Hey, can I speak to the manager? I'm\nSakura from the Future Special Police. I need a\nlittle bit of time."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「よう、店長さんを呼んでもらえるか。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　あたしは未来特警のサクラだ、少し時間をもらうぜ」"
+                                ""
                             ]
                         },
                         {
@@ -17433,21 +17433,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付チアガール"
+                                "Receptionist Cheerleader: Yes, you must be Sakura\nfrom the Future Special Police! I will call the\nmanager, so please wait a moment!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「はーい、未来特警のサクラさんですね！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　店長を呼びますので、少々、おまちくださーい！」"
+                                ""
                             ]
                         },
                         {
@@ -17469,14 +17469,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラねえちゃんが、"
+                                "Onee-san Sakura started talking with the manager\nof the Cheerleader Cafe in the back office."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "奥の事務室でチアガール喫茶の店長さんと話を始めた。"
+                                ""
                             ]
                         },
                         {
@@ -17493,14 +17493,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi: Alright, should I go talk to the\ncheerleaders?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（よし、おれはチアガールさんたちに話かけようかな）"
+                                ""
                             ]
                         },
                         {
@@ -17609,14 +17609,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi (Alright, I'll go talk to the\ncheerleaders)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（よし、おれはチアガールさんたちに話かけよう）"
+                                ""
                             ]
                         },
                         {
@@ -17840,14 +17840,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi (Kuu, as usual, I'm just going to ask some\nquestions...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（くう、いつも通りに聞き込みをするだけ……なんだけど）"
+                                ""
                             ]
                         },
                         {
@@ -17890,38 +17890,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員チアガール01"
+                                "Store Clerk Cheerleader 01: You're always working\nso hard, you're amazing~♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「いつも頑張ってるんだ、えらいねー♪」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "店員チアガール02"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よーしよし、おねえさんたちが応援してあげよー♪」"
+                                ""
                             ]
                         },
                         {
@@ -17938,45 +17914,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員チアガール03"
+                                "Store Clerk Cheerleader 02: Alright, alright, let\nus cheer you on, Onee-san♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「チアガールおねえさんに囲まれてるんだもんねー」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "店員チアガール04"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「小さな未来特警くんに特別サービスの応援だよー♪」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　"
+                                ""
                             ]
                         },
                         {
@@ -17993,14 +17938,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員チアガールたち"
+                                "Store Clerk Cheerleader 03: You're surrounded by\ncheerleader Onee-sans, aren't you~"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "『ふれー♡　ふれー♡　ケ・ン・イ・チ♡』"
+                                ""
                             ]
                         },
                         {
@@ -18017,14 +17962,69 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員チアガールたち"
+                                "Store Clerk Cheerleader 04: It's a special support\nfor little Future Police-kun♪"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『ふれー♡　ふれー♡　ケ・ン・イ・チ♡』"
+                                "Store Clerk Cheerleaders: Furei♡ Furei♡ Kenichi♡"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Store Clerk Cheerleaders: Furei♡ Furei♡ Kenichi♡"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -18050,31 +18050,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi: H-Hehehe... T-Thank you very much."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「へ、へへへ……ど、どうもー」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やばい、おれ、チアガール喫茶が好きかもしれない。"
+                                ""
                             ]
                         },
                         {
@@ -18091,14 +18074,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "みんな美人だし、"
+                                "Oh no, I might actually like the Cheerleader Cafe."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "チアガールのおねえさんに応援されるのって……良いな。"
+                                "It's nice to be supported by beautiful cheerleader\nOnee-sans..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -18145,14 +18145,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルリカ"
+                                "Rurika: Oh, it looks fun, Kenichi."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「お、楽しそうだなー、ケンイチ」"
+                                ""
                             ]
                         },
                         {
@@ -18174,38 +18174,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi: Waaaaah! Sakura Onee-chan!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「わああああああああ！　サクラねえちゃん！？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ケンイチ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あ、いや、これは違うんだって！！」"
+                                ""
                             ]
                         },
                         {
@@ -18222,21 +18198,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Kenichi: Ah, no, that's not what it is!!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そうか、そうか。"
+                                "Sakura: I see, I see. By the way, is the\ndiscussion over here finished?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ちなみに、こっちの話し合いは終わったぜ？」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -18262,21 +18262,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi: U-um, no, I mean, yes! I've finished\nlistening to the store clerks' conversation too!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「う、うん、じゃなくて、はい！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　こっちも店員さんたちの話は聞き終わりました！！」"
+                                ""
                             ]
                         },
                         {
@@ -18293,14 +18293,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi: Well then, excuse me! Thank you for\neverything!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ってことで失礼します！　お世話になりましたー！！」"
+                                ""
                             ]
                         },
                         {
@@ -18322,7 +18322,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おれは、大慌てで、サクラねえちゃんの後を追った。"
+                                "I hurriedly followed after Onee-san Sakura."
                             ]
                         },
                         {

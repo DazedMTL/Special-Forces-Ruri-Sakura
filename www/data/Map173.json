@@ -14540,14 +14540,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "Transferring to SYSTEM Floor 2."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "フロア2に転移します"
+                                ""
                             ]
                         },
                         {
@@ -14825,7 +14825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "石像の台座にスイッチがある。"
+                                "There is a switch on the pedestal of the statue."
                             ]
                         },
                         {
@@ -14842,14 +14842,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "Do you want to press the SYSTEM switch?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "スイッチを押しますか？"
+                                ""
                             ]
                         },
                         {
@@ -14857,8 +14857,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -15154,7 +15154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "石像の台座にスイッチがある。"
+                                "There is a switch on the pedestal of the statue."
                             ]
                         },
                         {
@@ -15171,14 +15171,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "Do you want to press the SYSTEM switch?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "スイッチを押しますか？"
+                                ""
                             ]
                         },
                         {
@@ -15186,8 +15186,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -15483,7 +15483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "石像の台座にスイッチがある。"
+                                "There is a switch on the pedestal of the statue."
                             ]
                         },
                         {
@@ -15500,14 +15500,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "Do you want to press the SYSTEM switch?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "スイッチを押しますか？"
+                                ""
                             ]
                         },
                         {
@@ -15515,8 +15515,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -15812,14 +15812,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "Do you touch the SYSTEM goddess statue?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "女神像に触れますか？"
+                                ""
                             ]
                         },
                         {
@@ -15827,8 +15827,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -15870,7 +15870,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『不正アクセス　ヲ　検知　シマシタ』"
+                                "I detected unauthorized access."
                             ]
                         },
                         {
@@ -15887,7 +15887,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『ガーディアンLV3　起動』"
+                                "Activate Guardian LV3."
                             ]
                         },
                         {
@@ -15952,7 +15952,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "『ガーディアン　突破　サレマシタ』"
+                                "Guardian has been breached."
                             ]
                         },
                         {
@@ -15969,7 +15969,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "『ビビ　ガガ　ガガガガ』"
+                                "Bibi-gagagagaga"
                             ]
                         },
                         {
@@ -15986,7 +15986,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ガーディアンは沈黙した。"
+                                "The Guardian fell silent."
                             ]
                         },
                         {
@@ -16125,14 +16125,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "Transferring to SYSTEM Floor 4."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "フロア4に転移します。"
+                                ""
                             ]
                         },
                         {
@@ -16230,21 +16230,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "The SYSTEM transfer device has been turned on. The\nshortcut from the entrance is now open."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "転送装置をオンにします。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "入口からのショートカットが開通しました。"
+                                ""
                             ]
                         },
                         {
@@ -16321,14 +16321,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "The SYSTEM shortcut is open."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ショートカットは開通しています。"
+                                ""
                             ]
                         },
                         {

@@ -7657,14 +7657,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いらっしゃい、いらっしゃい。"
+                                "Welcome, welcome. Delicious frankfurters, extra\nthick franks."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　おいしいフランクフルト、極太フランクだよ」"
+                                ""
                             ]
                         },
                         {
@@ -7681,14 +7681,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「げっへっへっ、どうだい、そこのおねえちゃんも。"
+                                "Hehehe, how about it, Onee-san over there? Would\nyou like to eat some delicious extra thick franks?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　おいしい極太フランクを食っていかないかい」"
+                                ""
                             ]
                         },
                         {
@@ -7730,21 +7730,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: Sorry, old man. I can't leisurely eat\nbecause I'm in the middle of work."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「悪いな、おっさん。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　仕事中だから、のんきに食ってられないんだよ」"
+                                ""
                             ]
                         },
                         {
@@ -7761,14 +7761,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: Well, I'll let this kind of light banter\nslide."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（ま、この程度の軽口なら見逃してやるよ）"
+                                ""
                             ]
                         },
                         {
@@ -8565,7 +8565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「異常なし！」"
+                                "No abnormalities!"
                             ]
                         },
                         {
@@ -8582,7 +8582,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「決してパトロールをさぼっているわけではありません！」"
+                                "I am definitely not slacking off on patrol!"
                             ]
                         },
                         {
@@ -8748,7 +8748,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「こうして体を焼いています」"
+                                "I'm burning my body like this."
                             ]
                         },
                         {
@@ -8836,7 +8836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「こうして体を焼いています」"
+                                "I'm burning my body like this."
                             ]
                         },
                         {
@@ -8924,7 +8924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「こうして体を焼いています」"
+                                "I'm burning my body like this."
                             ]
                         },
                         {
@@ -9012,7 +9012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「こうして体を焼いています」"
+                                "I'm burning my body like this."
                             ]
                         },
                         {
@@ -9100,7 +9100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「こうして体を焼いています」"
+                                "I'm burning my body like this."
                             ]
                         },
                         {
@@ -9188,7 +9188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「こうして体を焼いています」"
+                                "I'm burning my body like this."
                             ]
                         },
                         {
@@ -9276,7 +9276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「絶対に日焼けはしない、絶対にです！」"
+                                "I absolutely won't get a tan, absolutely!"
                             ]
                         },
                         {
@@ -9302,7 +9302,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんのためにビーチに来たんだろう……"
+                                "I wonder why we came to the beach..."
                             ]
                         },
                         {
@@ -9390,14 +9390,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いらっしゃいませー。"
+                                "Welcome! It's some random takoyaki that the part-\ntime student made randomly."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　バイトの学生が適当に焼いた適当なタコ焼きだよー」"
+                                ""
                             ]
                         },
                         {
@@ -9414,7 +9414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「海で食べるにちょうどいい、絶妙なうまさだよー」"
+                                "It's the perfect deliciousness to eat at the\nbeach, you know!"
                             ]
                         },
                         {
@@ -9440,7 +9440,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どういう売り口上だろうか。"
+                                "I wonder what kind of sales pitch it is."
                             ]
                         },
                         {
@@ -9559,7 +9559,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そっちは簡単な雑貨とかを売ってるよー」"
+                                "Over there, they sell simple miscellaneous goods\nand stuff."
                             ]
                         },
                         {
@@ -9576,7 +9576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「コンビニ価格で割高だから、外で買う方が得だよー」"
+                                "It's more cost-effective to buy it outside because\nit's more expensive than convenience store prices."
                             ]
                         },
                         {
@@ -9704,7 +9704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性用更衣室だけど、用はない。"
+                                "It's the men's changing room, but I don't have any\nbusiness here."
                             ]
                         },
                         {
@@ -9812,7 +9812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こっちは女性用の更衣室だ！！"
+                                "This is the women's changing room!!"
                             ]
                         },
                         {
@@ -9960,7 +9960,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『おいしいタコ焼き！』"
+                                "Delicious takoyaki!"
                             ]
                         },
                         {
@@ -9977,7 +9977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『でも残念、ただいま店主は席を外しております！！』"
+                                "But unfortunately, the shop owner is currently\naway from their seat!"
                             ]
                         },
                         {
@@ -10065,14 +10065,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いらっしゃいませー！"
+                                "Welcome! The beach house is currently open for\nbusiness!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　海の家、ただいま、営業中でーす！！」"
+                                ""
                             ]
                         },
                         {
@@ -10306,14 +10306,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi: Alright, let's start the beach\ninvestigation... huh?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「よし、じゃあビーチの調査……って」"
+                                ""
                             ]
                         },
                         {
@@ -10330,14 +10330,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi: What should I do?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「なにすりゃいいんだ？」"
+                                ""
                             ]
                         },
                         {
@@ -10370,21 +10370,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: What's the big deal? Just casually talk to\nthem and ask if anything happened."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「なに、そんな難しいことじゃねえよ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　適当に話しかけて、なにかあったか聞くだけだ」"
+                                ""
                             ]
                         },
                         {
@@ -10401,21 +10401,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: Just by us doing the investigation, those\nshady guys will naturally expose their flaws."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あたしらが聞き込みをしてるってだけで、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　後ろ暗い奴らは勝手にボロを出しちまうからな」"
+                                ""
                             ]
                         },
                         {
@@ -10558,7 +10558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まだ調査は終わっていない。"
+                                "The investigation is not yet finished."
                             ]
                         },
                         {
@@ -10688,14 +10688,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi: Phew... is this good enough?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ふぅ……こんなもんかな？」"
+                                ""
                             ]
                         },
                         {
@@ -10728,38 +10728,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: Ah, this should be enough."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ああ、こんなもんだろ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "サクラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「正直、平和なビーチって感じだったな」"
+                                ""
                             ]
                         },
                         {
@@ -10776,14 +10752,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルリカ"
+                                "Sakura: Honestly, it felt like a peaceful beach."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ま、こっちは囮組だしな、ルリカの調査に期待しようぜ」"
+                                ""
                             ]
                         },
                         {
@@ -10800,14 +10776,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Rurika: Well, since I'm in the decoy group, let's\ncount on Rurika's investigation."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「だね……あ、でも」"
+                                "Kenichi: Yeah... Oh, but..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10838,45 +10838,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi (Rurika Onee-san, I'm with Kimohiko, you\nknow?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（ルリカねえちゃん、キモヒコと一緒なんだよなー）"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ケンイチ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（大丈夫かな……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ルリカねえちゃん、ちょっと、甘いところあるし）"
+                                ""
                             ]
                         },
                         {
@@ -10893,14 +10862,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi (I wonder if it's okay... Rurika Onee-san,\nthere's a bit of a sweet side to you)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（キモヒコのセクハラとか……って）"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10917,21 +10893,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi (About Kimohiko's sexual harassment...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（さすがに心配しすぎか。"
+                                "Kenichi (I might be worrying too much. Rurika\nOnee-san can be strict in her own way after all)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　なんだかんだ厳しいのもルリカねえちゃんだし）"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10962,14 +10962,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: It's about time to gather."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「そろそろ、集合時間だな」"
+                                ""
                             ]
                         },
                         {
@@ -11198,52 +11198,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クソガキにセクハラされている巨乳水着少女"
+                                "The busty girl in a swimsuit is being sexually\nharassed by a brat. Ah, to think we're alone\ntogether, going to a deserted place like this..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あっ\\I[15]　も、もう\\I[15] "
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　二人きりで、人気のないところに行こうなんて\\I[15] 」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "セクハラされて甘い声をあえている巨乳水着少女"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わ、わたし\\I[15] "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　キミの、おにいさんの、彼女なんだけど\\I[15] 」"
+                                ""
                             ]
                         },
                         {
@@ -11260,52 +11229,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クソガキ"
+                                "The busty girl in a swimsuit is being sexually\nharassed, and she's letting out sweet moans. I-I'm\nyour, um, your boyfriend's girlfriend, you know?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「へっへっへー、そうだよなー。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　こんなエロい彼女がいるのに手を出さないなんてなー」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "クソガキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ヘタレの兄貴に代わって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　おれが、ねえちゃんを、もらってやるってのー♪」"
+                                ""
                             ]
                         },
                         {
@@ -11322,28 +11260,90 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "抵抗する気のない巨乳水着少女"
+                                "Brat: Hehehe, that's right. It's such a waste not\nto make a move on such a sexy girlfriend, right?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あっ\\I[15]　だめ\\I[15]　だめ\\I[15]"
+                                "Brat: In place of that wimpy older brother, I'll\ntake you, Onee-san♪"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ごめんなさい\\I[15]"
+                                "The busty girl in a swimsuit, who has no intention\nof resisting, says, Ah, no... no... I'm sorry...\nI-I'm going to be eaten by you, my little\nbrother..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　わたし、あなたの、弟くんに、食べられちゃうのぉ\\I[15]」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {

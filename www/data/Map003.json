@@ -4879,14 +4879,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "Starting SYSTEMED."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "EDを開始します"
+                                ""
                             ]
                         },
                         {
@@ -5005,7 +5005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そして……おれは…………"
+                                "And... I..."
                             ]
                         },
                         {
@@ -5036,7 +5036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ねえちゃんたちは……"
+                                "What about you, Onee-chans..."
                             ]
                         },
                         {
@@ -5209,7 +5209,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……強烈なプレッシャーを感じる。"
+                                "...I feel a strong pressure."
                             ]
                         },
                         {
@@ -5226,7 +5226,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これ以上、近付けば、戦いは避けられそうにない。"
+                                "If we get any closer, it seems like we won't be\nable to avoid a fight."
                             ]
                         },
                         {
@@ -5243,14 +5243,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "Do you want to proceed to the system?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "前に進みますか？"
+                                ""
                             ]
                         },
                         {
@@ -5258,8 +5258,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -5301,7 +5301,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『不正アクセス　ヲ　検知　シマシタ』"
+                                "We have detected unauthorized access."
                             ]
                         },
                         {
@@ -5318,7 +5318,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『最終防衛システム　起動　シマス』"
+                                "Activating the final defense system."
                             ]
                         },
                         {
@@ -5351,38 +5351,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: Alright, this time it's finally the last\nbattle."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「よし、今度こそ、最後の戦いだな」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ルリカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「はい、油断せずに行きましょう」"
+                                ""
                             ]
                         },
                         {
@@ -5399,21 +5375,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "サクラ＆ルリカ"
+                                "Rurika: Yes, let's proceed without letting our\nguard down."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「ご主人さまにシティを支配していただくために\\I[15]」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「旦那さまにシティを支配していただくために\\I[15]」"
+                                ""
                             ]
                         },
                         {
@@ -5430,14 +5399,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ケンイチ"
+                                "Sakura & Rurika: In order for our master to\ndominate the city \\I[15], In order for our husband\nto dominate the city \\I[15]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「…………」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5454,14 +5430,38 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi: ............"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（この戦いが終わったらシティが……うう）"
+                                "Kenichi (After this battle is over, the city\nwill... ugh)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5507,7 +5507,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『不正アクセス　ヲ　検知　シマシタ』"
+                                "Unauthorized access has been detected."
                             ]
                         },
                         {
@@ -5524,7 +5524,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『不正アクセス　ヲ　検知　シマシタ』"
+                                "Unauthorized access has been detected."
                             ]
                         },
                         {
@@ -5541,7 +5541,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『不正アクセス　ヲ　検知　シマシタ』"
+                                "Unauthorized access has been detected."
                             ]
                         },
                         {
@@ -5558,7 +5558,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『正常ナ　アクセス　ヲ　確認シマシタ』"
+                                "We have confirmed normal access."
                             ]
                         },
                         {
@@ -5846,14 +5846,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: Phew, as expected of the central system of\nthe city."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「やれやれ、さすがにシティの中枢システムだ」"
+                                ""
                             ]
                         },
                         {
@@ -5870,21 +5870,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルリカ"
+                                "Rurika: They were tough opponents, but with this,\nwe can make the city belong to our husband, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「強敵でしたが、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　これで、シティを旦那さまのものに出来ますね」"
+                                ""
                             ]
                         },
                         {
@@ -5918,38 +5918,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi (If things continue like this... I won't\nbe able to protect the peace of the city)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "（このままだと……シティの平和が守れない）"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ケンイチ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（おれは未来特警だ……）"
+                                ""
                             ]
                         },
                         {
@@ -5966,14 +5942,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi (I am a Future Special Police...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "（そんなこと、許しちゃいけない！！）"
+                                ""
                             ]
                         },
                         {
@@ -5990,14 +5966,38 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "SYSTEM"
+                                "Kenichi (I can't allow such a thing!!)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "サクラとルリカを止めますか？"
+                                "Do you want to stop SYSTEM Sakura and Rurika?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6005,7 +6005,7 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい"
+                                    "Yes"
                                 ],
                                 -1,
                                 0,
@@ -6056,38 +6056,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: Wow, you're doing great."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「へぇ、やるじゃねえか」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "サクラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「少し見直したぜ、マゾ粗チンのくせにな\\I[15]」"
+                                ""
                             ]
                         },
                         {
@@ -6104,14 +6080,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルリカ"
+                                "Sakura: I've reevaluated you a bit, even though\nyou're a masochistic small-dicked \\I[15]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「ええ、身の程知らずと言うべきか、無謀と呼ぶべきか」"
+                                ""
                             ]
                         },
                         {
@@ -6128,14 +6104,38 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルリカ"
+                                "Rurika: Well, should I say you have no sense of\nyour place, or should I call you reckless?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「久しぶりに、お仕置きが必要なようですね\\I[15]」"
+                                "Rurika: It seems like it's been a while since you\nneeded some punishment \\I[15]."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6161,31 +6161,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi (U... Uuuuuu)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "（う……ううううう）"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "実力差は歴然。"
+                                ""
                             ]
                         },
                         {
@@ -6202,7 +6185,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "それでも……おれは……"
+                                "The difference in ability is clear."
                             ]
                         },
                         {
@@ -6219,14 +6202,31 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ケンイチ"
+                                "Even so... I..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「ねえちゃんたちを、止めてみせる！！」"
+                                "Kenichi: I will stop you, Onee-chan!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6307,14 +6307,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "SYSTEM"
+                                "Congratulations on reaching the SYSTEM IF end."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "IFエンド到達、おめでとうございます。"
+                                ""
                             ]
                         },
                         {
@@ -6331,14 +6331,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "SYSTEM"
+                                "I will rewind time before the final boss battle of\nSYSTEM and resume the game."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "ラストボス戦闘前に時間を戻しゲームを再開します。"
+                                ""
                             ]
                         },
                         {
@@ -6590,38 +6590,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ルリカ"
+                                "Rurika: Now, Kenichi-san \\I[15]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "「さあ、ケンイチさん\\I[15]」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 3,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "ルリカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「シティ征服、最後の仕上げですよ\\I[15]」"
+                                ""
                             ]
                         },
                         {
@@ -6638,38 +6614,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "サクラ"
+                                "Rurika: Conquering the city, it's the final touch\n\\I[15]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "「シティを守る大事なシステムだ\\I[15]」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 3,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "サクラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「ケンイチがしっかり、とどめをさしてやれ\\I[15]」"
+                                ""
                             ]
                         },
                         {
@@ -6686,21 +6638,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ルリカ"
+                                "Sakura: It's an important system that protects the\ncity \\I[15]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "「二度と旦那さまに逆らえない\\I[15]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　それどころかおねちゃんたちにも逆らえないんだと\\I[15]」"
+                                ""
                             ]
                         },
                         {
@@ -6717,38 +6662,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: Kenichi, make sure to deliver the\nfinishing blow \\I[15]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "「しっかり、理解できたなら、出来るよな\\I[15]」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 3,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "ケンイチ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「う……ううううううううう」"
+                                ""
                             ]
                         },
                         {
@@ -6765,7 +6686,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ﾋｸﾋｸﾋｸ\\I[15]　ﾋｸﾋｸﾋｸ\\I[15]　ﾋｸﾋｸﾋｸｯ\\I[15]"
+                                "Rurika: I can never defy my husband again \\I[15],\nand not only that, I can't defy Onee-chan and the\nothers either \\I[15]."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6782,21 +6717,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "サクラ＆ルリカ"
+                                "Sakura: If you understand it well, then you can do\nit, right? \\I[15]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "「ケンイチ\\I[15]」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「ケンイチさん\\I[15]」"
+                                ""
                             ]
                         },
                         {
@@ -6813,7 +6741,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ﾋｸﾋｸﾋｸ\\I[15]　ﾋｸﾋｸﾋｸ\\I[15]　ﾋｸﾋｸﾋｸｯ\\I[15]"
+                                "Kenichi: Ugh... Uuuuuuuuuuuuuhhhhhhhhhhhhhhhhhhhh"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6830,14 +6765,79 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ケンイチ"
+                                "ﾋｸﾋｸﾋｸ\\I[15]ﾋｸﾋｸﾋｸ\\I[15]ﾋｸﾋｸﾋｸｯ\\I[15]"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "「う、うわああああああああああああああああああ！！！」"
+                                "Sakura & Rurika: Kenichi \\I[15] | Kenichi-san\n\\I[15]"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "ﾋｸﾋｸﾋｸ\\I[15]ﾋｸﾋｸﾋｸ\\I[15]ﾋｸﾋｸﾋｸｯ\\I[15]"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "Kenichi: Ugh,\nuwaahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh!!!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7116,63 +7116,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ピンクスネーク団を壊滅させて。"
+                                "Defeat the Pink Snake Gang."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シティには平和を取り戻すことが出来た。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -7192,25 +7154,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "未来特警は……"
+                                "We were able to restore peace to the city."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "新生ピンクスネーク団は……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "表から、裏から、シティの平和を、今も、守っている。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -7230,25 +7192,63 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ただし……キモヒコのために、だ。"
+                                "The Future Special Police... The newly revived\nPink Snake Gang... From the front, from the back,\nthey are still protecting the peace of the city."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
                             "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "However... it's for the sake of Kimohiko."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -7417,7 +7417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そして……おれは…………"
+                                "And... I..."
                             ]
                         },
                         {
@@ -7448,7 +7448,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ねえちゃんたちは……"
+                                "What about you, Onee-chans..."
                             ]
                         },
                         {
@@ -7621,7 +7621,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そして……おれは…………"
+                                "And... I..."
                             ]
                         },
                         {
@@ -7652,7 +7652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ねえちゃんたちは……"
+                                "What about you, Onee-chans..."
                             ]
                         },
                         {
@@ -7945,7 +7945,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……行かないと。"
+                                "......I have to go."
                             ]
                         },
                         {
@@ -8053,7 +8053,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……行かないと。"
+                                "......I have to go."
                             ]
                         },
                         {
@@ -8161,7 +8161,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……行かないと。"
+                                "......I have to go."
                             ]
                         },
                         {
@@ -8269,7 +8269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……行かないと。"
+                                "...I have to go."
                             ]
                         },
                         {
@@ -8377,7 +8377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……行かないと。"
+                                "......I have to go."
                             ]
                         },
                         {

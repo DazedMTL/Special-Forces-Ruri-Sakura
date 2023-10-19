@@ -6463,7 +6463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぺちゃくちゃぺちゃくちゃ"
+                                "Slurp slurp"
                             ]
                         },
                         {
@@ -6480,7 +6480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おしゃべりに夢中になっているみたいだ。"
+                                "It seems like she's completely absorbed in\nchatting."
                             ]
                         },
                         {
@@ -6557,7 +6557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぺちゃくちゃぺちゃくちゃ"
+                                "Slurp slurp"
                             ]
                         },
                         {
@@ -6574,7 +6574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おしゃべりに夢中になっているみたいだ。"
+                                "It seems like she's completely absorbed in\nchatting."
                             ]
                         },
                         {
@@ -6986,7 +6986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "次の車両に進もうか？"
+                                "Should we move on to the next vehicle?"
                             ]
                         },
                         {
@@ -6994,8 +6994,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -7132,7 +7132,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "次の車両に進もうか？"
+                                "Should we move on to the next vehicle?"
                             ]
                         },
                         {
@@ -7140,8 +7140,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -7278,7 +7278,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "次の車両に進もうか？"
+                                "Should we move on to the next vehicle?"
                             ]
                         },
                         {
@@ -7286,8 +7286,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -7424,7 +7424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "次の車両に進もうか？"
+                                "Should we move on to the next vehicle?"
                             ]
                         },
                         {
@@ -7432,8 +7432,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -7570,7 +7570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "前の車両に戻ろうか？"
+                                "Should we go back to the previous vehicle?"
                             ]
                         },
                         {
@@ -7578,8 +7578,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -7716,7 +7716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "前の車両に戻ろうか？"
+                                "Should we go back to the previous vehicle?"
                             ]
                         },
                         {
@@ -7724,8 +7724,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -7862,7 +7862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "前の車両に戻ろうか？"
+                                "Should we go back to the previous vehicle?"
                             ]
                         },
                         {
@@ -7870,8 +7870,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -8142,7 +8142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "前の車両に戻ろうか？"
+                                "Should we go back to the previous vehicle?"
                             ]
                         },
                         {
@@ -8150,8 +8150,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -8355,14 +8355,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "JK"
+                                "JK: ...P-please stop, ah, th-there..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「……や、やめてください、あ、そ、そんなとこ」"
+                                ""
                             ]
                         },
                         {
@@ -8430,14 +8430,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "JK"
+                                "JK: Um, thank you very much!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あの、ありがとうございました！！」"
+                                ""
                             ]
                         },
                         {
@@ -8625,38 +8625,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "JK"
+                                "JK: ...P-please stop, ah, th-there..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「……や、やめてください、あ、そ、そんなとこ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "不審な男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふふ、そんなこと言って、体は喜んでいるんだろう？」"
+                                ""
                             ]
                         },
                         {
@@ -8673,7 +8649,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "痴漢だ！"
+                                "Suspicious Man: Hehehe, saying that, your body\nmust be enjoying it, right?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Pervert!"
                             ]
                         },
                         {
@@ -8721,14 +8721,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルリカ"
+                                "Rurika: That's enough, I will arrest you for being\ncaught in the act of molestation."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「そこまでです、痴漢の現行犯で逮捕します」"
+                                ""
                             ]
                         },
                         {
@@ -8813,38 +8813,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "痴漢"
+                                "Molester: G-Gee! Future Special Police!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「げ、げえ！　未来特警！！」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "痴漢"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「な、なんだってこんなところに！！」"
+                                ""
                             ]
                         },
                         {
@@ -8861,14 +8837,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "痴漢"
+                                "Molester: W-What are you doing in a place like\nthis?!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「く、くそっ！！」"
+                                "Molester: D-Damn it!!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -8902,14 +8902,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "The molester escaped!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "痴漢は逃げ出した！"
+                                ""
                             ]
                         },
                         {
@@ -8938,14 +8938,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM But I've been surrounded!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "しかし回り込まれてしまった！！"
+                                ""
                             ]
                         },
                         {
@@ -8988,7 +8988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あ、ありがとうございました！！」"
+                                "Thank you so much!!"
                             ]
                         },
                         {
@@ -9005,14 +9005,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi: No, please be careful!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「いえ、お気をつけて！」"
+                                ""
                             ]
                         },
                         {
@@ -9179,7 +9179,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぺちゃくちゃぺちゃくちゃ"
+                                "Slurp slurp"
                             ]
                         },
                         {
@@ -9196,7 +9196,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おしゃべりに夢中になっているみたいだ。"
+                                "It seems like she's completely absorbed in\nchatting."
                             ]
                         },
                         {
@@ -9340,7 +9340,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぺちゃくちゃぺちゃくちゃ"
+                                "*smack smack*"
                             ]
                         },
                         {
@@ -9357,7 +9357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おしゃべりに夢中になっているみたいだ。"
+                                "It seems like she's completely absorbed in\nchatting."
                             ]
                         },
                         {
@@ -9568,7 +9568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぺちゃくちゃぺちゃくちゃ"
+                                "*smack smack*"
                             ]
                         },
                         {
@@ -9585,7 +9585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おしゃべりに夢中になっているみたいだ。"
+                                "It seems like she's completely absorbed in\nchatting."
                             ]
                         },
                         {
@@ -9662,7 +9662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "次の車両に進もうか？"
+                                "Should we move on to the next vehicle?"
                             ]
                         },
                         {
@@ -9670,8 +9670,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -9875,7 +9875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "次の車両に進もうか？"
+                                "Should we move on to the next vehicle?"
                             ]
                         },
                         {
@@ -9883,8 +9883,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -10021,7 +10021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "次の車両に進もうか？"
+                                "Should we move on to the next vehicle?"
                             ]
                         },
                         {
@@ -10029,8 +10029,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -10167,7 +10167,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "次の車両に進もうか？"
+                                "Should we move on to the next vehicle?"
                             ]
                         },
                         {
@@ -10175,8 +10175,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -10313,7 +10313,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "前の車両に戻ろうか？"
+                                "Should we go back to the previous vehicle?"
                             ]
                         },
                         {
@@ -10321,8 +10321,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -10459,7 +10459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "前の車両に戻ろうか？"
+                                "Should we go back to the previous vehicle?"
                             ]
                         },
                         {
@@ -10467,8 +10467,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -10605,7 +10605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "前の車両に戻ろうか？"
+                                "Should we go back to the previous vehicle?"
                             ]
                         },
                         {
@@ -10613,8 +10613,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -10751,7 +10751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "前の車両に戻ろうか？"
+                                "Should we go back to the previous vehicle?"
                             ]
                         },
                         {
@@ -10759,8 +10759,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -10897,14 +10897,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "JK"
+                                "JK: ...P-please stop, ah, th-there..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「……や、やめてください、あ、そ、そんなとこ」"
+                                ""
                             ]
                         },
                         {
@@ -10972,14 +10972,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "JK"
+                                "JK: Thank you very much!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ありがとうございます！！」"
+                                ""
                             ]
                         },
                         {
@@ -11167,38 +11167,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "JK"
+                                "JK: ...P-please stop, ah, th-there..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「……や、やめてください、あ、そ、そんなとこ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "不審な男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぐへへ、そんなこと言って体は喜んでいるくせになあ」"
+                                ""
                             ]
                         },
                         {
@@ -11215,7 +11191,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "痴漢だ！"
+                                "Suspicious Man: Hehehe, even though you say that,\nyour body is enjoying it."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Pervert!"
                             ]
                         },
                         {
@@ -11263,14 +11263,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルリカ"
+                                "Rurika: That's enough, I will arrest you for being\na groper in the act."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「そこまでです、痴漢の現行犯で逮捕します」"
+                                ""
                             ]
                         },
                         {
@@ -11355,38 +11355,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "痴漢"
+                                "Pervert: G-Geez! Future Special Police!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「げ、げえ！　未来特警！！」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "痴漢"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「な、なんだってこんなところに！！」"
+                                ""
                             ]
                         },
                         {
@@ -11403,14 +11379,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "痴漢"
+                                "Pervert: W-What are you doing in a place like\nthis!!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「く、くそっ！！」"
+                                "Pervert: D-Dammit!!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -11444,14 +11444,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "The molester escaped!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "痴漢は逃げ出した！"
+                                ""
                             ]
                         },
                         {
@@ -11480,14 +11480,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM But I've been surrounded!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "しかし回り込まれてしまった！！"
+                                ""
                             ]
                         },
                         {
@@ -11530,7 +11530,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あ、ありがとうございました！！」"
+                                "Thank you so much!!"
                             ]
                         },
                         {
@@ -11547,14 +11547,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi: No, please be careful!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「いえ、お気をつけて！」"
+                                ""
                             ]
                         },
                         {
@@ -12056,7 +12056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぺちゃくちゃぺちゃくちゃ"
+                                "Slurp slurp"
                             ]
                         },
                         {
@@ -12073,7 +12073,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おしゃべりに夢中になっているみたいだ。"
+                                "It seems like she's completely absorbed in\nchatting."
                             ]
                         },
                         {
@@ -12150,7 +12150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぺちゃくちゃぺちゃくちゃ"
+                                "Slurp slurp"
                             ]
                         },
                         {
@@ -12167,7 +12167,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おしゃべりに夢中になっているみたいだ。"
+                                "It seems like she's completely absorbed in\nchatting."
                             ]
                         },
                         {
@@ -12244,7 +12244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "次の車両に進もうか？"
+                                "Should we move on to the next vehicle?"
                             ]
                         },
                         {
@@ -12252,8 +12252,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -12390,7 +12390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "次の車両に進もうか？"
+                                "Should we move on to the next vehicle?"
                             ]
                         },
                         {
@@ -12398,8 +12398,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -12536,7 +12536,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "次の車両に進もうか？"
+                                "Should we move on to the next vehicle?"
                             ]
                         },
                         {
@@ -12544,8 +12544,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -12682,7 +12682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "次の車両に進もうか？"
+                                "Should we move on to the next vehicle?"
                             ]
                         },
                         {
@@ -12690,8 +12690,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -12828,7 +12828,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "前の車両に戻ろうか？"
+                                "Should we go back to the previous vehicle?"
                             ]
                         },
                         {
@@ -12836,8 +12836,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -12974,7 +12974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "前の車両に戻ろうか？"
+                                "Should we go back to the previous vehicle?"
                             ]
                         },
                         {
@@ -12982,8 +12982,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -13120,7 +13120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "前の車両に戻ろうか？"
+                                "Should we go back to the previous vehicle?"
                             ]
                         },
                         {
@@ -13128,8 +13128,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -13266,7 +13266,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "前の車両に戻ろうか？"
+                                "Should we go back to the previous vehicle?"
                             ]
                         },
                         {
@@ -13274,8 +13274,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -13412,7 +13412,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぺちゃくちゃぺちゃくちゃ"
+                                "Slurp slurp"
                             ]
                         },
                         {
@@ -13429,7 +13429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おしゃべりに夢中になっているみたいだ。"
+                                "It seems like she's completely absorbed in\nchatting."
                             ]
                         },
                         {
@@ -13506,7 +13506,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぺちゃくちゃぺちゃくちゃ"
+                                "Slurp slurp"
                             ]
                         },
                         {
@@ -13523,7 +13523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おしゃべりに夢中になっているみたいだ。"
+                                "It seems like she's completely absorbed in\nchatting."
                             ]
                         },
                         {
@@ -13600,7 +13600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぺちゃくちゃぺちゃくちゃ"
+                                "Slurp slurp"
                             ]
                         },
                         {
@@ -13617,7 +13617,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おしゃべりに夢中になっているみたいだ。"
+                                "It seems like she's completely absorbed in\nchatting."
                             ]
                         },
                         {
@@ -13694,7 +13694,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぺちゃくちゃぺちゃくちゃ"
+                                "Slurp slurp"
                             ]
                         },
                         {
@@ -13711,7 +13711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おしゃべりに夢中になっているみたいだ。"
+                                "It seems like she's completely absorbed in\nchatting."
                             ]
                         },
                         {
@@ -13855,7 +13855,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぺちゃくちゃぺちゃくちゃ"
+                                "Slurp slurp"
                             ]
                         },
                         {
@@ -13872,7 +13872,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おしゃべりに夢中になっているみたいだ。"
+                                "It seems like she's completely absorbed in\nchatting."
                             ]
                         },
                         {
@@ -13949,7 +13949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぺちゃくちゃぺちゃくちゃ"
+                                "Slurp slurp"
                             ]
                         },
                         {
@@ -13966,7 +13966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おしゃべりに夢中になっているみたいだ。"
+                                "It seems like she's completely absorbed in\nchatting."
                             ]
                         },
                         {
@@ -14043,7 +14043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぺちゃくちゃぺちゃくちゃ"
+                                "Slurp slurp"
                             ]
                         },
                         {
@@ -14060,7 +14060,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おしゃべりに夢中になっているみたいだ。"
+                                "It seems like she's completely absorbed in\nchatting."
                             ]
                         },
                         {
@@ -14204,7 +14204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぺちゃくちゃぺちゃくちゃ"
+                                "Slurp slurp"
                             ]
                         },
                         {
@@ -14221,7 +14221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おしゃべりに夢中になっているみたいだ。"
+                                "It seems like she's completely absorbed in\nchatting."
                             ]
                         },
                         {
@@ -14298,7 +14298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぺちゃくちゃぺちゃくちゃ"
+                                "Slurp slurp"
                             ]
                         },
                         {
@@ -14315,7 +14315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おしゃべりに夢中になっているみたいだ。"
+                                "It seems like she's completely absorbed in\nchatting."
                             ]
                         },
                         {
@@ -14392,7 +14392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぺちゃくちゃぺちゃくちゃ"
+                                "Slurp slurp"
                             ]
                         },
                         {
@@ -14409,7 +14409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おしゃべりに夢中になっているみたいだ。"
+                                "It seems like she's completely absorbed in\nchatting."
                             ]
                         },
                         {
@@ -14620,7 +14620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぺちゃくちゃぺちゃくちゃ"
+                                "Slurp slurp"
                             ]
                         },
                         {
@@ -14637,7 +14637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おしゃべりに夢中になっているみたいだ。"
+                                "It seems like she's completely absorbed in\nchatting."
                             ]
                         },
                         {
@@ -14714,7 +14714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぺちゃくちゃぺちゃくちゃ"
+                                "Slurp slurp"
                             ]
                         },
                         {
@@ -14731,7 +14731,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おしゃべりに夢中になっているみたいだ。"
+                                "It seems like she's completely absorbed in\nchatting."
                             ]
                         },
                         {
@@ -14808,7 +14808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぺちゃくちゃぺちゃくちゃ"
+                                "Slurp slurp"
                             ]
                         },
                         {
@@ -14825,7 +14825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おしゃべりに夢中になっているみたいだ。"
+                                "It seems like she's completely absorbed in\nchatting."
                             ]
                         },
                         {
@@ -14902,7 +14902,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぺちゃくちゃぺちゃくちゃ"
+                                "*smack smack*"
                             ]
                         },
                         {
@@ -14919,7 +14919,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おしゃべりに夢中になっているみたいだ。"
+                                "It seems like she's completely absorbed in\nchatting."
                             ]
                         },
                         {
@@ -14996,7 +14996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぺちゃくちゃぺちゃくちゃ"
+                                "Slurp slurp"
                             ]
                         },
                         {
@@ -15013,7 +15013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おしゃべりに夢中になっているみたいだ。"
+                                "It seems like she's completely absorbed in\nchatting."
                             ]
                         },
                         {
@@ -15090,7 +15090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぺちゃくちゃぺちゃくちゃ"
+                                "Slurp slurp"
                             ]
                         },
                         {
@@ -15107,7 +15107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おしゃべりに夢中になっているみたいだ。"
+                                "It seems like she's completely absorbed in\nchatting."
                             ]
                         },
                         {
@@ -15184,7 +15184,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぺちゃくちゃぺちゃくちゃ"
+                                "Slurp slurp"
                             ]
                         },
                         {
@@ -15201,7 +15201,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おしゃべりに夢中になっているみたいだ。"
+                                "It seems like she's completely absorbed in\nchatting."
                             ]
                         },
                         {
@@ -15479,38 +15479,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "金髪バニー"
+                                "Blonde Bunny: ...P-Please, please stop."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「……オ、オウ、ヤメテクダサイ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "不審な男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ひっひっひぃ、そんなこと言って体は喜んでいるぜー」"
+                                ""
                             ]
                         },
                         {
@@ -15527,7 +15503,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "痴漢だ！"
+                                "Suspicious Man: Hehehe, saying that, your body is\nenjoying it, you know~"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Pervert!"
                             ]
                         },
                         {
@@ -15575,14 +15575,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルリカ"
+                                "Rurika: That's enough, I will arrest you for being\ncaught in the act of molestation."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「そこまでです、痴漢の現行犯で逮捕します」"
+                                ""
                             ]
                         },
                         {
@@ -15667,38 +15667,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "痴漢"
+                                "Molester: G-Gee! Future Special Police!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「げ、げえ！　未来特警！！」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "痴漢"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「な、なんだってこんなところに！！」"
+                                ""
                             ]
                         },
                         {
@@ -15715,14 +15691,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "痴漢"
+                                "Molester: W-What are you doing in a place like\nthis?!!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「く、くそっ！！」"
+                                "Molester: D-Damn it!!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -15756,14 +15756,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "The molester escaped!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "痴漢は逃げ出した！"
+                                ""
                             ]
                         },
                         {
@@ -15792,14 +15792,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM But I've been surrounded!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "しかし回り込まれてしまった！！"
+                                ""
                             ]
                         },
                         {
@@ -15842,7 +15842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ワーオ！　サンキューです！！」"
+                                "Wow! Thank you so much!!"
                             ]
                         },
                         {
@@ -15859,14 +15859,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi: N-No, please be careful!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「い、いえ、お気をつけて！」"
+                                ""
                             ]
                         },
                         {
@@ -16033,14 +16033,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "金髪バニー"
+                                "Blonde Bunny: ...P-Please, please stop."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「……オ、オウ、ヤメテクダサイ」"
+                                ""
                             ]
                         },
                         {
@@ -16108,14 +16108,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "金髪バニー"
+                                "Blonde Bunny: Wow! Thank you so much!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ワーオ！　サンキューね！！」"
+                                ""
                             ]
                         },
                         {
@@ -16303,7 +16303,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぺちゃくちゃぺちゃくちゃ"
+                                "Slurp slurp"
                             ]
                         },
                         {
@@ -16320,7 +16320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おしゃべりに夢中になっているみたいだ。"
+                                "It seems like she's completely absorbed in\nchatting."
                             ]
                         },
                         {
@@ -16397,7 +16397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぺちゃくちゃぺちゃくちゃ"
+                                "*smack smack*"
                             ]
                         },
                         {
@@ -16414,7 +16414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おしゃべりに夢中になっているみたいだ。"
+                                "It seems like she's completely absorbed in\nchatting."
                             ]
                         },
                         {
@@ -16491,7 +16491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "次の車両に進もうか？"
+                                "Should we move on to the next vehicle?"
                             ]
                         },
                         {
@@ -16499,8 +16499,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -16637,7 +16637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "次の車両に進もうか？"
+                                "Should we move on to the next vehicle?"
                             ]
                         },
                         {
@@ -16645,8 +16645,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -16783,7 +16783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "次の車両に進もうか？"
+                                "Should we move on to the next vehicle?"
                             ]
                         },
                         {
@@ -16791,8 +16791,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -16929,7 +16929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "次の車両に進もうか？"
+                                "Should we move on to the next vehicle?"
                             ]
                         },
                         {
@@ -16937,8 +16937,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -17075,7 +17075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "前の車両に戻ろうか？"
+                                "Should we go back to the previous vehicle?"
                             ]
                         },
                         {
@@ -17083,8 +17083,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -17221,7 +17221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "前の車両に戻ろうか？"
+                                "Should we go back to the previous vehicle?"
                             ]
                         },
                         {
@@ -17229,8 +17229,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -17367,7 +17367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "前の車両に戻ろうか？"
+                                "Should we go back to the previous vehicle?"
                             ]
                         },
                         {
@@ -17375,8 +17375,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -17513,7 +17513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "前の車両に戻ろうか？"
+                                "Should we go back to the previous vehicle?"
                             ]
                         },
                         {
@@ -17521,8 +17521,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -17659,7 +17659,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぺちゃくちゃぺちゃくちゃ"
+                                "Slurp slurp"
                             ]
                         },
                         {
@@ -17676,7 +17676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おしゃべりに夢中になっているみたいだ。"
+                                "It seems like she's completely absorbed in\nchatting."
                             ]
                         },
                         {
@@ -17753,7 +17753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぺちゃくちゃぺちゃくちゃ"
+                                "Slurp slurp"
                             ]
                         },
                         {
@@ -17770,7 +17770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おしゃべりに夢中になっているみたいだ。"
+                                "It seems like she's completely absorbed in\nchatting."
                             ]
                         },
                         {
@@ -17847,7 +17847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぺちゃくちゃぺちゃくちゃ"
+                                "Slurp slurp"
                             ]
                         },
                         {
@@ -17864,7 +17864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おしゃべりに夢中になっているみたいだ。"
+                                "It seems like she's completely absorbed in\nchatting."
                             ]
                         },
                         {
@@ -17941,7 +17941,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぺちゃくちゃぺちゃくちゃ"
+                                "Slurp slurp"
                             ]
                         },
                         {
@@ -17958,7 +17958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おしゃべりに夢中になっているみたいだ。"
+                                "It seems like she's completely absorbed in\nchatting."
                             ]
                         },
                         {
@@ -18035,7 +18035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぺちゃくちゃぺちゃくちゃ"
+                                "Slurp slurp"
                             ]
                         },
                         {
@@ -18052,7 +18052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おしゃべりに夢中になっているみたいだ。"
+                                "It seems like she's completely absorbed in\nchatting."
                             ]
                         },
                         {
@@ -18129,7 +18129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぺちゃくちゃぺちゃくちゃ"
+                                "*smack smack*"
                             ]
                         },
                         {
@@ -18146,7 +18146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おしゃべりに夢中になっているみたいだ。"
+                                "It seems like she's completely absorbed in\nchatting."
                             ]
                         },
                         {
@@ -18223,7 +18223,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぺちゃくちゃぺちゃくちゃ"
+                                "*smack smack*"
                             ]
                         },
                         {
@@ -18240,7 +18240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おしゃべりに夢中になっているみたいだ。"
+                                "It seems like she's completely absorbed in\nchatting."
                             ]
                         },
                         {
@@ -18317,7 +18317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぺちゃくちゃぺちゃくちゃ"
+                                "*smack smack*"
                             ]
                         },
                         {
@@ -18334,7 +18334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おしゃべりに夢中になっているみたいだ。"
+                                "It seems like she's completely absorbed in\nchatting."
                             ]
                         },
                         {
@@ -18411,7 +18411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぺちゃくちゃぺちゃくちゃ"
+                                "*smack smack*"
                             ]
                         },
                         {
@@ -18428,7 +18428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おしゃべりに夢中になっているみたいだ。"
+                                "It seems like she's completely absorbed in\nchatting."
                             ]
                         },
                         {
@@ -18505,7 +18505,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぺちゃくちゃぺちゃくちゃ"
+                                "*smack smack*"
                             ]
                         },
                         {
@@ -18522,7 +18522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おしゃべりに夢中になっているみたいだ。"
+                                "It seems like she's completely absorbed in\nchatting."
                             ]
                         },
                         {
@@ -18599,7 +18599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぺちゃくちゃぺちゃくちゃ"
+                                "Slurp slurp"
                             ]
                         },
                         {
@@ -18616,7 +18616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おしゃべりに夢中になっているみたいだ。"
+                                "It seems like she's completely absorbed in\nchatting."
                             ]
                         },
                         {
@@ -18693,7 +18693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぺちゃくちゃぺちゃくちゃ"
+                                "Slurp slurp"
                             ]
                         },
                         {
@@ -18710,7 +18710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おしゃべりに夢中になっているみたいだ。"
+                                "It seems like she's completely absorbed in\nchatting."
                             ]
                         },
                         {
@@ -18787,7 +18787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぺちゃくちゃぺちゃくちゃ"
+                                "Slurp slurp"
                             ]
                         },
                         {
@@ -18804,7 +18804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おしゃべりに夢中になっているみたいだ。"
+                                "It seems like she's completely absorbed in\nchatting."
                             ]
                         },
                         {
@@ -18881,7 +18881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぺちゃくちゃぺちゃくちゃ"
+                                "Slurp slurp"
                             ]
                         },
                         {
@@ -18898,7 +18898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おしゃべりに夢中になっているみたいだ。"
+                                "It seems like she's completely absorbed in\nchatting."
                             ]
                         },
                         {
@@ -19169,7 +19169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぺちゃくちゃぺちゃくちゃ"
+                                "*smack smack*"
                             ]
                         },
                         {
@@ -19186,7 +19186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おしゃべりに夢中になっているみたいだ。"
+                                "It seems like she's completely absorbed in\nchatting."
                             ]
                         },
                         {
@@ -19397,7 +19397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぺちゃくちゃぺちゃくちゃ"
+                                "*smack smack*"
                             ]
                         },
                         {
@@ -19414,7 +19414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おしゃべりに夢中になっているみたいだ。"
+                                "It seems like she's completely absorbed in\nchatting."
                             ]
                         },
                         {
@@ -19491,7 +19491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぺちゃくちゃぺちゃくちゃ"
+                                "Slurp slurp"
                             ]
                         },
                         {
@@ -19508,7 +19508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おしゃべりに夢中になっているみたいだ。"
+                                "It seems like she's completely absorbed in\nchatting."
                             ]
                         },
                         {
@@ -19719,7 +19719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぺちゃくちゃぺちゃくちゃ"
+                                "Slurp slurp"
                             ]
                         },
                         {
@@ -19736,7 +19736,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おしゃべりに夢中になっているみたいだ。"
+                                "It seems like she's completely absorbed in\nchatting."
                             ]
                         },
                         {
@@ -19813,7 +19813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぺちゃくちゃぺちゃくちゃ"
+                                "Slurp slurp"
                             ]
                         },
                         {
@@ -19830,7 +19830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おしゃべりに夢中になっているみたいだ。"
+                                "It seems like she's completely absorbed in\nchatting."
                             ]
                         },
                         {
@@ -19907,7 +19907,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぺちゃくちゃぺちゃくちゃ"
+                                "Slurp slurp"
                             ]
                         },
                         {
@@ -19924,7 +19924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おしゃべりに夢中になっているみたいだ。"
+                                "It seems like she's completely absorbed in\nchatting."
                             ]
                         },
                         {
@@ -20001,7 +20001,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぺちゃくちゃぺちゃくちゃ"
+                                "Slurp slurp"
                             ]
                         },
                         {
@@ -20018,7 +20018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おしゃべりに夢中になっているみたいだ。"
+                                "It seems like she's completely absorbed in\nchatting."
                             ]
                         },
                         {
@@ -20349,25 +20349,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おれはルリカおねえちゃんと一緒に、電車に乗り込んだ。"
+                                "I boarded the train with Onee-san Rurika."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -20429,14 +20429,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi (Alright! I'm going to catch the groper!!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（よーし！　痴漢を捕まえるぞ！！）"
+                                ""
                             ]
                         },
                         {
@@ -20453,14 +20453,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi (I need to thoroughly patrol the train!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（車内をしっかりと見回りしないとね！）"
+                                ""
                             ]
                         },
                         {
@@ -20493,21 +20493,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルリカ"
+                                "Rurika: Perverts are the enemy of women. Let's\ndefinitely catch them with our own hands, okay?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「痴漢は女の敵です。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　わたしたちの手で必ず、捕まえてやりましょうね」"
+                                ""
                             ]
                         },
                         {
@@ -20524,14 +20524,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi: 'Of course!'"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「おうともよ！」"
+                                ""
                             ]
                         },
                         {
@@ -20705,14 +20705,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi: With three people, it's quite a catch...\nCan I say that?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「これで三人、なかなか大漁……って言って良いのか？」"
+                                ""
                             ]
                         },
                         {
@@ -20745,38 +20745,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルリカ"
+                                "Rurika: Yes, indeed. It's quite a result, isn't\nit?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「そうですね、なかなかの成果かと」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルリカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ただ……『戻れなくなる』というのが、なんだったのか」"
+                                ""
                             ]
                         },
                         {
@@ -20793,45 +20769,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Rurika: However... what does it mean to be 'unable\nto go back'?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「……それは」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルリカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いえ、わたしたちは囮組ですから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あとはサクラがなにか掴んでくれるのを期待しましょう」"
+                                ""
                             ]
                         },
                         {
@@ -20848,14 +20793,69 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi: ...That is..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そうだね……ああ、でも」"
+                                "Rurika: No, we are the decoy team. Let's hope\nSakura can grab something for us."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Kenichi: That's right... Ah, but..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -20886,38 +20886,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi (Sakura Onee-san, I'm with Kimohiko, you\nknow)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（サクラねえちゃん、キモヒコと一緒なんだよなー）"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ケンイチ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（大丈夫かな、キモヒコが足を引っ張ってなきゃ……）"
+                                ""
                             ]
                         },
                         {
@@ -20934,14 +20910,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi (I hope Kimohiko doesn't hold us back...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（あと、セクハラも……って）"
+                                ""
                             ]
                         },
                         {
@@ -20958,21 +20934,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi (And also, sexual harassment...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（おれが心配することじゃないか、"
+                                "Kenichi (It's not something I should worry about,\nOnee-san Sakura will handle it herself somehow)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　サクラねえちゃんなら自分でどうにかするだろうし）"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -21003,14 +21003,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルリカ"
+                                "Rurika: It's about time, let's get off the train."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「そろそろ時間です、電車を降りましょう」」"
+                                ""
                             ]
                         },
                         {

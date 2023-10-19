@@ -5510,14 +5510,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: Oops, stop!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「おっと、ストップだ」"
+                                ""
                             ]
                         },
                         {
@@ -5543,173 +5543,11 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: Now the mutant soldiers... they come with\na bonus this time."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ミュータント兵に……今度はおまけがついてやがるな」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルリカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「バイオ生物とガードロボですか、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こちらもピンクスネーク団がよく使う兵隊ですね」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルリカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どちらも、ミュータント兵よりさらに安価なのでしょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　個々の性能では劣りますが数が多い傾向にあります」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "サクラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よし問題だ、ケンイチ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こういう場合は、どうやって戦うべきだと思う？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ケンイチ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「え、そ、そうだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ギアの能力を使って戦えば良いんじゃない、かな」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "詳しい理屈は知らないけれど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "バイオギアは着用者の精神と感応することで特殊な力、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それこそミュータントみたいな能力が使えるようになる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -5729,56 +5567,18 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これには個人差があって、"
+                                "Rurika: Bio-organisms and guard robots, huh? These\nare the soldiers that Pink Snake Gang often uses\nas well."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "おれやねえちゃんたちのように能力を引き出せる人間を、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "未来特警では『適合者』って呼んでいるわけだ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルリカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「半分正解です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　確かに能力を使って対抗するのは正しいですが」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -5798,38 +5598,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Rurika: Both of them are even cheaper than mutant\nsoldiers, I suppose. Although their individual\nperformance is inferior, there tends to be a\nlarger number of them."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「相手に合わせて能力を選ぶと、なお効率的だな」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "サクラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「たとえば、バイオ生物は一般的に熱属性の攻撃に弱い」"
+                                ""
                             ]
                         },
                         {
@@ -5846,38 +5629,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルリカ"
+                                "Sakura: Alright, here's a problem, Kenichi. In a\nsituation like this, how do you think we should\nfight?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「一方、ガードロボには電気属性が効果的です」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルリカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「基本ですので、覚えておいてください」"
+                                ""
                             ]
                         },
                         {
@@ -5894,21 +5660,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルリカ"
+                                "Kenichi: Uh, y-yeah. Maybe we should fight by\nusing the abilities of our gear, I guess."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「これに気を付けるだけでも、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　戦いはグッと楽になるから忘れるんじゃねえぞ」"
+                                ""
                             ]
                         },
                         {
@@ -5925,14 +5691,248 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "I don't know the exact details, but the Bio Gear\nis able to harness special powers, like mutant\nabilities, by resonating with the wearer's mind\nand emotions."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「お、おう、じゃなくて、はい！」"
+                                "There is individual variation in this, and people\nwho can bring out their abilities like me and\nOnee-chan are called 'compatible individuals' in\nthe Future Special Police."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Rurika: Half correct. It is indeed correct to\nfight back using our abilities, but..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Sakura: It's even more efficient to choose\nabilities that match our opponents."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Sakura: For example, bio-organisms are generally\nweak against attacks with a fire attribute."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Rurika: On the other hand, electric attributes are\neffective against guard robots."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Rurika: It's basic, so please remember it."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Rurika: Just by being mindful of this, the battle\nwill become much easier, so don't forget it."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Kenichi: Y-yeah, not 'o-okay', but yes!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6104,7 +6104,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ロッカーを調べると、隠し階段を発見した！！"
+                                "I examined the locker and discovered a hidden\nstaircase!!"
                             ]
                         },
                         {
@@ -6292,63 +6292,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ピンクスネーク団。"
+                                "Pink Snake Gang."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それはこのシティに巣食うミュータント犯罪組織だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -6368,90 +6330,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "神出鬼没で尻尾を掴ませず。"
+                                "It is a mutant crime organization that nests in\nthis city."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "犯罪組織とは思えないような高い技術力を持っている。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "辛うじて判明しているのは三人の幹部のコードネームだけ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "レッド、ブルー、そしてパープル。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いずれも強力なミュータントであると……噂されている。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "逆に言えば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この三人の幹部を捕まえればピンクスネーク団は壊滅だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -6471,25 +6368,11 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おれたちは幹部の居場所を探ることを最優先に調査を続け、"
+                                "They appear and disappear without a trace, never\nletting their tail be caught. They possess a high\nlevel of technical skill that is unexpected for a\ncriminal organization."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今回はこの廃屋を調査することになった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -6509,25 +6392,142 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もちろん、これが偽情報である可能性もあったけど……"
+                                "The only thing that has barely been identified are\nthe code names of the three executives."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "Red, Blue, and Purple. It is rumored that all of\nthem are powerful mutants..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
                             "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "On the contrary, if we capture these three\nexecutives, the Pink Snake Gang will be destroyed."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "We will continue our investigation with the top\npriority of finding the location of the\nexecutives, and this time we have decided to\ninvestigate this abandoned house."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Of course, there was also the possibility that\nthis was false information..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -6552,63 +6552,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: I see, that's a hit."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なるほど、当たりだな」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルリカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうですね、当たりのようです」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -6628,25 +6590,63 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Rurika: Yes, it seems to be a hit."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よ、よし！　こいつらを倒して先に進むんだな！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
                             "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Kenichi: Alright! Let's defeat these guys and move\nforward!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -6675,25 +6675,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミュータント兵"
+                                "Mutant Soldier: Pew! Pew! Pew!"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぷぎっ！　ぷぎっ！　ぷぎぃ！！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -6727,45 +6727,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こいつらはミュータント兵。"
+                                "These guys are mutant soldiers. They are members\nof the Pink Snake Gang, who are produced using\nillegal technology."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "違法技術で製造されているピンクスネーク団の構成員だ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "バイオ技術と電子工学によって作られたこの兵士は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言語こそ使わないが知能は高く、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いわばピンクスネーク団の現場指揮官と言える……そうだ。"
+                                ""
                             ]
                         },
                         {
@@ -6782,52 +6751,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いわば使い捨てだけど、"
+                                "These soldiers, created using biotechnology and\nelectronic engineering, may not use language, but\nthey have high intelligence and can be considered\nthe field commanders of the Pink Snake Gang...\nThat's right."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だからこそ、どれだけ捕まえても、団にはつながらない。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "厄介な相手だとルリカねえちゃんは言っていた。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "戦闘能力も高く、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "通常の警察の装備では数人で一体を相手にするのが限界……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こっちはサクラねえちゃんが言っていた。"
+                                ""
                             ]
                         },
                         {
@@ -6844,14 +6782,76 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "とにかく、高い技術力で違法に増やした兵隊を使い。"
+                                "In a way, they are disposable, but that's exactly\nwhy no matter how many we capture, it won't lead\nto the organization. Rurika Onee-san said they are\ntroublesome opponents."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シティの平和を乱している凶悪な集団……ってことだな！"
+                                "Their combat abilities are high, and it is the\nlimit for a few people to face them with regular\npolice equipment... Sakura Onee-san said that."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Anyway, they're a vicious group that's disturbing\nthe peace of the city by using soldiers illegally\nmultiplied with high technological power..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6882,63 +6882,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: Alright, let's just blow them away for\nnow."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よし、とりあえずぶっ飛ばすか」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "サクラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ケンイチは無理をしないようにな」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -6958,63 +6920,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルリカ"
+                                "Sakura: Kenichi, make sure not to push yourself\ntoo hard."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうですね、この程度の数なら私たちで余裕でしょう」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルリカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「油断するわけではありませんが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ケンイチさんは自分の安全を最優先に戦ってください」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -7034,25 +6958,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Rurika: Yes, I think we can handle this number\neasily."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「わ、わかってる！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ねーちゃんたちの足を引っ張るつもりはないっての！」"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -7072,63 +6996,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おれは慌てて武器を構えて、次の瞬間！"
+                                "Rurika: I don't mean to let my guard down, but\nKenichi-san, please prioritize your own safety in\nbattle."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ミュータント兵が襲い掛かってきた！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -7148,25 +7034,139 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミュータント兵"
+                                "Kenichi: I-I understand! I don't intend to hold\nback Onee-chan and the others!"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぷぎぃいいいいいい！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
                             "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "I hurriedly prepared my weapon, and in the next\nmoment!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "The mutant soldiers attacked!!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Mutant Soldier: Gyiiiieeeee!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -7214,25 +7214,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミュータント兵"
+                                "Mutant Soldier: P...pu...gyiii...."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぷ……ぷぎぃ…………」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -7305,25 +7305,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi: Y-Yeah, we got this!!"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よ、よし、楽勝！！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -7359,25 +7359,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: Yeah, that's right. Your movements were\ndecent. Compared to me, you still have a long way\nto go though."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「そうだな、まあまあの動きだったぜ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　あたしと比べたら、まだまだって感じだけどな」"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -7397,25 +7397,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルリカ"
+                                "Rurika: However, you are definitely making\nprogress. The day when you become a full-fledged\nspecial police officer might be close."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ですが、確実に進歩していますよ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　一人前の特警隊員になれる日も近いかもしれませんね」"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -7435,25 +7435,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi: H-Hehe, leave it to me! I'll catch up to\nOnee-chan and the others in no time!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「へ、へへ、任せてくれよ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　すぐに、ねーちゃんたちに追いついてやる！」"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -7473,63 +7473,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: Ah, I'm looking forward to it."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ああ、楽しみにしてるぜ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルリカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい、ですが、今は目の前の仕事です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ミュータント兵がいたのですから確実に何かがあります」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -7549,21 +7511,59 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルリカ"
+                                "Rurika: Yes, but right now we have a job in front\nof us. Since there were mutant soldiers, there\nmust be something definite happening."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「しっかりと探索して、"
+                                "Rurika: Let's search thoroughly and gather clues\nabout the Pink Snake Gang."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ピンクスネーク団の手がかりを掴んでいきましょう」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7657,14 +7657,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そっちは外だ。"
+                                "That's outside. We need to explore the Pink Snake\nGang's base."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ピンクスネーク団の拠点を探索しないと。"
+                                ""
                             ]
                         },
                         {
@@ -8136,14 +8136,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: Oops, stop!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「おっと、ストップだ」"
+                                ""
                             ]
                         },
                         {
@@ -8169,173 +8169,11 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: Now the mutant soldiers... they come with\na bonus this time."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ミュータント兵に……今度はおまけがついてやがるな」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルリカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「バイオ生物とガードロボですか、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こちらもピンクスネーク団がよく使う兵隊ですね」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルリカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どちらも、ミュータント兵よりさらに安価なのでしょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　個々の性能では劣りますが数が多い傾向にあります」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "サクラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よし問題だ、ケンイチ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こういう場合は、どうやって戦うべきだと思う？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ケンイチ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「え、そ、そうだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ギアの能力を使って戦えば良いんじゃない、かな」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "詳しい理屈は知らないけれど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "バイオギアは着用者の精神と感応することで特殊な力、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それこそミュータントみたいな能力が使えるようになる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -8355,56 +8193,18 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これには個人差があって、"
+                                "Rurika: Bio-organisms and guard robots, huh? These\nare the soldiers that Pink Snake Gang often uses\nas well."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "おれやねえちゃんたちのように能力を引き出せる人間を、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "未来特警では『適合者』って呼んでいるわけだ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルリカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「半分正解です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　確かに能力を使って対抗するのは正しいですが」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -8424,38 +8224,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Rurika: Both of them are even cheaper than mutant\nsoldiers, I suppose. Although their individual\nperformance is inferior, there tends to be a\nlarger number of them."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「相手に合わせて能力を選ぶと、なお効率的だな」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "サクラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「たとえば、バイオ生物は一般的に熱属性の攻撃に弱い」"
+                                ""
                             ]
                         },
                         {
@@ -8472,38 +8255,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルリカ"
+                                "Sakura: Alright, here's a problem, Kenichi. In a\nsituation like this, how do you think we should\nfight?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「一方、ガードロボには電気属性が効果的です」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルリカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「基本ですので、覚えておいてください」"
+                                ""
                             ]
                         },
                         {
@@ -8520,21 +8286,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルリカ"
+                                "Kenichi: Uh, y-yeah. Maybe we should fight by\nusing the abilities of our gear, I guess."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「これに気を付けるだけでも、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　戦いはグッと楽になるから忘れるんじゃねえぞ」"
+                                ""
                             ]
                         },
                         {
@@ -8551,14 +8317,248 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "I don't know the exact details, but the Bio Gear\nis able to harness special powers, like mutant\nabilities, by resonating with the wearer's mind\nand emotions."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「お、おう、じゃなくて、はい！」"
+                                "There is individual variation in this, and people\nwho can bring out their abilities like me and\nOnee-chan are called 'compatible individuals' in\nthe Future Special Police."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Rurika: Half correct. It is indeed correct to\nfight back using our abilities, but..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Sakura: It's even more efficient to choose\nabilities that match our opponents."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "For example, bio-organisms are generally weak\nagainst heat-based attacks."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Rurika: On the other hand, electric-based attacks\nare effective against guard robots."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Rurika: It's basic, so please remember it."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Rurika: Just by being mindful of this, the battle\nwill become much easier, so don't forget it."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Kenichi: Y-yeah, not 'o-okay', but yes!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -8832,7 +8832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガードロボがこちらを警戒している。"
+                                "The guard robot is wary of us."
                             ]
                         },
                         {
@@ -8972,14 +8972,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[241] Obtained Recovery Potion\nα\\C[0]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[241]回復薬α\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {
@@ -9065,14 +9065,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自動販売機のようだ、"
+                                "It looks like a vending machine, but unfortunately\nthe power is not on."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "残念ながら電源が入っていない。"
+                                ""
                             ]
                         },
                         {
@@ -9149,14 +9149,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これ以上、近寄ったら。"
+                                "If we get any closer, I have a feeling that the\nmutant soldiers will attack us."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ミュータント兵たちは襲い掛かって来る……気がする。"
+                                ""
                             ]
                         },
                         {
@@ -9173,14 +9173,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "Do you want to get closer to the SYSTEM?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "近寄りますか？"
+                                ""
                             ]
                         },
                         {
@@ -9188,8 +9188,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -9259,14 +9259,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ミュータント兵"
+                                "Mutant Soldier: Grrrrrrrrrrrrrrrrrr!!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「フガァァァアァァァアァァ！！！」"
+                                ""
                             ]
                         },
                         {
@@ -9283,7 +9283,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ミュータント兵たちが襲い掛かって来た！！"
+                                "The mutant soldiers are attacking us!!"
                             ]
                         },
                         {
@@ -9434,14 +9434,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi: ...Phew, I managed to pull through."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「……ふ、ふぅ、なんとかなったぜ」"
+                                ""
                             ]
                         },
                         {
@@ -9481,14 +9481,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: Ah, well done."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「ああ、上出来だな」"
+                                ""
                             ]
                         },
                         {
@@ -9505,14 +9505,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルリカ"
+                                "Rurika: Please don't forget to exploit the\nenemy's weaknesses in battle."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「相手の弱点を突く戦いを忘れないでくださいね」"
+                                ""
                             ]
                         },
                         {
@@ -9558,7 +9558,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "一応、準備をしておこう。"
+                                "Just in case, let's make preparations."
                             ]
                         },
                         {
@@ -9758,14 +9758,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: Oops, stop right there."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「おっと、ストップだ」"
+                                ""
                             ]
                         },
                         {
@@ -9791,173 +9791,11 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: Now the mutant soldiers... they come with\na bonus this time."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ミュータント兵に……今度はおまけがついてやがるな」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルリカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「バイオ生物とガードロボですか、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こちらもピンクスネーク団がよく使う兵隊ですね」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルリカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どちらも、ミュータント兵よりさらに安価なのでしょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　個々の性能では劣りますが数が多い傾向にあります」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "サクラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よし問題だ、ケンイチ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こういう場合は、どうやって戦うべきだと思う？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ケンイチ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「え、そ、そうだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ギアの能力を使って戦えば良いんじゃない、かな」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "詳しい理屈は知らないけれど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "バイオギアは着用者の精神と感応することで特殊な力、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それこそミュータントみたいな能力が使えるようになる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -9977,56 +9815,18 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これには個人差があって、"
+                                "Rurika: Bio-organisms and guard robots, huh?\nThese are the soldiers that Pink Snake Gang often\nuses as well."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "おれやねえちゃんたちのように能力を引き出せる人間を、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "未来特警では『適合者』って呼んでいるわけだ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルリカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「半分正解です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　確かに能力を使って対抗するのは正しいですが」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -10046,38 +9846,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Rurika: Both of them are even cheaper than mutant\nsoldiers, I suppose. Although their individual\nperformance is inferior, there tends to be a\nlarger number of them."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「相手に合わせて能力を選ぶと、なお効率的だな」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "サクラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「たとえば、バイオ生物は一般的に熱属性の攻撃に弱い」"
+                                ""
                             ]
                         },
                         {
@@ -10094,38 +9877,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルリカ"
+                                "Sakura: Alright, here's a question, Kenichi. How\ndo you think we should fight in a situation like\nthis?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「一方、ガードロボには電気属性が効果的です」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルリカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「基本ですので、覚えておいてください」"
+                                ""
                             ]
                         },
                         {
@@ -10142,21 +9908,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルリカ"
+                                "Kenichi: Uh, y-yeah. Maybe we should fight by\nusing the abilities of our gear, I guess."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「これに気を付けるだけでも、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　戦いはグッと楽になるから忘れるんじゃねえぞ」"
+                                ""
                             ]
                         },
                         {
@@ -10173,14 +9939,248 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "I don't know the exact details, but the Bio Gear\nis able to harness special powers, like mutant\nabilities, by synchronizing with the wearer's mind\nand emotions."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「お、おう、じゃなくて、はい！」"
+                                "There is individual variation in this, and people\nwho can bring out their abilities like me and\nOnee-chan are called 'compatible individuals' in\nthe Future Special Police."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Rurika: Half correct. It is indeed correct to\nfight back using our abilities, but..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Sakura: It's even more efficient to choose\nabilities that match our opponents."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Sakura: For example, bio-organisms are generally\nweak against attacks with a fire attribute."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Rurika: On the other hand, electric attributes\nare effective against guard robots."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Rurika: It's basic, so please remember it."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Rurika: Just by being mindful of this, the battle\nwill become much easier, so don't forget it."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Kenichi: Y-Yeah, not 'o-okay', but yes!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10374,25 +10374,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: Well then, it seems like this is the\ndeepest part..."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さて、と、ここが一番奥みたいだが……」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -10511,25 +10511,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: Even though they were using mutant\nsoldiers to protect it, it doesn't seem like\nthere's anything significant here, does it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ミュータント兵まで使って守ってたわりに大したものは、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　なさそうな雰囲気がするな？」"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -10581,25 +10581,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルリカ"
+                                "Rurika: I don't think there's nothing here. For\nnow, let's investigate thoroughly."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「何もない、ことはないと思います。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　とりあえず、一通り、調べるだけ調べてみましょう」"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -10697,7 +10697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "怪しいところがないか調べてみよう"
+                                "Let's investigate if there's anything suspicious."
                             ]
                         },
                         {
@@ -10805,14 +10805,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これ以上、近寄ったら。"
+                                "If we get any closer, I have a feeling that the\nmutant soldiers will attack us."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ミュータント兵たちは襲い掛かって来る……気がする。"
+                                ""
                             ]
                         },
                         {
@@ -10829,14 +10829,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "Do you want to get closer to the SYSTEM?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "近寄りますか？"
+                                ""
                             ]
                         },
                         {
@@ -10844,8 +10844,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -10915,14 +10915,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ミュータント兵"
+                                "Mutant Soldier: Grrrrrrrrrrrrrrrrrr!!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「フガァァァアァァァアァァ！！！」"
+                                ""
                             ]
                         },
                         {
@@ -10939,7 +10939,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ミュータント兵たちが襲い掛かって来た！！"
+                                "The mutant soldiers are attacking us!!"
                             ]
                         },
                         {
@@ -11090,14 +11090,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi: ...Huff, huff, we managed to make it\nthrough."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「……ふ、ふぅ、なんとかなったぜ」"
+                                ""
                             ]
                         },
                         {
@@ -11137,14 +11137,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: Ah, well done."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「ああ、上出来だな」"
+                                ""
                             ]
                         },
                         {
@@ -11161,14 +11161,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルリカ"
+                                "Rurika: Please don't forget to exploit the\nenemy's weaknesses in battle."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「相手の弱点を突く戦いを忘れないでくださいね」"
+                                ""
                             ]
                         },
                         {
@@ -11214,7 +11214,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "一応、準備をしておこう。"
+                                "Just in case, let's prepare ourselves."
                             ]
                         },
                         {
@@ -11614,7 +11614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バイオ生物がうねうねとこちらを警戒している。"
+                                "The bioorganisms are wriggling and being cautious\nof us."
                             ]
                         },
                         {
@@ -11862,14 +11862,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これ以上、近寄ったら。"
+                                "If we get any closer, I have a feeling that the\nmutant soldiers will attack us."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ミュータント兵たちは襲い掛かって来る……気がする。"
+                                ""
                             ]
                         },
                         {
@@ -11886,14 +11886,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "Do you want to get closer to the SYSTEM?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "近寄りますか？"
+                                ""
                             ]
                         },
                         {
@@ -11901,8 +11901,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -11972,14 +11972,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ミュータント兵"
+                                "Mutant Soldier: Grrrrrrrrrrrrrrrrrr!!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「フガァァァアァァァアァァ！！！」"
+                                ""
                             ]
                         },
                         {
@@ -11996,7 +11996,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ミュータント兵たちが襲い掛かって来た！！"
+                                "The mutant soldiers are attacking us!!"
                             ]
                         },
                         {
@@ -12147,14 +12147,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi: ...Phew, I managed to pull through."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「……ふ、ふぅ、なんとかなったぜ」"
+                                ""
                             ]
                         },
                         {
@@ -12194,14 +12194,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: Ah, well done."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「ああ、上出来だな」"
+                                ""
                             ]
                         },
                         {
@@ -12218,14 +12218,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルリカ"
+                                "Rurika: Please don't forget to exploit the\nenemy's weaknesses in battle."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「相手の弱点を突く戦いを忘れないでくださいね」"
+                                ""
                             ]
                         },
                         {
@@ -12271,7 +12271,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "一応、準備をしておこう。"
+                                "Just in case, let's make preparations."
                             ]
                         },
                         {

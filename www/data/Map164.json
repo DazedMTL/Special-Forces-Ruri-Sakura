@@ -20076,63 +20076,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: Hey, you look tired."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よ、お疲れ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "キモヒコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お疲れさま、ルリカおねえちゃんにケンイチくん」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -20152,63 +20114,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Kimohiko: 'Good work, Rurika Onee-san and Kenichi-\nkun.'"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お疲れ、サクラねえちゃん、あとキモヒコもな」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "当たり前だけど、潜入役は囮役より神経を使う。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なのにサクラねえちゃんはさすが疲れた様子を見せない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -20228,25 +20152,101 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "特に今回はキモヒコが、悪く言えば面倒を見る手間が増える"
+                                "Kenichi: 'You look tired, Sakura Onee-san, and\nalso Kimohiko.'"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "足手まといが一緒なのに。"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
                             "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Of course, the undercover role requires more\nnerves than the decoy role. Yet, Sakura Onee-san,\nas expected, doesn't show any signs of tiredness."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Especially this time, even though Kimohiko is a\nburden in the sense that he requires extra care,\nhe is still with us."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -20275,25 +20275,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キモヒコ"
+                                "Kimohiko: Ehehe, it was quite fun, I must say."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えへへー、結構、楽しかったかもー」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -20313,25 +20313,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キモヒコ"
+                                "Kimohiko: Sakura Onee-chan, you looked good in\nbloomers too♪"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「サクラおねえちゃんのブルマも似合ってたよー♪」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -20360,63 +20360,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: Shut up, don't say unnecessary things."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「やかましい、余計なことを言うんじゃねえよ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "サクラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ったく、一応、お手柄だってのにな」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -20436,63 +20398,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "逆にキモヒコはご機嫌みたいだ。"
+                                "Sakura: Geez, even though it's a commendable\nachievement."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "調子に乗ったことを言って、ねえちゃんに叱られてる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ケンイチ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（でも、サクラねえちゃんのブルマか……）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -20512,63 +20436,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それを見れたのはちょっと羨ましい気が……"
+                                "Kimohiko seems to be in a good mood, on the\ncontrary. He said something cheeky and got scolded\nby Onee-chan."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いやいやいや！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "未来特警としてそんなこと考えたらダメだな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -20588,87 +20474,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "って言うか、キモヒコのお手柄ってなんだろ。"
+                                "Kenichi (But, Sakura Onee-chan in bloomers...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルリカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうでしたか、ブルマ喫茶を調査した結果は」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "サクラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「店の奥に隠し階段があった」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -20688,25 +20512,201 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キモヒコ"
+                                "I feel a little jealous that I couldn't see\nthat..."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えへへー、それ見つけたのボクだよー」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
                             "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "No, no, no! It's not good to think about such\nthings as a future special police officer!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Or rather, what exactly is Kimohiko's achievement?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Rurika: How was the result of the investigation on\nthe bloomers cafe?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Sakura: There was a hidden staircase in the back\nof the shop."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Kimohiko: Ehehe, I'm the one who found it!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -20742,63 +20742,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "むぎゅっ♡"
+                                "*Squeeze*♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なるほどそれがお手柄か、って！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -20818,25 +20780,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "堂々となにしてるんだキモヒコの奴！"
+                                "Oh, I see, so that's your achievement, huh!"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんなことされたらサクラねえちゃん怒るぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -20856,25 +20818,63 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "What is Kimohiko doing so boldly! If he does\nsomething like that, Sakura Onee-chan will get\nangry!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ああ、そうだな、それはお手柄だな。"
+                                "Sakura: Ah, yeah, I guess that's quite an\nachievement. But just because of that, it doesn't\nmean I'll tolerate sexual harassment. I'm not that\nlenient."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　だからって、セクハラを許すほど、あたしは甘くないぜ」"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -20941,25 +20941,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "がすんっ！"
+                                "*Gasp!*"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -20979,25 +20979,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うっわぁ、痛そう……"
+                                "Uwaa, that looks painful... It's completely his\nown fault, but Kimohiko is getting punched."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "完全な自業自得だけどキモヒコがぶん殴られてる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -21048,63 +21048,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: Alright, let's get back to the topic."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よし、話を戻すぜ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "サクラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「残念だが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　キモヒコの言ってた秘密拠点には繋がらなかった」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -21124,25 +21086,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: Unfortunately, the secret base that\nKimohiko mentioned didn't lead anywhere."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「地下にあったのは、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　会員制ブルマ風俗ピンクスポーティーって店だな」"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -21162,63 +21124,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Sakura: What was in the basement was a members-\nonly bloomers-themed pink sports club."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「は、はい？　なにそれ？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "サクラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「名前の通りだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　表向きはブルマ喫茶、裏側ではブルマ風俗……だが」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -21238,63 +21162,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Kenichi: U-um, yes? What's that?"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こいつはますます、可能性が高くなった」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "サクラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「裏でやってる風俗も隠れ蓑。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そのさらに裏に、ピンクスネーク団の秘密拠点」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -21314,63 +21200,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: As the name suggests. On the surface, it's\na bloomers cafe, but behind the scenes, it's a\nbloomers brothel... however,"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なるほど、こいつは、見つからないはずだぜ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ケンイチ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「た……確かに。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　普通に怪しいと思っても、裏風俗で止まるよね」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -21390,63 +21238,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルリカ"
+                                "Sakura: This one has become even more likely."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「次回以降……より深く潜入して調査する必要がある」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルリカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そういうことですね」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -21466,63 +21276,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: The hidden brothel is just a cover. And\neven deeper, it's the secret base of the Pink\nSnake Gang."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ああ、適当に時間をおいて、再調査だ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "サクラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それと……おい、クソガキ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -21542,63 +21314,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キモヒコ"
+                                "Sakura: I see, this one shouldn't be found."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はーい、サクラおねえちゃん♪」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "キモヒコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっとねー、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　おねえちゃんのブルマを見てたら思い出したんだけど」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -21618,63 +21352,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キモヒコ"
+                                "Kenichi: Y-yeah... Even if you think it's\nsuspicious, you end up stopping at an underground\nadult entertainment establishment, right?"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この辺りにもピンクスネーク団の隠し倉庫があるよ♪」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "キモヒコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「役に立つものが入ってるから、あ、違った」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -21694,25 +21390,329 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キモヒコ"
+                                "Rurika: We need to dive deeper and investigate\nfurther in the next episode."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「役に立つものが入ってるかもだから調べてみようよ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
                             "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Rurika: That's right, isn't it?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Sakura: Ah, let's wait for a while and investigate\nagain."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Sakura: And... hey, you little shit."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Kimohiko: H-hi, Onee-san Sakura♪"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Kimohiko: Um, you know, while I was looking at\nOnee-chan's bloomers, it reminded me of something."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Kimohiko: There's a hidden warehouse of the Pink\nSnake Gang around here too♪"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Kimohiko: Because there's something useful inside,\nah, no, that's not it."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Kimohiko: Let's investigate because there might be\nsomething useful inside."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -21741,25 +21741,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: ...I see, let's collect it later."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……だとよ、あとで回収しておこうぜ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -21788,25 +21788,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルリカ"
+                                "Rurika: ...Yes, let's make sure to collect it\nwithout forgetting."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……そうですね、忘れずに回収しておきましょう」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -21826,25 +21826,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi: ......?"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -21869,25 +21869,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "Kenichi and the others conducted an undercover\ninvestigation at the Bloomers Cafe."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ケンイチたちはブルマ喫茶の潜入調査を行った。"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -21907,21 +21907,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "Based on Kimohiko's information, they raided the\nhidden warehouse of the Pink Snake Gang."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "キモヒコの情報をもとに、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ピンクスネーク団の隠し倉庫を摘発した。"
+                                ""
                             ]
                         },
                         {
@@ -21950,38 +21950,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "You have earned a contribution of 500P!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]500P\\C[0]の貢献度を獲得した！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "SYSTEM"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\I[306]\\C[4]特殊チップα\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {
@@ -21998,14 +21974,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM \\I[306] \\C[4] Obtained Special Chip Alpha\n\\C[0]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\I[313]\\C[4]金塊\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {
@@ -22022,14 +21998,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\I[313]\\C[4]Obtained gold bullion\\C[0]!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "裏イベント『\\I[84]\\C[4]ブルマ喫茶調査01\\C[0]』が解放されました。"
+                                "The hidden event \\I[84]\\C[4]Bloomers Cafe\nInvestigation 01\\C[0] has been unlocked."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -22386,63 +22386,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルリカ"
+                                "Rurika: I'm back, Sakura, Kenichi-san."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「戻りましたよ、サクラ、ケンイチさん」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "キモヒコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ただいまー、サクラおねえちゃんにケンイチくん」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -22462,63 +22424,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Kimohiko: I'm home, Onee-chan Sakura and Kenichi-\nkun."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お疲れさまです、ルリカねえちゃん、あとキモヒコも」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "当たり前だけど、潜入役は囮役より神経を使う。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なのにルリカねえちゃんはさすが疲れた様子を見せない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -22538,25 +22462,101 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "特に今回はキモヒコが、悪く言えば面倒を見る手間が増える"
+                                "Kenichi: Welcome back, Onee-chan Rurika, and also\nKimohiko."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "足手まといが一緒なのに。"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
                             "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Of course, the undercover role requires more\nnerves than the decoy role. Yet, Onee-chan Rurika\nshows no signs of exhaustion, as expected."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Especially this time, even though Kimohiko is a\nburden in the sense that he requires more care, as\nexpected, Onee-chan Rurika shows no signs of\nexhaustion."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -22585,63 +22585,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キモヒコ"
+                                "Kimohiko: Ehehe, it was quite fun, I must say."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えへへー、結構、楽しかったかもー」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "キモヒコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ルリカおねえちゃんのチアガールもねー」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -22661,25 +22623,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キモヒコ"
+                                "Kimohiko: Rurika, even your cheerleading is\namazing, Onee-chan."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「えっちで最高だったよー♪"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ボク、たくさん、応援されちゃったー♪」"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -22699,25 +22661,63 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Kimohiko: It was amazing and naughty♪ I received a\nlot of support♪"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「応援？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
                             "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Kenichi: Support?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -22755,25 +22755,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルリカ"
+                                "Rurika: There's nothing for Kenichi-san to worry\nabout. I was just pretending to be a cheerleader\nfor a little bit..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ケンイチさんが気にすることはありませんよ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　少しだけチアガールの真似事をしただけですから……」"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -22793,63 +22793,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あくまでルリカねえちゃんはクールだ。"
+                                "Rurika Onee-chan is always cool."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それに比べてキモヒコの喜びよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなにルリカねえちゃんのチアガールが……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -22869,63 +22831,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "On the other hand, Kimohiko's joy is incomparable.\nTo think that Rurika Onee-chan's cheerleading..."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（くう、いや、でも、おれも見たかった…………）"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "って！　これはあくまで未来特警の仕事だろ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -22945,63 +22869,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルリカねえちゃんのチアガールのことなんて考えるな！！"
+                                "Kenichi: (Ah, no, but... I also wanted to see\nit............)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "サクラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それで、調査の結果はどうだった？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -23021,25 +22907,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルリカ"
+                                "Hey! This is strictly the job of the Future\nSpecial Police!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「キモヒコくんがお手柄でしたよ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　チアガール喫茶の奥には隠し階段がありました」"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -23059,25 +22945,139 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キモヒコ"
+                                "Don't even think about Rurika Onee-chan as a\ncheerleader!!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えへへー、すごいでしょー。"
+                                "Sakura: So, what were the results of the\ninvestigation?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ボクが見つけたんだよ、お手柄なんだよー♪」"
+                                "Rurika: Kimohiko-kun did a great job. There was a\nhidden staircase behind the cheerleader cafe."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Kimohiko: Ehehe, it's amazing, right? I found it,\nit's my achievement♪"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -23122,63 +23122,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "むぎゅっ♡"
+                                "*squeeze*♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "確かにお手柄だな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -23198,25 +23160,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "って、堂々と、なにしてんだキモヒコ！"
+                                "Certainly, it was quite an achievement."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルリカねえちゃんが優しいからって調子に乗って！"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -23236,25 +23198,63 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルリカ"
+                                "Hey, Kimohiko! What are you doing so boldly? Don't\nget carried away just because Rurika Onee- chan is\nkind!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はい、お手柄でしたね。"
+                                "Rurika: Yes, you did a great job. However, whether\nor not I'll forgive this sexual harassment is a\nseparate issue."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　それと、このセクハラを許すかは別問題ですけれど」"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -23290,63 +23290,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すっ、と、手品みたいに。"
+                                "Suddenly, like magic, Onee-chan dodges Kimohiko's\nsexual harassment."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ねえちゃんがキモヒコのセクハラをかわす。"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そして何事もなかったかのように報告を再開する。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -23366,63 +23328,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あまりに鮮やかな回避っぷりに、"
+                                "And they resume the report as if nothing had\nhappened."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "キモヒコがちょっとびっくりしたような顔をしていた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルリカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ただし、隠し階段の向こうにあったのは。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　探していたピンクスネーク団の秘密拠点ではなく」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -23442,63 +23366,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルリカ"
+                                "Kimohiko had a slightly surprised expression on\nhis face at the incredibly skillful evasion."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「会員制のチアガール風俗ピンクボンボン……でしたよ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ケンイチ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ええ！？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -23518,63 +23404,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルリカ"
+                                "Rurika: However, what was found beyond the hidden\nstaircase was not the secret base of the Pink\nSnake gang we were looking for."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「チアガール喫茶の地下で秘密のチアガール風俗を営業」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルリカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「キモヒコくんから秘密拠点の情報を得てなければ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そこで調査を止めていたかもしれませんね」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -23594,25 +23442,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルリカ"
+                                "Rurika: It was a members-only cheerleader-themed\nadult entertainment establishment called Pink\nBonbon..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「裏風俗を隠れ蓑にしてまで隠したい秘密拠点。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　知っていたからこそ、裏の裏を考えることが出来ます」"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -23632,63 +23480,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルリカ"
+                                "Kenichi: Huh!?"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうやら、より深い調査が必要なようです」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ケンイチ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でも……普通に、裏風俗で終わる可能性もあるよね？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -23708,56 +23518,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Rurika: Operating a secret cheerleader-themed\nadult entertainment establishment in the basement\nof the cheerleader cafe."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「普通にその可能性はあるな、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　けど、そんなこと言ってたら未来特警は務まらねえよ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルリカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「可能性を一つ一つ潰して行けば、そのうち当たります」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -23777,25 +23556,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルリカ"
+                                "Rurika: If we hadn't obtained information about\nthe secret base from Kimohiko-kun, we might have\nstopped the investigation there."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「連続では怪しまれかねません。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　多少、時間を置いての再調査を行いましょう」"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -23815,25 +23594,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルリカ"
+                                "Rurika: A secret base hidden under the disguise of\nan underground adult entertainment establishment.\nBecause I knew about it, I can think beyond the\nsurface."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「……それと、もう一つ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　キモヒコくんが、良いことを思い出してくれました」"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -23853,63 +23632,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キモヒコ"
+                                "Rurika: It seems that a deeper investigation is\nnecessary."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん、ルリカおねえちゃんチアガールのおかげだよ♪」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "キモヒコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この辺りにもピンクスネーク団の隠し倉庫があるよ♪」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -23929,25 +23670,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キモヒコ"
+                                "Kenichi: But... there's also a possibility that it\nwill just end up as an underground adult\nentertainment establishment, right?"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「役に立つものが入ってる、じゃなくて、えーと」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -23967,25 +23708,284 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キモヒコ"
+                                "Sakura: There is a possibility of that happening,\nbut if we keep saying things like that, we won't\nbe fit for the Future Special Police."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「役に立つものが入ってるかもだから調べてみようよ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
                             "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Rurika: If we eliminate each possibility one by\none, eventually we will hit the mark."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Rurika: If we continue investigating\nconsecutively, it might raise suspicion. Let's\ntake some time and conduct a re-investigation."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Rurika: ...And, one more thing. Kimohiko-kun\nremembered something good."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Kimohiko: Yeah, it's thanks to you, Onee-san\nRurika, and the cheerleaders♪"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Kimohiko: There's a hidden Pink Snake gang\nwarehouse around here too♪"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Kimohiko: Not something useful, umm..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Kimohiko: Let's investigate because there might be\nsomething useful inside."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -24014,25 +24014,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルリカ"
+                                "Rurika: ...It seems so, let's make sure to collect\nit without forgetting."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……だそうです、忘れずに回収しておきましょう」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -24061,25 +24061,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: ...I see, damn it, fine, I'll collect it."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……そういうことか、くそっ、わかった回収しとこう」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -24099,25 +24099,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi: ......?"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -24142,25 +24142,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "Kenichi and the others infiltrated the Cheerleader\nCafe for their investigation."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ケンイチたちはチアガール喫茶の潜入調査を行った。"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -24180,21 +24180,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "Based on Kimohiko's information, they exposed the\nPink Snake gang's hidden warehouse."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "キモヒコの情報をもとに、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ピンクスネーク団の隠し倉庫を摘発した。"
+                                ""
                             ]
                         },
                         {
@@ -24223,38 +24223,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]You have earned a contribution of\n500P!\\C[0]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]500P\\C[0]の貢献度を獲得した！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "SYSTEM"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\I[306]\\C[4]特殊チップα\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {
@@ -24271,14 +24247,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\I[306]\\C[4]Obtained Special Chip\nAlpha\\C[0]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\I[313]\\C[4]金塊\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {
@@ -24295,14 +24271,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\I[313]\\C[4]Obtained a gold nugget!\\C[0]!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "裏イベント『\\I[84]\\C[4]チアガール喫茶調査01\\C[0]』が解放されました。"
+                                "The hidden event '\\I[84]\\C[4]Cheerleader Cafe\nInvestigation 01\\C[0]' has been unlocked."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -24804,14 +24804,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コスプレ少女"
+                                "Cosplay Girl: Next time, I'll make sure you get to\nsee it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「今度、ご覧にいれますわねー」"
+                                ""
                             ]
                         },
                         {

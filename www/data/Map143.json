@@ -9739,14 +9739,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "SYSTEM"
+                                "Kenichi used the card key."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ケンイチはカードキーを使用した。"
+                                ""
                             ]
                         },
                         {
@@ -9955,14 +9955,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ボタンを押しても反応しない。"
+                                "Pressing the button doesn't elicit any response.\nIt seems like the security is activated."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "どうやらセキュリティが作動しているようだ。"
+                                ""
                             ]
                         },
                         {
@@ -10058,14 +10058,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "SYSTEM"
+                                "Kenichi used the card key."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ケンイチはカードキーを使用した。"
+                                ""
                             ]
                         },
                         {
@@ -10274,14 +10274,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ボタンを押しても反応しない。"
+                                "Pressing the button doesn't elicit any response.\nIt seems like the security is activated."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "どうやらセキュリティが作動しているようだ。"
+                                ""
                             ]
                         },
                         {
@@ -10368,7 +10368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "上に進むには\\C[4]ランク3以上のカードキー\\C[0]が必要だ。"
+                                "To proceed upwards, you need a card key of Rank 3\nor higher."
                             ]
                         },
                         {
@@ -10445,38 +10445,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究員"
+                                "Researcher: Ugh... I can't find the documents,\nimportant documents."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「うう……書類が見つからない、大事な書類」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "研究員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここにないってことは、どこかに落としたのかも……」"
+                                ""
                             ]
                         },
                         {
@@ -10493,14 +10469,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究員"
+                                "Researcher: If it's not here, maybe I dropped it\nsomewhere..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「\\C[4]床に落ちてる書類に混ざってる\\C[0]……とか\\C[0]」"
+                                "Researcher: \\C[4]Mixed in with the documents that\nfell on the floor... \\C[0]...or something like\nthat."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10525,14 +10525,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi: Um, Onee-san, this..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「あのー、おねえさん、これ」"
+                                ""
                             ]
                         },
                         {
@@ -10603,45 +10603,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "研究員"
+                                "Researcher: Uh, wow! This is the important\ndocument I've been looking for!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「う、うわー！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　これは私が探していた重要書類！！」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "研究員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「届けてくれてありが……未来特警だー！！」"
+                                ""
                             ]
                         },
                         {
@@ -10658,38 +10634,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "研究員"
+                                "Researcher: Thank you for delivering it... Future\nSpecial Police!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「もしかして書類の中身を読んだり……」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "研究員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「あ、待って！　聞きたくない！！」"
+                                ""
                             ]
                         },
                         {
@@ -10706,21 +10658,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "研究員"
+                                "Researcher: Did you happen to read the contents of\nthe documents...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「多分、あれでしょ、上に行きたいんでしょ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　ランク3のカードキーは、持ってないけど、えーと！」"
+                                ""
                             ]
                         },
                         {
@@ -10737,14 +10682,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "研究員"
+                                "Researcher: Ah, wait! I don't want to hear it!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「バイオプラント区画にいる研究員が持ってるはず！」"
+                                ""
                             ]
                         },
                         {
@@ -10761,14 +10706,69 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "研究員"
+                                "Researcher: Maybe it's that, you want to go\nupstairs, right? I don't have the Rank 3 card key,\nbut um!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「あそこは変な警備員が守ってるから気を付けてね！」"
+                                "Researcher: The researcher in the Bio Plant\nsection should have it!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "Researcher: Be careful over there, because there's\na strange security guard protecting it!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10794,14 +10794,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi: Y-Yes, I understand. Thank you very much."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「わ、わかりました、どうも」"
+                                ""
                             ]
                         },
                         {
@@ -10888,45 +10888,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究員"
+                                "Researcher: If you're looking for a Rank 3 card\nkey, the researcher in the Bio Plant section\nshould have it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ランク3のカードキーなら、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　バイオプラント区画にいる研究員が持ってるはずだよ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "研究員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あそこは変な警備員が守ってるから気を付けてね！」"
+                                ""
                             ]
                         },
                         {
@@ -10943,14 +10919,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究員"
+                                "Researcher: Be careful, because there's a strange\nsecurity guard protecting that place!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「……まあ、ここの警備員は全部変だけど」"
+                                "Researcher: ...Well, all the security guards here\nare weird though."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -11027,7 +11027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -11044,7 +11044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -11061,7 +11061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -11078,7 +11078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………特に重要そうな書類は見当たらない。"
+                                "I don't see any particularly important documents."
                             ]
                         },
                         {
@@ -11155,7 +11155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -11172,7 +11172,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -11189,7 +11189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -11206,7 +11206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………特に重要そうな書類は見当たらない。"
+                                "I don't see any particularly important documents."
                             ]
                         },
                         {
@@ -11283,7 +11283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -11300,7 +11300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -11317,7 +11317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -11334,7 +11334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………特に重要そうな書類は見当たらない。"
+                                "I don't see any particularly important documents."
                             ]
                         },
                         {
@@ -11411,7 +11411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -11428,7 +11428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -11445,7 +11445,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -11462,7 +11462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………特に重要そうな書類は見当たらない。"
+                                "I don't see any particularly important documents."
                             ]
                         },
                         {
@@ -11539,7 +11539,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -11556,7 +11556,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -11573,7 +11573,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -11590,7 +11590,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………特に重要そうな書類は見当たらない。"
+                                "I don't see any particularly important documents."
                             ]
                         },
                         {
@@ -11667,7 +11667,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -11684,7 +11684,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -11701,7 +11701,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -11718,7 +11718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………特に重要そうな書類は見当たらない。"
+                                "I don't see any particularly important documents."
                             ]
                         },
                         {
@@ -11795,7 +11795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -11812,7 +11812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -11829,7 +11829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -11846,7 +11846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………特に重要そうな書類は見当たらない。"
+                                "I don't see any particularly important documents."
                             ]
                         },
                         {
@@ -11923,7 +11923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -11940,7 +11940,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -11957,7 +11957,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -11974,7 +11974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………特に重要そうな書類は見当たらない。"
+                                "I don't see any particularly important documents."
                             ]
                         },
                         {
@@ -12051,7 +12051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -12068,7 +12068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -12085,7 +12085,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -12102,7 +12102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………特に重要そうな書類は見当たらない。"
+                                "I don't see any particularly important documents."
                             ]
                         },
                         {
@@ -12179,7 +12179,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -12196,7 +12196,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -12213,7 +12213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -12230,7 +12230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………特に重要そうな書類は見当たらない。"
+                                "I don't see any particularly important documents."
                             ]
                         },
                         {
@@ -12307,7 +12307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -12324,7 +12324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -12341,7 +12341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -12358,7 +12358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………特に重要そうな書類は見当たらない。"
+                                "I don't see any particularly important documents."
                             ]
                         },
                         {
@@ -12435,7 +12435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -12452,7 +12452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -12469,7 +12469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -12486,7 +12486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………特に重要そうな書類は見当たらない。"
+                                "I don't see any particularly important documents."
                             ]
                         },
                         {
@@ -12563,7 +12563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -12580,7 +12580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -12597,7 +12597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -12614,7 +12614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………特に重要そうな書類は見当たらない。"
+                                "I don't see any particularly important documents."
                             ]
                         },
                         {
@@ -12691,7 +12691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -12708,7 +12708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -12725,7 +12725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -12742,7 +12742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………特に重要そうな書類は見当たらない。"
+                                "I don't see any particularly important documents."
                             ]
                         },
                         {
@@ -12819,7 +12819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -12836,7 +12836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -12853,7 +12853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -12870,7 +12870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………特に重要そうな書類は見当たらない。"
+                                "I don't see any particularly important documents."
                             ]
                         },
                         {
@@ -12947,7 +12947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -12964,7 +12964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -12981,7 +12981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -12998,7 +12998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………特に重要そうな書類は見当たらない。"
+                                "I don't see any particularly important documents."
                             ]
                         },
                         {
@@ -13075,7 +13075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -13092,7 +13092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -13109,7 +13109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -13126,7 +13126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………特に重要そうな書類は見当たらない。"
+                                "I don't see any particularly important documents."
                             ]
                         },
                         {
@@ -13203,7 +13203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -13220,7 +13220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -13237,7 +13237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -13254,7 +13254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………特に重要そうな書類は見当たらない。"
+                                "I don't see any particularly important documents."
                             ]
                         },
                         {
@@ -13331,7 +13331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -13348,7 +13348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -13365,7 +13365,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -13382,7 +13382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………特に重要そうな書類は見当たらない。"
+                                "I don't see any particularly important documents."
                             ]
                         },
                         {
@@ -13459,7 +13459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -13476,7 +13476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -13493,7 +13493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -13519,7 +13519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "極秘のスタンプが押された書類を見つけた！！"
+                                "I found a document with a top-secret stamp pressed\non it!"
                             ]
                         },
                         {
@@ -13536,14 +13536,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\I[193]\\C[4]I obtained an important\ndocument!\\C[0]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\I[193]\\C[4]重要書類\\C[0]を手に入れた！"
+                                ""
                             ]
                         },
                         {
@@ -13629,7 +13629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -13646,7 +13646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -13663,7 +13663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -13680,7 +13680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう、重要そうな書類は残っていない。"
+                                "There are no important documents left."
                             ]
                         },
                         {
@@ -13757,14 +13757,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警備員"
+                                "Security Guard: ............"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「…………」"
+                                ""
                             ]
                         },
                         {
@@ -13781,7 +13781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは絶対に通さない、と、態度で伝わってくる。"
+                                "It's clear from their attitude that they won't let\nanyone through here."
                             ]
                         },
                         {
@@ -13849,14 +13849,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警備員"
+                                "Security Guard: ............"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「…………」"
+                                ""
                             ]
                         },
                         {
@@ -13873,7 +13873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは絶対に通さない、と、態度で伝わってくる。"
+                                "It's clear from their attitude that they won't let\nanyone through here."
                             ]
                         },
                         {
@@ -13902,38 +13902,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: Oh, oh, you're quite dedicated to your\njob."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「おうおう、職務熱心なことだな」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "サクラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「悪いが、この先に用事があるんだ」"
+                                ""
                             ]
                         },
                         {
@@ -13950,14 +13926,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: Sorry, but I have something to do ahead."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「押し通らせてもらうぜ！！」"
+                                "Sakura: I'm gonna push my way through!!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -14405,7 +14405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーザーの柵があって通れない。"
+                                "There is a laser fence and I can't pass through."
                             ]
                         },
                         {
@@ -14533,7 +14533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーザーの柵があって通れない。"
+                                "There is a laser fence and I can't pass through."
                             ]
                         },
                         {
@@ -14661,7 +14661,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーザー柵のスイッチだ。"
+                                "It's the switch for the laser fence."
                             ]
                         },
                         {
@@ -14669,8 +14669,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "押す",
-                                    "押さない"
+                                    "Press it",
+                                    "Don't press it"
                                 ],
                                 1,
                                 0,
@@ -14721,7 +14721,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "これで先に進める。"
+                                "We can proceed with this."
                             ]
                         },
                         {
@@ -14821,7 +14821,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーザー柵はOFFになっている。"
+                                "The laser fence is turned off."
                             ]
                         },
                         {
@@ -15009,52 +15009,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究員"
+                                "Researcher: ...T-Thank goodness. I never expected\nto be attacked by a Bio Plant..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「……た、助かった。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　まさかバイオプラントに襲われるなんて…………」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "研究員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こんなバイオ植物から、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　上の連中はどんな薬品を製造しようって言うんだ……」"
+                                ""
                             ]
                         },
                         {
@@ -15071,45 +15040,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究員"
+                                "Researcher: What kind of drugs do those higher-\nups want to produce from this kind of bio\nplant...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あ、いや、今のは聞かなかったことにしてくれ！」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "研究員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「改めて、助けてくれてありがとう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お礼をしたいんだが、なにかリクエストはあるかな！」"
+                                ""
                             ]
                         },
                         {
@@ -15126,45 +15071,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Researcher: Ah, no, please forget what you just\nheard!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「だったら、おれたち上の階に進みたいんだけど」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "研究員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あ……ああ、なるほど。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なんで社内に未来特警がとは思ったけど、なるほどね」"
+                                ""
                             ]
                         },
                         {
@@ -15181,14 +15095,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究員"
+                                "Researcher: Once again, thank you for helping me!\nI want to show my gratitude, so do you have any\nrequests?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「わかった、カードキーを渡すよ」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -15205,14 +15126,93 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SISTEM"
+                                "Kenichi: In that case, I want us to proceed to the\nupper floor."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\I[188]\\C[4]カードキー（☆☆☆）\\C[0]を受け取った！"
+                                "Researcher: Ah... Ah, I see. I was wondering why\nthe Future Special Police were inside the company,\nbut I understand now."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Researcher: Alright, I understand. I'll give you\nthe keycard."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "I received the SISTEM \\I[188]\\C[4]keycard\n(☆☆☆)\\C[0]!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -15239,14 +15239,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究員"
+                                "Researcher: Phew... I guess I should start\npreparing for a job change."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ふぅ……転職の準備、しておくかな」"
+                                ""
                             ]
                         },
                         {
@@ -15323,14 +15323,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究員"
+                                "Researcher: Phew... I guess I should start\npreparing for a job change."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ふぅ……転職の準備、しておくかな」"
+                                ""
                             ]
                         },
                         {
@@ -15407,7 +15407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「う、うわあ、誰か助けてくれー！！」"
+                                "Uwaa, someone help meee!!"
                             ]
                         },
                         {
@@ -15553,7 +15553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「う、うわあ、誰か助けてくれー！！」"
+                                "Uwaa, someone help meee!!"
                             ]
                         },
                         {
@@ -15921,7 +15921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奇妙な植物に誰かが襲われている！"
+                                "Someone is being attacked by a strange plant!"
                             ]
                         },
                         {
@@ -15938,14 +15938,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEN"
+                                "Will you help the SYSTEN researcher?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "研究員を助けますか？"
+                                ""
                             ]
                         },
                         {
@@ -15953,8 +15953,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -15984,14 +15984,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi: That's enough!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「そこまでだ！！」"
+                                ""
                             ]
                         },
                         {
@@ -16187,21 +16187,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "研究員"
+                                "Researcher: H-Help me! If you help me, I'll do\nanything to thank you!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「た、助けてくれー！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　助けてくれたら、なんでも、お礼をするぞー！！」"
+                                ""
                             ]
                         },
                         {
@@ -21939,14 +21939,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[290]Obtained Bio Fiber\\C[0]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[290]バイオ繊維\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {
@@ -22104,14 +22104,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[299]Obtained Emblem (Blue)\\C[0]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[299]エンブレム（青）\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {
@@ -22269,14 +22269,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[299]Obtained the Emblem (Red)\\C[0]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[299]エンブレム（赤）\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {
@@ -22434,14 +22434,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[296]Obtained sturdy fabric!\\C[0]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[296]頑健な布地\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {
@@ -22599,14 +22599,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[241]Obtained Recovery Potion β\\C[0]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[241]回復薬β\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {
@@ -22692,14 +22692,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自動販売機のようだ、"
+                                "It looks like a vending machine, but\nunfortunately, the power is not on."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "残念ながら電源が入っていない。"
+                                ""
                             ]
                         },
                         {
@@ -22788,14 +22788,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[241]Obtained bandages!\\C[0]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[241]包帯\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {
@@ -22953,14 +22953,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[241]Obtained bandages!\\C[0]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[241]包帯\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {
@@ -23118,14 +23118,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[265]Obtained fruit juice!\\C[0]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[265]フルーツジュース\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {
@@ -23283,14 +23283,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[306]Obtained a broken circuit\nboard!\\C[0]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[306]壊れた基盤\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {

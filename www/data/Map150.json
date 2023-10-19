@@ -9720,7 +9720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一度、引き上げようか？"
+                                "Should we withdraw once?"
                             ]
                         },
                         {
@@ -9728,8 +9728,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -9928,7 +9928,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "謎の石像が道を塞いでいる。"
+                                "There is a mysterious stone statue blocking the\npath."
                             ]
                         },
                         {
@@ -9953,14 +9953,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\I[228]\\C[4]Do you want to use the special\ndissolving solution?\\C[0]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\I[228]\\C[4]特殊溶解液\\C[0]を使用しますか？"
+                                ""
                             ]
                         },
                         {
@@ -9968,8 +9968,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -9999,14 +9999,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM Used the special dissolving solution on the\nmysterious stone statue!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "謎の石像に\\I[228]\\C[4]特殊溶解液\\C[0]を使用した！"
+                                ""
                             ]
                         },
                         {
@@ -10292,7 +10292,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "謎の石像が道を塞いでいる……"
+                                "There is a mysterious stone statue blocking the\npath..."
                             ]
                         },
                         {
@@ -10362,14 +10362,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: Alright, could you please move aside for a\nmoment?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「よし、ちょっと横にどいてくれよ」"
+                                ""
                             ]
                         },
                         {
@@ -10386,14 +10386,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: Ready, set, go!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「せーの！！」"
+                                ""
                             ]
                         },
                         {
@@ -10446,21 +10446,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: No good, it doesn't even budge. It doesn't\nseem like it's simply hard."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ダメだな、ビクともしねえ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　単純に硬いってわけじゃ、なさそうだな」"
+                                ""
                             ]
                         },
                         {
@@ -10477,14 +10477,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: Rurika, please examine the path."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ルリカ、パス、調べてくれ」"
+                                ""
                             ]
                         },
                         {
@@ -10573,45 +10573,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルリカ"
+                                "Rurika: I see, understood. Physically destroying\nthis seems difficult."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「なるほど、わかりました。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　これを物理的に破壊するのは困難ですね」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルリカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「恐らく\\C[4]特殊な溶解液\\C[0]が必要かと」"
+                                ""
                             ]
                         },
                         {
@@ -10628,45 +10604,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルリカ"
+                                "Rurika: Perhaps a \\C[4]special dissolving\nsolution\\C[0] is needed."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「とりあえず周辺を探索してみましょう」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルリカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「自分が通れなくなってしまう場合に備えて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　近場に溶解液を隠している可能性は高いです」"
+                                ""
                             ]
                         },
                         {
@@ -10683,14 +10628,69 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "Rurika: Let's start by exploring the surroundings."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\I[228]\\C[4]特殊溶解液\\C[0]を探しましょう。"
+                                "Rurika: There is a high possibility that a\ndissolving solution is hidden nearby in case we\nbecome unable to pass through."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Let's search for the \\C[0]special dissolving\nsolution\\C[4]."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10788,7 +10788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "謎の石像が道を塞いでいる。"
+                                "There is a mysterious stone statue blocking the\npath."
                             ]
                         },
                         {
@@ -10813,14 +10813,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\I[228]\\C[4]Do you want to use the special\ndissolving solution?\\C[0]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\I[228]\\C[4]特殊溶解液\\C[0]を使用しますか？"
+                                ""
                             ]
                         },
                         {
@@ -10828,8 +10828,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -10859,14 +10859,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM Used the special dissolving solution on the\nmysterious stone statue!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "謎の石像に\\I[228]\\C[4]特殊溶解液\\C[0]を使用した！"
+                                ""
                             ]
                         },
                         {
@@ -11359,7 +11359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "謎の石像が道を塞いでいる。"
+                                "There is a mysterious stone statue blocking the\npath."
                             ]
                         },
                         {
@@ -11384,14 +11384,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\I[228]\\C[4]Do you want to use the special\ndissolving solution?\\C[0]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\I[228]\\C[4]特殊溶解液\\C[0]を使用しますか？"
+                                ""
                             ]
                         },
                         {
@@ -11399,8 +11399,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -11430,14 +11430,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM Used the special dissolving solution on the\nmysterious stone statue!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "謎の石像に\\I[228]\\C[4]特殊溶解液\\C[0]を使用した！"
+                                ""
                             ]
                         },
                         {
@@ -11750,14 +11750,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "Do you want to move to the middle point of the\nsystem?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "中間地点に移動しますか？"
+                                ""
                             ]
                         },
                         {
@@ -11765,8 +11765,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -12215,14 +12215,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\I[228]\\C[4]Obtained special dissolving\nliquid\\C[0]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\I[228]\\C[4]特殊溶解液\\C[0]を入手した。"
+                                ""
                             ]
                         },
                         {
@@ -12380,14 +12380,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\I[228]\\C[4]Obtained special dissolving\nliquid\\C[0]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\I[228]\\C[4]特殊溶解液\\C[0]を入手した。"
+                                ""
                             ]
                         },
                         {
@@ -12545,14 +12545,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\I[228]\\C[4]Obtained special dissolving\nliquid\\C[0]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\I[228]\\C[4]特殊溶解液\\C[0]を入手した。"
+                                ""
                             ]
                         },
                         {
@@ -12698,14 +12698,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "Do you want to move to the deepest part of the\nsystem?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "最深部に移動しますか？"
+                                ""
                             ]
                         },
                         {
@@ -12713,8 +12713,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -12869,14 +12869,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi: The sewer...maybe?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「下水道……かな？」"
+                                ""
                             ]
                         },
                         {
@@ -12893,7 +12893,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ピンクスネーク団の最後の重要施設につながる道を探そう。"
+                                "Let's search for the path that leads to the final\nimportant facility of the Pink Snake Gang."
                             ]
                         },
                         {
@@ -13041,14 +13041,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[305]Obtained Scrap γ\\C[0]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[305]スクラップγ\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {
@@ -13206,14 +13206,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[299]Obtained a shining emblem\n(red)\\C[0]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[299]輝くエンブレム（赤）\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {
@@ -13371,14 +13371,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[299]Obtained a shining emblem\n(blue)\\C[0]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[299]輝くエンブレム（青）\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {
@@ -13536,14 +13536,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[243]Obtained Heal Bomb α\\C[0]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[243]ヒールボムα\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {
@@ -13629,14 +13629,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自動販売機のようだ、"
+                                "It looks like a vending machine, but unfortunately\nthe power is not on."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "残念ながら電源が入っていない。"
+                                ""
                             ]
                         },
                         {
@@ -13725,14 +13725,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[265]Obtained Rich Fruit Juice\\C[0]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[265]濃厚フルーツジュース\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {
@@ -13890,14 +13890,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[305]Obtained a broken motor\\C[0]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[305]壊れたモーター\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {

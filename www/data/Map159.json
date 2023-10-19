@@ -3427,14 +3427,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "Do you want to end the SYSTEM equipment\nproduction?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "装備制作を終了しますか？"
+                                ""
                             ]
                         },
                         {
@@ -3442,8 +3442,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3589,14 +3589,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "Do you want to end the SYSTEM equipment\nproduction?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "装備制作を終了しますか？"
+                                ""
                             ]
                         },
                         {
@@ -3604,8 +3604,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3940,14 +3940,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM \\C[4]\\I[118]Created Assault-type Device\nLV1\\C[0]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[118]強襲型デバイスLV1\\C[0]を制作済みです。"
+                                ""
                             ]
                         },
                         {
@@ -4024,14 +4024,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "I have already created the \\C[0]Thunder-type\nDevice LV1\\C[4]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[119]雷撃型デバイスLV1\\C[0]を制作済みです。"
+                                ""
                             ]
                         },
                         {
@@ -4108,21 +4108,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　制作装備：\\C[4]\\I[112]刀剣型デバイスLV1\\C[0]"
+                                "Equipment Production: \\C[4]\\I[112]Sword-shaped\nDevice LV1\\C[0] Required Materials:\n\\C[4]\\I[305]Low-grade Mithril Ore\\C[0]:\n\\C[4]\\I[112]Sword-shaped Device LV0\\C[0]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　必要素材：\\C[4]\\I[305]下級ミスリル鉱石\\C[0]"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　：\\C[4]\\I[112]刀剣型デバイスLV0\\C[0]"
+                                ""
                             ]
                         },
                         {
@@ -4139,14 +4139,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "Do you want to create the sword-shaped device LV1?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[112]刀剣型デバイスLV1\\C[0]を制作しますか？"
+                                ""
                             ]
                         },
                         {
@@ -4154,8 +4154,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4205,14 +4205,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[112]The sword-shaped device LV1\\C[0]\nhas been completed!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "\\C[4]\\I[112]刀剣型デバイスLV1\\C[0]が完成した！"
+                                ""
                             ]
                         },
                         {
@@ -4301,14 +4301,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM: Insufficient required materials."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "必要な素材が足りません。"
+                                ""
                             ]
                         },
                         {
@@ -4409,14 +4409,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM \\C[4] \\I[112] Sword-shaped Device LV1 \\C[0]\nhas been created."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[112]刀剣型デバイスLV1\\C[0]は制作済みです。"
+                                ""
                             ]
                         },
                         {
@@ -4493,21 +4493,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　制作装備：\\C[4]\\I[119]雷撃型デバイスLV2\\C[0]"
+                                "Equipment Crafting: \\C[4]\\I[119]Thunder-type\nDevice LV2\\C[0] Required Materials:\n\\C[4]\\I[305]Intermediate Mithril Ore\\C[0]:\n\\C[4]\\I[119]Thunder-type Device LV1\\C[0]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　必要素材：\\C[4]\\I[305]中級ミスリル鉱石\\C[0]"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　：\\C[4]\\I[119]雷撃型デバイスLV1\\C[0]"
+                                ""
                             ]
                         },
                         {
@@ -4524,14 +4524,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "Do you want to craft the \\C[4]\\I[119]Thunder-type\nDevice LV2\\C[0]?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[119]雷撃型デバイスLV2\\C[0]を制作しますか？"
+                                ""
                             ]
                         },
                         {
@@ -4539,8 +4539,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4590,14 +4590,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "The \\C[1]\\I[0]Thunder-type Device LV2\\C[0] has\nbeen completed!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "\\C[4]\\I[119]雷撃型デバイスLV2\\C[0]が完成した！"
+                                ""
                             ]
                         },
                         {
@@ -4686,14 +4686,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "You don't have enough required materials."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "必要な素材が足りません。"
+                                ""
                             ]
                         },
                         {
@@ -4794,14 +4794,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "I have already created the \\C[0]Lightning-type\nDevice LV2\\C[4]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[119]雷撃型デバイスLV2\\C[0]を制作済みです。"
+                                ""
                             ]
                         },
                         {
@@ -4878,21 +4878,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　制作装備：\\C[4]\\I[118]強襲型デバイスLV2\\C[0]"
+                                "Equipment Production: \\C[4]\\I[118]Assault Type\nDevice LV2\\C[0] Required Materials:\n\\C[4]\\I[305]Intermediate Mithril Ore\\C[0]:\n\\C[4]\\I[118]Assault Type Device LV1\\C[0]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　必要素材：\\C[4]\\I[305]中級ミスリル鉱石\\C[0]"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　：\\C[4]\\I[118]強襲型デバイスLV1\\C[0]"
+                                ""
                             ]
                         },
                         {
@@ -4909,14 +4909,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[118]Do you want to produce the\nAssault Type Device LV2\\C[0]?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[118]強襲型デバイスLV2\\C[0]を制作しますか？"
+                                ""
                             ]
                         },
                         {
@@ -4924,8 +4924,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4975,14 +4975,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM \\C[4]\\I[118]Assault Type Device LV2\\C[0]\nhas been completed!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "\\C[4]\\I[118]強襲型デバイスLV2\\C[0]が完成した！"
+                                ""
                             ]
                         },
                         {
@@ -5071,14 +5071,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM: The required materials are not enough."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "必要な素材が足りません。"
+                                ""
                             ]
                         },
                         {
@@ -5179,14 +5179,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM \\C[4]\\I[118]The assault-type device\nLV2\\C[0] has been completed."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[118]強襲型デバイスLV2\\C[0]を制作済みです。"
+                                ""
                             ]
                         },
                         {
@@ -5263,21 +5263,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　制作装備：\\C[4]\\I[118]強襲型デバイスLV3\\C[0]"
+                                "Equipment Production: \\C[4]\\I[118]Assault Type\nDevice LV3\\C[0] Required Materials:\n\\C[4]\\I[305]Advanced Mithril Ore\\C[0]:\n\\C[4]\\I[118]Assault Type Device LV2\\C[0]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　必要素材：\\C[4]\\I[305]上級級ミスリル鉱石\\C[0]"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　：\\C[4]\\I[118]強襲型デバイスLV2\\C[0]"
+                                ""
                             ]
                         },
                         {
@@ -5345,21 +5345,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　制作装備：\\C[4]\\I[118]強襲型デバイスLV3\\C[0]"
+                                "Equipment Production: \\C[4]\\I[118]Assault Type\nDevice LV3\\C[0] Required Materials:\n\\C[4]\\I[305]Advanced Mithril Ore\\C[0]:\n\\C[4]\\I[118]Assault Type Device LV2\\C[0]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　必要素材：\\C[4]\\I[305]上級級ミスリル鉱石\\C[0]"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　：\\C[4]\\I[118]強襲型デバイスLV2\\C[0]"
+                                ""
                             ]
                         },
                         {
@@ -5376,14 +5376,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[118]Do you want to produce the\nAssault Type Device LV3\\C[0]?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[118]強襲型デバイスLV3\\C[0]を制作しますか？"
+                                ""
                             ]
                         },
                         {
@@ -5391,8 +5391,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -5442,14 +5442,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM \\C[4]\\I[118]Assault Type Device LV3\\C[0]\nhas been completed!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "\\C[4]\\I[118]強襲型デバイスLV3\\C[0]が完成した！"
+                                ""
                             ]
                         },
                         {
@@ -5538,14 +5538,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM: The required materials are not enough."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "必要な素材が足りません。"
+                                ""
                             ]
                         },
                         {
@@ -5646,14 +5646,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM \\C[4]\\I[118]Created Assault-type Device\nLV3\\C[0]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[118]強襲型デバイスLV3\\C[0]を制作済みです。"
+                                ""
                             ]
                         },
                         {
@@ -5730,21 +5730,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　制作装備：\\C[4]\\I[119]雷撃型デバイスLV3\\C[0]"
+                                "Equipment Crafting: \\C[4]\\I[119]Thunder-type\nDevice LV3\\C[0] Required Materials:\n\\C[4]\\I[305]Advanced Mithril Ore\\C[0]:\n\\C[4]\\I[119]Thunder-type Device LV2\\C[0]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　必要素材：\\C[4]\\I[305]上級ミスリル鉱石\\C[0]"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　：\\C[4]\\I[119]雷撃型デバイスLV2\\C[0]"
+                                ""
                             ]
                         },
                         {
@@ -5812,21 +5812,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　制作装備：\\C[4]\\I[119]雷撃型デバイスLV3\\C[0]"
+                                "Equipment Crafting: \\C[4]\\I[119]Thunder-type\nDevice LV3\\C[0] Required Materials:\n\\C[4]\\I[305]Advanced Mithril Ore\\C[0]:\n\\C[4]\\I[119]Thunder-type Device LV2\\C[0]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　必要素材：\\C[4]\\I[305]上級ミスリル鉱石\\C[0]"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　：\\C[4]\\I[119]雷撃型デバイスLV2\\C[0]"
+                                ""
                             ]
                         },
                         {
@@ -5843,14 +5843,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "Do you want to craft the \\C[4]\\I[119]Thunder-type\nDevice LV3\\C[0]?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[119]雷撃型デバイスLV3\\C[0]を制作しますか？"
+                                ""
                             ]
                         },
                         {
@@ -5858,8 +5858,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -5909,14 +5909,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "The \\C[1]\\I[0]Thunder-type Device LV3\\C[0] has\nbeen completed!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "\\C[4]\\I[119]雷撃型デバイスLV3\\C[0]が完成した！"
+                                ""
                             ]
                         },
                         {
@@ -6005,14 +6005,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "You don't have enough required materials."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "必要な素材が足りません。"
+                                ""
                             ]
                         },
                         {
@@ -6113,14 +6113,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "I have already created the \\C[0]Level 3 Thunder-\ntype Device\\C[4]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[119]雷撃型デバイスLV3\\C[0]を制作済みです。"
+                                ""
                             ]
                         },
                         {
@@ -6197,21 +6197,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　制作装備：\\C[4]\\I[112]刀剣型デバイスLV2\\C[0]"
+                                "Equipment Production: \\C[4]\\I[112]Sword-shaped\nDevice LV2\\C[0] Required Materials:\n\\C[4]\\I[305]Intermediate Mithril Ore\\C[0]:\n\\C[4]\\I[112]Sword-shaped Device LV1\\C[0]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　必要素材：\\C[4]\\I[305]中級ミスリル鉱石\\C[0]"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　：\\C[4]\\I[112]刀剣型デバイスLV1\\C[0]"
+                                ""
                             ]
                         },
                         {
@@ -6279,21 +6279,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　制作装備：\\C[4]\\I[112]刀剣型デバイスLV2\\C[0]"
+                                "Equipment Production: \\C[4]\\I[112]Sword-shaped\nDevice LV2\\C[0] Required Materials:\n\\C[4]\\I[305]Intermediate Mithril Ore\\C[0]:\n\\C[4]\\I[112]Sword-shaped Device LV1\\C[0]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　必要素材：\\C[4]\\I[305]中級ミスリル鉱石\\C[0]"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　：\\C[4]\\I[112]刀剣型デバイスLV1\\C[0]"
+                                ""
                             ]
                         },
                         {
@@ -6310,14 +6310,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[112]Do you want to create the Sword-\nshaped Device LV2\\C[0]?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[112]刀剣型デバイスLV2\\C[0]を制作しますか？"
+                                ""
                             ]
                         },
                         {
@@ -6325,8 +6325,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -6376,14 +6376,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM \\C[4]\\I[112]The Sword-shaped Device\nLV2\\C[0] has been completed!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "\\C[4]\\I[112]刀剣型デバイスLV2\\C[0]が完成した！"
+                                ""
                             ]
                         },
                         {
@@ -6472,14 +6472,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM: The required materials are not enough."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "必要な素材が足りません。"
+                                ""
                             ]
                         },
                         {
@@ -6580,14 +6580,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM \\C[4]\\I[112]The sword-shaped device\nLV2\\C[0] has been created."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[112]刀剣型デバイスLV2\\C[0]は制作済みです。"
+                                ""
                             ]
                         },
                         {
@@ -6664,21 +6664,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　制作装備：\\C[4]\\I[112]刀剣型デバイスLV3\\C[0]"
+                                "Equipment Crafting: \\C[4]\\I[112]Sword-shaped\nDevice LV3\\C[0] Required Materials:\n\\C[4]\\I[305]Advanced Mithril Ore\\C[0]:\n\\C[4]\\I[112]Sword-shaped Device LV2\\C[0]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　必要素材：\\C[4]\\I[305]上級ミスリル鉱石\\C[0]"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　：\\C[4]\\I[112]刀剣型デバイスLV2\\C[0]"
+                                ""
                             ]
                         },
                         {
@@ -6746,21 +6746,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　制作装備：\\C[4]\\I[112]刀剣型デバイスLV3\\C[0]"
+                                "Equipment Crafting: \\C[4]\\I[112]Sword-shaped\nDevice LV3\\C[0] Required Materials:\n\\C[4]\\I[305]Advanced Mithril Ore\\C[0]:\n\\C[4]\\I[112]Sword-shaped Device LV2\\C[0]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　必要素材：\\C[4]\\I[305]上級ミスリル鉱石\\C[0]"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　：\\C[4]\\I[112]刀剣型デバイスLV2\\C[0]"
+                                ""
                             ]
                         },
                         {
@@ -6777,14 +6777,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "Do you want to craft the sword-shaped device LV3?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[112]刀剣型デバイスLV3\\C[0]を制作しますか？"
+                                ""
                             ]
                         },
                         {
@@ -6792,8 +6792,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -6843,14 +6843,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "The sword-shaped device LV3 is complete!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "\\C[4]\\I[112]刀剣型デバイスLV3\\C[0]が完成した！"
+                                ""
                             ]
                         },
                         {
@@ -6939,14 +6939,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM: Not enough required materials."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "必要な素材が足りません。"
+                                ""
                             ]
                         },
                         {
@@ -7047,14 +7047,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM \\C[4] \\I[112] Sword-shaped Device LV3 \\C[0]\nhas been created."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[112]刀剣型デバイスLV3\\C[0]は制作済みです。"
+                                ""
                             ]
                         },
                         {
@@ -7131,14 +7131,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM \\C[4]\\I[137]The assault-type Bio Gear\nLV1\\C[0] has been completed."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[137]強襲型バイオギアLV1\\C[0]を制作済みです。"
+                                ""
                             ]
                         },
                         {
@@ -7215,21 +7215,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　制作装備：\\C[4]\\I[137]強襲型バイオギアLV2\\C[0]"
+                                "Equipment Crafting: \\C[4]\\I[137]Assault Type Bio\nGear LV2\\C[0] Required Materials:\n\\C[4]\\I[305]Intermediate Mithril Ore\\C[0]:\n\\C[4]\\I[137]Assault Type Bio Gear LV1\\C[0]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　必要素材：\\C[4]\\I[305]中級ミスリル鉱石\\C[0]"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　：\\C[4]\\I[137]強襲型バイオギアLV1\\C[0]"
+                                ""
                             ]
                         },
                         {
@@ -7246,14 +7246,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[137]Do you want to craft the Assault\nType Bio Gear LV2\\C[0]?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[137]強襲型バイオギアLV2\\C[0]を制作しますか？"
+                                ""
                             ]
                         },
                         {
@@ -7261,8 +7261,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -7312,14 +7312,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM \\C[4]\\I[137]Assault Type Bio Gear LV2\\C[0]\nhas been completed!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "\\C[4]\\I[137]強襲型バイオギアLV2\\C[0]が完成した！"
+                                ""
                             ]
                         },
                         {
@@ -7408,14 +7408,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM: Not enough required materials."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "必要な素材が足りません。"
+                                ""
                             ]
                         },
                         {
@@ -7516,14 +7516,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[137]I have finished creating the\nAssault Type Bio Gear LV2\\C[0]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[137]強襲型バイオギアLV2\\C[0]を制作済みです。"
+                                ""
                             ]
                         },
                         {
@@ -7600,21 +7600,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　制作装備：\\C[4]\\I[137]強襲型バイオギアLV3\\C[0]"
+                                "Equipment Production: \\C[4]\\I[137]Assault Type Bio\nGear LV3\\C[0] Required Materials:\n\\C[4]\\I[305]Advanced Mithril Ore\\C[0]:\n\\C[4]\\I[137]Assault Type Bio Gear LV2\\C[0]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　必要素材：\\C[4]\\I[305]上級ミスリル鉱石\\C[0]"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　：\\C[4]\\I[137]強襲型バイオギアLV2\\C[0]"
+                                ""
                             ]
                         },
                         {
@@ -7682,21 +7682,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　制作装備：\\C[4]\\I[137]強襲型バイオギアLV3\\C[0]"
+                                "Equipment Crafting: \\C[4]\\I[137]Assault Type Bio\nGear LV3\\C[0] Required Materials:\n\\C[4]\\I[305]Advanced Mithril Ore\\C[0]:\n\\C[4]\\I[137]Assault Type Bio Gear LV2\\C[0]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　必要素材：\\C[4]\\I[305]上級ミスリル鉱石\\C[0]"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　：\\C[4]\\I[137]強襲型バイオギアLV2\\C[0]"
+                                ""
                             ]
                         },
                         {
@@ -7713,14 +7713,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[137]Do you want to craft the Assault\nType Bio Gear LV3\\C[0]?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[137]強襲型バイオギアLV3\\C[0]を制作しますか？"
+                                ""
                             ]
                         },
                         {
@@ -7728,8 +7728,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -7779,14 +7779,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM \\C[4]\\I[137]Assault Type Bio Gear LV3\\C[0]\nhas been completed!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "\\C[4]\\I[137]強襲型バイオギアLV3\\C[0]が完成した！"
+                                ""
                             ]
                         },
                         {
@@ -7875,14 +7875,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM: Not enough required materials."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "必要な素材が足りません。"
+                                ""
                             ]
                         },
                         {
@@ -7983,14 +7983,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM \\C[4]\\I[137]The assault-type Bio Gear\nLV3\\C[0] has been completed."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[137]強襲型バイオギアLV3\\C[0]を制作済みです。"
+                                ""
                             ]
                         },
                         {
@@ -8067,21 +8067,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　制作装備：\\C[4]\\I[84]スレイブギア強襲型\\C[0]"
+                                "Equipment Production: \\C[4]\\I[84]Slave Gear\nAssault Type\\C[0] Required Materials:\n\\C[4]\\I[306]Mithril Ingot\\C[0]:\n\\C[4]\\I[137]Assault Type Bio Gear LV3\\C[0]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　必要素材：\\C[4]\\I[306]ミスリルインゴット\\C[0]"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　：\\C[4]\\I[137]強襲型バイオギアLV3\\C[0]"
+                                ""
                             ]
                         },
                         {
@@ -8098,14 +8098,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[84]Do you want to produce the Slave\nGear Assault Type\\C[0]?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[84]スレイブギア強襲型\\C[0]を制作しますか？"
+                                ""
                             ]
                         },
                         {
@@ -8113,8 +8113,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -8164,14 +8164,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM \\C[4]\\I[84]The Slave Gear Assault Type\\C[0]\nis complete!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "\\C[4]\\I[84]スレイブギア強襲型\\C[0]が完成した！"
+                                ""
                             ]
                         },
                         {
@@ -8260,14 +8260,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM Not enough materials."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "必要な素材が足りません。"
+                                ""
                             ]
                         },
                         {
@@ -8368,14 +8368,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[84]The Slave Gear Assault Type\\C[0]\nhas been completed."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[84]スレイブギア強襲型\\C[0]を制作済みです。"
+                                ""
                             ]
                         },
                         {
@@ -8452,14 +8452,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "I have already created the \\C[0]Thunder-type Bio\nGear LV1\\C[4]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[137]雷撃型バイオギアLV1\\C[0]を制作済みです。"
+                                ""
                             ]
                         },
                         {
@@ -8536,21 +8536,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　制作装備：\\C[4]\\I[137]雷撃型バイオギアLV2\\C[0]"
+                                "Equipment Crafting: \\C[4]\\I[137]Thunderstrike Bio\nGear LV2\\C[0] Required Materials:\n\\C[4]\\I[305]Intermediate Mithril Ore\\C[0]:\n\\C[4]\\I[137]Thunderstrike Bio Gear LV1\\C[0]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　必要素材：\\C[4]\\I[305]中級ミスリル鉱石\\C[0]"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　：\\C[4]\\I[137]雷撃型バイオギアLV1\\C[0]"
+                                ""
                             ]
                         },
                         {
@@ -8567,14 +8567,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "Do you want to craft the \\C[4]\\I[137]Thunderstrike\nBio Gear LV2\\C[0]?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[137]雷撃型バイオギアLV2\\C[0]を制作しますか？"
+                                ""
                             ]
                         },
                         {
@@ -8582,8 +8582,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -8633,14 +8633,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[137]Thunderstrike Bio Gear LV2\\C[0]\nhas been completed!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "\\C[4]\\I[137]雷撃型バイオギアLV2\\C[0]が完成した！"
+                                ""
                             ]
                         },
                         {
@@ -8729,14 +8729,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM: Required materials are insufficient."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "必要な素材が足りません。"
+                                ""
                             ]
                         },
                         {
@@ -8837,14 +8837,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "I have already created the \\C[0]Thunder-type Bio\nGear LV2\\C[4]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[137]雷撃型バイオギアLV2\\C[0]を制作済みです。"
+                                ""
                             ]
                         },
                         {
@@ -8921,21 +8921,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　制作装備：\\C[4]\\I[137]雷撃型バイオギアLV3\\C[0]"
+                                "Equipment Crafting: \\C[4]\\I[137]Thunderstrike Bio\nGear LV3\\C[0] Required Materials:\n\\C[4]\\I[305]Advanced Mithril Ore\\C[0]:\n\\C[4]\\I[137]Thunderstrike Bio Gear LV2\\C[0]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　必要素材：\\C[4]\\I[305]上級ミスリル鉱石\\C[0]"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　：\\C[4]\\I[137]雷撃型バイオギアLV2\\C[0]"
+                                ""
                             ]
                         },
                         {
@@ -9003,21 +9003,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　制作装備：\\C[4]\\I[137]雷撃型バイオギアLV3\\C[0]"
+                                "Equipment Crafting: \\C[4]\\I[137]Thunderstrike Bio\nGear LV3\\C[0] Required Materials:\n\\C[4]\\I[305]Advanced Mithril Ore\\C[0]:\n\\C[4]\\I[137]Thunderstrike Bio Gear LV2\\C[0]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　必要素材：\\C[4]\\I[305]上級ミスリル鉱石\\C[0]"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　：\\C[4]\\I[137]雷撃型バイオギアLV2\\C[0]"
+                                ""
                             ]
                         },
                         {
@@ -9034,14 +9034,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "Do you want to craft the \\C[4]\\I[137]Thunderstrike\nBio Gear LV3\\C[0]?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[137]雷撃型バイオギアLV3\\C[0]を制作しますか？"
+                                ""
                             ]
                         },
                         {
@@ -9049,8 +9049,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -9100,14 +9100,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[137]Thunderstrike Bio Gear LV3\\C[0]\nhas been completed!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "\\C[4]\\I[137]雷撃型バイオギアLV3\\C[0]が完成した！"
+                                ""
                             ]
                         },
                         {
@@ -9196,14 +9196,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM: Required materials are insufficient."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "必要な素材が足りません。"
+                                ""
                             ]
                         },
                         {
@@ -9304,14 +9304,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "I have already created the Thunderstrike Type Bio\nGear LV3."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[137]雷撃型バイオギアLV3\\C[0]を制作済みです。"
+                                ""
                             ]
                         },
                         {
@@ -9388,21 +9388,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　制作装備：\\C[4]\\I[84]スレイブギア雷撃型\\C[0]"
+                                "Equipment Production: \\C[4]\\I[84]Slave Gear\nThunder Type\\C[0] Required Materials:\n\\C[4]\\I[306]Mithril Ingot\\C[0]:\n\\C[4]\\I[137]Thunder Type Bio Gear LV3\\C[0]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　必要素材：\\C[4]\\I[306]ミスリルインゴット\\C[0]"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　：\\C[4]\\I[137]雷撃型バイオギアLV3\\C[0]"
+                                ""
                             ]
                         },
                         {
@@ -9419,14 +9419,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "Do you want to produce the \\C[4]\\I[84]Slave Gear\nThunder Type\\C[0]?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[84]スレイブギア雷撃型\\C[0]を制作しますか？"
+                                ""
                             ]
                         },
                         {
@@ -9434,8 +9434,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -9485,14 +9485,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[84]Slave Gear Thunder Type\\C[0] has\nbeen completed!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "\\C[4]\\I[84]スレイブギア雷撃型\\C[0]が完成した！"
+                                ""
                             ]
                         },
                         {
@@ -9581,14 +9581,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM: The required materials are not enough."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "必要な素材が足りません。"
+                                ""
                             ]
                         },
                         {
@@ -9689,14 +9689,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM \\C[4]\\I[84]Slave Gear Thunder Type\\C[0] has\nbeen created."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[84]スレイブギア雷撃型\\C[0]を制作済みです。"
+                                ""
                             ]
                         },
                         {
@@ -9773,21 +9773,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　制作装備：\\C[4]\\I[137]バイオギアLV1\\C[0]"
+                                "Equipment Crafting: \\C[4]\\I[137]Bio Gear LV1\\C[0]\nRequired Materials: \\C[4]\\I[305]Low-grade Mithril\nOre\\C[0]: \\C[4]\\I[137]Bio Gear LV0\\C[0]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　必要素材：\\C[4]\\I[305]下級ミスリル鉱石\\C[0]"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　：\\C[4]\\I[137]バイオギアLV0\\C[0]"
+                                ""
                             ]
                         },
                         {
@@ -9804,14 +9804,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "Do you want to craft \\C[4]\\I[137]Bio Gear\nLV1\\C[0]?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[137]バイオギアLV1\\C[0]を制作しますか？"
+                                ""
                             ]
                         },
                         {
@@ -9819,8 +9819,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -9870,14 +9870,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[137]Bio Gear LV1\\C[0] has been\ncompleted!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "\\C[4]\\I[137]バイオギアLV1\\C[0]が完成した！"
+                                ""
                             ]
                         },
                         {
@@ -9966,14 +9966,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM Not enough required materials."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "必要な素材が足りません。"
+                                ""
                             ]
                         },
                         {
@@ -10074,14 +10074,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM \\C[4]\\I[137]Bio Gear LV1\\C[0] has been\ncreated."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[137]バイオギアLV1\\C[0]は制作済みです。"
+                                ""
                             ]
                         },
                         {
@@ -10158,21 +10158,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　制作装備：\\C[4]\\I[137]バイオギアLV2\\C[0]"
+                                "Equipment Crafting: \\C[4]\\I[137]Bio Gear LV2\\C[0]\nRequired Materials: \\C[4]\\I[305]Intermediate\nMithril Ore\\C[0]: \\C[4]\\I[137]Bio Gear LV1\\C[0]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　必要素材：\\C[4]\\I[305]中級ミスリル鉱石\\C[0]"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　：\\C[4]\\I[137]バイオギアLV1\\C[0]"
+                                ""
                             ]
                         },
                         {
@@ -10240,21 +10240,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　制作装備：\\C[4]\\I[137]バイオギアLV2\\C[0]"
+                                "Equipment Crafting: \\C[4]\\I[137]Bio Gear LV2\\C[0]\nRequired Materials: \\C[4]\\I[305]Intermediate\nMithril Ore\\C[0]: \\C[4]\\I[137]Bio Gear LV1\\C[0]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　必要素材：\\C[4]\\I[305]中級ミスリル鉱石\\C[0]"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　：\\C[4]\\I[137]バイオギアLV1\\C[0]"
+                                ""
                             ]
                         },
                         {
@@ -10271,14 +10271,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "Do you want to craft the Bio Gear LV2?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[137]バイオギアLV2\\C[0]を制作しますか？"
+                                ""
                             ]
                         },
                         {
@@ -10286,8 +10286,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -10337,14 +10337,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[137]Bio Gear LV2\\C[0] has been\ncompleted!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "\\C[4]\\I[137]バイオギアLV2\\C[0]が完成した！"
+                                ""
                             ]
                         },
                         {
@@ -10433,14 +10433,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM Insufficient required materials."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "必要な素材が足りません。"
+                                ""
                             ]
                         },
                         {
@@ -10541,14 +10541,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM \\C[4]\\I[137]Bio Gear LV2\\C[0] has been\ncreated."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[137]バイオギアLV2\\C[0]は制作済みです。"
+                                ""
                             ]
                         },
                         {
@@ -10625,21 +10625,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　制作装備：\\C[4]\\I[137]バイオギアLV3\\C[0]"
+                                "Equipment Crafting: \\C[4]\\I[137]Bio Gear LV3\\C[0]\nRequired Materials: \\C[4]\\I[305]Advanced Mithril\nOre\\C[0]: \\C[4]\\I[137]Bio Gear LV2\\C[0]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　必要素材：\\C[4]\\I[305]上級ミスリル鉱石\\C[0]"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　：\\C[4]\\I[137]バイオギアLV2\\C[0]"
+                                ""
                             ]
                         },
                         {
@@ -10707,21 +10707,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　制作装備：\\C[4]\\I[137]バイオギアLV3\\C[0]"
+                                "Equipment Crafting: \\C[4]\\I[137]Bio Gear LV3\\C[0]\nRequired Materials: \\C[4]\\I[305]Advanced Mithril\nOre\\C[0]: \\C[4]\\I[137]Bio Gear LV2\\C[0]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　必要素材：\\C[4]\\I[305]上級ミスリル鉱石\\C[0]"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　：\\C[4]\\I[137]バイオギアLV2\\C[0]"
+                                ""
                             ]
                         },
                         {
@@ -10738,14 +10738,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "Do you want to craft \\C[4]\\I[137]Bio Gear\nLV3\\C[0]?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[137]バイオギアLV3\\C[0]を制作しますか？"
+                                ""
                             ]
                         },
                         {
@@ -10753,8 +10753,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -10804,14 +10804,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[137]Bio Gear LV3\\C[0] has been\ncompleted!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "\\C[4]\\I[137]バイオギアLV3\\C[0]が完成した！"
+                                ""
                             ]
                         },
                         {
@@ -10900,14 +10900,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM Insufficient materials."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "必要な素材が足りません。"
+                                ""
                             ]
                         },
                         {
@@ -11008,14 +11008,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM \\C[4]\\I[137]Bio Gear LV3\\C[0] has been\ncreated."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[137]バイオギアLV3\\C[0]は制作済みです。"
+                                ""
                             ]
                         },
                         {
@@ -11092,21 +11092,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　制作装備：\\C[4]\\I[85]NTRギア童貞型\\C[0]"
+                                "Equipment Crafting: \\C[4]\\I[85]NTR Gear Virgin\nType\\C[0] Required Materials: \\C[4]\\I[306]Mithril\nIngot\\C[0]: \\C[4]\\I[137]Bio Gear LV3\\C[0]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　必要素材：\\C[4]\\I[306]ミスリルインゴット\\C[0]"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　：\\C[4]\\I[137]バイオギアLV3\\C[0]"
+                                ""
                             ]
                         },
                         {
@@ -11123,14 +11123,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "Do you want to craft the NTR Gear Virgin Type?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[85]NTRギア童貞型\\C[0]を制作しますか？"
+                                ""
                             ]
                         },
                         {
@@ -11138,8 +11138,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -11189,14 +11189,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[85]The NTR Gear Virgin Type\\C[0] has\nbeen completed!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "\\C[4]\\I[85]NTRギア童貞型\\C[0]が完成した！"
+                                ""
                             ]
                         },
                         {
@@ -11279,38 +11279,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルリカ"
+                                "Rurika: Hehe, it suits you well, Kenichi-san\n\\I[15]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「ふふ、よく似合ってますよケンイチさん\\I[15]」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "サクラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「ああ、負け犬の寝取られマゾにぴったりだな\\I[15]」"
+                                ""
                             ]
                         },
                         {
@@ -11327,38 +11303,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: Ah, it's perfect for a loser cuckold\nmasochist like you \\I[15]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「これからも惨めな寝取られマゾ射精をさせてやるから\\I[15]」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ルリカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「キモヒコさまの引き立て役として負け続けてください\\I[15]」"
+                                ""
                             ]
                         },
                         {
@@ -11375,21 +11327,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルリカ＆サクラ"
+                                "Sakura: I will continue to make you experience\nmiserable cuckold masochistic ejaculations from\nnow on \\I[15]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「ねえ、二番目に大事な弟くん\\I[15]」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「なあ、二番目に大事な弟くん\\I[15]」"
+                                ""
                             ]
                         },
                         {
@@ -11406,7 +11351,62 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ﾋｸﾋｸ\\I[15]　ﾋｸﾋｸ\\I[15]　ﾋｸﾋｸﾋｸﾋｸ\\I[15]"
+                                "Rurika: Please continue to lose as the supporting\nrole for Kimohiko-sama \\I[15]."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "Rurika & Sakura: Hey, our second most important\nlittle brother \\I[15]. Hey, our second most\nimportant little brother \\I[15]."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "ﾋｸﾋｸ\\I[15]ﾋｸﾋｸ\\I[15]ﾋｸﾋｸﾋｸﾋｸ\\I[15]"
                             ]
                         },
                         {
@@ -11462,14 +11462,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM: Not enough materials."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "必要な素材が足りません。"
+                                ""
                             ]
                         },
                         {
@@ -11570,14 +11570,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM \\C[4]\\I[85]NTR Gear Virgin Type\\C[0] has\nbeen created."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[85]NTRギア童貞型\\C[0]を制作済みです。"
+                                ""
                             ]
                         },
                         {
@@ -11654,14 +11654,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　制作装備：\\C[4]\\I[147]電脳防壁\\C[0]"
+                                "Equipment Production: \\C[4]\\I[147]Cyber Defense\nWall\\C[0] Required Materials: \\C[4]\\I[306]Mithril\nIngot\\C[0]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　必要素材：\\C[4]\\I[306]ミスリルインゴット\\C[0]"
+                                ""
                             ]
                         },
                         {
@@ -11678,14 +11678,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[147]Do you want to create the Cyber\nDefense Wall\\C[0]?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[147]電脳防壁\\C[0]を制作しますか？"
+                                ""
                             ]
                         },
                         {
@@ -11693,8 +11693,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -11744,14 +11744,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM \\C[4]\\I[147]The Cyber Defense Wall\\C[0] is\ncomplete!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "\\C[4]\\I[147]電脳防壁\\C[0]が完成した！"
+                                ""
                             ]
                         },
                         {
@@ -11819,14 +11819,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM: The required materials are not enough."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "必要な素材が足りません。"
+                                ""
                             ]
                         },
                         {
@@ -11927,14 +11927,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[147]Cyber Defense Wall\\C[0] has been\ncreated."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[147]電脳防壁\\C[0]を制作済みです。"
+                                ""
                             ]
                         },
                         {

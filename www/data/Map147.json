@@ -9975,21 +9975,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "The SYSTEM transfer device has been turned on. A\nshortcut to the entrance has been opened."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "転送装置をオンにします。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "エントランスへショートカットが開通しました。"
+                                ""
                             ]
                         },
                         {
@@ -10066,14 +10066,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "The shortcut to the SYSTEM entrance is open."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "エントランスのショートカットは開通しています。"
+                                ""
                             ]
                         },
                         {
@@ -10388,7 +10388,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『入室許可証を挿入してください』"
+                                "Please insert the admission permit."
                             ]
                         },
                         {
@@ -10405,14 +10405,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "Do you want to use the admission permit?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\I[188]\\C[4]入室許可証\\C[0]を使用しますか？"
+                                ""
                             ]
                         },
                         {
@@ -10420,8 +10420,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -10471,7 +10471,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "『入室許可証を確認、ロックを解除します』"
+                                "Confirming the admission permit, unlocking the\ndoor."
                             ]
                         },
                         {
@@ -10539,7 +10539,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "『入室許可証を確認できません』"
+                                "I can't confirm the admission permit."
                             ]
                         },
                         {
@@ -10640,7 +10640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "入室許可証は使用済みだ。"
+                                "The entry permit has already been used."
                             ]
                         },
                         {
@@ -10828,7 +10828,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーザーの柵があって通れない。"
+                                "There is a laser fence and I can't pass through."
                             ]
                         },
                         {
@@ -10968,7 +10968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『入室許可証を挿入してください』"
+                                "Please insert the admission permit."
                             ]
                         },
                         {
@@ -10985,14 +10985,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "Do you want to use the admission permit?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\I[188]\\C[4]入室許可証\\C[0]を使用しますか？"
+                                ""
                             ]
                         },
                         {
@@ -11000,8 +11000,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -11051,7 +11051,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "『入室許可証を確認、ロックを解除します』"
+                                "Confirming the admission permit, unlocking the\ndoor."
                             ]
                         },
                         {
@@ -11119,7 +11119,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "『入室許可証を確認できません』"
+                                "I can't confirm the admission permit."
                             ]
                         },
                         {
@@ -11220,7 +11220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "入室許可証は使用済みだ。"
+                                "The entry permit has already been used."
                             ]
                         },
                         {
@@ -11408,7 +11408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーザーの柵があって通れない。"
+                                "There is a laser fence and I can't pass through."
                             ]
                         },
                         {
@@ -11545,14 +11545,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "SYSTEM"
+                                "The door lock of the SYSTEM president's office has\nbeen released."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "社長室のドアロックは解除されている。"
+                                ""
                             ]
                         },
                         {
@@ -11761,14 +11761,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ボタンを押しても反応しない。"
+                                "Pressing the button doesn't elicit any response.\nIt seems like the security is activated."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "どうやらセキュリティが作動しているようだ。"
+                                ""
                             ]
                         },
                         {
@@ -11855,38 +11855,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミュータント兵"
+                                "Mutant Soldier: ..................Bumou"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "『………………ブモウ』"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ミュータント兵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『グルルウ、ブモ、ブモモォン！！』"
+                                ""
                             ]
                         },
                         {
@@ -11903,7 +11879,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミュータント兵が襲い掛かって来た！"
+                                "Mutant Soldier: Grrr, Bumo, Bumomoong!!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "The mutant soldiers came attacking!"
                             ]
                         },
                         {
@@ -11978,7 +11978,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "バイオ警備員を倒すと一枚のカードが残った。"
+                                "When I defeated the biosecurity guard, a card was\nleft behind."
                             ]
                         },
                         {
@@ -11995,14 +11995,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\I[188]\\C[4]Obtained Entry Permit\\C[0]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\I[188]\\C[4]入室許可証\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {
@@ -12287,38 +12287,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミュータント兵"
+                                "Mutant Soldier: ..................Bumou"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "『………………ブモウ』"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ミュータント兵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『グルルウ、ブモ、ブモモォン！！』"
+                                ""
                             ]
                         },
                         {
@@ -12335,7 +12311,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミュータント兵が襲い掛かって来た！"
+                                "Mutant Soldier: Grrr, Bumo, Bumomooon!!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "The mutant soldiers came attacking!"
                             ]
                         },
                         {
@@ -12410,7 +12410,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "バイオ警備員を倒すと一枚のカードが残った。"
+                                "When I defeated the biosecurity guard, a card was\nleft behind."
                             ]
                         },
                         {
@@ -12427,14 +12427,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM \\I[188] \\C[4] Obtained Entry Permit \\C[0]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\I[188]\\C[4]入室許可証\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {
@@ -12719,45 +12719,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "上級研究員"
+                                "Senior Researcher: I'm just a researcher who can't\nbecome a supervisor."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「おれは主任になれない程度の研究員だ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "上級研究員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だからってわけじゃないが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　邪魔な草を消して近道できるようにしてやろうか？」"
+                                ""
                             ]
                         },
                         {
@@ -12774,14 +12743,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "上級研究員"
+                                "Senior Researcher: It's not because of that, but\nshould I clear away the obstructive weeds and make\na shortcut for you?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「もちろん、無料とはいかないけど」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -12798,14 +12774,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "Senior Researcher: Of course, it won't be free."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]1000P\\C[0]を支払って邪魔な草を払ってもらいますか？"
+                                "Will you pay 1000P to have the obstructive weeds\ncleared away?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -12813,8 +12813,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -12874,14 +12874,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "I paid 1000P."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "\\C[4]1000P\\C[0]を支払いました。"
+                                ""
                             ]
                         },
                         {
@@ -12917,14 +12917,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "上級研究員"
+                                "Senior Researcher: Thank you as always."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「毎度あり」"
+                                ""
                             ]
                         },
                         {
@@ -12963,14 +12963,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "You don't have enough SYSTEM points."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ポイントが不足しています。"
+                                ""
                             ]
                         },
                         {
@@ -13071,14 +13071,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "上級研究員"
+                                "Senior Researcher: Thank you as always."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「毎度あり」"
+                                ""
                             ]
                         },
                         {
@@ -13599,38 +13599,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バイオ警備員"
+                                "Biosecurity Guard: ................. Intruder\ndetected."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「………………侵入者発見」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "バイオ警備員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「機密保持、捕獲、戦闘開始」"
+                                ""
                             ]
                         },
                         {
@@ -13647,7 +13623,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バイオ警備員が襲い掛かって来た！"
+                                "Biosecurity Guard: Maintain confidentiality,\ncapture, commence combat."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "The biosecurity guard came charging at us!"
                             ]
                         },
                         {
@@ -13878,38 +13878,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バイオ警備員"
+                                "Biosecurity Guard: ................. Intruder\ndetected."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「………………侵入者発見」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "バイオ警備員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「機密保持、捕獲、戦闘開始」"
+                                ""
                             ]
                         },
                         {
@@ -13926,7 +13902,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バイオ警備員が襲い掛かって来た！"
+                                "Biosecurity Guard: Maintain confidentiality,\ncapture, commence combat."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "The biosecurity guard came charging at us!"
                             ]
                         },
                         {
@@ -14601,7 +14601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あからさまに待ち構えられている。"
+                                "I am being openly awaited."
                             ]
                         },
                         {
@@ -14618,14 +14618,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "Do you want to step into the SYSTEM research lab?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "研究室に踏み込みますか？"
+                                ""
                             ]
                         },
                         {
@@ -14633,8 +14633,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -14695,14 +14695,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "上級主任"
+                                "Senior Chief I won't let you interfere with the\nresearch!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「研究の邪魔はさせない！！」"
+                                ""
                             ]
                         },
                         {
@@ -14719,7 +14719,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "上級主任たちが襲い掛かって来た！"
+                                "The senior chiefs have come attacking!"
                             ]
                         },
                         {
@@ -14751,14 +14751,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "上級主任"
+                                "Senior Chief You, you bastard!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「お、おのれー！！」"
+                                ""
                             ]
                         },
                         {
@@ -15158,7 +15158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あからさまに待ち構えられている。"
+                                "I am being openly awaited."
                             ]
                         },
                         {
@@ -15175,14 +15175,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "Do you want to step into the SYSTEM research lab?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "研究室に踏み込みますか？"
+                                ""
                             ]
                         },
                         {
@@ -15190,8 +15190,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -15266,14 +15266,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "上級主任"
+                                "Senior Supervisor: I won't let you interfere with\nthe research!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「研究の邪魔はさせない！！」"
+                                ""
                             ]
                         },
                         {
@@ -15290,7 +15290,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "上級主任たちが襲い掛かって来た！"
+                                "The senior supervisors have come attacking!"
                             ]
                         },
                         {
@@ -15322,14 +15322,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "上級主任"
+                                "Senior Supervisor: Y-You bastard!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「お、おのれー！！」"
+                                ""
                             ]
                         },
                         {
@@ -16173,38 +16173,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バイオ警備員"
+                                "Biosecurity Guard: ................. Intruder\ndetected."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「………………侵入者発見」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "バイオ警備員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「機密保持、捕獲、戦闘開始」"
+                                ""
                             ]
                         },
                         {
@@ -16221,7 +16197,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バイオ警備員が襲い掛かって来た！"
+                                "Biosecurity Guard: Maintain confidentiality,\ncapture, commence combat."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "The biosecurity guard came charging at us!"
                             ]
                         },
                         {
@@ -16452,7 +16452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "社長室の入口を開けるスイッチだ。"
+                                "It's the switch to open the entrance to the\npresident's office."
                             ]
                         },
                         {
@@ -16460,8 +16460,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "押す",
-                                    "押さない"
+                                    "Press it",
+                                    "Don't press it"
                                 ],
                                 1,
                                 0,
@@ -16546,7 +16546,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "遠くで、重いドアの開く音が聞こえた。"
+                                "I heard the sound of a heavy door opening in the\ndistance."
                             ]
                         },
                         {
@@ -16656,7 +16656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スイッチはONになっている。"
+                                "The switch is turned on."
                             ]
                         },
                         {
@@ -16733,7 +16733,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "社長室の入口を開けるスイッチだ。"
+                                "It's the switch to open the entrance to the\npresident's office."
                             ]
                         },
                         {
@@ -16741,8 +16741,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "押す",
-                                    "押さない"
+                                    "Press it",
+                                    "Don't press it"
                                 ],
                                 1,
                                 0,
@@ -16827,7 +16827,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "遠くで、重いドアの開く音が聞こえた。"
+                                "I heard the sound of a heavy door opening in the\ndistance."
                             ]
                         },
                         {
@@ -16937,7 +16937,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スイッチはONになっている。"
+                                "The switch is turned on."
                             ]
                         },
                         {
@@ -17014,45 +17014,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "上級研究員"
+                                "Senior Researcher: Our president is very cautious."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「うちの社長はとても用心深いの」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "上級研究員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「社長室のドアを開けるには、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　上級主任が管理してる二つのスイッチが必要なのよ」"
+                                ""
                             ]
                         },
                         {
@@ -17069,14 +17038,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "上級研究員"
+                                "Senior Researcher: To open the door to the\npresident's office, you need two switches that are\nmanaged by the senior supervisor."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「…………」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -17093,21 +17069,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "上級研究員"
+                                "Senior Researcher: ............"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「用心深いを通り越して、"
+                                "Senior Researcher: It seems like they're hiding\nnot just caution, but also some dark secrets...\njust kidding."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　後ろ暗い秘密でも隠してるみたい……なんてね」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -20667,45 +20667,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たっぷり眠った研究員"
+                                "The researcher who slept soundly says, I've been\nwaiting for you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「待ってたよ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "たっぷり眠った研究員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「たっぷり眠って冷静になったら頭が冷えた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もう社長にはついていけない」"
+                                ""
                             ]
                         },
                         {
@@ -20722,45 +20691,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たっぷり眠った研究員"
+                                "The researcher who slept soundly says, After\nsleeping plenty and calming down, my head has\ncooled off. I can't keep up with the president\nanymore."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「社長が開発した戦闘補助型のバイオ生物……かな」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "たっぷり眠った研究員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あれは熱への耐性を獲得して、とにかく、頑丈で。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　思念による範囲攻撃と治癒を繰り返す機能を有している」"
+                                ""
                             ]
                         },
                         {
@@ -20777,45 +20722,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たっぷり眠った研究員"
+                                "The researcher who slept soundly says, It's a\ncombat support type bio-organism developed by the\npresident... I think."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ただし……弱点がないわけじゃない」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "たっぷり眠った研究員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「機能を単純化しているから根本的に短絡で、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　平たく言うと挑発に弱く\\C[4]簡単に激昂する\\C[0]んだ」"
+                                ""
                             ]
                         },
                         {
@@ -20832,38 +20746,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たっぷり眠った研究員"
+                                "The researcher who slept soundly says, That one\nhas acquired resistance to heat and, in any case,\nit has a sturdy function that repeatedly performs\narea attacks and healing through thought waves."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「社長を相手にするなら、忘れないでくれ」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "たっぷり眠った研究員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それとこれも」"
+                                ""
                             ]
                         },
                         {
@@ -20880,14 +20777,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "The researcher who slept plenty says, However...\nit doesn't mean there are no weaknesses."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\I[306]\\C[4]特殊チップβ\\C[0]を研究員に渡された。"
+                                ""
                             ]
                         },
                         {
@@ -20904,14 +20801,117 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たっぷり眠った研究員"
+                                "The researcher who slept plenty says, Because it\nsimplifies the functions, it's fundamentally\nshortsighted and, to put it bluntly, it's weak to\nprovocation and easily gets enraged."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「じゃあ、がんばってね」"
+                                "The researcher who slept plenty says, If you're\ngoing to face the president, don't forget."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "The researcher who slept plenty says, And this\ntoo."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "The researcher was given the special chip β by the\nSYSTEM."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "The researcher who slept plenty says, Well then,\ndo your best."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -21086,14 +21086,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[290]Obtained Bio Fiber\\C[0]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[290]バイオ繊維\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {
@@ -21251,14 +21251,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[290]Obtained Bio Fiber\\C[0]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[290]バイオ繊維\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {
@@ -21416,14 +21416,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[290]Obtained Bio Fiber\\C[0]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[290]バイオ繊維\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {
@@ -21581,14 +21581,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[296]Obtained sturdy fabric!\\C[0]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[296]頑健な布地\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {
@@ -21746,14 +21746,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[296]Obtained sturdy fabric!\\C[0]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[296]頑健な布地\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {
@@ -21911,14 +21911,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[306]Obtained a broken circuit\nboard!\\C[0]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[306]壊れた基盤\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {
@@ -22076,14 +22076,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[306]Obtained a broken circuit\nboard!\\C[0]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[306]壊れた基盤\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {

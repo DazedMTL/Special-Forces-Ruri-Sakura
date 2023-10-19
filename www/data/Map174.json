@@ -14780,14 +14780,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "Transferring to SYSTEM Floor 3."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "フロア3に転移します。"
+                                ""
                             ]
                         },
                         {
@@ -14885,7 +14885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "対岸に見えていたのと同じ宝玉がある。"
+                                "There is a gemstone that looks the same as the one\non the opposite bank."
                             ]
                         },
                         {
@@ -14902,14 +14902,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "Do you want to touch the system?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "触りますか？"
+                                ""
                             ]
                         },
                         {
@@ -14917,8 +14917,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -14980,7 +14980,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "宝玉が光を発し始めた。"
+                                "The gemstone began to emit light."
                             ]
                         },
                         {
@@ -15027,7 +15027,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "何かが作動する大きな音がした。"
+                                "There was a loud noise as something started to\noperate."
                             ]
                         },
                         {
@@ -15128,7 +15128,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宝玉が光っている。"
+                                "The jewel is shining."
                             ]
                         },
                         {
@@ -15205,7 +15205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "対岸に見えていたのと同じ宝玉がある。"
+                                "There is a gemstone that looks the same as the one\non the opposite bank."
                             ]
                         },
                         {
@@ -15222,14 +15222,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "Do you want to touch the system?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "触りますか？"
+                                ""
                             ]
                         },
                         {
@@ -15237,8 +15237,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -15300,7 +15300,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "宝玉が光を発し始めた。"
+                                "The gemstone began to emit light."
                             ]
                         },
                         {
@@ -15347,7 +15347,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "何かが作動する大きな音がした。"
+                                "I heard a loud noise as something started to\noperate."
                             ]
                         },
                         {
@@ -15448,7 +15448,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宝玉が光っている。"
+                                "The jewel is shining."
                             ]
                         },
                         {
@@ -15525,7 +15525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "対岸に見えていたのと同じ宝玉がある。"
+                                "There is a gemstone that looks the same as the one\non the opposite bank."
                             ]
                         },
                         {
@@ -15542,14 +15542,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "Do you want to touch the system?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "触りますか？"
+                                ""
                             ]
                         },
                         {
@@ -15557,8 +15557,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -15620,7 +15620,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "宝玉が光を発し始めた。"
+                                "The gemstone began to emit light."
                             ]
                         },
                         {
@@ -15667,7 +15667,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "何かが作動する大きな音がした。"
+                                "There was a loud noise as something started to\noperate."
                             ]
                         },
                         {
@@ -15768,7 +15768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宝玉が光っている。"
+                                "The jewel is shining."
                             ]
                         },
                         {
@@ -15845,7 +15845,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "対岸に見えていたのと同じ宝玉がある。"
+                                "There is a gemstone that looks the same as the one\non the opposite bank."
                             ]
                         },
                         {
@@ -15862,14 +15862,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "Do you want to touch the system?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "触りますか？"
+                                ""
                             ]
                         },
                         {
@@ -15877,8 +15877,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -15940,7 +15940,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "宝玉が光を発し始めた。"
+                                "The gemstone began to emit light."
                             ]
                         },
                         {
@@ -15987,7 +15987,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "何かが作動する大きな音がした。"
+                                "There was a loud noise as something started to\noperate."
                             ]
                         },
                         {
@@ -16088,7 +16088,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宝玉が光っている。"
+                                "The jewel is shining."
                             ]
                         },
                         {
@@ -16165,14 +16165,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "Do you touch the SYSTEM goddess statue?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "女神像に触れますか？"
+                                ""
                             ]
                         },
                         {
@@ -16180,8 +16180,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -16223,7 +16223,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『不正アクセス　ヲ　検知　シマシタ』"
+                                "I detected unauthorized access."
                             ]
                         },
                         {
@@ -16240,7 +16240,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『ガーディアンLV4　起動』"
+                                "'Activate Guardian LV4'"
                             ]
                         },
                         {
@@ -16305,7 +16305,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "『ガーディアン　突破　サレマシタ』"
+                                "The Guardian has been breached."
                             ]
                         },
                         {
@@ -16322,7 +16322,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "『ビビ　ガガ　ガガガガ』"
+                                "Bibi-gagagagaga"
                             ]
                         },
                         {
@@ -16339,7 +16339,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ガーディアンは沈黙した。"
+                                "The Guardian fell silent."
                             ]
                         },
                         {
@@ -16478,14 +16478,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "Transferring to SYSTEM Floor 5."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "フロア5に転移します。"
+                                ""
                             ]
                         },
                         {

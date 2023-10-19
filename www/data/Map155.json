@@ -2761,25 +2761,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付"
+                                "Receptionist: Welcome, do you have an appointment?"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いらっしゃいませ、アポイントはおありですか？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -2861,25 +2861,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルリカ"
+                                "Rurika: I don't have an appointment, but as a\nfuture special police officer, I will investigate\nthis company."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「アポイントはありませんが、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　未来特警として、この会社を調べさせていただきます」"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -2899,63 +2899,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付"
+                                "Receptionist: If you don't have an appointment, I\ncan't let you in."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「アポイントがない場合は、お通しすることができません」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "受付"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「未来特警だとしても、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　正式に許可を取り、改めて、捜査にお越しください」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -2975,25 +2937,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルリカ"
+                                "Receptionist: Even if you're a future special\npolice officer, please obtain proper permission\nand come back again for the investigation."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「問題ありません、こちらで勝手に、捜査しますので」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -3013,25 +2975,63 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付"
+                                "Rurika: No problem, I will investigate here on my\nown."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「え、い、いえ、ですから？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
                             "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Receptionist: Uh, um, excuse me?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -3091,14 +3091,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルリカ"
+                                "Rurika: I have destroyed the security of that\nelevator."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「そこのエレベーターのセキュリティを破壊しました」"
+                                ""
                             ]
                         },
                         {
@@ -3115,25 +3115,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルリカ"
+                                "Rurika: Well then, shall we go?"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さあ、行きましょうか」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -3284,14 +3284,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付"
+                                "Receptionist: ...Y-You're being really reckless,\naren't you?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「……む、無茶苦茶やりますね」"
+                                ""
                             ]
                         },
                         {
@@ -3375,25 +3375,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付"
+                                "Receptionist: Welcome, do you have an appointment?"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いらっしゃいませ、アポイントはおありですか？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -3413,14 +3413,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付"
+                                "Receptionist: We are currently closed for\nbusiness."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ただいま、開店休業中です」"
+                                ""
                             ]
                         },
                         {
@@ -3938,14 +3938,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ボタンを押しても反応しない。"
+                                "The button doesn't respond when pressed. It seems\nthat the security is activated."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "どうやらセキュリティが作動しているようだ。"
+                                ""
                             ]
                         },
                         {
@@ -4044,14 +4044,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[265]Obtained fruit juice!\\C[0]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[265]フルーツジュース\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {
@@ -4197,14 +4197,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "Do you want to move to the midpoint of the SYSTEM\noffice?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "オフィスの中間地点に移動しますか？"
+                                ""
                             ]
                         },
                         {
@@ -4212,8 +4212,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4359,14 +4359,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "Do you want to move to the deepest part of the\nSYSTEM office?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "オフィスの最深部に移動しますか？"
+                                ""
                             ]
                         },
                         {
@@ -4374,8 +4374,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4533,14 +4533,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[265]Obtained fruit juice!\\C[0]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[265]フルーツジュース\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {

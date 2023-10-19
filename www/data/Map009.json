@@ -13279,14 +13279,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "活発そうな少女"
+                                "Active-looking girl: Ah! It's the Onee-san from\nFuture Special Police!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ああ！　未来特警のおねえさんだ！」"
+                                ""
                             ]
                         },
                         {
@@ -13394,38 +13394,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルリカ"
+                                "Rurika: Yes, I'm the Onee-san from Future Special\nPolice!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「はい、未来特警のおねえさんですよ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "活発そうな少女"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「すみません、お願いがあるんですけど！」"
+                                ""
                             ]
                         },
                         {
@@ -13442,14 +13418,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "活発そうな少女"
+                                "Active-looking girl: Excuse me, I have a favor to\nask!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「\\I[299]\\C[4]エンブレム（青）\\C[0]を\\C[4]5\\C[0]個、持ってませんか！」"
+                                ""
                             ]
                         },
                         {
@@ -13466,14 +13442,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "活発そうな少女"
+                                "Active-looking girl: \\I[299]\\C[4]Do you have\n\\C[0]5\\C[4] \\C[0]blue emblems\\C[4]?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「友だちと競争してるの、負けたくないの！」"
+                                "Active-looking girl: I'm competing with my\nfriends, I don't want to lose!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -13497,14 +13497,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\I[299]\\C[4]Will you provide 5 \\C[4]blue\nemblems\\C[0]?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\I[299]\\C[4]エンブレム（青）\\C[0]を\\C[4]5\\C[0]個、提供しますか？"
+                                ""
                             ]
                         },
                         {
@@ -13512,8 +13512,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -13567,14 +13567,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "活発そうな少女"
+                                "Active-looking girl: Thank you, Onee-san from\nFuture Special Police!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「ありがとう、未来特警のおねえさん！」"
+                                ""
                             ]
                         },
                         {
@@ -13591,14 +13591,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "活発そうな少女"
+                                "Active-looking girl: Here, as a thank you! Please\nuse it with the Onee-sans!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「これ、お礼！　おねえさんたちで使って！」"
+                                ""
                             ]
                         },
                         {
@@ -13620,38 +13620,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "Kenichi lost \\I[299]\\C[4]blue\nemblems\\C[0]\\C[4]5\\C[0] pieces."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ケンイチは\\I[299]\\C[4]エンブレム（青）\\C[0]を\\C[4]5\\C[0]個、失った。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "SYSTEM"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "市民に感謝され\\C[4]150P\\C[0]の貢献度を獲得した！"
+                                ""
                             ]
                         },
                         {
@@ -13668,14 +13644,38 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "The SYSTEM has acquired a contribution of\n\\C[4]150P\\C[0] and is appreciated by the citizens!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "個人的なお礼として\\I[208]\\C[4]ミラクルアップ\\C[0]を譲ってもらった。"
+                                "The SYSTEM received \\I[208]\\C[4]Miracle Up\\C[0] as\na personal thank you."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -13745,7 +13745,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "と、思ったが\\I[299]\\C[4]エンブレム（青）\\C[0]が足りない。"
+                                "I thought, but it seems that I don't have enough\n\\I[299]\\C[4]blue emblems\\C[0]."
                             ]
                         },
                         {
@@ -13906,14 +13906,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "利発そうな少年"
+                                "Smart-looking boy: Ah! You're Future Special\nPolice-san, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あ！　未来特警さんですよね！」"
+                                ""
                             ]
                         },
                         {
@@ -14021,38 +14021,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: Ah, you're the Onee-san from the Future\nSpecial Police."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ああ、未来特警のおねえさんだ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "サクラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうした、なにかあったのか？」"
+                                ""
                             ]
                         },
                         {
@@ -14069,38 +14045,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "利発そうな少年"
+                                "Sakura: What's wrong? Did something happen?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あ、すみません……大したことじゃないんですけど」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "利発そうな少年"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「\\I[299]\\C[4]エンブレム（赤）\\C[0]を\\C[4]5\\C[0]個、ありませんかね？」"
+                                ""
                             ]
                         },
                         {
@@ -14117,14 +14069,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "利発そうな少年"
+                                "Smart-looking boy: Ah, excuse me... It's not a big\ndeal, but..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「実は友だちと競争してて……」"
+                                ""
                             ]
                         },
                         {
@@ -14141,14 +14093,62 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Smart-looking boy: \\I[299]\\C[4]Do you have\n\\C[0]5\\C[4] red \\C[4]emblems\\C[0]?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はぁん、なるほどね」"
+                                "Smart-looking boy: Actually, I was competing with\nmy friend..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Sakura: Haaan, I see."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -14172,14 +14172,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\I[299]\\C[4]Will you provide \\C[4]5\\C[0] red\nemblems?\\C[0]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\I[299]\\C[4]エンブレム（赤）\\C[0]を\\C[4]5\\C[0]個、提供しますか？"
+                                ""
                             ]
                         },
                         {
@@ -14187,8 +14187,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -14242,21 +14242,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "利発そうな少年"
+                                "Smart-looking boy: Thank you very much! Thank\ngoodness, now I won't lose!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「ありがとうございます！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　よかったー、これで負けないぞ！！」"
+                                ""
                             ]
                         },
                         {
@@ -14273,14 +14273,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "利発そうな少年"
+                                "Smart-looking boy: Here, this is my thanks! Please\nuse it, Onee-san!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「これ、お礼です！　おねえさんたちが使ってください！」"
+                                ""
                             ]
                         },
                         {
@@ -14302,38 +14302,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "Kenichi lost \\I[299]\\C[4]5\\C[0] red \\C[4]emblems."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ケンイチは\\I[299]\\C[4]エンブレム（赤）\\C[0]を\\C[4]5\\C[0]個、失った。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "SYSTEM"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "市民に感謝され\\C[4]150P\\C[0]の貢献度を獲得した！"
+                                ""
                             ]
                         },
                         {
@@ -14350,14 +14326,38 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "The SYSTEM has acquired a contribution of\n\\C[4]150P\\C[0] and has been appreciated by the\ncitizens!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "個人的なお礼として\\I[208]\\C[4]ミラクルアップ\\C[0]を譲ってもらった。"
+                                "The SYSTEM received \\I[208]\\C[4]Miracle Up\\C[0] as\na personal thank-you gift."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -14427,7 +14427,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "と、思ったが\\I[299]\\C[4]エンブレム（赤）\\C[0]が足りない。"
+                                "I thought, but it seems that I'm short on\n\\I[299]\\C[4]red emblems\\C[0]."
                             ]
                         },
                         {
@@ -15677,14 +15677,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "利発そうな少年"
+                                "Smart-looking boy: 'Ah! You're Future Special\nPolice-san, right?'"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あ！　未来特警さんですよね！」"
+                                ""
                             ]
                         },
                         {
@@ -15792,38 +15792,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: Ah, you're the Onee-san from Future\nSpecial Police."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ああ、未来特警のおねえさんだ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "サクラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうした、なにかあったのか？」"
+                                ""
                             ]
                         },
                         {
@@ -15840,38 +15816,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "利発そうな少年"
+                                "Sakura: What's wrong? Did something happen?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あ、すみません……大したことじゃないんですけど」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "利発そうな少年"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「\\I[299]\\C[4]エンブレム（赤）\\C[0]を\\C[4]5\\C[0]個、ありませんかね？」"
+                                ""
                             ]
                         },
                         {
@@ -15888,14 +15840,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "利発そうな少年"
+                                "Smart-looking boy: 'Ah, excuse me... It's not\nsomething significant, but...'"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「実は友だちと競争してて……」"
+                                ""
                             ]
                         },
                         {
@@ -15912,14 +15864,62 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Smart-looking boy: '\\I[299]\\C[4]Do you have\n\\C[0]5\\C[4] red emblems\\C[0]?'"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はぁん、なるほどね」"
+                                "Smart-looking boy: Actually, I was competing with\nmy friend..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Sakura: Haaan, I see."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -15943,14 +15943,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\I[299]\\C[4]Do you want to provide 5 red\nemblems?\\C[0]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\I[299]\\C[4]エンブレム（赤）\\C[0]を\\C[4]5\\C[0]個、提供しますか？"
+                                ""
                             ]
                         },
                         {
@@ -15958,8 +15958,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -16013,21 +16013,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "利発そうな少年"
+                                "Smart-looking boy: Thank you very much! Thank\ngoodness, with this I won't lose!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「ありがとうございます！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　よかったー、これで負けないぞ！！」"
+                                ""
                             ]
                         },
                         {
@@ -16044,14 +16044,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "利発そうな少年"
+                                "Smart-looking boy: Here, this is my thanks! Please\nuse it, Onee-san!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「これ、お礼です！　おねえさんたちが使ってください！」"
+                                ""
                             ]
                         },
                         {
@@ -16073,38 +16073,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "Kenichi lost \\I[299]\\C[4]5\\C[0] red emblems."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ケンイチは\\I[299]\\C[4]エンブレム（赤）\\C[0]を\\C[4]5\\C[0]個、失った。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "SYSTEM"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "市民に感謝され\\C[4]150P\\C[0]の貢献度を獲得した！"
+                                ""
                             ]
                         },
                         {
@@ -16121,14 +16097,38 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "The citizens have expressed their gratitude and\nyou have earned a contribution of 150P!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "個人的なお礼として\\I[208]\\C[4]ミラクルアップ\\C[0]を譲ってもらった。"
+                                "As a personal thank you, I received a\n\\I[208]\\C[4]Miracle Up\\C[0]."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -16198,7 +16198,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "と、思ったが\\I[299]\\C[4]エンブレム（赤）\\C[0]が足りない。"
+                                "I thought, but it seems that I'm short on\n\\I[299]\\C[4]red emblems\\C[0]."
                             ]
                         },
                         {

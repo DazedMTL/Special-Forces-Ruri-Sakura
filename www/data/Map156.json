@@ -14540,7 +14540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "水の中に沈んでいる橋が見える。"
+                                "I can see a bridge sinking in the water."
                             ]
                         },
                         {
@@ -14869,14 +14869,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ドアは開かない、"
+                                "The door won't open, it seems like the security is\nactivated."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "どうやらセキュリティが作動しているようだ。"
+                                ""
                             ]
                         },
                         {
@@ -14963,7 +14963,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "水の中に沈んでいる橋が見える。"
+                                "I can see a bridge sinking in the water."
                             ]
                         },
                         {
@@ -15091,7 +15091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "水の中に沈んでいる橋が見える。"
+                                "I can see a bridge sinking in the water."
                             ]
                         },
                         {
@@ -15295,14 +15295,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドアは開かない、"
+                                "The door won't open, it seems like the security is\nactivated."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どうやらセキュリティが作動しているようだ。"
+                                ""
                             ]
                         },
                         {
@@ -16058,14 +16058,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奇妙な植物……？"
+                                "There's a strange plant...? Something seems to be\nwriggling and blocking the path."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "っぽい、なにかが蠢き、道を塞いでいる。"
+                                ""
                             ]
                         },
                         {
@@ -16090,14 +16090,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\I[228]\\C[4]Would you like to use the\nspecial weed killer\\C[0]?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\I[228]\\C[4]特製除草剤\\C[0]を使用しますか？"
+                                ""
                             ]
                         },
                         {
@@ -16105,8 +16105,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -16136,14 +16136,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM Used the special weed killer on the\nmysterious plant!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "謎の植物に\\I[228]\\C[4]特製除草剤\\C[0]を使用した！"
+                                ""
                             ]
                         },
                         {
@@ -16344,14 +16344,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奇妙な植物……？"
+                                "There's a strange plant...? Something is wriggling\nand blocking the path."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "っぽい、なにかが蠢き、道を塞いでいる。"
+                                ""
                             ]
                         },
                         {
@@ -16376,14 +16376,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\I[228]\\C[4]Would you like to use the\nspecial weed killer\\C[0]?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\I[228]\\C[4]特製除草剤\\C[0]を使用しますか？"
+                                ""
                             ]
                         },
                         {
@@ -16391,8 +16391,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -16422,14 +16422,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM Used the special weed killer on the\nmysterious plant!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "謎の植物に\\I[228]\\C[4]特製除草剤\\C[0]を使用した！"
+                                ""
                             ]
                         },
                         {
@@ -16630,14 +16630,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奇妙な植物……？"
+                                "There's a strange plant...? Something seems to be\nwriggling and blocking the path."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "っぽい、なにかが蠢き、道を塞いでいる。"
+                                ""
                             ]
                         },
                         {
@@ -16662,14 +16662,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\I[228]\\C[4]Would you like to use the\nspecial weed killer\\C[0]?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\I[228]\\C[4]特製除草剤\\C[0]を使用しますか？"
+                                ""
                             ]
                         },
                         {
@@ -16677,8 +16677,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -16708,14 +16708,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM Used the special weed killer on the\nmysterious plant!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "謎の植物に\\I[228]\\C[4]特製除草剤\\C[0]を使用した！"
+                                ""
                             ]
                         },
                         {
@@ -16916,14 +16916,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奇妙な植物……？"
+                                "There's a strange plant...? Something seems to be\nwriggling and blocking the path."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "っぽい、なにかが蠢き、道を塞いでいる。"
+                                ""
                             ]
                         },
                         {
@@ -16948,14 +16948,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\I[228]\\C[4]Would you like to use the\nspecial weed killer\\C[0]?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\I[228]\\C[4]特製除草剤\\C[0]を使用しますか？"
+                                ""
                             ]
                         },
                         {
@@ -16963,8 +16963,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -16994,14 +16994,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM Used the special weed killer on the\nmysterious plant!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "謎の植物に\\I[228]\\C[4]特製除草剤\\C[0]を使用した！"
+                                ""
                             ]
                         },
                         {
@@ -17202,14 +17202,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奇妙な植物……？"
+                                "There's a strange plant...? Something seems to be\nwriggling and blocking the path."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "っぽい、なにかが蠢き、道を塞いでいる。"
+                                ""
                             ]
                         },
                         {
@@ -17234,14 +17234,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\I[228]\\C[4]Would you like to use the\nspecial weed killer\\C[0]?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\I[228]\\C[4]特製除草剤\\C[0]を使用しますか？"
+                                ""
                             ]
                         },
                         {
@@ -17249,8 +17249,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -17280,14 +17280,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM Used the special weed killer on the\nmysterious plant!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "謎の植物に\\I[228]\\C[4]特製除草剤\\C[0]を使用した！"
+                                ""
                             ]
                         },
                         {
@@ -17488,14 +17488,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奇妙な植物……？"
+                                "There's a strange plant...? Something is wriggling\nand blocking the path."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "っぽい、なにかが蠢き、道を塞いでいる。"
+                                ""
                             ]
                         },
                         {
@@ -17520,14 +17520,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\I[228]\\C[4]Would you like to use the\nspecial weed killer\\C[0]?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\I[228]\\C[4]特製除草剤\\C[0]を使用しますか？"
+                                ""
                             ]
                         },
                         {
@@ -17535,8 +17535,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -17566,14 +17566,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM Used the special weed killer on the\nmysterious plant!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "謎の植物に\\I[228]\\C[4]特製除草剤\\C[0]を使用した！"
+                                ""
                             ]
                         },
                         {
@@ -17774,14 +17774,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奇妙な植物……？"
+                                "There's a strange plant...? Something is wriggling\nand blocking the path."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "っぽい、なにかが蠢き、道を塞いでいる。"
+                                ""
                             ]
                         },
                         {
@@ -17806,14 +17806,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\I[228]\\C[4]Would you like to use the\nspecial weed killer\\C[0]?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\I[228]\\C[4]特製除草剤\\C[0]を使用しますか？"
+                                ""
                             ]
                         },
                         {
@@ -17821,8 +17821,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -17852,14 +17852,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM Used the special weed killer on the\nmysterious plant!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "謎の植物に\\I[228]\\C[4]特製除草剤\\C[0]を使用した！"
+                                ""
                             ]
                         },
                         {
@@ -18060,14 +18060,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奇妙な植物……？"
+                                "There's a strange plant...? Something is wriggling\nand blocking the path."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "っぽい、なにかが蠢き、道を塞いでいる。"
+                                ""
                             ]
                         },
                         {
@@ -18092,14 +18092,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\I[228]\\C[4]Would you like to use the\nspecial weed killer\\C[0]?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\I[228]\\C[4]特製除草剤\\C[0]を使用しますか？"
+                                ""
                             ]
                         },
                         {
@@ -18107,8 +18107,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -18138,14 +18138,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM Used the special weed killer on the\nmysterious plant!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "謎の植物に\\I[228]\\C[4]特製除草剤\\C[0]を使用した！"
+                                ""
                             ]
                         },
                         {
@@ -18358,14 +18358,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\I[228]\\C[4]Obtained special weed\nkiller\\C[0]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\I[228]\\C[4]特製除草剤\\C[0]を入手した。"
+                                ""
                             ]
                         },
                         {
@@ -18523,14 +18523,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\I[228]\\C[4]Obtained special weed\nkiller\\C[0]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\I[228]\\C[4]特製除草剤\\C[0]を入手した。"
+                                ""
                             ]
                         },
                         {
@@ -18688,14 +18688,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\I[228]\\C[4]Obtained special weed\nkiller\\C[0]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\I[228]\\C[4]特製除草剤\\C[0]を入手した。"
+                                ""
                             ]
                         },
                         {
@@ -18853,14 +18853,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\I[228]\\C[4]Obtained special weed\nkiller\\C[0]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\I[228]\\C[4]特製除草剤\\C[0]を入手した。"
+                                ""
                             ]
                         },
                         {
@@ -19006,7 +19006,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「UP」と書かれたスイッチがある。"
+                                "There is a switch that says UP."
                             ]
                         },
                         {
@@ -19014,8 +19014,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "押す",
-                                    "押さない"
+                                    "Press",
+                                    "Don't press it"
                                 ],
                                 1,
                                 0,
@@ -19066,7 +19066,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "どこかで橋の上がる音がした。"
+                                "I heard the sound of a bridge being raised\nsomewhere."
                             ]
                         },
                         {
@@ -19166,7 +19166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "橋はすでに上がっている。"
+                                "The bridge is already raised."
                             ]
                         },
                         {
@@ -19243,14 +19243,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奇妙な植物……？"
+                                "There's a strange plant...? Something seems to be\nwriggling and blocking the path."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "っぽい、なにかが蠢き、道を塞いでいる。"
+                                ""
                             ]
                         },
                         {
@@ -19275,14 +19275,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\I[228]\\C[4]Would you like to use the\nspecial weed killer\\C[0]?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\I[228]\\C[4]特製除草剤\\C[0]を使用しますか？"
+                                ""
                             ]
                         },
                         {
@@ -19290,8 +19290,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -19321,14 +19321,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM Used the special weed killer on the\nmysterious plant!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "謎の植物に\\I[228]\\C[4]特製除草剤\\C[0]を使用した！"
+                                ""
                             ]
                         },
                         {
@@ -19529,14 +19529,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奇妙な植物……？"
+                                "There's a strange plant...? Something seems to be\nwriggling and blocking the path."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "っぽい、なにかが蠢き、道を塞いでいる。"
+                                ""
                             ]
                         },
                         {
@@ -19561,14 +19561,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\I[228]\\C[4]Would you like to use the\nspecial weed killer\\C[0]?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\I[228]\\C[4]特製除草剤\\C[0]を使用しますか？"
+                                ""
                             ]
                         },
                         {
@@ -19576,8 +19576,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -19607,14 +19607,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM Used the special weed killer on the\nmysterious plant!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "謎の植物に\\I[228]\\C[4]特製除草剤\\C[0]を使用した！"
+                                ""
                             ]
                         },
                         {
@@ -19815,14 +19815,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奇妙な植物……？"
+                                "There's a strange plant...? Something seems to be\nwriggling and blocking the path."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "っぽい、なにかが蠢き、道を塞いでいる。"
+                                ""
                             ]
                         },
                         {
@@ -19847,14 +19847,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\I[228]\\C[4]Would you like to use the\nspecial weed killer\\C[0]?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\I[228]\\C[4]特製除草剤\\C[0]を使用しますか？"
+                                ""
                             ]
                         },
                         {
@@ -19862,8 +19862,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -19893,14 +19893,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM Used the special weed killer on the\nmysterious plant!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "謎の植物に\\I[228]\\C[4]特製除草剤\\C[0]を使用した！"
+                                ""
                             ]
                         },
                         {
@@ -20101,14 +20101,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奇妙な植物……？"
+                                "There's a strange plant...? Something is wriggling\nand blocking the path."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "っぽい、なにかが蠢き、道を塞いでいる。"
+                                ""
                             ]
                         },
                         {
@@ -20133,14 +20133,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\I[228]\\C[4]Would you like to use the\nspecial weed killer\\C[0]?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\I[228]\\C[4]特製除草剤\\C[0]を使用しますか？"
+                                ""
                             ]
                         },
                         {
@@ -20148,8 +20148,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -20179,14 +20179,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM Used the special weed killer on the\nmysterious plant!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "謎の植物に\\I[228]\\C[4]特製除草剤\\C[0]を使用した！"
+                                ""
                             ]
                         },
                         {
@@ -20387,14 +20387,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奇妙な植物……？"
+                                "There's a strange plant...? Something is wriggling\nand blocking the path."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "っぽい、なにかが蠢き、道を塞いでいる。"
+                                ""
                             ]
                         },
                         {
@@ -20419,14 +20419,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\I[228]\\C[4]Would you like to use the\nspecial weed killer\\C[0]?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\I[228]\\C[4]特製除草剤\\C[0]を使用しますか？"
+                                ""
                             ]
                         },
                         {
@@ -20434,8 +20434,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -20465,14 +20465,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM Used the special weed killer on the\nmysterious plant!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "謎の植物に\\I[228]\\C[4]特製除草剤\\C[0]を使用した！"
+                                ""
                             ]
                         },
                         {
@@ -20673,14 +20673,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奇妙な植物……？"
+                                "There's a strange plant...? Something is wriggling\nand blocking the path."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "っぽい、なにかが蠢き、道を塞いでいる。"
+                                ""
                             ]
                         },
                         {
@@ -20705,14 +20705,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\I[228]\\C[4]Would you like to use the\nspecial weed killer\\C[0]?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\I[228]\\C[4]特製除草剤\\C[0]を使用しますか？"
+                                ""
                             ]
                         },
                         {
@@ -20720,8 +20720,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -20751,14 +20751,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM Used the special weed killer on the\nmysterious plant!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "謎の植物に\\I[228]\\C[4]特製除草剤\\C[0]を使用した！"
+                                ""
                             ]
                         },
                         {
@@ -20959,14 +20959,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奇妙な植物……？"
+                                "There's a strange plant...? Something seems to be\nwriggling and blocking the path."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "っぽい、なにかが蠢き、道を塞いでいる。"
+                                ""
                             ]
                         },
                         {
@@ -20991,14 +20991,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\I[228]\\C[4]Would you like to use the\nspecial weed killer\\C[0]?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\I[228]\\C[4]特製除草剤\\C[0]を使用しますか？"
+                                ""
                             ]
                         },
                         {
@@ -21006,8 +21006,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -21037,14 +21037,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM Used the special weed killer on the\nmysterious plant!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "謎の植物に\\I[228]\\C[4]特製除草剤\\C[0]を使用した！"
+                                ""
                             ]
                         },
                         {
@@ -21245,7 +21245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドアロックの解除スイッチだ、隣に01と書いてある。"
+                                "It's the door unlock switch, and it says 01 next\nto it."
                             ]
                         },
                         {
@@ -21253,8 +21253,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "押す",
-                                    "押さない"
+                                    "Press it",
+                                    "Don't press it"
                                 ],
                                 1,
                                 0,
@@ -21296,7 +21296,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『ロック01　ヲ　解除　シマシタ』"
+                                "I have unlocked lock 01."
                             ]
                         },
                         {
@@ -21396,7 +21396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドアロックの解除スイッチ01はONになっている。"
+                                "The door lock release switch 01 is turned on."
                             ]
                         },
                         {
@@ -21584,7 +21584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドアロックの解除スイッチだ、隣に02と書いてある。"
+                                "It's the door unlock switch, and it says 02 next\nto it."
                             ]
                         },
                         {
@@ -21592,8 +21592,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "押す",
-                                    "押さない"
+                                    "Press it",
+                                    "Don't press it"
                                 ],
                                 1,
                                 0,
@@ -21635,7 +21635,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『ロック02　ヲ　解除　シマシタ』"
+                                "I have unlocked lock 02."
                             ]
                         },
                         {
@@ -21735,7 +21735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドアロックの解除スイッチ02はONになっている。"
+                                "The door lock release switch 02 is turned on."
                             ]
                         },
                         {
@@ -21812,7 +21812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「UP」と書かれたスイッチがある。"
+                                "There is a switch that says UP."
                             ]
                         },
                         {
@@ -21820,8 +21820,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "押す",
-                                    "押さない"
+                                    "Press",
+                                    "Don't press it"
                                 ],
                                 1,
                                 0,
@@ -21872,7 +21872,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "どこかで橋の上がる音がした。"
+                                "I heard the sound of a bridge being raised\nsomewhere."
                             ]
                         },
                         {
@@ -21972,7 +21972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "橋はすでに上がっている。"
+                                "The bridge is already raised."
                             ]
                         },
                         {
@@ -22271,7 +22271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「UP」と書かれたスイッチがある。"
+                                "There is a switch that says UP."
                             ]
                         },
                         {
@@ -22279,8 +22279,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "押す",
-                                    "押さない"
+                                    "Press",
+                                    "Don't press it"
                                 ],
                                 1,
                                 0,
@@ -22331,7 +22331,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "どこかで橋の上がる音がした。"
+                                "I heard the sound of a bridge being raised\nsomewhere."
                             ]
                         },
                         {
@@ -22431,7 +22431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "橋はすでに上がっている。"
+                                "The bridge is already raised."
                             ]
                         },
                         {
@@ -22508,21 +22508,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "The SYSTEM transfer device has been turned on. A\nshortcut to the sewer entrance has been opened."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "転送装置をオンにします。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "下水道入口へショートカットが開通しました。"
+                                ""
                             ]
                         },
                         {
@@ -22599,14 +22599,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "The shortcut from the SYSTEM sewer entrance is\nopen."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "下水道入口からのショートカットは開通しています。"
+                                ""
                             ]
                         },
                         {
@@ -22794,38 +22794,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クローンミュータント"
+                                "Clone Mutant: ................. Intruder detected"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「………………侵入者発見」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "クローンミュータント"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「撃退、殲滅、攻撃開始」"
+                                ""
                             ]
                         },
                         {
@@ -22842,7 +22818,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クローンミュータントが襲い掛かって来た！"
+                                "Clone Mutant: Repel, annihilate, commence attack"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "The clone mutant is attacking!"
                             ]
                         },
                         {
@@ -23073,38 +23073,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クローンミュータント"
+                                "Clone Mutant: ................. Intruder detected"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「………………侵入者発見」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "クローンミュータント"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「撃退、殲滅、攻撃開始」"
+                                ""
                             ]
                         },
                         {
@@ -23121,7 +23097,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クローンミュータントが襲い掛かって来た！"
+                                "Clone Mutant: Repel, annihilate, commence attack"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "The clone mutant is attacking!"
                             ]
                         },
                         {
@@ -23364,14 +23364,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[298]Obtained Bio Snake Venom!\\C[0]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[298]バイオ蛇毒\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {
@@ -23529,14 +23529,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[299]Obtained a shining emblem\n(blue)\\C[0]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[299]輝くエンブレム（青）\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {
@@ -23694,14 +23694,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[299]Obtained a shining emblem\n(blue)\\C[0]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[299]輝くエンブレム（青）\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {
@@ -23859,14 +23859,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[299]Obtained a shining emblem\n(red)\\C[0]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[299]輝くエンブレム（赤）\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {
@@ -24024,14 +24024,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[299]Obtained a shining emblem\n(red)\\C[0]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[299]輝くエンブレム（赤）\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {
@@ -24189,14 +24189,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\I[228]\\C[4]Obtained special weed\nkiller\\C[0]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\I[228]\\C[4]特製除草剤\\C[0]を入手した。"
+                                ""
                             ]
                         },
                         {
@@ -24354,14 +24354,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\I[228]\\C[4]Obtained special weed\nkiller\\C[0]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\I[228]\\C[4]特製除草剤\\C[0]を入手した。"
+                                ""
                             ]
                         },
                         {
@@ -24519,14 +24519,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[265]Obtained Rich Fruit Juice\\C[0]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[265]濃厚フルーツジュース\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {
@@ -24684,14 +24684,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[265]Obtained a rich fruit\njuice\\C[0]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[265]濃厚フルーツジュース\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {
@@ -24849,14 +24849,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[265]Obtained Rich Fruit Juice\\C[0]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[265]濃厚フルーツジュース\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {
@@ -25014,14 +25014,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[306]Obtained Special Chip γ\\C[0]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[306]特殊チップγ\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {
@@ -25167,14 +25167,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奇妙な植物……？"
+                                "There's a strange plant...? Something is wriggling\nand blocking the path."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "っぽい、なにかが蠢き、道を塞いでいる。"
+                                ""
                             ]
                         },
                         {
@@ -25199,14 +25199,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\I[228]\\C[4]Would you like to use the\nspecial weed killer\\C[0]?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\I[228]\\C[4]特製除草剤\\C[0]を使用しますか？"
+                                ""
                             ]
                         },
                         {
@@ -25214,8 +25214,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -25245,14 +25245,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM Used the special weed killer on the\nmysterious plant!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "謎の植物に\\I[228]\\C[4]特製除草剤\\C[0]を使用した！"
+                                ""
                             ]
                         },
                         {
@@ -25453,14 +25453,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奇妙な植物……？"
+                                "There's a strange plant...? Something is wriggling\nand blocking the path."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "っぽい、なにかが蠢き、道を塞いでいる。"
+                                ""
                             ]
                         },
                         {
@@ -25485,14 +25485,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\I[228]\\C[4]Would you like to use the\nspecial weed killer\\C[0]?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\I[228]\\C[4]特製除草剤\\C[0]を使用しますか？"
+                                ""
                             ]
                         },
                         {
@@ -25500,8 +25500,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -25531,14 +25531,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM Used the special weed killer on the\nmysterious plant!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "謎の植物に\\I[228]\\C[4]特製除草剤\\C[0]を使用した！"
+                                ""
                             ]
                         },
                         {
@@ -25739,14 +25739,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奇妙な植物……？"
+                                "There's a strange plant...? Something is wriggling\nand blocking the path."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "っぽい、なにかが蠢き、道を塞いでいる。"
+                                ""
                             ]
                         },
                         {
@@ -25771,14 +25771,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\I[228]\\C[4]Would you like to use the\nspecial weed killer\\C[0]?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\I[228]\\C[4]特製除草剤\\C[0]を使用しますか？"
+                                ""
                             ]
                         },
                         {
@@ -25786,8 +25786,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -25817,14 +25817,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM Used the special weed killer on the\nmysterious plant!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "謎の植物に\\I[228]\\C[4]特製除草剤\\C[0]を使用した！"
+                                ""
                             ]
                         },
                         {
@@ -26025,14 +26025,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奇妙な植物……？"
+                                "There's a strange plant...? Something is wriggling\nand blocking the path."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "っぽい、なにかが蠢き、道を塞いでいる。"
+                                ""
                             ]
                         },
                         {
@@ -26057,14 +26057,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\I[228]\\C[4]Would you like to use the\nspecial weed killer\\C[0]?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\I[228]\\C[4]特製除草剤\\C[0]を使用しますか？"
+                                ""
                             ]
                         },
                         {
@@ -26072,8 +26072,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -26103,14 +26103,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM Used the special weed killer on the\nmysterious plant!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "謎の植物に\\I[228]\\C[4]特製除草剤\\C[0]を使用した！"
+                                ""
                             ]
                         },
                         {
@@ -26323,14 +26323,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[306]Obtained Special Chip β\\C[0]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[306]特殊チップβ\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {
@@ -26488,14 +26488,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[306]Obtained Special Chip β\\C[0]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[306]特殊チップβ\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {
@@ -26653,14 +26653,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[306]Obtained Special Chip γ\\C[0]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[306]特殊チップγ\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {
@@ -26806,14 +26806,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奇妙な植物……？"
+                                "There's a strange plant...? Something is wriggling\nand blocking the path."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "っぽい、なにかが蠢き、道を塞いでいる。"
+                                ""
                             ]
                         },
                         {
@@ -26838,14 +26838,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\I[228]\\C[4]Would you like to use the\nspecial weed killer\\C[0]?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\I[228]\\C[4]特製除草剤\\C[0]を使用しますか？"
+                                ""
                             ]
                         },
                         {
@@ -26853,8 +26853,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -26884,14 +26884,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM Used the special weed killer on the\nmysterious plant!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "謎の植物に\\I[228]\\C[4]特製除草剤\\C[0]を使用した！"
+                                ""
                             ]
                         },
                         {
@@ -27092,14 +27092,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奇妙な植物……？"
+                                "There's a strange plant...? Something seems to be\nwriggling and blocking the path."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "っぽい、なにかが蠢き、道を塞いでいる。"
+                                ""
                             ]
                         },
                         {
@@ -27124,14 +27124,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\I[228]\\C[4]Would you like to use the\nspecial weed killer\\C[0]?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\I[228]\\C[4]特製除草剤\\C[0]を使用しますか？"
+                                ""
                             ]
                         },
                         {
@@ -27139,8 +27139,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -27170,14 +27170,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM Used the special weed killer on the\nmysterious plant!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "謎の植物に\\I[228]\\C[4]特製除草剤\\C[0]を使用した！"
+                                ""
                             ]
                         },
                         {
@@ -27378,14 +27378,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奇妙な植物……？"
+                                "There's a strange plant...? Something seems to be\nwriggling and blocking the path."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "っぽい、なにかが蠢き、道を塞いでいる。"
+                                ""
                             ]
                         },
                         {
@@ -27410,14 +27410,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\I[228]\\C[4]Would you like to use the\nspecial weed killer\\C[0]?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\I[228]\\C[4]特製除草剤\\C[0]を使用しますか？"
+                                ""
                             ]
                         },
                         {
@@ -27425,8 +27425,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -27456,14 +27456,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM Used the special weed killer on the\nmysterious plant!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "謎の植物に\\I[228]\\C[4]特製除草剤\\C[0]を使用した！"
+                                ""
                             ]
                         },
                         {
@@ -27664,14 +27664,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奇妙な植物……？"
+                                "There's a strange plant...? Something is wriggling\nand blocking the path."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "っぽい、なにかが蠢き、道を塞いでいる。"
+                                ""
                             ]
                         },
                         {
@@ -27696,14 +27696,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\I[228]\\C[4]Would you like to use the\nspecial weed killer\\C[0]?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\I[228]\\C[4]特製除草剤\\C[0]を使用しますか？"
+                                ""
                             ]
                         },
                         {
@@ -27711,8 +27711,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -27742,14 +27742,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM Used the special weed killer on the\nmysterious plant!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "謎の植物に\\I[228]\\C[4]特製除草剤\\C[0]を使用した！"
+                                ""
                             ]
                         },
                         {
@@ -27950,14 +27950,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奇妙な植物……？"
+                                "There's a strange plant...? Something is wriggling\nand blocking the path."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "っぽい、なにかが蠢き、道を塞いでいる。"
+                                ""
                             ]
                         },
                         {
@@ -27982,14 +27982,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\I[228]\\C[4]Would you like to use the\nspecial weed killer\\C[0]?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\I[228]\\C[4]特製除草剤\\C[0]を使用しますか？"
+                                ""
                             ]
                         },
                         {
@@ -27997,8 +27997,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -28028,14 +28028,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM Used the special weed killer on the\nmysterious plant!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "謎の植物に\\I[228]\\C[4]特製除草剤\\C[0]を使用した！"
+                                ""
                             ]
                         },
                         {
@@ -28248,14 +28248,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[243]Obtained Heel Bomb α\\C[0]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[243]ヒールボムα\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {
@@ -28341,14 +28341,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自動販売機のようだ、"
+                                "It looks like a vending machine, but\nunfortunately, the power is not on."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "残念ながら電源が入っていない。"
+                                ""
                             ]
                         },
                         {
@@ -30154,7 +30154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『当施設ハ　閉鎖　サレマシタ』"
+                                "This facility has been closed."
                             ]
                         },
                         {
@@ -39432,14 +39432,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[306]Obtained Special Chip\nAlpha\\C[0]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[306]特殊チップα\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {
@@ -39597,14 +39597,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[306]Obtained Special Chip\nAlpha\\C[0]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[306]特殊チップα\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {

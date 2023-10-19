@@ -2779,7 +2779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "植物に似た奇妙な何かが蠢いている。"
+                                "Something strange that resembles a plant is\nwriggling."
                             ]
                         },
                         {
@@ -2856,7 +2856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "植物に似た奇妙な何かが蠢いている。"
+                                "Something strange that resembles a plant is\nwriggling."
                             ]
                         },
                         {
@@ -2933,7 +2933,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "植物に似た奇妙な何かが蠢いている。"
+                                "Something strange that resembles a plant is\nwriggling."
                             ]
                         },
                         {
@@ -3010,7 +3010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "植物に似た奇妙な何かが蠢いている。"
+                                "Something strange that resembles a plant is\nwriggling."
                             ]
                         },
                         {
@@ -3087,7 +3087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "植物に似た奇妙な何かが蠢いている。"
+                                "Something strange that resembles a plant is\nwriggling."
                             ]
                         },
                         {
@@ -3164,7 +3164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "植物に似た奇妙な何かが蠢いている。"
+                                "Something strange that resembles a plant is\nwriggling."
                             ]
                         },
                         {
@@ -3906,14 +3906,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ムラサキの女"
+                                "Murasaki's woman: Ehehe, w-welcome, is it okay?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「えへへ、よ、ようこそ、で良いのかな」"
+                                ""
                             ]
                         },
                         {
@@ -3930,14 +3930,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ムラサキの女"
+                                "Murasaki's woman: I am Purple, the final executive\nof the Pink Snake gang..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「私がパープル、ピンクスネーク団の最後の幹部……です」"
+                                ""
                             ]
                         },
                         {
@@ -3982,38 +3982,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "パープル"
+                                "Purple: Just so you know, I'm a mutant and, hehe,\na real genius scientist."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「一応、ミュータントで、えへ、本物の天才科学者ですよ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "パープル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ブルーみたいな偽物と一緒にしないでね」"
+                                ""
                             ]
                         },
                         {
@@ -4030,14 +4006,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "パープル"
+                                "Purple: Don't compare me to a fake like Blue,\nokay?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「レッドはバカだったけど、バカを自覚してからマシ」"
+                                ""
                             ]
                         },
                         {
@@ -4054,14 +4030,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "パープル"
+                                "Purple: Red was an idiot, but he's been a little\nbetter since he became aware of his own stupidity."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あいつら捕まったんだってね、えへへ、ざまぁみろ」"
+                                "Purple: I heard they got caught, ehehe, serves\nthem right."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4087,38 +4087,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi (W-what should I say... he's the type\nthat's hard to read)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（な、なんていうか……反応に困るタイプだな）"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ケンイチ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（卑屈な……感じ、って、言うのかな）"
+                                ""
                             ]
                         },
                         {
@@ -4135,45 +4111,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Kenichi (He seems... submissive, I guess)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「……やる気が削がれる奴だな」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルリカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「一応、確認ですが。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　大人しく逮捕されるなら手荒な真似はしませんよ」"
+                                ""
                             ]
                         },
                         {
@@ -4190,45 +4135,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "パープル"
+                                "Sakura: ...He's the type that kills your\nmotivation."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「うん、まあ、大人しく捕まっても良いんだけど」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "パープル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「せっかく未来特警が相手だしね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　バイオギアがどれだけ成長したのかも見たいし……」"
+                                ""
                             ]
                         },
                         {
@@ -4245,45 +4159,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "パープル"
+                                "Rurika: Just to confirm, if you're going to be\narrested quietly, I won't resort to rough tactics."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ええと、ピンクスネーク団の研究テーマ、知ってるよね」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "パープル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうせブルーあたりが自慢げに話したと思うんだけど。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あ、聞いてないなら説明するけど……」"
+                                ""
                             ]
                         },
                         {
@@ -4300,38 +4190,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Purple: Yeah, well, it's fine if you want to get\narrested quietly."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ああ、言ってたな、ネオミュータントだっけか？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルリカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ミュータントを超えたミュータントになると」"
+                                ""
                             ]
                         },
                         {
@@ -4348,14 +4214,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "パープル"
+                                "Purple: Since it's the Future Special Police, I\nwant to see how much the Bio Gear has grown..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「うん、それ、ネオミュータント」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4372,14 +4245,141 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "パープル"
+                                "Purple: Um, you know about the research theme of\nthe Pink Snake Gang, right?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「だから、その実験台が相手です」"
+                                "Purple: I think Blue was probably bragging about\nsomething. Oh, if you haven't heard, let me\nexplain..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Sakura: Ah, I remember hearing about it, was it\ncalled Neo Mutants?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Rurika: When you become a mutant beyond mutants..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Purple: Yeah, that's Neo Mutant."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Purple: So, that experimental subject is the\nopponent."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4442,45 +4442,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "パープル"
+                                "Purple: If you can defeat this, then surrender\nquietly."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「これを倒せたら、大人しく、捕まる」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "パープル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私、運動だめだから、えへっ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　おっぱいが大きすぎて、もう、全然、向いてないから」"
+                                ""
                             ]
                         },
                         {
@@ -4497,14 +4466,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "パープル"
+                                "Purple: I'm not good at physical activities, hehe.\nMy breasts are too big, so I'm really not suited\nfor it anymore."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「じゃあ、頑張ってね」"
+                                "Purple: Well then, do your best."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4659,7 +4659,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "パープルと戦う準備は出来てるよな？"
+                                "Are you ready to fight against Purple?"
                             ]
                         },
                         {
@@ -4667,8 +4667,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4729,38 +4729,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: This is the last one, let's do it!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「これが最後だ、やるぜ！」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ルリカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「さあピンクスネーク団を壊滅させましょう」"
+                                ""
                             ]
                         },
                         {
@@ -4777,14 +4753,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ケンイチ"
+                                "Rurika: Now, let's annihilate the Pink Snake gang."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「おう！　覚悟しろよパープル！！」"
+                                ""
                             ]
                         },
                         {
@@ -4801,14 +4777,38 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "パープル"
+                                "Kenichi: Alright! Prepare yourself, Purple!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「えへへ、頑張ってね」"
+                                "Purple: Ehehe, do your best!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4864,14 +4864,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "実験体01号"
+                                "Test Subject 01 'Guaaaaaaaaaaaaaaaaaaaaaah!'"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "『グオオオオオオオオオオオオオオオオオオオオ！』"
+                                ""
                             ]
                         },
                         {
@@ -5143,38 +5143,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi: D...did we win?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「か……勝った？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "サクラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「そういうことだな」"
+                                ""
                             ]
                         },
                         {
@@ -5191,38 +5167,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルリカ"
+                                "Sakura: That's how it is."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「まだ、やりますか？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "パープル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「やらないよ、無駄だしね、えへへ」"
+                                ""
                             ]
                         },
                         {
@@ -5239,14 +5191,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "パープル"
+                                "Rurika: Are we still going to continue?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「わたし、天才だから、無駄なことしないの」"
+                                ""
                             ]
                         },
                         {
@@ -5263,14 +5215,62 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "パープル"
+                                "Purple: I won't do it, it's pointless, ehehe."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「逮捕されます、ピンクスネーク団はこれで終わり」"
+                                "Purple: Because I'm a genius, I don't waste my\ntime."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "Purple: You will be arrested, Pink Snake gang,\nthis is the end for you."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5332,38 +5332,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "The Pink Snake gang's executive, 'Purple', has\nbeen arrested!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ピンクスネーク団の幹部『パープル』を逮捕した！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "SYSTEM"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ピンクスネーク団の重要拠点を制圧した！！"
+                                ""
                             ]
                         },
                         {
@@ -5380,14 +5356,38 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "We have captured the Pink Snake gang's important\nstronghold!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[4]10000P\\C[0]の貢献度を獲得した！"
+                                "SYSTEM\\C[4]You have earned a contribution of\n10000P!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5613,7 +5613,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "パープルとの戦いはピンクスネーク団との決戦だ。"
+                                "The battle with Purple is the final showdown\nagainst the Pink Snake Gang."
                             ]
                         },
                         {
@@ -5630,7 +5630,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "やり残したことがないか、一度、基地に戻って確認しよう。"
+                                "Let's go back to the base once and confirm if\nthere is anything left undone."
                             ]
                         },
                         {
@@ -5695,7 +5695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "パープルと戦う準備は出来てるよな？"
+                                "Are you ready to fight against Purple?"
                             ]
                         },
                         {
@@ -5703,8 +5703,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -5765,38 +5765,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: This is the final battle, let's do it!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「これが最後だ、やるぜ！」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ルリカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「さあピンクスネーク団を壊滅させましょう」"
+                                ""
                             ]
                         },
                         {
@@ -5813,14 +5789,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ケンイチ"
+                                "Rurika: Now, let's annihilate the Pink Snake Gang."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「おう！　覚悟しろよパープル！！」"
+                                ""
                             ]
                         },
                         {
@@ -5837,14 +5813,38 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "パープル"
+                                "Kenichi: Alright! Prepare yourself, Purple!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「えへへ、頑張ってね」"
+                                "Purple: Ehehe, do your best!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5900,14 +5900,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "実験体01号"
+                                "Test Subject No. 01: Guaaaaaaaaaaaaaaaaaaaaaaaah!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "『グオオオオオオオオオオオオオオオオオオオオ！』"
+                                ""
                             ]
                         },
                         {
@@ -6179,38 +6179,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi: D...did we win?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「か……勝った？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "サクラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「そういうことだな」"
+                                ""
                             ]
                         },
                         {
@@ -6227,38 +6203,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルリカ"
+                                "Sakura: That's how it is."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「まだ、やりますか？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "パープル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「やらないよ、無駄だしね、えへへ」"
+                                ""
                             ]
                         },
                         {
@@ -6275,14 +6227,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "パープル"
+                                "Rurika: Are we still going to do it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「わたし、天才だから、無駄なことしないの」"
+                                ""
                             ]
                         },
                         {
@@ -6299,14 +6251,62 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "パープル"
+                                "Purple: I won't do it, it's pointless, hehehe."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「逮捕されます、ピンクスネーク団はこれで終わり」"
+                                "Purple: Because I'm a genius, I don't waste my\ntime."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "Purple: You will be arrested, Pink Snake Gang,\nthis is the end for you."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6368,38 +6368,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "The Pink Snake Gang's executive, 'Purple', has\nbeen arrested!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ピンクスネーク団の幹部『パープル』を逮捕した！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "SYSTEM"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ピンクスネーク団の重要拠点を制圧した！！"
+                                ""
                             ]
                         },
                         {
@@ -6416,14 +6392,38 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "We have successfully captured the Pink Snake\nGang's important stronghold!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[4]10000P\\C[0]の貢献度を獲得した！"
+                                "SYSTEM\\C[4]You have earned a contribution of\n10000P!\\C[0]"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6680,7 +6680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "パープルと戦う準備は出来てるよな？"
+                                "Are you ready to fight against Purple?"
                             ]
                         },
                         {
@@ -6688,8 +6688,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -6750,38 +6750,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: This is the last one, let's do it!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「これが最後だ、やるぜ！」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ルリカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「さあピンクスネーク団を壊滅させましょう」"
+                                ""
                             ]
                         },
                         {
@@ -6798,14 +6774,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ケンイチ"
+                                "Rurika: Now, let's annihilate the Pink Snake Gang."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「おう！　覚悟しろよパープル！！」"
+                                ""
                             ]
                         },
                         {
@@ -6822,14 +6798,38 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "パープル"
+                                "Kenichi: Alright! Prepare yourself, Purple!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「えへへ、頑張ってね」"
+                                "Purple: Ehehe, do your best!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6885,14 +6885,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "実験体01号"
+                                "Test Subject 01: 'Guaaaaaaaaaaaaaaaaaaaaaahhhhhhh\nhhhhhhhhhhhhhhhhhhh!'"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "『グオオオオオオオオオオオオオオオオオオオオ！』"
+                                ""
                             ]
                         },
                         {
@@ -7164,38 +7164,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi: D...did we win?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「か……勝った？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "サクラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「そういうことだな」"
+                                ""
                             ]
                         },
                         {
@@ -7212,38 +7188,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルリカ"
+                                "Sakura: That's how it is."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「まだ、やりますか？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "パープル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「やらないよ、無駄だしね、えへへ」"
+                                ""
                             ]
                         },
                         {
@@ -7260,14 +7212,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "パープル"
+                                "Rurika: Are we still going to do it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「わたし、天才だから、無駄なことしないの」"
+                                ""
                             ]
                         },
                         {
@@ -7284,14 +7236,62 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "パープル"
+                                "Purple: I won't do it, it's pointless, ehehe."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「逮捕されます、ピンクスネーク団はこれで終わり」"
+                                "Purple: Because I'm a genius, I don't waste my\ntime."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "Purple: You will be arrested, Pink Snake Gang,\nthis is the end for you."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7353,38 +7353,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "The Pink Snake Gang's executive, 'Purple', has\nbeen arrested!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ピンクスネーク団の幹部『パープル』を逮捕した！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "SYSTEM"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ピンクスネーク団の重要拠点を制圧した！！"
+                                ""
                             ]
                         },
                         {
@@ -7401,14 +7377,38 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "We have successfully captured the Pink Snake\nGang's important stronghold!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[4]10000P\\C[0]の貢献度を獲得した！"
+                                "SYSTEM\\C[4]You have earned a contribution of\n10000P!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7634,7 +7634,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "パープルとの戦いはピンクスネーク団との決戦だ。"
+                                "The battle with Purple is the final showdown with\nthe Pink Snake Gang."
                             ]
                         },
                         {
@@ -7651,7 +7651,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "やり残したことがないか、一度、基地に戻って確認しよう。"
+                                "Let's go back to the base once and confirm if\nthere is anything left undone."
                             ]
                         },
                         {
@@ -7716,7 +7716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "パープルと戦う準備は出来てるよな？"
+                                "Are you ready to fight against Purple?"
                             ]
                         },
                         {
@@ -7724,8 +7724,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -7786,38 +7786,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: This is the final battle, let's do it!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「これが最後だ、やるぜ！」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ルリカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「さあピンクスネーク団を壊滅させましょう」"
+                                ""
                             ]
                         },
                         {
@@ -7834,14 +7810,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ケンイチ"
+                                "Rurika: Now, let's annihilate the Pink Snake Gang."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「おう！　覚悟しろよパープル！！」"
+                                ""
                             ]
                         },
                         {
@@ -7858,14 +7834,38 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "パープル"
+                                "Kenichi: Alright! Prepare yourself, Purple!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「えへへ、頑張ってね」"
+                                "Purple: Ehehe, do your best!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7921,14 +7921,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "実験体01号"
+                                "Test Subject No. 01: Guaaaaaaaaaaaaaaaaaaaaaaaah!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "『グオオオオオオオオオオオオオオオオオオオオ！』"
+                                ""
                             ]
                         },
                         {
@@ -8200,38 +8200,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi: D...did we win?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「か……勝った？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "サクラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「そういうことだな」"
+                                ""
                             ]
                         },
                         {
@@ -8248,38 +8224,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルリカ"
+                                "Sakura: That's how it is."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「まだ、やりますか？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "パープル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「やらないよ、無駄だしね、えへへ」"
+                                ""
                             ]
                         },
                         {
@@ -8296,14 +8248,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "パープル"
+                                "Rurika: Are we still going to do it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「わたし、天才だから、無駄なことしないの」"
+                                ""
                             ]
                         },
                         {
@@ -8320,14 +8272,62 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "パープル"
+                                "Purple: I won't do it, it's pointless, hehehe."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「逮捕されます、ピンクスネーク団はこれで終わり」"
+                                "Purple: Because I'm a genius, I don't waste my\ntime."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "Purple: You will be arrested, Pink Snake Gang,\nthis is the end for you."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -8389,38 +8389,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "The Pink Snake Gang's executive, 'Purple', has\nbeen arrested!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ピンクスネーク団の幹部『パープル』を逮捕した！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "SYSTEM"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ピンクスネーク団の重要拠点を制圧した！！"
+                                ""
                             ]
                         },
                         {
@@ -8437,14 +8413,38 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "We have successfully captured the Pink Snake\nGang's important stronghold!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[4]10000P\\C[0]の貢献度を獲得した！"
+                                "SYSTEM\\C[4]You have earned a contribution of\n10000P!\\C[0]"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -8701,7 +8701,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "パープルと戦う準備は出来てるよな？"
+                                "Are you ready to fight against Purple?"
                             ]
                         },
                         {
@@ -8709,8 +8709,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -8771,38 +8771,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: This is the last one, let's do it!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「これが最後だ、やるぜ！」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ルリカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「さあピンクスネーク団を壊滅させましょう」"
+                                ""
                             ]
                         },
                         {
@@ -8819,14 +8795,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ケンイチ"
+                                "Rurika: Now, let's annihilate the Pink Snake Gang."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「おう！　覚悟しろよパープル！！」"
+                                ""
                             ]
                         },
                         {
@@ -8843,14 +8819,38 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "パープル"
+                                "Kenichi: Alright! Prepare yourself, Purple!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「えへへ、頑張ってね」"
+                                "Purple: Ehehe, do your best!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -8906,14 +8906,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "実験体01号"
+                                "Test Subject 01 'Guaaaaaaaaaaaaaaaaaaaaaah!'"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "『グオオオオオオオオオオオオオオオオオオオオ！』"
+                                ""
                             ]
                         },
                         {
@@ -9185,38 +9185,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi: D...did we win?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「か……勝った？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "サクラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「そういうことだな」"
+                                ""
                             ]
                         },
                         {
@@ -9233,38 +9209,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルリカ"
+                                "Sakura: That's how it is."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「まだ、やりますか？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "パープル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「やらないよ、無駄だしね、えへへ」"
+                                ""
                             ]
                         },
                         {
@@ -9281,14 +9233,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "パープル"
+                                "Rurika: Are we still going to continue?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「わたし、天才だから、無駄なことしないの」"
+                                ""
                             ]
                         },
                         {
@@ -9305,14 +9257,62 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "パープル"
+                                "Purple: I won't do it, it's pointless, hehehe."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「逮捕されます、ピンクスネーク団はこれで終わり」"
+                                "Purple: Because I'm a genius, I don't waste my\ntime."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "Purple: You will be arrested, Pink Snake Gang,\nthis is the end."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -9374,38 +9374,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "The Pink Snake Gang's executive, 'Purple', has\nbeen arrested!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ピンクスネーク団の幹部『パープル』を逮捕した！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "SYSTEM"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ピンクスネーク団の重要拠点を制圧した！！"
+                                ""
                             ]
                         },
                         {
@@ -9422,14 +9398,38 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "We have captured the Pink Snake Gang's important\nstronghold!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[4]10000P\\C[0]の貢献度を獲得した！"
+                                "SYSTEM\\C[4]You have earned a contribution of\n10000P!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -9655,7 +9655,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "パープルとの戦いはピンクスネーク団との決戦だ。"
+                                "The battle with Purple is the final showdown\nagainst the Pink Snake Gang."
                             ]
                         },
                         {
@@ -9672,7 +9672,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "やり残したことがないか、一度、基地に戻って確認しよう。"
+                                "Let's go back to the base once and confirm if\nthere is anything left undone."
                             ]
                         },
                         {
@@ -9737,7 +9737,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "パープルと戦う準備は出来てるよな？"
+                                "Are you ready to fight against Purple?"
                             ]
                         },
                         {
@@ -9745,8 +9745,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -9807,38 +9807,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: This is the final battle, let's do it!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「これが最後だ、やるぜ！」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ルリカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「さあピンクスネーク団を壊滅させましょう」"
+                                ""
                             ]
                         },
                         {
@@ -9855,14 +9831,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ケンイチ"
+                                "Rurika: Now, let's annihilate the Pink Snake Gang."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「おう！　覚悟しろよパープル！！」"
+                                ""
                             ]
                         },
                         {
@@ -9879,14 +9855,38 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "パープル"
+                                "Kenichi: Alright! Prepare yourself, Purple!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「えへへ、頑張ってね」"
+                                "Purple: Ehehe, do your best!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -9942,14 +9942,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "実験体01号"
+                                "Test Subject No. 01: Guaaaaaaaaaaaaaaaaaaaaaaaah!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "『グオオオオオオオオオオオオオオオオオオオオ！』"
+                                ""
                             ]
                         },
                         {
@@ -10221,38 +10221,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi: D...did we win?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「か……勝った？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "サクラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「そういうことだな」"
+                                ""
                             ]
                         },
                         {
@@ -10269,38 +10245,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルリカ"
+                                "Sakura: That's how it is."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「まだ、やりますか？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "パープル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「やらないよ、無駄だしね、えへへ」"
+                                ""
                             ]
                         },
                         {
@@ -10317,14 +10269,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "パープル"
+                                "Rurika: Are we still going to do it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「わたし、天才だから、無駄なことしないの」"
+                                ""
                             ]
                         },
                         {
@@ -10341,14 +10293,62 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "パープル"
+                                "Purple: I won't do it, it's pointless, hehehe."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「逮捕されます、ピンクスネーク団はこれで終わり」"
+                                "Purple: Because I'm a genius, I don't waste my\ntime."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "Purple: You will be arrested, Pink Snake Gang,\nthis is the end for you."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10410,38 +10410,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "The Pink Snake Gang's executive, 'Purple', has\nbeen arrested!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ピンクスネーク団の幹部『パープル』を逮捕した！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "SYSTEM"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ピンクスネーク団の重要拠点を制圧した！！"
+                                ""
                             ]
                         },
                         {
@@ -10458,14 +10434,38 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "We have successfully captured the Pink Snake\nGang's important stronghold!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[4]10000P\\C[0]の貢献度を獲得した！"
+                                "SYSTEM\\C[4]You have earned a contribution of\n10000P!\\C[0]"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {

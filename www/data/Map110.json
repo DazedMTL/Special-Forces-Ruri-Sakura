@@ -1433,14 +1433,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "That is a future that is both near and far."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それは近くて遠い未来。\\^\\|"
+                                ""
                             ]
                         },
                         {
@@ -1457,14 +1457,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "A world where individuals with special abilities\ncalled mutants have appeared."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ミュータントと呼ばれる異能力者が出現した世界。\\^\\|"
+                                ""
                             ]
                         },
                         {
@@ -1481,14 +1481,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "And an organization was established to deal with\nmutant crimes."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そしてミュータント犯罪に対処すべく設立された組織が\\^\\|"
+                                ""
                             ]
                         },
                         {
@@ -1505,14 +1505,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "I am a future special police officer."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "未来特警である。\\^\\|"
+                                ""
                             ]
                         },
                         {

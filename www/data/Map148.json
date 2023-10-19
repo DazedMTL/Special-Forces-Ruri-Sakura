@@ -1715,21 +1715,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "The SYSTEM transfer device has been turned on. A\nshortcut to the entrance has been opened."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "転送装置をオンにします。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "エントランスへショートカットが開通しました。"
+                                ""
                             ]
                         },
                         {
@@ -1806,14 +1806,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "The shortcut to the SYSTEM entrance is open."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "エントランスのショートカットは開通しています。"
+                                ""
                             ]
                         },
                         {
@@ -2223,7 +2223,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "巨大なミュータント兵が待ち構えている。"
+                                "A giant mutant soldier is waiting in ambush."
                             ]
                         },
                         {
@@ -2240,7 +2240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これ以上、近付いたら戦闘になるだろう。"
+                                "If we get any closer, it will turn into a battle."
                             ]
                         },
                         {
@@ -2257,7 +2257,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "準備は良いか、おれ？"
+                                "Am I ready?"
                             ]
                         },
                         {
@@ -2265,8 +2265,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2327,38 +2327,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "怪力ミュータント兵"
+                                "Powerful mutant soldier:\n............Gumoohhhhhhhhh!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "『…………グモオオオオオオオオオオオ！！』"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "サクラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「へっ、覚悟しろよ、このデカブツ！！」"
+                                ""
                             ]
                         },
                         {
@@ -2375,14 +2351,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルリカ"
+                                "Sakura: Hmph, prepare yourself, you giant\nmonster!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「ケンイチさんは無理をせず、わたしたちのサポートを！」"
+                                ""
                             ]
                         },
                         {
@@ -2399,14 +2375,38 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ケンイチ"
+                                "Rurika: Kenichi-san, please don't push yourself.\nLet us support you!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「りょ、了解！！」"
+                                "Kenichi: R-Roger!!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2462,14 +2462,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "怪力ミュータント兵"
+                                "Powerful mutant soldier: 'Gumoohhhhhhhhh!!'"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "『ｸﾞﾓｫｫｫｫｫｫｫｫ…………』"
+                                ""
                             ]
                         },
                         {
@@ -2799,14 +2799,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "Kenichi and the others defeated the giant mutant\nsoldier!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ケンイチたちは巨大ミュータント兵を倒した！"
+                                ""
                             ]
                         },
                         {
@@ -2890,38 +2890,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: Alright, well done Kenichi."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「よし、上出来だぜケンイチ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ルリカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「この調子で、探索を続けましょう」"
+                                ""
                             ]
                         },
                         {
@@ -2938,14 +2914,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルリカ"
+                                "Rurika: Let's continue the exploration like this."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「もちろん、危なくなる前に撤退するのも忘れずに」"
+                                ""
                             ]
                         },
                         {
@@ -2962,14 +2938,38 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ケンイチ"
+                                "Rurika: Of course, let's not forget to retreat\nbefore it becomes dangerous."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「了解！！」"
+                                "Kenichi: Understood!!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3014,14 +3014,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi: Alright, let's move forward!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「よし、先に進もう！」"
+                                ""
                             ]
                         },
                         {
@@ -3371,7 +3371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "巨大なミュータント兵が待ち構えている。"
+                                "A giant mutant soldier is waiting in ambush."
                             ]
                         },
                         {
@@ -3388,7 +3388,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これ以上、近付いたら戦闘になるだろう。"
+                                "If we get any closer, it will turn into a battle."
                             ]
                         },
                         {
@@ -3405,7 +3405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "準備は良いか、おれ？"
+                                "Am I ready?"
                             ]
                         },
                         {
@@ -3413,8 +3413,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3475,38 +3475,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "怪力ミュータント兵"
+                                "Powerful mutant soldier:\n............Gumoohhhhhhhhh!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "『…………グモオオオオオオオオオオオ！！』"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "サクラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「へっ、覚悟しろよ、このデカブツ！！」"
+                                ""
                             ]
                         },
                         {
@@ -3523,14 +3499,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルリカ"
+                                "Sakura: Hmph, prepare yourself, you giant\nmonster!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「ケンイチさんは無理をせず、わたしたちのサポートを！」"
+                                ""
                             ]
                         },
                         {
@@ -3547,14 +3523,38 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ケンイチ"
+                                "Rurika: Kenichi-san, please don't push yourself.\nLet us support you!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「りょ、了解！！」"
+                                "Kenichi: Y-Yes, understood!!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3610,14 +3610,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "怪力ミュータント兵"
+                                "Powerful mutant soldier: 'Gumoohhhhhhhhh!!'"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "『ｸﾞﾓｫｫｫｫｫｫｫｫ…………』"
+                                ""
                             ]
                         },
                         {
@@ -3947,14 +3947,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "Kenichi and the others defeated the giant mutant\nsoldier!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ケンイチたちは巨大ミュータント兵を倒した！"
+                                ""
                             ]
                         },
                         {
@@ -4038,38 +4038,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: Good job, Kenichi!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「よし、上出来だぜケンイチ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ルリカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「この調子で、探索を続けましょう」"
+                                ""
                             ]
                         },
                         {
@@ -4086,14 +4062,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルリカ"
+                                "Rurika: Let's continue the exploration like this."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「もちろん、危なくなる前に撤退するのも忘れずに」"
+                                ""
                             ]
                         },
                         {
@@ -4110,14 +4086,38 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ケンイチ"
+                                "Rurika: Of course, let's not forget to retreat\nbefore it becomes dangerous."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「了解！！」"
+                                "Kenichi: Understood!!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4162,14 +4162,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi: Alright, let's move forward!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「よし、先に進もう！」"
+                                ""
                             ]
                         },
                         {
@@ -4399,7 +4399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "巨大なミュータント兵が待ち構えている。"
+                                "A giant mutant soldier is waiting in ambush."
                             ]
                         },
                         {
@@ -4416,7 +4416,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これ以上、近付いたら戦闘になるだろう。"
+                                "If you get any closer, it will turn into a battle."
                             ]
                         },
                         {
@@ -4433,7 +4433,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "準備は良いか、おれ？"
+                                "Am I ready?"
                             ]
                         },
                         {
@@ -4441,8 +4441,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4503,38 +4503,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "怪力ミュータント兵"
+                                "The powerful mutant soldier:\n............Gumoohhhhhhhhh!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "『…………グモオオオオオオオオオオオ！！』"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "サクラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「へっ、覚悟しろよ、このデカブツ！！」"
+                                ""
                             ]
                         },
                         {
@@ -4551,14 +4527,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルリカ"
+                                "Sakura: Hmph, prepare yourself, you giant\nmonster!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「ケンイチさんは無理をせず、わたしたちのサポートを！」"
+                                ""
                             ]
                         },
                         {
@@ -4575,14 +4551,38 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ケンイチ"
+                                "Rurika: Kenichi-san, please don't push yourself.\nLet us support you!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「りょ、了解！！」"
+                                "Kenichi: U-Understood!!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4638,14 +4638,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "怪力ミュータント兵"
+                                "The powerful mutant soldier:\n[Icon1]Gumoohhhhhhhhh!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "『ｸﾞﾓｫｫｫｫｫｫｫｫ…………』"
+                                ""
                             ]
                         },
                         {
@@ -4975,14 +4975,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "Kenichi and the others defeated the giant mutant\nsoldier!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ケンイチたちは巨大ミュータント兵を倒した！"
+                                ""
                             ]
                         },
                         {
@@ -5066,38 +5066,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: Good job, Kenichi!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「よし、上出来だぜケンイチ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ルリカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「この調子で、探索を続けましょう」"
+                                ""
                             ]
                         },
                         {
@@ -5114,14 +5090,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルリカ"
+                                "Rurika: Let's continue the exploration like this."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「もちろん、危なくなる前に撤退するのも忘れずに」"
+                                ""
                             ]
                         },
                         {
@@ -5138,14 +5114,38 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ケンイチ"
+                                "Rurika: Of course, let's not forget to retreat\nbefore it becomes dangerous."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「了解！！」"
+                                "Kenichi: Understood!!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5190,14 +5190,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi: Alright, let's move forward!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「よし、先に進もう！」"
+                                ""
                             ]
                         },
                         {

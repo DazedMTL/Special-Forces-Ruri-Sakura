@@ -2947,14 +2947,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ムラサキ"
+                                "Murasaki: H-Hey, I've been waiting for you..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「や、やあ、待ってたよ……」"
+                                ""
                             ]
                         },
                         {
@@ -3011,14 +3011,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ムラサキ"
+                                "Murasaki: Well then, let me explain the City\nConquest Operation, ehehe."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「それじゃあ、シティ征服作戦を説明するね、えへへ」"
+                                ""
                             ]
                         },
                         {
@@ -3051,38 +3051,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: Ah, please, I'm begging you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ああ、頼むぜ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルリカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふ、よろしくお願いします」"
+                                ""
                             ]
                         },
                         {
@@ -3099,38 +3075,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ムラサキ"
+                                "Rurika: Hehe, nice to meet you. Please take care\nof me."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「簡単に言うと、シティの中枢コンピューターを乗っ取る」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ムラサキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「細かい理屈は省くけれど」"
+                                ""
                             ]
                         },
                         {
@@ -3147,21 +3099,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ムラサキ"
+                                "Murasaki: To put it simply, we're going to take\nover the central computer of the city."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「シティの運営プログラムを一種の仮想現実に見立てて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　キミたちを、内部に、侵入させる」"
+                                ""
                             ]
                         },
                         {
@@ -3178,45 +3123,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ムラサキ"
+                                "Murasaki: I'll skip the details."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「防衛システムを突破して最深部に辿り着けば、OK」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ムラサキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「システム内部では『\\C[4]\\I[10]ウイルス\\C[0]』には注意。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これはHPとSPを同時に削る、厄介な状態異常」"
+                                ""
                             ]
                         },
                         {
@@ -3233,21 +3147,107 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ムラサキ"
+                                "Murasaki: We will treat the city's operating\nprogram as a kind of virtual reality and\ninfiltrate you all inside."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「解除用のアイテムと汎用スキルはショップに用意した。"
+                                "Murasaki: If we can break through the defense\nsystem and reach the deepest part, it'll be okay."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　必要に応じて買ってくれるかな」"
+                                "Murasaki: Inside the system, be careful of the\n'\\C[4]\\I[10]virus\\C[0]'. It's a troublesome status\nailment that reduces both HP and SP at the same\ntime."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Murasaki: I've prepared the release item and\ngeneral skills at the shop. Will you buy them as\nneeded?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3295,38 +3295,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ムラサキ"
+                                "Murasaki: So, for the infiltration, we'll use that\nmachine over there."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「それで、侵入には、そこのマシンを使う」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "サクラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なるほどね、ま、いつも通りってことか」"
+                                ""
                             ]
                         },
                         {
@@ -3343,38 +3319,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルリカ"
+                                "Sakura: I see, well, it's just like usual then."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「侵入する先と、やり方が、少し違うだけですね」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "キモヒコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「へー、コンピューターの中に入れるんだー」"
+                                ""
                             ]
                         },
                         {
@@ -3391,14 +3343,62 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キモヒコ"
+                                "Rurika: The place we're infiltrating and the\nmethod are just a little different, aren't they?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おもしろそうだなー、ボクも行っちゃだめー？」"
+                                "Kimohiko: Oh, we're going inside the computer,\nhuh?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Kimohiko: That sounds interesting, can I come too?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3446,52 +3446,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: Of course it's a no-no, my dear master\n\\I[15]. Just wait, because we will offer up the\ncity to you \\I[15]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ダメに決まってんだろ、このご主人さまめ\\I[15]"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　あたしたちがシティを献上してやるから待ってろ\\I[15]」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルリカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「旦那さまの暇つぶし用オナホは揃ってますからね\\I[15]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そっちで遊んでいてください……\\I[15]」"
+                                ""
                             ]
                         },
                         {
@@ -3508,45 +3477,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キモヒコ"
+                                "Rurika: I have a collection of onaholes for your\nentertainment, Master \\I[15]. Please have fun with\nthem over there... \\I[15]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「はーい、わかりましたー」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ムラサキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そ、そういうことだから\\I[15]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ママと一緒に、おねえさんたちを待ってようね\\I[15]」"
+                                ""
                             ]
                         },
                         {
@@ -3563,14 +3508,69 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ムラサキ"
+                                "Kimohiko: Yes, understood!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えへへ、も、もちろん、ママで遊んでも良いよ\\I[15]」"
+                                "Murasaki: S-So that's how it is, \\I[15] let's wait\ntogether with Onee-san and Mama, okay? \\I[15]"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Murasaki: Ehehe, o-of course, it's okay to play\nwith Mama \\I[15]"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3820,14 +3820,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キモヒコ"
+                                "Kimohiko: Have a good day!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「行ってらっしゃーい♪」"
+                                ""
                             ]
                         },
                         {
@@ -4024,7 +4024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これは……"
+                                "This is..."
                             ]
                         },
                         {
@@ -4072,14 +4072,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キモヒコ"
+                                "Hey, wanna see that?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あ、それ見るー？」"
+                                ""
                             ]
                         },
                         {
@@ -4096,21 +4096,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キモヒコ"
+                                "Kimohiko: Onee-chan, you had videos, right? Since\nI had the chance, I tried filming Mama's too~♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「おねえちゃんたちの動画、あったでしょ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　せっかくだから、ママのも撮影してみたんだー♪」"
+                                ""
                             ]
                         },
                         {
@@ -4143,14 +4143,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: ...Oh, really?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「……へぇ\\I[15]」"
+                                ""
                             ]
                         },
                         {
@@ -4167,14 +4167,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルリカ"
+                                "Rurika: ...hehe\\I[15]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「……ふふ\\I[15]」"
+                                ""
                             ]
                         },
                         {
@@ -4240,14 +4240,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: You're amazing, as expected of my master\n\\I[15]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「やるなあ、さすがご主人さまだぜ\\I[15]」"
+                                ""
                             ]
                         },
                         {
@@ -4264,14 +4264,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルリカ"
+                                "Rurika: Yes, it was exciting \\I[15]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ええ、刺激的でした\\I[15]」"
+                                ""
                             ]
                         },
                         {
@@ -4321,21 +4321,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "SYSTEM"
+                                "The hidden event Genius Mama is Son-kun's\nexclusive breast onahole \\I[15] has been unlocked."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "裏イベント『天才ママは息子くん専用乳オナホです\\I[15]』"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "が解放されました"
+                                ""
                             ]
                         },
                         {
@@ -4581,14 +4581,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ムラサキ"
+                                "Murasaki: It is possible to infiltrate the central\ncomputer with that machine over there."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「中枢コンピューターには、そこのマシンで侵入可能」"
+                                ""
                             ]
                         },
                         {
@@ -4605,14 +4605,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ムラサキ"
+                                "Murasaki: Just be careful, okay?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「一応、気を付けて、ね」"
+                                ""
                             ]
                         },
                         {

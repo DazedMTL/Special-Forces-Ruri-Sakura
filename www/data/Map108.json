@@ -1452,25 +1452,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "尖り耳の少年"
+                                "Oh, hello! I'm Masega Kimohiko, a boy with pointed\nears. Nice to meet you!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あ、こんにちは！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ボクは、マセガ・キモヒコです、はじめまして！」"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -1490,25 +1490,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "尖り耳の少年→キモヒコ"
+                                "Pointy-eared boy, Kimohiko: 'Who are these Onee-\nsans?'"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おねえさんたちは、誰ですか？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -1528,25 +1528,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そこには、おれと同じ年頃の誰かが、閉じ込められていた。"
+                                "Someone around the same age as me was trapped\nthere."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""

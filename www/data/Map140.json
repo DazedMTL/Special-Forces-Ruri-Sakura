@@ -2035,45 +2035,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "赤い男"
+                                "Red Man: Ah, ah, ah, let me say it first."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あー、あー、あー、最初に言っとく」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "赤い男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オレはレッド。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ミュータントで、機械工学者で、団の幹部だ」"
+                                ""
                             ]
                         },
                         {
@@ -2090,14 +2059,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レッド"
+                                "Red Man: I am Red Mutant, a mechanical engineer,\nand a high-ranking member of the organization."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「その線を越えたら、敵対したとみなす」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2114,14 +2090,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レッド"
+                                "Red: If you cross that line, I will consider it as\nhostility."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おーけー？」"
+                                "Red: Okay?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2154,45 +2154,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: Oh, so even a mere mutant criminal dares\nto say that?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「へぇ、たかがミュータント犯罪者が言うじゃねえか」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルリカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「残念ですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　わたしたちは、あなたのような悪を倒すのが使命です」"
+                                ""
                             ]
                         },
                         {
@@ -2209,21 +2178,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ＆ルリカ"
+                                "Rurika: Unfortunately, our mission is to defeat\nevil like you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「やるぞ、ケンイチ」"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「やりますよ、ケンイチさん」"
+                                ""
                             ]
                         },
                         {
@@ -2240,14 +2209,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Sakura & Rurika: Let's do it, Kenichi. We'll do\nit, Mr. Kenichi."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「……りょ、了解！！」"
+                                "Kenichi: ...U-understood!!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2510,7 +2510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この線を越えたら、レッドと戦うことになる。"
+                                "If you cross this line, you will end up fighting\nwith Red."
                             ]
                         },
                         {
@@ -2527,7 +2527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "準備は良いか、おれ？"
+                                "Am I ready?"
                             ]
                         },
                         {
@@ -2535,8 +2535,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2597,38 +2597,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "レッド"
+                                "Red: Oops, you crossed the line."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「おっと、線を越えたな」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "レッド"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「それなら教えてやる」"
+                                ""
                             ]
                         },
                         {
@@ -2645,21 +2621,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "レッド"
+                                "Red: In that case, let me teach you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「能力は機械操作。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　おれ専用にカスタマイズした自慢の機体を用意している」"
+                                ""
                             ]
                         },
                         {
@@ -2676,45 +2645,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "レッド"
+                                "Red: My ability is machine manipulation. I have\nprepared a customized machine that I am proud of."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「要するに、ミュータントとしても学者としても武闘派だ」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "レッド"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「噂に聞いた未来特警の『ギア』が、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　どの程度のものか、本当は、試したくてたまらなかった」"
+                                ""
                             ]
                         },
                         {
@@ -2731,38 +2676,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "レッド"
+                                "Red: In other words, I am both a mutant and a\nscholar who excels in combat."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「おーけー！」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "レッド"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「覚悟するんだな、未来特警！」"
+                                ""
                             ]
                         },
                         {
@@ -2779,38 +2700,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "サクラ"
+                                "Red: I couldn't resist wanting to test the 'Gear'\nof the Future Special Police that I heard rumors\nabout."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「優しく逮捕はしてやれないみたいだな！」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ルリカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ケンイチさん、サポートを頼みます！」"
+                                ""
                             ]
                         },
                         {
@@ -2827,14 +2731,110 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ケンイチ"
+                                "Red: Okay!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「りょ、了解！！」"
+                                "Red: Are you prepared, Future Special Police!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "Sakura: It seems like I can't arrest you gently!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "Rurika: Kenichi-san, I'm counting on your support!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "Kenichi: Y-Yes, understood!!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2890,14 +2890,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "レッド"
+                                "Red: Guaaaaaaaaahhhhhhhhhhhhhhhhhhhh!!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「ぐあああああああああああああああああ！！！」"
+                                ""
                             ]
                         },
                         {
@@ -2923,38 +2923,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "レッド"
+                                "Red: ...D-Dammit"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「……ち、ちくしょう」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "レッド"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「おれの才能じゃ、ここまでか……」"
+                                ""
                             ]
                         },
                         {
@@ -2971,14 +2947,38 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "レッド"
+                                "Red: Is this the extent of my talent...?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「最強の、ネオミュータントには……」"
+                                "Red: To the strongest Neo-Mutant..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3351,25 +3351,25 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "The executive of the SYSTEM Pink Snake gang,\n'Red', has been arrested!"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ピンクスネーク団の幹部『レッド』を逮捕した！"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
                                 ""
@@ -3389,14 +3389,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "We have captured the important stronghold of the\nSYSTEM Pink Snake gang!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ピンクスネーク団の重要拠点を制圧した！！"
+                                ""
                             ]
                         },
                         {
@@ -3413,14 +3413,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "Earned SYSTEM\\C[4]2000P\\C[0] Contribution Points!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "\\C[4]2000P\\C[0]の貢献度を獲得した！"
+                                ""
                             ]
                         },
                         {
@@ -3675,7 +3675,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この線を越えたら、レッドと戦うことになる。"
+                                "If you cross this line, you will end up fighting\nwith Red."
                             ]
                         },
                         {
@@ -3692,7 +3692,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "準備は良いか、おれ？"
+                                "Am I ready?"
                             ]
                         },
                         {
@@ -3700,8 +3700,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3762,38 +3762,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "レッド"
+                                "Red: Oops, you crossed the line."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「おっと、線を越えたな」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "レッド"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「それなら教えてやる」"
+                                ""
                             ]
                         },
                         {
@@ -3810,21 +3786,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "レッド"
+                                "Red: In that case, let me teach you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「能力は機械操作。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　おれ専用にカスタマイズした自慢の機体を用意している」"
+                                ""
                             ]
                         },
                         {
@@ -3841,45 +3810,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "レッド"
+                                "Red: My ability is machine manipulation. I have\nprepared a customized machine that I am proud of."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「要するに、ミュータントとしても学者としても武闘派だ」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "レッド"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「噂に聞いた未来特警の『ギア』が、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　どの程度のものか、本当は、試したくてたまらなかった」"
+                                ""
                             ]
                         },
                         {
@@ -3896,38 +3841,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "レッド"
+                                "Red: In other words, I am both a mutant and a\nscholar who excels in combat."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「おーけー！」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "レッド"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「覚悟するんだな、未来特警！」"
+                                ""
                             ]
                         },
                         {
@@ -3944,38 +3865,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "サクラ"
+                                "Red: I couldn't resist wanting to test the 'Gear'\nof the Future Special Police that I heard rumors\nabout."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「優しく逮捕はしてやれないみたいだな！」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ルリカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ケンイチさん、サポートを頼みます！」"
+                                ""
                             ]
                         },
                         {
@@ -3992,14 +3896,110 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ケンイチ"
+                                "Red: Okay!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「りょ、了解！！」"
+                                "Red: Are you prepared, Future Special Police!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "Sakura: It seems like I can't arrest you gently!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "Rurika: Kenichi-san, I'm counting on your support!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "Kenichi: Y-Yes, understood!!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4055,14 +4055,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "レッド"
+                                "Red: Guaaaaaaaaahhhhhhhhhhhhhhhhhhhh!!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「ぐあああああああああああああああああ！！！」"
+                                ""
                             ]
                         },
                         {
@@ -4088,38 +4088,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "レッド"
+                                "Red: ...D-Dammit"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「……ち、ちくしょう」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "レッド"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「おれの才能じゃ、ここまでか……」"
+                                ""
                             ]
                         },
                         {
@@ -4136,14 +4112,38 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "レッド"
+                                "Red: Is this the extent of my talent...?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「最強の、ネオミュータントには……」"
+                                "Red: To the strongest Neo-Mutant..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4516,25 +4516,25 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "The executive of the SYSTEM Pink Snake gang,\n'Red', has been arrested!"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ピンクスネーク団の幹部『レッド』を逮捕した！"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
                                 ""
@@ -4554,14 +4554,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "We have captured the important stronghold of the\nSYSTEM Pink Snake gang!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ピンクスネーク団の重要拠点を制圧した！！"
+                                ""
                             ]
                         },
                         {
@@ -4578,14 +4578,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "Earned SYSTEM\\C[4]2000P\\C[0] Contribution Points!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "\\C[4]2000P\\C[0]の貢献度を獲得した！"
+                                ""
                             ]
                         },
                         {
@@ -4840,7 +4840,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この線を越えたら、レッドと戦うことになる。"
+                                "If you cross this line, you will end up fighting\nwith Red."
                             ]
                         },
                         {
@@ -4857,7 +4857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "準備は良いか、おれ？"
+                                "Am I ready?"
                             ]
                         },
                         {
@@ -4865,8 +4865,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4927,38 +4927,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "レッド"
+                                "Red: Oops, you crossed the line."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「おっと、線を越えたな」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "レッド"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「それなら教えてやる」"
+                                ""
                             ]
                         },
                         {
@@ -4975,21 +4951,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "レッド"
+                                "Red: In that case, let me teach you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「能力は機械操作。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　おれ専用にカスタマイズした自慢の機体を用意している」"
+                                ""
                             ]
                         },
                         {
@@ -5006,45 +4975,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "レッド"
+                                "Red: My ability is machine manipulation. I have\nprepared a customized machine that I am proud of."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「要するに、ミュータントとしても学者としても武闘派だ」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "レッド"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「噂に聞いた未来特警の『ギア』が、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　どの程度のものか、本当は、試したくてたまらなかった」"
+                                ""
                             ]
                         },
                         {
@@ -5061,38 +5006,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "レッド"
+                                "Red: In other words, I am both a mutant and a\nscholar who excels in combat."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「おーけー！」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "レッド"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「覚悟するんだな、未来特警！」"
+                                ""
                             ]
                         },
                         {
@@ -5109,38 +5030,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "サクラ"
+                                "Red: I couldn't resist wanting to test the 'Gear'\nof the Future Special Police that I heard rumors\nabout."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「優しく逮捕はしてやれないみたいだな！」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ルリカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ケンイチさん、サポートを頼みます！」"
+                                ""
                             ]
                         },
                         {
@@ -5157,14 +5061,110 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ケンイチ"
+                                "Red: Okay!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「りょ、了解！！」"
+                                "Red: Are you prepared, Future Special Police!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "Sakura: It seems like I can't arrest you gently!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "Rurika: Kenichi-san, I'm counting on your support!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "Kenichi: Y-Yes, understood!!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5220,14 +5220,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "レッド"
+                                "Red: Guaaaaaaaaahhhhhhhhhhhhhhhhhhhh!!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「ぐあああああああああああああああああ！！！」"
+                                ""
                             ]
                         },
                         {
@@ -5253,38 +5253,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "レッド"
+                                "Red: ...D-Dammit"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「……ち、ちくしょう」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "レッド"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「おれの才能じゃ、ここまでか……」"
+                                ""
                             ]
                         },
                         {
@@ -5301,14 +5277,38 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "レッド"
+                                "Red: Is this the extent of my talent...?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「最強の、ネオミュータントには……」"
+                                "Red: To the strongest Neo-Mutant..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5681,25 +5681,25 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "The executive of the SYSTEM Pink Snake gang,\n'Red', has been arrested!"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ピンクスネーク団の幹部『レッド』を逮捕した！"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
                                 ""
@@ -5719,14 +5719,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "We have captured the important stronghold of the\nSYSTEM Pink Snake gang!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ピンクスネーク団の重要拠点を制圧した！！"
+                                ""
                             ]
                         },
                         {
@@ -5743,14 +5743,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "Earned SYSTEM\\C[4]2000P\\C[0] Contribution Points!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "\\C[4]2000P\\C[0]の貢献度を獲得した！"
+                                ""
                             ]
                         },
                         {

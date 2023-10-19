@@ -9926,7 +9926,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "反応がない、スイッチが入っていないようだ。"
+                                "There is no response, it seems like the switch is\nnot turned on."
                             ]
                         },
                         {
@@ -10214,7 +10214,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "反応がない、スイッチが入っていないようだ。"
+                                "There is no response, it seems like the switch is\nnot turned on."
                             ]
                         },
                         {
@@ -10301,7 +10301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エレベーターの電源スイッチだ。"
+                                "It's the power switch for the elevator."
                             ]
                         },
                         {
@@ -10309,8 +10309,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "押す",
-                                    "押さない"
+                                    "Press it",
+                                    "Don't press it"
                                 ],
                                 1,
                                 0,
@@ -10361,7 +10361,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "これで先に進める、と、思う。"
+                                "I think we can proceed with this."
                             ]
                         },
                         {
@@ -10461,7 +10461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スイッチはONになっている。"
+                                "The switch is turned on."
                             ]
                         },
                         {
@@ -10649,14 +10649,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガードロボ"
+                                "Guard Robot: I have detected and will eliminate\nthe intruder."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "『ﾋﾟﾋﾟ　侵入者　発見　排除ｼﾏｽ』"
+                                ""
                             ]
                         },
                         {
@@ -10930,14 +10930,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[241]Obtained Recovery Potion α\\C[0]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[241]回復薬α\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {
@@ -11023,14 +11023,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自動販売機のようだ、"
+                                "It looks like a vending machine, but\nunfortunately, the power is not on."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "残念ながら電源が入っていない。"
+                                ""
                             ]
                         },
                         {
@@ -11119,14 +11119,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[266]Obtained Nutritional Bread\\C[0]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[266]栄養パン\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {
@@ -11284,14 +11284,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[266]Obtained Nutritional Bread\\C[0]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[266]栄養パン\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {
@@ -11446,7 +11446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -11463,7 +11463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -11480,7 +11480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                ".................."
                             ]
                         },
                         {
@@ -11497,7 +11497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………身元を示すものは何も残っていない。"
+                                "There is nothing left to indicate their identity."
                             ]
                         },
                         {
@@ -11573,7 +11573,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……身元を示すものは何も残っていない。"
+                                "......There is nothing left to indicate their\nidentity."
                             ]
                         },
                         {
@@ -11662,14 +11662,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[306]Obtained Scrap Alpha\\C[0]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[306]スクラップα\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {
@@ -11827,14 +11827,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[241]Obtained Antidote\\C[0]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[241]解毒薬\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {

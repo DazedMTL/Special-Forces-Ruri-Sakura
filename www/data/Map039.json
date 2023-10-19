@@ -3803,7 +3803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Well then, if the information\nis correct, the Pink Snake gang's base\nshould be around here."
+                                "Sakura: Well then, if the information is correct,\nthe Pink Snake gang's base should be around here."
                             ]
                         },
                         {
@@ -3841,7 +3841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: What do you think, Rurika? My\nintuition tells me that this one is a\nhit."
+                                "Sakura: What do you think, Rurika? My intuition\ntells me that this one is a hit."
                             ]
                         },
                         {
@@ -3895,7 +3895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: Yes, I agree. At first glance,\nit looks like an abandoned old building,\nbut considering the security of this\narea, it's too quiet."
+                                "Rurika: Yes, I agree. At first glance, it looks\nlike an abandoned old building, but considering\nthe security of this area, it's too quiet."
                             ]
                         },
                         {
@@ -3933,7 +3933,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: Since we know it's the Pink\nSnake gang's base, the residents in the\narea are too scared to approach."
+                                "Rurika: Since we know it's the Pink Snake gang's\nbase, the residents in the area are too scared to\napproach."
                             ]
                         },
                         {
@@ -3971,7 +3971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: Logically, I speculate the\nsame."
+                                "Rurika: Logically, I speculate the same."
                             ]
                         },
                         {
@@ -4018,7 +4018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: We did it, Onee-san! Let's get\nin there right away and crush them!!"
+                                "Kenichi: We did it, Onee-san! Let's get in there\nright away and crush them!!"
                             ]
                         },
                         {
@@ -4049,45 +4049,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Oh, you seem to be full of\nmotivation."
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Rurika: I'm counting on you, Kenichi-\nsan."
+                                "Sakura: Oh, you seem to be full of motivation."
                             ]
                         },
                         {
@@ -4125,7 +4087,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: Y-Yeah! Watch me! I'm also a\nmember of the Future Special Police, you\nknow!"
+                                "Rurika: I'm counting on you, Kenichi- san."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Kenichi: Y-Yeah! Watch me! I'm also a member of\nthe Future Special Police, you know!"
                             ]
                         },
                         {
@@ -4210,7 +4210,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "My name is Kenichi, I'm a trainee... of\nthe Special Police."
+                                "My name is Kenichi, I'm a trainee... of the\nSpecial Police."
                             ]
                         },
                         {
@@ -4248,7 +4248,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Actually, I'm not supposed to be\nallowed due to my age. But because I was\ncompatible with the Future Special\nPolice's new equipment, the 'Bio Gear,'\nthey're letting me participate in\nactivities as a special case."
+                                "Actually, I'm not supposed to be allowed due to my\nage. But because I was compatible with the Future\nSpecial Police's new equipment, the 'Bio Gear,'\nthey're letting me participate in activities as a\nspecial case."
                             ]
                         },
                         {
@@ -4286,7 +4286,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura and Rurika are childhood friends.\nIt's a big deal that both of them have\nagreed to take care of me."
+                                "Sakura and Rurika are childhood friends. It's a\nbig deal that both of them have agreed to take\ncare of me."
                             ]
                         },
                         {
@@ -4310,7 +4310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Of course, Onee-chan and the others are\nalso Bio Gear compatible. They are\nofficial members of the Future Special\nPolice, in other words, they're\nincredibly strong."
+                                "Of course, Onee-chan and the others are also Bio\nGear compatible. They are official members of the\nFuture Special Police, in other words, they're\nincredibly strong."
                             ]
                         },
                         {
@@ -4334,7 +4334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Even with just the two of them, they\nare capable of taking on ten or twenty\npeople."
+                                "Even with just the two of them, they are capable\nof taking on ten or twenty people."
                             ]
                         },
                         {
@@ -4387,7 +4387,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura is the one with red hair, Onee-\nsan."
+                                "Sakura is the one with red hair, Onee- san."
                             ]
                         },
                         {
@@ -4404,7 +4404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "As you can see, she has big breasts and\nis beautiful. She gives off the vibe of\nbeing a justice-loving hero who has\nalways hated dishonesty."
+                                "As you can see, she has big breasts and is\nbeautiful. She gives off the vibe of being a\njustice-loving hero who has always hated\ndishonesty."
                             ]
                         },
                         {
@@ -4442,7 +4442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I was scolded a lot, or rather, I was\neven hit. But in return, I was taken\ncare of a lot."
+                                "I was scolded a lot, or rather, I was even hit.\nBut in return, I was taken care of a lot."
                             ]
                         },
                         {
@@ -4510,7 +4510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The one with blue hair is Rurika, Onee-\nsan."
+                                "The one with blue hair is Rurika, Onee- san."
                             ]
                         },
                         {
@@ -4527,7 +4527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "As you can see, Sakura Onee-chan and I\nare twin sisters. She has big breasts,\nis beautiful, kind, and a bit cool."
+                                "As you can see, Sakura Onee-chan and I are twin\nsisters. She has big breasts, is beautiful, kind,\nand a bit cool."
                             ]
                         },
                         {
@@ -4551,7 +4551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I received help with my studies and she\ncooked meals for me. She's not only\nkind, but also strict at times. But,\nafter all, she took care of me a lot and\nlooked after me."
+                                "I received help with my studies and she cooked\nmeals for me. She's not only kind, but also strict\nat times. But, after all, she took care of me a\nlot and looked after me."
                             ]
                         },
                         {
@@ -4597,7 +4597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Both of them are beautiful... strong and\nkind."
+                                "Both of them are beautiful... strong and kind."
                             ]
                         },
                         {
@@ -4631,7 +4631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "However, they are just too amazing... I\ncan't help but feel a little inferior."
+                                "However, they are just too amazing... I can't help\nbut feel a little inferior."
                             ]
                         },
                         {
@@ -4648,7 +4648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Still, it's a concern that I'm still\nseen as a 'little brother'..."
+                                "Still, it's a concern that I'm still seen as a\n'little brother'..."
                             ]
                         },
                         {
@@ -4665,7 +4665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "When I was a kid, I could confidently\nsay that I would marry my Onee-chans..."
+                                "When I was a kid, I could confidently say that I\nwould marry my Onee-chans..."
                             ]
                         },
                         {
@@ -4689,7 +4689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I've been relying on them since a long\ntime ago, and even now they take care of\nme as a trainee member. As a man, I\ncan't possibly say such things."
+                                "I've been relying on them since a long time ago,\nand even now they take care of me as a trainee\nmember. As a man, I can't possibly say such\nthings."
                             ]
                         },
                         {
@@ -4720,7 +4720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "At the very least, I have to become a\nfull-fledged Future Special Police\nofficer. It would be embarrassing if I\ncouldn't become a man recognized by my\nOnee-chans."
+                                "At the very least, I have to become a full-fledged\nFuture Special Police officer. It would be\nembarrassing if I couldn't become a man recognized\nby my Onee-chans."
                             ]
                         },
                         {
@@ -4761,7 +4761,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Now, I will do everything I can with\nall my might!"
+                                "Now, I will do everything I can with all my might!"
                             ]
                         },
                         {
@@ -4778,7 +4778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "To become a full-fledged Future Special\nPolice officer! In order to become a man\nrecognized by my Onee-chans!!"
+                                "To become a full-fledged Future Special Police\nofficer! In order to become a man recognized by my\nOnee-chans!!"
                             ]
                         },
                         {
@@ -4816,7 +4816,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: Wait for me, Pink Snake Gang!\nI will definitely catch you!!"
+                                "Kenichi: Wait for me, Pink Snake Gang! I will\ndefinitely catch you!!"
                             ]
                         },
                         {
@@ -4854,7 +4854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Oh, nice spirit, Kenichi! Let's\nget on board right away!"
+                                "Sakura: Oh, nice spirit, Kenichi! Let's get on\nboard right away!"
                             ]
                         },
                         {
@@ -4892,7 +4892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Get pumped up and keep up with\nme! Above all, a full-fledged Future\nSpecial Police officer needs power!"
+                                "Sakura: Get pumped up and keep up with me! Above\nall, a full-fledged Future Special Police officer\nneeds power!"
                             ]
                         },
                         {
@@ -4930,7 +4930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: Honestly, Sakura, you're always\nprovoking him."
+                                "Rurika: Honestly, Sakura, you're always provoking\nhim."
                             ]
                         },
                         {
@@ -4968,7 +4968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: It's great that you're\nenthusiastic, Kenichi-san, but if you\nwant to become a full-fledged Future\nSpecial Police officer, don't forget to\nstay calm as well."
+                                "Rurika: It's great that you're enthusiastic,\nKenichi-san, but if you want to become a full-\nfledged Future Special Police officer, don't\nforget to stay calm as well."
                             ]
                         },
                         {
@@ -5639,14 +5639,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEMObtained \\C[4]\\I[241]Recovery Potion α\\C[0]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "Obtained \\C[4]\\I[241]Recovery Potion\nα\\C[0]!"
+                                ""
                             ]
                         },
                         {
@@ -5732,7 +5732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It looks like a vending machine, but\nunfortunately the power is not on."
+                                "It looks like a vending machine, but unfortunately\nthe power is not on."
                             ]
                         },
                         {

@@ -1573,7 +1573,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーザーの解除スイッチだ。"
+                                "It's the laser deactivation switch."
                             ]
                         },
                         {
@@ -1581,8 +1581,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "押す",
-                                    "押さない"
+                                    "Press it",
+                                    "Don't press it"
                                 ],
                                 1,
                                 0,
@@ -1633,7 +1633,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "これで先に進める。"
+                                "With this, we can proceed."
                             ]
                         },
                         {
@@ -1733,7 +1733,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーザーは解除されている。"
+                                "The laser has been deactivated."
                             ]
                         },
                         {
@@ -1921,38 +1921,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クローンミュータント"
+                                "Clone Mutant: ................. Intruder detected"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「………………侵入者発見」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "クローンミュータント"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「撃退、殲滅、攻撃開始」"
+                                ""
                             ]
                         },
                         {
@@ -1969,7 +1945,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クローンミュータントが襲い掛かって来た！"
+                                "Clone Mutant: Repel, annihilate, commence attack"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "The clone mutant is attacking!"
                             ]
                         },
                         {
@@ -2212,14 +2212,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[299]Obtained a shining emblem\n(blue)\\C[0]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[299]輝くエンブレム（青）\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {
@@ -2377,14 +2377,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[299]Obtained a shining emblem\n(blue)\\C[0]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[299]輝くエンブレム（青）\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {

@@ -1483,14 +1483,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コンビニ店員"
+                                "Convenience Store Clerk: Welcome!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「いらっしゃいませー」"
+                                ""
                             ]
                         },
                         {
@@ -1588,14 +1588,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コンビニ店員"
+                                "Convenience Store Clerk: Thank you very much!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ありがとうございましたー」"
+                                ""
                             ]
                         },
                         {
@@ -1672,14 +1672,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おじさん"
+                                "Uncle: When you're feeling hungry, this is it,\nthis!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「小腹が減ったときは、これだよ、これ！」"
+                                ""
                             ]
                         },
                         {
@@ -1765,14 +1765,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女子学生"
+                                "Female Student: Hmm, I wonder what to eat for\nlunch."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「うーん、お昼はどれを食べようかなー」"
+                                ""
                             ]
                         },
                         {

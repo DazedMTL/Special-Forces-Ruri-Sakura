@@ -9906,14 +9906,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ボタンを押しても反応しない。"
+                                "The button doesn't respond when pressed. It seems\nlike the security is activated."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "どうやらセキュリティが作動しているようだ。"
+                                ""
                             ]
                         },
                         {
@@ -10009,14 +10009,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "SYSTEM"
+                                "Kenichi used the card key."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ケンイチはカードキーを使用した。"
+                                ""
                             ]
                         },
                         {
@@ -10225,14 +10225,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ボタンを押しても反応しない。"
+                                "Pressing the button doesn't get any response. It\nseems like the security is activated."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "どうやらセキュリティが作動しているようだ。"
+                                ""
                             ]
                         },
                         {
@@ -10319,7 +10319,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これは……？"
+                                "What is this...?"
                             ]
                         },
                         {
@@ -10348,38 +10348,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルリカ"
+                                "Rurika: It seems we need a \\C[4]card key\\C[0] to\nproceed upwards."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「上に進むには\\C[4]カードキー\\C[0]が必要なようですね」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルリカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……どうやら下より複雑なシステムのようですし」"
+                                ""
                             ]
                         },
                         {
@@ -10396,14 +10372,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルリカ"
+                                "Rurika: ...It seems to be a more complex system\nthan the one below."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「わたしの電撃でどうこうするのは難しいと思います」"
+                                "Rurika: I think it would be difficult to deal with\nit using my electric shock."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10451,14 +10451,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi (Let's find a \\C[4]card key\\C[0]\nsomewhere)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（どこかで\\C[4]カードキー\\C[0]を手に入れよう）"
+                                ""
                             ]
                         },
                         {
@@ -10526,7 +10526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "上に進むには\\C[4]カードキー\\C[0]が必要、らしい。"
+                                "It seems that a \\C[4]card key\\C[0] is necessary to\nproceed upwards."
                             ]
                         },
                         {
@@ -10543,14 +10543,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi (Let's find a way to get the card key\nsomewhere)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（どこかで\\C[4]カードキー\\C[0]を手に入れよう）"
+                                ""
                             ]
                         },
                         {
@@ -10618,7 +10618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "上に進むには\\C[4]ランク2以上のカードキー\\C[0]が必要だ。"
+                                "To proceed upwards, you need a card key of Rank 2\nor higher."
                             ]
                         },
                         {
@@ -10806,14 +10806,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究員"
+                                "Researcher: Ah... busy, busy."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ああ……忙しい、忙しい」"
+                                ""
                             ]
                         },
                         {
@@ -10830,7 +10830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "仕事に集中しすぎてこちらに気付く様子もない。"
+                                "She's so focused on her work that she doesn't even\nnotice me."
                             ]
                         },
                         {
@@ -10898,31 +10898,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究員"
+                                "Researcher: Ah... busy, busy."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ああ……忙しい、忙しい」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仕事に集中しすぎてこちらに気付く様子もない。"
+                                ""
                             ]
                         },
                         {
@@ -10939,14 +10922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「のどが渇いたのに、飲み物を買う暇もない」"
+                                "She's so focused on her work that she doesn't even\nnotice me."
                             ]
                         },
                         {
@@ -10963,14 +10939,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究員"
+                                "Researcher: I'm so thirsty, but I don't even have\ntime to buy a drink."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「新鮮な\\I[265]\\C[4]フルーツジュース\\C[0]でもあれば」 "
+                                "Researcher: If only I had a fresh\n\\I[265]\\C[4]fruit juice\\C[0]."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10978,8 +10978,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -11028,14 +11028,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi: Um, would you like to drink this?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「あの、これ飲みますか？」"
+                                ""
                             ]
                         },
                         {
@@ -11052,14 +11052,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "Kenichi offered \\I[265]\\C[4]fruit juice\\C[0]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ケンイチは\\I[265]\\C[4]フルーツジュース\\C[0]を差し出した。"
+                                ""
                             ]
                         },
                         {
@@ -11140,38 +11140,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "研究員"
+                                "Researcher: Hey there, thank you. Don't hold back."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「やあやあ、これはありがとう遠慮なく」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "研究員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「……未来特警？」"
+                                ""
                             ]
                         },
                         {
@@ -11188,38 +11164,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "研究員"
+                                "Researcher: ...Future Special Police?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「ああー、なるほど、ついに来たか」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "研究員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「つまり探し物は上に進むためのカードキー！」"
+                                ""
                             ]
                         },
                         {
@@ -11236,38 +11188,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "研究員"
+                                "Researcher: Ah, I see. So you finally came."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「残念だが、私は所持していない！」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "研究員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「研究員ランクが足りていないからだ！」"
+                                ""
                             ]
                         },
                         {
@@ -11284,21 +11212,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "研究員"
+                                "Researcher: So, the key card is what we need to\nproceed upwards!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「上の階に行きたいなら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　ランク2の研究員を探してカードキーを借りると良い！」"
+                                ""
                             ]
                         },
                         {
@@ -11315,14 +11236,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "研究員"
+                                "Researcher: Unfortunately, I don't have it!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「女性で、たしか、ラーメンが好物だった！」"
+                                ""
                             ]
                         },
                         {
@@ -11339,14 +11260,93 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "研究員"
+                                "Researcher: It's because I don't have enough\nresearcher rank!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「では、仕事に戻るよジュースをありがとう！！」"
+                                "Researcher: If you want to go to the upper floor,\nit's best to find a Rank 2 researcher and borrow\ntheir key card!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "Researcher: I remember she was a woman and her\nfavorite food was ramen!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "Researcher: Alright, let's get back to work.\nThanks for the juice!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -11417,14 +11417,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi: A-Amazing, you told me everything by\nyourself..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「す、すごい、一人で全部話してくれた……」"
+                                ""
                             ]
                         },
                         {
@@ -11441,7 +11441,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "忙しさで、ちょっと、壊れ気味みたいだ……"
+                                "It seems like I'm a little broken due to\nbusyness..."
                             ]
                         },
                         {
@@ -11477,7 +11477,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "仕事に集中しすぎてこちらに気付く様子もない。"
+                                "She's so focused on her work that she doesn't seem\nto notice me here."
                             ]
                         },
                         {
@@ -11578,31 +11578,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究員"
+                                "Researcher: Ah... busy, busy."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ああ……忙しい、忙しい」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仕事に集中しすぎてこちらに気付く様子もない。"
+                                ""
                             ]
                         },
                         {
@@ -11619,7 +11602,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "確か……"
+                                "She's so focused on her work that she doesn't even\nnotice me."
                             ]
                         },
                         {
@@ -11636,21 +11619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『上の階に行きたいなら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ランク2の研究員を探してカードキーを借りると良い！』"
+                                "I'm certain..."
                             ]
                         },
                         {
@@ -11667,14 +11636,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究員"
+                                "Researcher: If you want to go to the upper floor,\nit's best to find a Rank 2 researcher and borrow\ntheir key card!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "『女性で、たしか、ラーメンが好物だった！』"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -11691,7 +11667,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "って、言ってたな。"
+                                "Researcher: She was a woman, and if I remember\ncorrectly, she loved ramen!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "I heard her say that."
                             ]
                         },
                         {
@@ -11768,14 +11768,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究員"
+                                "Researcher: ...Hmm, mumble mumble"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「……ううん、むにゃむにゃ」"
+                                ""
                             ]
                         },
                         {
@@ -11792,14 +11792,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究員"
+                                "Researcher: ...I want to eat ramen."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「……食べたい、ラーメン」"
+                                ""
                             ]
                         },
                         {
@@ -11867,38 +11867,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究員"
+                                "Researcher: ...uh-uh, mumble mumble"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「……ううん、むにゃむにゃ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "研究員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……食べたい、ラーメン」"
+                                ""
                             ]
                         },
                         {
@@ -11915,7 +11891,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "トイレで寝ている女性研究員がいる。"
+                                "Researcher: ...I want to eat ramen."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -11932,7 +11915,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\I[274]\\C[4]山盛り濃厚ラーメン\\C[0]を使えば目を覚ますかな？"
+                                "There is a female researcher sleeping in the\nbathroom."
                             ]
                         },
                         {
@@ -11949,14 +11932,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "\\I[274]\\C[4]I wonder if using a bowl of rich and\nhearty ramen\\C[0] will wake her up?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\I[274]\\C[4]山盛り濃厚ラーメン\\C[0]を使いますか？"
+                                "SYSTEM\\I[274]\\C[4]Do you want to use a bowl of\nrich and hearty ramen\\C[0]?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -11964,8 +11964,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -11995,38 +11995,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "研究員"
+                                "Researcher: ...uh-uh, mumble mumble"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「……ううん、むにゃむにゃ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "研究員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「……山盛り濃厚ラーメンの匂いがする」"
+                                ""
                             ]
                         },
                         {
@@ -12043,31 +12019,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "SYSTEM"
+                                "Researcher: ...I smell the aroma of a mountain of\nrich and hearty ramen."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "女性研究員は半分寝たままラーメンを食べ始めた！！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ずるずる！　ずるずる！　ずるずる！"
+                                ""
                             ]
                         },
                         {
@@ -12084,7 +12043,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\{ずるるるるるるるるるるるるるるっ！！"
+                                "The female researcher started eating ramen while\nhalf asleep!!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -12101,14 +12067,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "SYSTEM"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "山盛りのラーメンが凄い勢いで消えていく！！"
+                                "Slurp! Slurp! Slurp!"
                             ]
                         },
                         {
@@ -12125,7 +12084,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\{ずるるるるるるるるるるるるるるっ！！"
+                                "\\{Slurp slurp slurp slurp slurp slurp slurp\nslurp!!"
                             ]
                         },
                         {
@@ -12142,7 +12101,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\{ずるるるるるるるるるるるるるるっ！！"
+                                "The mountain of ramen is disappearing at an\nincredible speed!!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -12159,14 +12125,48 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "研究員"
+                                "\\{Slurrrrrrrrrrrrrrrrrrp!!"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\{「ごちそうさま！！」"
+                                "\\{Slurrrrrrrrrrrrrrrrrrp!!"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "Researcher: Thank you for the meal!!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -12193,38 +12193,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "SYSTEM"
+                                "The female researcher who finished eating the\nramen fell asleep again."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ラーメンを食べ終えた女性研究員は再び眠りについた。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ケンイチ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「え…………ええ？」"
+                                ""
                             ]
                         },
                         {
@@ -12241,14 +12217,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "SYSTEM"
+                                "Kenichi: Eh............eh?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "女性研究員の白衣から、ひらりと、何かが落ちた。"
+                                ""
                             ]
                         },
                         {
@@ -12265,14 +12241,38 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "SISTEM"
+                                "From the white coat of the female researcher,\nsomething fluttered and fell."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\I[188]\\C[4]カードキー（☆☆）\\C[0]を手に入れた。"
+                                "I obtained the SISTEM \\I[188]\\C[4]key card (☆☆)\n\\C[0]."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -12299,14 +12299,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ケンイチ"
+                                "Kenichi: Um... well then, I'll borrow it for a\nmoment."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「ええと……じゃあ、ちょっと借りて行きます」"
+                                ""
                             ]
                         },
                         {
@@ -12415,14 +12415,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究員"
+                                "Researcher: ...uh-uh, mumble mumble"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「……ううん、むにゃむにゃ」"
+                                ""
                             ]
                         },
                         {
@@ -12439,14 +12439,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究員"
+                                "Researcher: ...I am satisfied."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「……余は満足じゃ」"
+                                ""
                             ]
                         },
                         {
@@ -12583,14 +12583,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究員"
+                                "Researcher: I tried ordering, but... it's a huge\namount."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「注文してみたけど……すごい量だ」"
+                                ""
                             ]
                         },
                         {
@@ -12607,14 +12607,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究員"
+                                "Researcher: This is the famous overflowing rich\nramen from the cafeteria..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「これがカフェテリア名物の山盛り濃厚ラーメン……」"
+                                ""
                             ]
                         },
                         {
@@ -12682,38 +12682,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究員"
+                                "Researcher: I tried ordering, but... it's a huge\namount."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「注文してみたけど……すごい量だ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "研究員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これがカフェテリア名物の山盛り濃厚ラーメン……」"
+                                ""
                             ]
                         },
                         {
@@ -12730,21 +12706,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Researcher: This is the famous overflowing rich\nramen from the cafeteria..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「すみません、そのラーメン。"
+                                "Kenichi: Excuse me, if you're not going to eat\nthat ramen, could you please let us have it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　食べないなら、おれたちに譲ってもらえませんか」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -12815,45 +12815,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究員"
+                                "Researcher: Huh? There's no way I can finish\neating it, and just looking at it makes my stomach\nache, so I don't mind..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ええ？　どう考えても食べきれないし。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　見てるだけで胃が痛くなってきたから構わないけど……」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "研究員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうだ\\I[178]\\C[4]回復薬β\\C[0]と交換してくれるかな」"
+                                ""
                             ]
                         },
                         {
@@ -12870,14 +12846,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究員"
+                                "Researcher: I wonder if they'll exchange it for\n\\I[178]\\C[4]Recovery Potion β\\C[0]."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「胃が痛くてね」"
+                                "Researcher: My stomach hurts, you know."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -12913,14 +12913,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "SYSTEM"
+                                "Kenichi handed over the \\I[178]\\C[4]Recovery\nPotion β\\C[0]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ケンイチは\\I[178]\\C[4]回復薬β\\C[0]を差し出した。"
+                                ""
                             ]
                         },
                         {
@@ -12947,38 +12947,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "研究員"
+                                "Researcher: Thank you, this should help relieve\nthe stomachache."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「ありがとう、これで胃の痛みも治りそうだよ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "研究員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「どうぞ、ラーメンを持って行ってくれ」"
+                                ""
                             ]
                         },
                         {
@@ -12995,14 +12971,38 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "SYSTEM"
+                                "Researcher: Here, please take the ramen."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ケンイチは\\I[274]\\C[4]山盛り濃厚ラーメン\\C[0]を手に入れた。"
+                                "Kenichi obtained a \\I[274]\\C[4]heaping bowl of\nrich ramen\\C[0]."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -13093,14 +13093,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "研究員"
+                                "Researcher: No, no, it's the \\I[178]\\C[4]Recovery\nPotion β\\C[0]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「違う違う、\\I[178]\\C[4]回復薬β\\C[0]だよ」"
+                                ""
                             ]
                         },
                         {
@@ -13178,14 +13178,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究員"
+                                "Researcher: *sighs*"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ふぅ……」"
+                                ""
                             ]
                         },
                         {
@@ -13262,14 +13262,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究員"
+                                "Researcher: ...only meals are the sole comfort."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「……食事だけが、唯一の癒し」"
+                                ""
                             ]
                         },
                         {
@@ -13346,14 +13346,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おばちゃん"
+                                "Auntie: Welcome! We serve light meals here!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「いらっしゃい、ここでは軽食を提供してるよ！」"
+                                ""
                             ]
                         },
                         {
@@ -13421,38 +13421,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おばちゃん"
+                                "Auntie: Welcome, we serve light meals here!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「いらっしゃい、ここでは軽食を提供してるよ！」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ケンイチ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えーと、ラーメンってあります？」"
+                                ""
                             ]
                         },
                         {
@@ -13469,14 +13445,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おばちゃん"
+                                "Kenichi: Um, do you have ramen?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あるよ！　うちの自慢の山盛り濃厚ラーメンが！！」"
+                                ""
                             ]
                         },
                         {
@@ -13493,14 +13469,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おばちゃん"
+                                "Auntie: We have it! Our pride and joy, a mountain\nof rich and creamy ramen!!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「一日一食限定だから、もう売り切れだけどね！」"
+                                "Auntie: We only serve one meal a day, so we're\nalready sold out, you know!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -21131,14 +21131,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究員"
+                                "Researcher: ...uh-uh, mumble mumble"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「……ううん、むにゃむにゃ」"
+                                ""
                             ]
                         },
                         {
@@ -21275,14 +21275,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究員"
+                                "Researcher: Female researcher? Was there only one\non this floor?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「女性研究員？　このフロアには一人だったかな」"
+                                ""
                             ]
                         },
                         {
@@ -21299,14 +21299,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究員"
+                                "Researcher: You're always slacking off in the area\nwhere only women are allowed."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「いつも、女性にしか入れないところでサボってるよ」"
+                                ""
                             ]
                         },
                         {
@@ -21383,14 +21383,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究員"
+                                "Researcher: ...only meals are the sole comfort."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「……食事だけが、唯一の癒し」"
+                                ""
                             ]
                         },
                         {
@@ -21467,14 +21467,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警備員"
+                                "Security Guard: ......"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「……」"
+                                ""
                             ]
                         },
                         {
@@ -21491,7 +21491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黙々と食事をしている。"
+                                "Sakura is silently eating her meal."
                             ]
                         },
                         {
@@ -21568,14 +21568,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究員"
+                                "Researcher: Ah... busy, busy."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ああ……忙しい、忙しい」"
+                                ""
                             ]
                         },
                         {
@@ -21592,7 +21592,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "仕事に集中しすぎてこちらに気付く様子もない。"
+                                "She's so focused on her work that she doesn't even\nnotice me."
                             ]
                         },
                         {
@@ -21669,14 +21669,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究員"
+                                "Researcher: Ah... busy, busy."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ああ……忙しい、忙しい」"
+                                ""
                             ]
                         },
                         {
@@ -21693,7 +21693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "仕事に集中しすぎてこちらに気付く様子もない。"
+                                "She's so focused on her work that she doesn't even\nnotice me."
                             ]
                         },
                         {
@@ -21770,14 +21770,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やつれた研究員"
+                                "Weary researcher: ...I'm tired, I can't go on\nanymore, I want to quit."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「……疲れた、もうダメだ、やめたい」"
+                                ""
                             ]
                         },
                         {
@@ -21825,38 +21825,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やつれた研究員"
+                                "Weary researcher: ............"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「…………」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やつれた研究員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もしよければ\\I[184]\\C[4]メンタルハーブα\\C[0]を譲ってくれないか」"
+                                ""
                             ]
                         },
                         {
@@ -21873,14 +21849,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンイチ"
+                                "Weary researcher: If it's alright with you, could\nyou please give me some \\I[184]\\C[4]Mental Herb\nα\\C[0]?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（気の毒なぐらい疲れてるのがわかる……）"
+                                ""
                             ]
                         },
                         {
@@ -21897,14 +21873,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "Kenichi (I can tell he's exhausted to the point of\npity...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\I[184]\\C[4]メンタルハーブα\\C[0]を譲ってあげますか？"
+                                "SYSTEM\\I[184]\\C[4]Would you like me to give you a\nMental Herb α\\C[0]?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -21912,8 +21912,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -21951,38 +21951,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "やつれた研究員"
+                                "Weary researcher: ...Thank you, with this, I can\nfinally rest."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「……ありがとう、これで、ようやく休めそうだ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "やつれた研究員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「……お礼は、必ず」"
+                                ""
                             ]
                         },
                         {
@@ -21999,14 +21975,38 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "やつれた研究員"
+                                "Weary researcher: ...I will definitely express my\ngratitude."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「……ZZZ」"
+                                "Weary researcher: ...ZZZ"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -22037,14 +22037,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM \\I[184]Lost one \\C[4]Mental Herb α\\C[0]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "\\I[184]\\C[4]メンタルハーブα\\C[0]を\\C[4]1\\C[0]つ失った。"
+                                ""
                             ]
                         },
                         {
@@ -22121,14 +22121,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\I[184]\\C[4]You do not possess a Mental Herb\nα\\C[0]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "\\I[184]\\C[4]メンタルハーブα\\C[0]を所有していない。"
+                                ""
                             ]
                         },
                         {
@@ -22168,14 +22168,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "やつれた研究員"
+                                "Weary researcher: ...I'm tired, I can't go on\nanymore, I want to quit."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「……疲れた、もうダメだ、やめたい」"
+                                ""
                             ]
                         },
                         {
@@ -22298,14 +22298,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やつれた研究員"
+                                "Exhausted researcher ...ZZZ"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「……ZZZ」"
+                                ""
                             ]
                         },
                         {
@@ -22505,14 +22505,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[299]Obtained Emblem (Blue)\\C[0]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[299]エンブレム（青）\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {
@@ -22670,14 +22670,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[299]Obtained the Emblem (Red)\\C[0]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[299]エンブレム（赤）\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {
@@ -22835,14 +22835,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[296]Obtained sturdy fabric!\\C[0]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[296]頑健な布地\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {
@@ -23000,14 +23000,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[241]Obtained Recovery Potion β\\C[0]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[241]回復薬β\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {
@@ -23093,14 +23093,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自動販売機のようだ、"
+                                "It looks like a vending machine, but\nunfortunately, the power is not on."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "残念ながら電源が入っていない。"
+                                ""
                             ]
                         },
                         {
@@ -23189,14 +23189,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[290]Obtained Bio Fiber\\C[0]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[290]バイオ繊維\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {
@@ -23354,14 +23354,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[266]Obtained Nutritional Bread\\C[0]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[266]栄養パン\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {
@@ -23519,14 +23519,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[266]Obtained Nutritional Bread\\C[0]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[266]栄養パン\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {
@@ -23684,14 +23684,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[266]Obtained Nutritional Bread\\C[0]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[266]栄養パン\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {
@@ -23837,14 +23837,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究員"
+                                "Researcher: ...uh-uh, mumble mumble"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「……ううん、むにゃむにゃ」"
+                                ""
                             ]
                         },
                         {
@@ -23981,14 +23981,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究員"
+                                "Researcher: ...Hmm, mumble mumble"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「……ううん、むにゃむにゃ」"
+                                ""
                             ]
                         },
                         {
@@ -24125,14 +24125,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究員"
+                                "Researcher: ...Hmm, mumble mumble"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「……ううん、むにゃむにゃ」"
+                                ""
                             ]
                         },
                         {
@@ -24281,14 +24281,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\C[4]\\I[241]Obtained bandages!\\C[0]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[4]\\I[241]包帯\\C[0]を入手した！"
+                                ""
                             ]
                         },
                         {

@@ -14559,38 +14559,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ムラサキ"
+                                "Murasaki: Ehehe, it seems to be going well,\ndoesn't it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「えへへ、順調みたいだね」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ムラサキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「このフロアは、少し、鍵のタイプが違うみたい」"
+                                ""
                             ]
                         },
                         {
@@ -14607,45 +14583,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ムラサキ"
+                                "Murasaki: It seems that the type of keys on this\nfloor is a little different."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「たくさんの墓標型のオブジェクト自体が、鍵、だから」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ムラサキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「片っ端から、ぶち壊せば、OK。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　全部じゃなくても、ある程度で、道は開くので適当に」"
+                                ""
                             ]
                         },
                         {
@@ -14662,21 +14607,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ムラサキ"
+                                "Murasaki: The objects themselves are a lot of\ntombstone-shaped keys, so..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「えへへ……やっぱり、ガードが甘い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これがシティの中枢とか、笑っちゃう、ぬるさ」"
+                                ""
                             ]
                         },
                         {
@@ -14693,38 +14631,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ムラサキ"
+                                "Murasaki: If you break them one by one, it's okay.\nYou don't have to break all of them, just enough\nto open the way, so do it however you like."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「それだけ……」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ムラサキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃ、じゃあ、キモヒコちゃんのために頑張って……」"
+                                ""
                             ]
                         },
                         {
@@ -14741,14 +14662,93 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ムラサキ"
+                                "Murasaki: Ehehe... As expected, the security is\nweak. It's laughable that this is the heart of the\ncity, so easy to breach."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{「おっほぉ\\I[15]」"
+                                "Murasaki: Just that..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Murasaki: W-Well then, I'll do my best for\nKimohiko-chan's sake..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Murasaki: Ohhoho\\I[15]!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -14777,52 +14777,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ムラサキ"
+                                "Murasaki: W-Wait, Kimohiko-chan\\I[15], Mommy is\ndoing this for you right now\\I[15]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ま、待って、キモヒコちゃん\\I[15]"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ママは、いま、キモヒコちゃんのためにぃ\\I[15]」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ムラサキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「え、ええ\\I[15]　ガードが甘いのは\\I[15]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ママのデカパイおまんこもだからって、急にぃ\\I[15]」"
+                                ""
                             ]
                         },
                         {
@@ -14839,21 +14808,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ムラサキ"
+                                "Murasaki: Eh, ehehe \\I[15], it's not just mommy's\nbig tits pussy that has weak security, so suddenly\n\\I[15]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ああ、ご、ごめんなさい\\I[15]"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　キモヒコちゃんのおちんぽさまが最優先ですぅ\\I[15]」"
+                                ""
                             ]
                         },
                         {
@@ -14870,14 +14839,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ムラサキ"
+                                "Murasaki: Ah, s-sorry \\I[15], Kimohiko-chan's\nprecious little penis takes top priority, you know\n\\I[15]."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{「おっほぉぉおおおおおおおおおおお\\I[15]」"
+                                "Murasaki: Ohhhhhhhhhhhhhhhhhh\\I[15]"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -14919,14 +14919,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: Geez, you're such a helpless master\n\\I[15]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ったく、仕方ないご主人さまだぜ\\I[15]」"
+                                ""
                             ]
                         },
                         {
@@ -14943,14 +14943,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: Let's do our best for our master's sake\ntoo \\I[15]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「わたしたちも旦那さまのために頑張りましょう\\I[15]」"
+                                ""
                             ]
                         },
                         {
@@ -15068,38 +15068,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ムラサキ"
+                                "Murasaki: Th-this floor, the type of key is a\nlittle different \\I[15]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「こ、このフロアは、少し、鍵のタイプが違って\\I[15]」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ムラサキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「たくさんの墓標型のオブジェクト自体が、鍵ぃ\\I[15]」"
+                                ""
                             ]
                         },
                         {
@@ -15116,14 +15092,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ムラサキ"
+                                "Murasaki: There are many tombstone-like objects\nthemselves, the key is..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「片っ端から、ぶち壊すぅ\\I[15]」"
+                                ""
                             ]
                         },
                         {
@@ -15140,14 +15116,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ムラサキ"
+                                "Murasaki: I'm gonna break everything one by one\n\\I[15]."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{「おっほぉぉおおおおおおおおおおお\\I[15]」"
+                                "Murasaki: Ohhhhhhhhhhhhhhhhhh \\I[15]"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -15255,7 +15255,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奇妙な像が、道を塞いでいる……"
+                                "There is a strange statue blocking the way..."
                             ]
                         },
                         {
@@ -15383,14 +15383,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "Transferring to SYSTEM Floor 4."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "フロア4に転移します。"
+                                ""
                             ]
                         },
                         {
@@ -15599,7 +15599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "墓標型のオブジェクトがある。"
+                                "There is a tombstone-shaped object."
                             ]
                         },
                         {
@@ -15667,7 +15667,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "墓標型のオブジェクトがある。"
+                                "There is a tombstone-shaped object."
                             ]
                         },
                         {
@@ -15696,14 +15696,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: This is it, alright!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「これだな、よし！」"
+                                ""
                             ]
                         },
                         {
@@ -15754,14 +15754,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "I destroyed the tombstone-shaped object."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "墓標型のオブジェクトを破壊した。"
+                                ""
                             ]
                         },
                         {
@@ -15819,7 +15819,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "何かが砕ける大きな音がした。"
+                                "I heard a loud sound of something breaking."
                             ]
                         },
                         {
@@ -15962,7 +15962,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "墓標型のオブジェクトがある。"
+                                "There is a tombstone-shaped object."
                             ]
                         },
                         {
@@ -16030,7 +16030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "墓標型のオブジェクトがある。"
+                                "There is a tombstone-shaped object."
                             ]
                         },
                         {
@@ -16059,14 +16059,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: This is it, alright!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「これだな、よし！」"
+                                ""
                             ]
                         },
                         {
@@ -16117,14 +16117,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "I destroyed the tombstone-shaped object."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "墓標型のオブジェクトを破壊した。"
+                                ""
                             ]
                         },
                         {
@@ -16182,7 +16182,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "何かが砕ける大きな音がした。"
+                                "I heard a loud sound of something breaking."
                             ]
                         },
                         {
@@ -16325,7 +16325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "墓標型のオブジェクトがある。"
+                                "There is a tombstone-shaped object."
                             ]
                         },
                         {
@@ -16393,7 +16393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "墓標型のオブジェクトがある。"
+                                "There is a tombstone-shaped object."
                             ]
                         },
                         {
@@ -16422,14 +16422,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: This is it, alright!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「これだな、よし！」"
+                                ""
                             ]
                         },
                         {
@@ -16480,14 +16480,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "I destroyed the tombstone-shaped object."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "墓標型のオブジェクトを破壊した。"
+                                ""
                             ]
                         },
                         {
@@ -16545,7 +16545,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "何かが砕ける大きな音がした。"
+                                "I heard a loud sound of something breaking."
                             ]
                         },
                         {
@@ -16688,7 +16688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "墓標型のオブジェクトがある。"
+                                "There is a tombstone-shaped object."
                             ]
                         },
                         {
@@ -16756,7 +16756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "墓標型のオブジェクトがある。"
+                                "There is a tombstone-shaped object."
                             ]
                         },
                         {
@@ -16785,14 +16785,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: This is it, alright!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「これだな、よし！」"
+                                ""
                             ]
                         },
                         {
@@ -16843,14 +16843,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "I destroyed the tombstone-shaped object."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "墓標型のオブジェクトを破壊した。"
+                                ""
                             ]
                         },
                         {
@@ -16908,7 +16908,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "何かが砕ける大きな音がした。"
+                                "I heard a loud sound of something breaking."
                             ]
                         },
                         {
@@ -17051,7 +17051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "墓標型のオブジェクトがある。"
+                                "There is a tombstone-shaped object."
                             ]
                         },
                         {
@@ -17119,7 +17119,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "墓標型のオブジェクトがある。"
+                                "There is a tombstone-shaped object."
                             ]
                         },
                         {
@@ -17148,14 +17148,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: This is it, alright!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「これだな、よし！」"
+                                ""
                             ]
                         },
                         {
@@ -17206,14 +17206,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "I destroyed the tombstone-shaped object."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "墓標型のオブジェクトを破壊した。"
+                                ""
                             ]
                         },
                         {
@@ -17271,7 +17271,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "何かが砕ける大きな音がした。"
+                                "I heard a loud sound of something breaking."
                             ]
                         },
                         {
@@ -17414,7 +17414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "墓標型のオブジェクトがある。"
+                                "There is a tombstone-shaped object."
                             ]
                         },
                         {
@@ -17482,7 +17482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "墓標型のオブジェクトがある。"
+                                "There is a tombstone-shaped object."
                             ]
                         },
                         {
@@ -17511,14 +17511,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: This is it, alright!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「これだな、よし！」"
+                                ""
                             ]
                         },
                         {
@@ -17569,14 +17569,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "I destroyed the tombstone-shaped object."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "墓標型のオブジェクトを破壊した。"
+                                ""
                             ]
                         },
                         {
@@ -17634,7 +17634,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "何かが砕ける大きな音がした。"
+                                "I heard a loud sound of something breaking."
                             ]
                         },
                         {
@@ -17777,7 +17777,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "墓標型のオブジェクトがある。"
+                                "There is a tombstone-shaped object."
                             ]
                         },
                         {
@@ -17845,7 +17845,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "墓標型のオブジェクトがある。"
+                                "There is a tombstone-shaped object."
                             ]
                         },
                         {
@@ -17874,14 +17874,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: This is it, alright!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「これだな、よし！」"
+                                ""
                             ]
                         },
                         {
@@ -17932,14 +17932,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "I destroyed the tombstone-shaped object."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "墓標型のオブジェクトを破壊した。"
+                                ""
                             ]
                         },
                         {
@@ -17997,7 +17997,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "何かが砕ける大きな音がした。"
+                                "I heard a loud sound of something breaking."
                             ]
                         },
                         {
@@ -18140,7 +18140,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "墓標型のオブジェクトがある。"
+                                "There is a tombstone-shaped object."
                             ]
                         },
                         {
@@ -18208,7 +18208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "墓標型のオブジェクトがある。"
+                                "There is a tombstone-shaped object."
                             ]
                         },
                         {
@@ -18237,14 +18237,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: This is it, alright!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「これだな、よし！」"
+                                ""
                             ]
                         },
                         {
@@ -18295,14 +18295,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "I destroyed the tombstone-shaped object."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "墓標型のオブジェクトを破壊した。"
+                                ""
                             ]
                         },
                         {
@@ -18360,7 +18360,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "何かが砕ける大きな音がした。"
+                                "I heard a loud sound of something breaking."
                             ]
                         },
                         {
@@ -18503,7 +18503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "墓標型のオブジェクトがある。"
+                                "There is a tombstone-shaped object."
                             ]
                         },
                         {
@@ -18571,7 +18571,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "墓標型のオブジェクトがある。"
+                                "There is a tombstone-shaped object."
                             ]
                         },
                         {
@@ -18600,14 +18600,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: This is it, alright!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「これだな、よし！」"
+                                ""
                             ]
                         },
                         {
@@ -18658,14 +18658,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "I destroyed the tombstone-shaped object."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "墓標型のオブジェクトを破壊した。"
+                                ""
                             ]
                         },
                         {
@@ -18723,7 +18723,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "何かが砕ける大きな音がした。"
+                                "I heard a loud sound of something breaking."
                             ]
                         },
                         {
@@ -18866,7 +18866,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "墓標型のオブジェクトがある。"
+                                "There is a tombstone-shaped object."
                             ]
                         },
                         {
@@ -18934,7 +18934,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "墓標型のオブジェクトがある。"
+                                "There is a tombstone-shaped object."
                             ]
                         },
                         {
@@ -18963,14 +18963,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: This is it, alright!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「これだな、よし！」"
+                                ""
                             ]
                         },
                         {
@@ -19021,14 +19021,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "I destroyed the tombstone-shaped object."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "墓標型のオブジェクトを破壊した。"
+                                ""
                             ]
                         },
                         {
@@ -19086,7 +19086,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "何かが砕ける大きな音がした。"
+                                "I heard a loud sound of something breaking."
                             ]
                         },
                         {
@@ -19229,14 +19229,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "Do you touch the SYSTEM goddess statue?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "女神像に触れますか？"
+                                ""
                             ]
                         },
                         {
@@ -19244,8 +19244,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -19287,7 +19287,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『不正アクセス　ヲ　検知　シマシタ』"
+                                "I detected unauthorized access."
                             ]
                         },
                         {
@@ -19304,7 +19304,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『ガーディアンLV5　起動』"
+                                "'Activate Guardian LV5'"
                             ]
                         },
                         {
@@ -19369,7 +19369,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "『ガーディアン　突破　サレマシタ』"
+                                "The Guardian has been breached."
                             ]
                         },
                         {
@@ -19386,7 +19386,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "『ビビ　ガガ　ガガガガ』"
+                                "Bibi-gagagagaga"
                             ]
                         },
                         {
@@ -19403,7 +19403,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ガーディアンは沈黙した。"
+                                "The Guardian fell silent."
                             ]
                         },
                         {
@@ -19542,14 +19542,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "Transferring to SYSTEM Floor 5."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "フロア5に転移します。"
+                                ""
                             ]
                         },
                         {
@@ -26038,7 +26038,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "墓標型のオブジェクトがある。"
+                                "There is a tombstone-shaped object."
                             ]
                         },
                         {
@@ -26106,7 +26106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "墓標型のオブジェクトがある。"
+                                "There is a tombstone-shaped object."
                             ]
                         },
                         {
@@ -26135,14 +26135,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: This is it, alright!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「これだな、よし！」"
+                                ""
                             ]
                         },
                         {
@@ -26193,14 +26193,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "I destroyed the tombstone-shaped object."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "墓標型のオブジェクトを破壊した。"
+                                ""
                             ]
                         },
                         {
@@ -26258,7 +26258,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "何かが砕ける大きな音がした。"
+                                "I heard a loud sound of something breaking."
                             ]
                         },
                         {
@@ -26401,7 +26401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "墓標型のオブジェクトがある。"
+                                "There is a tombstone-shaped object."
                             ]
                         },
                         {
@@ -26469,7 +26469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "墓標型のオブジェクトがある。"
+                                "There is a tombstone-shaped object."
                             ]
                         },
                         {
@@ -26498,14 +26498,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: This is it, alright!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「これだな、よし！」"
+                                ""
                             ]
                         },
                         {
@@ -26556,14 +26556,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "I destroyed the tombstone-shaped object."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "墓標型のオブジェクトを破壊した。"
+                                ""
                             ]
                         },
                         {
@@ -26621,7 +26621,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "何かが砕ける大きな音がした。"
+                                "I heard a loud sound of something breaking."
                             ]
                         },
                         {
@@ -26764,7 +26764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "墓標型のオブジェクトがある。"
+                                "There is a tombstone-shaped object."
                             ]
                         },
                         {
@@ -26832,7 +26832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "墓標型のオブジェクトがある。"
+                                "There is a tombstone-shaped object."
                             ]
                         },
                         {
@@ -26861,14 +26861,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: This is it, alright!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「これだな、よし！」"
+                                ""
                             ]
                         },
                         {
@@ -26919,14 +26919,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "I destroyed the tombstone-shaped object."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "墓標型のオブジェクトを破壊した。"
+                                ""
                             ]
                         },
                         {
@@ -26984,7 +26984,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "何かが砕ける大きな音がした。"
+                                "I heard a loud sound of something breaking."
                             ]
                         },
                         {
@@ -27127,7 +27127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "墓標型のオブジェクトがある。"
+                                "There is a tombstone-shaped object."
                             ]
                         },
                         {
@@ -27195,7 +27195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "墓標型のオブジェクトがある。"
+                                "There is a tombstone-shaped object."
                             ]
                         },
                         {
@@ -27224,14 +27224,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: This is it, alright!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「これだな、よし！」"
+                                ""
                             ]
                         },
                         {
@@ -27282,14 +27282,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "I destroyed the tombstone-shaped object."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "墓標型のオブジェクトを破壊した。"
+                                ""
                             ]
                         },
                         {
@@ -27347,7 +27347,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "何かが砕ける大きな音がした。"
+                                "I heard a loud sound of something breaking."
                             ]
                         },
                         {

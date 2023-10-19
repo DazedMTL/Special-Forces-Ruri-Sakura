@@ -13699,7 +13699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「この前、痴漢にあったんですよ、もう最悪」"
+                                "The other day, I was groped by a pervert, it was\nthe worst."
                             ]
                         },
                         {
@@ -13716,7 +13716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「……テクは凄かったけど\\I[15]」"
+                                "...Their technique was amazing, but..."
                             ]
                         },
                         {
@@ -13793,7 +13793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「この前、痴漢にあったんですよ、もう最悪」"
+                                "The other day, I was groped by a pervert, it was\nthe worst."
                             ]
                         },
                         {
@@ -13810,7 +13810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「……テクは凄かったけど\\I[15]」"
+                                "...Their technique was amazing, but..."
                             ]
                         },
                         {
@@ -14367,7 +14367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「この前、痴漢にあったんですよ、もう最悪」"
+                                "The other day, I was groped by a pervert, it was\nthe worst."
                             ]
                         },
                         {
@@ -14384,7 +14384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「……テクは凄かったけど\\I[15]」"
+                                "...Their technique was amazing, but..."
                             ]
                         },
                         {
@@ -15249,14 +15249,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "老人"
+                                "Old man: Hmm, I'm in trouble."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「うーむ、困ったのー」"
+                                ""
                             ]
                         },
                         {
@@ -15400,14 +15400,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: What's wrong, old man?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「どうしたんだ、爺さん」"
+                                ""
                             ]
                         },
                         {
@@ -15455,38 +15455,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "老人"
+                                "Old man: Actually, you see, the equipment we use\nfor the village festival is damaged."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「実はのう、村の祭りで使う機材が痛んでしもうてな」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "老人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「補修用の素材を買いに来たんじゃが、在庫が切れておった」"
+                                ""
                             ]
                         },
                         {
@@ -15503,14 +15479,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "老人"
+                                "Old man: I came to buy repair materials, but it\nseems they're out of stock."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「軽くて頑丈な\\I[298]\\C[4]バイオボーン\\C[0]が\\C[4]5\\C[0]個必要なんじゃよ」"
+                                ""
                             ]
                         },
                         {
@@ -15527,14 +15503,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "老人"
+                                "Old man: We need 5 lightweight and sturdy\n\\I[298]\\C[4]Bio Bones\\C[0]."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「他にあてもないし、困ったのう」"
+                                "Old man: I have nothing else to do, and I'm\ntroubled."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -15558,14 +15558,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\I[298]\\C[4]Will you provide 5 \\C[0]Bio\nBones\\C[4]?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\I[298]\\C[4]バイオボーン\\C[0]を\\C[4]5\\C[0]個提供しますか？"
+                                ""
                             ]
                         },
                         {
@@ -15573,8 +15573,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -15637,38 +15637,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "老人"
+                                "Old man: Oh my, did you go through the trouble of\npreparing this for me?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「なんと、わざわざ用意してくださったのかね！」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "老人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「ありがとう、助かったわい」"
+                                ""
                             ]
                         },
                         {
@@ -15685,14 +15661,38 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "老人"
+                                "Old man: Thank you, I'm saved."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「そうじゃ、せめてものお礼にこいつを……」"
+                                "Old man: In return, at least take this..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -15714,38 +15714,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "Kenichi lost 5 Bio Bones."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ケンイチは\\I[298]\\C[4]バイオボーン\\C[0]を\\C[4]5\\C[0]個、失った。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "SYSTEM"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "市民に感謝され\\C[4]300P\\C[0]の貢献度を獲得した！"
+                                ""
                             ]
                         },
                         {
@@ -15762,14 +15738,38 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "The citizens expressed their gratitude and\nobtained a contribution of 300P!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "個人的なお礼として\\I[208]\\C[4]ミラクルアップ\\C[0]を譲ってもらった。"
+                                "As a personal thank you, \\I[208]\\C[4]Miracle\nUp\\C[0] was given to me."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -15839,7 +15839,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "と、思ったが\\I[298]\\C[4]バイオボーン\\C[0]が足りない。"
+                                "I thought, but it seems that I'm short on\n\\I[298]\\C[4]Bio Bones\\C[0]."
                             ]
                         },
                         {
@@ -15940,14 +15940,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "老人"
+                                "Old Man: Thank you, young lady."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ありがとうじゃわい」"
+                                ""
                             ]
                         },
                         {
@@ -16015,14 +16015,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "老人"
+                                "Old Man: Oh, perfect timing."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「おお、良いところに」"
+                                ""
                             ]
                         },
                         {
@@ -16039,14 +16039,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "老人"
+                                "Old Man: I apologize, but could I ask for another\nfavor?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「申し訳ないんじゃが、また、お願いできませんかな」"
+                                ""
                             ]
                         },
                         {
@@ -16190,38 +16190,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: Hmm, what do you need this time, old man?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ん、今度は何が必要なんだ爺さん」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "老人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「軽くて頑丈な\\I[290]\\C[4]バイオ繊維\\C[0]が\\C[4]5\\C[0]個必要なんじゃよ」"
+                                ""
                             ]
                         },
                         {
@@ -16238,14 +16214,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "老人"
+                                "Old Man: I need 5 lightweight and durable\n\\I[290]\\C[4]bio fibers\\C[0]."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「他にあてもないし、なんとか頼めないじゃろうか」"
+                                "Old Man: I have nothing else to do, so could you\nplease help me somehow?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -16269,14 +16269,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\I[290]\\C[4]Will you provide 5 \\C[0]bio\nfibers\\C[4]?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\I[290]\\C[4]バイオ繊維\\C[0]を\\C[4]5\\C[0]個提供しますか？"
+                                ""
                             ]
                         },
                         {
@@ -16284,8 +16284,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -16348,38 +16348,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "老人"
+                                "Old Man: Oh! Did you go out of your way to prepare\nit for me?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「おお！　わざわざ用意してくださったのかね！」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "老人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「ありがとう、助かったわい」"
+                                ""
                             ]
                         },
                         {
@@ -16396,14 +16372,38 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "老人"
+                                "Old Man: Thank you, I appreciate it."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「これは、せめてものお礼じゃ、役に立ててくだされ」"
+                                "Old Man: This is at least a small token of\ngratitude, please make use of it."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -16425,38 +16425,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "Kenichi lost 5 bio fibers."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ケンイチは\\I[290]\\C[4]バイオ繊維\\C[0]を\\C[4]5\\C[0]個、失った。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "SYSTEM"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "市民に感謝され\\C[4]600P\\C[0]の貢献度を獲得した！"
+                                ""
                             ]
                         },
                         {
@@ -16473,14 +16449,38 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "The contribution of \\C[4]600P\\C[0] was recognized\nand appreciated by the citizens!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "個人的なお礼として\\I[208]\\C[4]ミラクルアップ\\C[0]を譲ってもらった。"
+                                "As a personal thank you, I received\n\\I[208]\\C[4]Miracle Up\\C[0]."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -16550,7 +16550,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "と、思ったが\\I[290]\\C[4]バイオ繊維\\C[0]が足りない。"
+                                "I thought so, but it seems we don't have enough\n\\I[290]\\C[4]bio fibers\\C[0]."
                             ]
                         },
                         {
@@ -16651,14 +16651,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "老人"
+                                "Old Man: Thank you, young lady."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ありがとうじゃわい」"
+                                ""
                             ]
                         },
                         {
@@ -16726,14 +16726,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "老人"
+                                "Old Man: Oh, perfect timing."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「おお、良いところに」"
+                                ""
                             ]
                         },
                         {
@@ -16750,21 +16750,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "老人"
+                                "Old Man: I apologize for bothering you again. This\nis my final request, could you please help me?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「重ね重ね、申し訳ない。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　これが最後の頼みじゃ、お願いできませんかな」"
+                                ""
                             ]
                         },
                         {
@@ -16908,38 +16908,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サクラ"
+                                "Sakura: Geez, what a lively old man. So, what do\nyou need this time?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ったく調子の良い爺さんだな、で、今度は何が必要だ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "老人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「祭りで焚く香の材料に\\I[298]\\C[4]バイオ蛇毒\\C[0]が\\C[4]5\\C[0]個必要なんじゃ」"
+                                ""
                             ]
                         },
                         {
@@ -16956,14 +16932,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "老人"
+                                "Old Man: For the incense to be burned at the\nfestival, we need 5 \\I[298]\\C[4]Bio Snake\nVenom\\C[0] as ingredients."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「今回も、なんとか頼めないじゃろうか」"
+                                "Old Man: Can't you help me this time as well?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -16987,14 +16987,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "SYSTEM\\I[298]\\C[4]Will you provide \\C[0]5\\C[4] Bio\nSnake Venom\\C[0]?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\I[298]\\C[4]バイオ蛇毒\\C[0]を\\C[4]5\\C[0]個提供しますか？"
+                                ""
                             ]
                         },
                         {
@@ -17002,8 +17002,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -17066,38 +17066,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "老人"
+                                "Old Man: Oh! Did you go out of your way to prepare\nthis for me?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「おお！　わざわざ用意してくださったのかね！」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "老人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「これで無事に祭りも執り行えるわい！」"
+                                ""
                             ]
                         },
                         {
@@ -17114,14 +17090,38 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "老人"
+                                "Old Man: With this, the festival can be carried\nout safely!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「もしも機会があれば参加してくだされ歓迎しますぞ」"
+                                "Old Man: If you have the chance, please join us.\nYou're welcome!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -17143,38 +17143,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "Kenichi lost \\I[298]\\C[4]5\\C[0] Bio Snake\nVenom\\C[4]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ケンイチは\\I[298]\\C[4]バイオ蛇毒\\C[0]を\\C[4]5\\C[0]個、失った。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "SYSTEM"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "市民に感謝され\\C[4]900P\\C[0]の貢献度を獲得した！"
+                                ""
                             ]
                         },
                         {
@@ -17191,14 +17167,38 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "SYSTEM"
+                                "You have earned a contribution of \\C[4]900P\\C[0]\nand received gratitude from the citizens!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "個人的なお礼として\\I[208]\\C[4]ミラクルアップ\\C[0]を譲ってもらった。"
+                                "As a personal thank you, I received\n\\I[208]\\C[4]Miracle Up\\C[0]."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -17268,7 +17268,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "と、思ったが\\I[298]\\C[4]バイオ蛇毒\\C[0]が足りない。"
+                                "I thought so, but it seems we don't have enough\n\\C[4]Bio Snake Venom\\C[0]."
                             ]
                         },
                         {
@@ -17369,14 +17369,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "老人"
+                                "Elderly person: Please, do participate in the\nfestival!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「是非、祭りに参加してくだされ！」"
+                                ""
                             ]
                         },
                         {

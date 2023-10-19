@@ -15780,7 +15780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "石像の台座にスイッチがある。"
+                                "There is a switch on the pedestal of the statue."
                             ]
                         },
                         {
@@ -15797,14 +15797,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "Do you want to press the SYSTEM switch?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "スイッチを押しますか？"
+                                ""
                             ]
                         },
                         {
@@ -15812,8 +15812,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -16160,14 +16160,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ムラサキ"
+                                "Murasaki: That leads to the next floor."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "『それが、次のフロアに続く道』"
+                                ""
                             ]
                         },
                         {
@@ -16184,14 +16184,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ムラサキ"
+                                "Murasaki: Be careful because there are guardians."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "『ガーディアンがいるから注意』"
+                                ""
                             ]
                         },
                         {
@@ -16268,7 +16268,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『それ、次のフロアに続く道』"
+                                "That's the path that continues to the next floor."
                             ]
                         },
                         {
@@ -16303,45 +16303,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ムラサキ"
+                                "Murasaki: You're terrible at hiding the route."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "『ルートを隠すのが、下手くそ』"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ムラサキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『でも、一応、注意して。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ガーディアンが、設定されているみたいだから』"
+                                ""
                             ]
                         },
                         {
@@ -16358,14 +16327,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ムラサキ"
+                                "Murasaki: But, just in case, be careful. It seems\nlike there are guardians set up."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "『戦闘になる』"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -16382,14 +16358,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "Murasaki: It's going to be a battle."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女神像に触れますか？"
+                                "Do you touch the SYSTEM goddess statue?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -16397,8 +16397,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -16440,7 +16440,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『不正アクセス　ヲ　検知　シマシタ』"
+                                "Unauthorized access has been detected."
                             ]
                         },
                         {
@@ -16457,7 +16457,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『ガーディアンLV1　起動』"
+                                "'Activate Guardian LV1'"
                             ]
                         },
                         {
@@ -16522,7 +16522,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "『ガーディアン　突破　サレマシタ』"
+                                "The guardian has been defeated."
                             ]
                         },
                         {
@@ -16539,7 +16539,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "『ビビ　ガガ　ガガガガ』"
+                                "Bibi-gagagagaga"
                             ]
                         },
                         {
@@ -16556,7 +16556,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ガーディアンは沈黙した。"
+                                "The guardian fell silent."
                             ]
                         },
                         {
@@ -16695,14 +16695,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "Transferring to SYSTEM Floor 2."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "フロア2に転移します。"
+                                ""
                             ]
                         },
                         {
@@ -16800,14 +16800,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "Do you want to move to the middle point of the\nsystem?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "中間地点に移動しますか？"
+                                ""
                             ]
                         },
                         {
@@ -16815,8 +16815,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -18235,14 +18235,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEM"
+                                "Do you want to move to the deepest part of the\nsystem?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "最深部に移動しますか？"
+                                ""
                             ]
                         },
                         {
@@ -18250,8 +18250,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
