@@ -4731,7 +4731,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Kenichi: Y-Yes, not just that, understood! Prepare\nyourself, Blue!!"
+                                "\\C[11]Kenichi\\C[0]: Y-Yes, not just that, understood! Prepare\nyourself, Blue!!"
                             ]
                         },
                         {
@@ -5712,7 +5712,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Kenichi: Y-Yes, not just that, understood! Prepare\nyourself, Blue!!"
+                                "\\C[11]Kenichi\\C[0]: Y-Yes, not just that, understood! Prepare\nyourself, Blue!!"
                             ]
                         },
                         {
@@ -7873,7 +7873,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Kenichi: Y-Yes, not just that, understood! Prepare\nyourself, Blue!!"
+                                "\\C[11]Kenichi\\C[0]: Y-Yes, not just that, understood! Prepare\nyourself, Blue!!"
                             ]
                         },
                         {

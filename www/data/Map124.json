@@ -13643,7 +13643,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Kenichi: Alright, it's all good now."
+                                "\\C[11]Kenichi\\C[0]: Alright, it's all good now."
                             ]
                         },
                         {
@@ -13667,7 +13667,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Kenichi: Be careful not to be found."
+                                "\\C[11]Kenichi\\C[0]: Be careful not to be found."
                             ]
                         },
                         {

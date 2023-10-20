@@ -5660,7 +5660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: Uh, y-yeah. Maybe we should fight by\nusing the abilities of our gear, I guess."
+                                "\\C[11]Kenichi\\C[0]: Uh, y-yeah. Maybe we should fight by\nusing the abilities of our gear, I guess."
                             ]
                         },
                         {
@@ -5925,7 +5925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: Y-yeah, not 'o-okay', but yes!"
+                                "\\C[11]Kenichi\\C[0]: Y-yeah, not 'o-okay', but yes!"
                             ]
                         },
                         {
@@ -6628,7 +6628,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: Alright! Let's defeat these guys and move\nforward!"
+                                "\\C[11]Kenichi\\C[0]: Alright! Let's defeat these guys and move\nforward!"
                             ]
                         },
                         {
@@ -7034,7 +7034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: I-I understand! I don't intend to hold\nback Onee-chan and the others!"
+                                "\\C[11]Kenichi\\C[0]: I-I understand! I don't intend to hold\nback Onee-chan and the others!"
                             ]
                         },
                         {
@@ -7305,7 +7305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: Y-Yeah, we got this!!"
+                                "\\C[11]Kenichi\\C[0]: Y-Yeah, we got this!!"
                             ]
                         },
                         {
@@ -7435,7 +7435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: H-Hehe, leave it to me! I'll catch up to\nOnee-chan and the others in no time!"
+                                "\\C[11]Kenichi\\C[0]: H-Hehe, leave it to me! I'll catch up to\nOnee-chan and the others in no time!"
                             ]
                         },
                         {
@@ -8286,7 +8286,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: Uh, y-yeah. Maybe we should fight by\nusing the abilities of our gear, I guess."
+                                "\\C[11]Kenichi\\C[0]: Uh, y-yeah. Maybe we should fight by\nusing the abilities of our gear, I guess."
                             ]
                         },
                         {
@@ -8551,7 +8551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: Y-yeah, not 'o-okay', but yes!"
+                                "\\C[11]Kenichi\\C[0]: Y-yeah, not 'o-okay', but yes!"
                             ]
                         },
                         {
@@ -9434,7 +9434,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Kenichi: ...Phew, I managed to pull through."
+                                "\\C[11]Kenichi\\C[0]: ...Phew, I managed to pull through."
                             ]
                         },
                         {
@@ -9908,7 +9908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: Uh, y-yeah. Maybe we should fight by\nusing the abilities of our gear, I guess."
+                                "\\C[11]Kenichi\\C[0]: Uh, y-yeah. Maybe we should fight by\nusing the abilities of our gear, I guess."
                             ]
                         },
                         {
@@ -10173,7 +10173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: Y-Yeah, not 'o-okay', but yes!"
+                                "\\C[11]Kenichi\\C[0]: Y-Yeah, not 'o-okay', but yes!"
                             ]
                         },
                         {
@@ -11090,7 +11090,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Kenichi: ...Huff, huff, we managed to make it\nthrough."
+                                "\\C[11]Kenichi\\C[0]: ...Huff, huff, we managed to make it\nthrough."
                             ]
                         },
                         {
@@ -12147,7 +12147,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Kenichi: ...Phew, I managed to pull through."
+                                "\\C[11]Kenichi\\C[0]: ...Phew, I managed to pull through."
                             ]
                         },
                         {

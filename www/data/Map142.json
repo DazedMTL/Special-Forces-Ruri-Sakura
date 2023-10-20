@@ -11028,7 +11028,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Kenichi: Um, would you like to drink this?"
+                                "\\C[11]Kenichi\\C[0]: Um, would you like to drink this?"
                             ]
                         },
                         {
@@ -11417,7 +11417,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Kenichi: A-Amazing, you told me everything by\nyourself..."
+                                "\\C[11]Kenichi\\C[0]: A-Amazing, you told me everything by\nyourself..."
                             ]
                         },
                         {
@@ -12217,7 +12217,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Kenichi: Eh............eh?"
+                                "\\C[11]Kenichi\\C[0]: Eh............eh?"
                             ]
                         },
                         {
@@ -12299,7 +12299,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Kenichi: Um... well then, I'll borrow it for a\nmoment."
+                                "\\C[11]Kenichi\\C[0]: Um... well then, I'll borrow it for a\nmoment."
                             ]
                         },
                         {
@@ -12730,7 +12730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: Excuse me, if you're not going to eat\nthat ramen, could you please let us have it?"
+                                "\\C[11]Kenichi\\C[0]: Excuse me, if you're not going to eat\nthat ramen, could you please let us have it?"
                             ]
                         },
                         {
@@ -13445,7 +13445,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: Um, do you have ramen?"
+                                "\\C[11]Kenichi\\C[0]: Um, do you have ramen?"
                             ]
                         },
                         {

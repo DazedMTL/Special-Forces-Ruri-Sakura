@@ -9005,7 +9005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: No, please be careful!"
+                                "\\C[11]Kenichi\\C[0]: No, please be careful!"
                             ]
                         },
                         {
@@ -11547,7 +11547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: No, please be careful!"
+                                "\\C[11]Kenichi\\C[0]: No, please be careful!"
                             ]
                         },
                         {
@@ -15859,7 +15859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: N-No, please be careful!"
+                                "\\C[11]Kenichi\\C[0]: N-No, please be careful!"
                             ]
                         },
                         {
@@ -20524,7 +20524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: 'Of course!'"
+                                "\\C[11]Kenichi\\C[0]: 'Of course!'"
                             ]
                         },
                         {
@@ -20705,7 +20705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: With three people, it's quite a catch...\nCan I say that?"
+                                "\\C[11]Kenichi\\C[0]: With three people, it's quite a catch...\nCan I say that?"
                             ]
                         },
                         {
@@ -20793,7 +20793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: ...That is..."
+                                "\\C[11]Kenichi\\C[0]: ...That is..."
                             ]
                         },
                         {
@@ -20848,7 +20848,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: That's right... Ah, but..."
+                                "\\C[11]Kenichi\\C[0]: That's right... Ah, but..."
                             ]
                         },
                         {

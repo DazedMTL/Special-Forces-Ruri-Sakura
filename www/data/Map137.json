@@ -14560,7 +14560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: Hm? What's this, a message? From Onee-\nsan Sakura?"
+                                "\\C[11]Kenichi\\C[0]: Hm? What's this, a message? From Onee-\nsan Sakura?"
                             ]
                         },
                         {
@@ -14645,7 +14645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: Yes, this is Kenichi. Did something\nhappen, Onee-san Sakura? Hello?"
+                                "\\C[11]Kenichi\\C[0]: Yes, this is Kenichi. Did something\nhappen, Onee-san Sakura? Hello?"
                             ]
                         },
                         {
@@ -14683,7 +14683,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kimohiko: Oh, hello there, Kenichi-kun! It's me,\nKimohiko! Yahoo, how are you doing?"
+                                "\\C[14]Kimohiko\\C[0]: Oh, hello there, Kenichi-kun! It's me,\nKimohiko! Yahoo, how are you doing?"
                             ]
                         },
                         {
@@ -14721,7 +14721,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: What's up, Kimohiko? And why are you\nusing Onee-san Sakura's communicator?"
+                                "\\C[11]Kenichi\\C[0]: What's up, Kimohiko? And why are you\nusing Onee-san Sakura's communicator?"
                             ]
                         },
                         {
@@ -14797,7 +14797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: What happened, Onee-san Sakura? Don't\ntell me something happened, like an incident or\nsomething!!"
+                                "\\C[11]Kenichi\\C[0]: What happened, Onee-san Sakura? Don't\ntell me something happened, like an incident or\nsomething!!"
                             ]
                         },
                         {
@@ -14835,7 +14835,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kimohiko: Ahaha, no, it's different. Onee-san\nSakura has become a toilet, maybe~♪"
+                                "\\C[14]Kimohiko\\C[0]: Ahaha, no, it's different. Onee-san\nSakura has become a toilet, maybe~♪"
                             ]
                         },
                         {
@@ -14873,7 +14873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: Huh? To the toilet?"
+                                "\\C[11]Kenichi\\C[0]: Huh? To the toilet?"
                             ]
                         },
                         {
@@ -15025,7 +15025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: Ah, are you going to the toilet?"
+                                "\\C[11]Kenichi\\C[0]: Ah, are you going to the toilet?"
                             ]
                         },
                         {
@@ -15063,7 +15063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: Hey, that's a Future Special Police\nequipment. You shouldn't use it without a reason,\nyou'll get in trouble."
+                                "\\C[11]Kenichi\\C[0]: Hey, that's a Future Special Police\nequipment. You shouldn't use it without a reason,\nyou'll get in trouble."
                             ]
                         },
                         {
@@ -15101,7 +15101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kimohiko: Ahaha, maybe so~. Well then, I'll become\nOnee-san Sakura♪"
+                                "\\C[14]Kimohiko\\C[0]: Ahaha, maybe so~. Well then, I'll become\nOnee-san Sakura♪"
                             ]
                         },
                         {
@@ -15177,7 +15177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: Don't worry, Onee-san Sakura. I was just\ndoing a regular patrol too."
+                                "\\C[11]Kenichi\\C[0]: Don't worry, Onee-san Sakura. I was just\ndoing a regular patrol too."
                             ]
                         },
                         {
@@ -15316,7 +15316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: Ah, it was Kimohiko's prank. It seems he\nused Onee-chan's communicator without permission."
+                                "\\C[11]Kenichi\\C[0]: Ah, it was Kimohiko's prank. It seems he\nused Onee-chan's communicator without permission."
                             ]
                         },
                         {
@@ -15477,7 +15477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: What's wrong, Onee-san Rurika?"
+                                "\\C[11]Kenichi\\C[0]: What's wrong, Onee-san Rurika?"
                             ]
                         },
                         {
@@ -15591,7 +15591,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: Ah, is it like how I used to get scolded\nin the past?"
+                                "\\C[11]Kenichi\\C[0]: Ah, is it like how I used to get scolded\nin the past?"
                             ]
                         },
                         {
@@ -15705,7 +15705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: Uh, no, yes!"
+                                "\\C[11]Kenichi\\C[0]: Uh, no, yes!"
                             ]
                         },
                         {
@@ -15812,7 +15812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kimohiko: Sorry to keep you waiting, Onee-san\nRurika, Kenichi-kun."
+                                "\\C[14]Kimohiko\\C[0]: Sorry to keep you waiting, Onee-san\nRurika, Kenichi-kun."
                             ]
                         },
                         {
@@ -15850,7 +15850,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kimohiko: Sorry, I'm a little late♪"
+                                "\\C[14]Kimohiko\\C[0]: Sorry, I'm a little late♪"
                             ]
                         },
                         {
@@ -15926,7 +15926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: Geez, get it together, Kimohiko."
+                                "\\C[11]Kenichi\\C[0]: Geez, get it together, Kimohiko."
                             ]
                         },
                         {
@@ -15964,7 +15964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: You properly apologized for using Onee-\nchan's communication device without permission,\nright?"
+                                "\\C[11]Kenichi\\C[0]: You properly apologized for using Onee-\nchan's communication device without permission,\nright?"
                             ]
                         },
                         {
@@ -16002,7 +16002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kimohiko: Yeah, I apologized♪"
+                                "\\C[14]Kimohiko\\C[0]: Yeah, I apologized♪"
                             ]
                         },
                         {
@@ -16040,7 +16040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kimohiko: It's about using the communication\ndevice without permission and connecting a call\nwith Kenichi-kun, right?♪"
+                                "\\C[14]Kimohiko\\C[0]: It's about using the communication\ndevice without permission and connecting a call\nwith Kenichi-kun, right?♪"
                             ]
                         },
                         {
@@ -16219,7 +16219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: ......?"
+                                "\\C[11]Kenichi\\C[0]: ......?"
                             ]
                         },
                         {
@@ -16295,7 +16295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kimohiko: Oh, right, so about that..."
+                                "\\C[14]Kimohiko\\C[0]: Oh, right, so about that..."
                             ]
                         },
                         {
@@ -16333,7 +16333,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kimohiko: While I was patrolling, um, I remembered\nsomething."
+                                "\\C[14]Kimohiko\\C[0]: While I was patrolling, um, I remembered\nsomething."
                             ]
                         },
                         {
@@ -16371,7 +16371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kimohiko: There's a hidden Pink Snake gang\nwarehouse around here too, you know♪"
+                                "\\C[14]Kimohiko\\C[0]: There's a hidden Pink Snake gang\nwarehouse around here too, you know♪"
                             ]
                         },
                         {
@@ -16409,7 +16409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kimohiko: I'm sure there's something useful\ninside."
+                                "\\C[14]Kimohiko\\C[0]: I'm sure there's something useful\ninside."
                             ]
                         },
                         {
@@ -16523,7 +16523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: ...?"
+                                "\\C[11]Kenichi\\C[0]: ...?"
                             ]
                         },
                         {
@@ -17903,7 +17903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: Phew, for now, I guess this is enough."
+                                "\\C[11]Kenichi\\C[0]: Phew, for now, I guess this is enough."
                             ]
                         },
                         {
@@ -18033,7 +18033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: And then... it's just Rurika and Onee-\nsan."
+                                "\\C[11]Kenichi\\C[0]: And then... it's just Rurika and Onee-\nsan."
                             ]
                         },
                         {
@@ -18071,7 +18071,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: The meeting place is here, right?"
+                                "\\C[11]Kenichi\\C[0]: The meeting place is here, right?"
                             ]
                         },
                         {
@@ -18327,7 +18327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: You're late... Oh, right."
+                                "\\C[11]Kenichi\\C[0]: You're late... Oh, right."
                             ]
                         },
                         {
@@ -18365,7 +18365,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: Why don't we just make a regular call?"
+                                "\\C[11]Kenichi\\C[0]: Why don't we just make a regular call?"
                             ]
                         },
                         {
@@ -18631,7 +18631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: ...Huh? It's not connecting."
+                                "\\C[11]Kenichi\\C[0]: ...Huh? It's not connecting."
                             ]
                         },
                         {
@@ -18669,7 +18669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: Could it be... something like an\nincident!?"
+                                "\\C[11]Kenichi\\C[0]: Could it be... something like an\nincident!?"
                             ]
                         },
                         {
@@ -18792,7 +18792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: Huh, uh, yeah?"
+                                "\\C[11]Kenichi\\C[0]: Huh, uh, yeah?"
                             ]
                         },
                         {
@@ -19110,7 +19110,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: Ah!"
+                                "\\C[11]Kenichi\\C[0]: Ah!"
                             ]
                         },
                         {
@@ -19249,7 +19249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kimohiko: I'm home~ hehe, sorry I'm late~"
+                                "\\C[14]Kimohiko\\C[0]: I'm home~ hehe, sorry I'm late~"
                             ]
                         },
                         {
@@ -19287,7 +19287,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: Thank goodness, I was worried!"
+                                "\\C[11]Kenichi\\C[0]: Thank goodness, I was worried!"
                             ]
                         },
                         {
@@ -19363,7 +19363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kimohiko: Ahaha, sorry about that~"
+                                "\\C[14]Kimohiko\\C[0]: Ahaha, sorry about that~"
                             ]
                         },
                         {
@@ -19401,7 +19401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kimohiko: But I see, I was worried~♪"
+                                "\\C[14]Kimohiko\\C[0]: But I see, I was worried~♪"
                             ]
                         },
                         {
@@ -19439,7 +19439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: Geez, I finally understand something too."
+                                "\\C[11]Kenichi\\C[0]: Geez, I finally understand something too."
                             ]
                         },
                         {
@@ -19477,7 +19477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: Kimohiko, you did something, didn't you?"
+                                "\\C[11]Kenichi\\C[0]: Kimohiko, you did something, didn't you?"
                             ]
                         },
                         {
@@ -19515,7 +19515,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kimohiko: Yeah!"
+                                "\\C[14]Kimohiko\\C[0]: Yeah!"
                             ]
                         },
                         {
@@ -19629,7 +19629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: ...I feel relieved."
+                                "\\C[11]Kenichi\\C[0]: ...I feel relieved."
                             ]
                         },
                         {
@@ -19667,7 +19667,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: Make sure to apologize to Rurika, Onee-\nsan."
+                                "\\C[11]Kenichi\\C[0]: Make sure to apologize to Rurika, Onee-\nsan."
                             ]
                         },
                         {
@@ -19705,7 +19705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kimohiko: Ahaha, it was only Onee-chan who\napologized though."
+                                "\\C[14]Kimohiko\\C[0]: Ahaha, it was only Onee-chan who\napologized though."
                             ]
                         },
                         {
@@ -19743,7 +19743,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: Yes?"
+                                "\\C[11]Kenichi\\C[0]: Yes?"
                             ]
                         },
                         {
@@ -19781,7 +19781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kimohiko: Um, well..."
+                                "\\C[14]Kimohiko\\C[0]: Um, well..."
                             ]
                         },
                         {
@@ -19843,7 +19843,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: Wow, I got scared!"
+                                "\\C[11]Kenichi\\C[0]: Wow, I got scared!"
                             ]
                         },
                         {
@@ -19881,7 +19881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kimohiko: Ahaha, that was a loud voice, huh?"
+                                "\\C[14]Kimohiko\\C[0]: Ahaha, that was a loud voice, huh?"
                             ]
                         },
                         {
@@ -20080,7 +20080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kimohiko: Um, did I forget something important?"
+                                "\\C[14]Kimohiko\\C[0]: Um, did I forget something important?"
                             ]
                         },
                         {
@@ -20156,7 +20156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kimohiko: While patrolling around here, I\nremembered something. There's a hidden warehouse\nof the Pink Snake gang nearby."
+                                "\\C[14]Kimohiko\\C[0]: While patrolling around here, I\nremembered something. There's a hidden warehouse\nof the Pink Snake gang nearby."
                             ]
                         },
                         {
@@ -20270,7 +20270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kimohiko: Yeah, let's make sure to collect it\nwithout forgetting♪"
+                                "\\C[14]Kimohiko\\C[0]: Yeah, let's make sure to collect it\nwithout forgetting♪"
                             ]
                         },
                         {
@@ -23959,7 +23959,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Kenichi: Sorry for the wait, I found the lost\nkitten!"
+                                "\\C[11]Kenichi\\C[0]: Sorry for the wait, I found the lost\nkitten!"
                             ]
                         },
                         {
@@ -24515,7 +24515,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Kenichi: Sorry for the wait, I found the lost dog!"
+                                "\\C[11]Kenichi\\C[0]: Sorry for the wait, I found the lost dog!"
                             ]
                         },
                         {

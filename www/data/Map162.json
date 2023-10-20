@@ -10306,7 +10306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: Alright, let's start the beach\ninvestigation... huh?"
+                                "\\C[11]Kenichi\\C[0]: Alright, let's start the beach\ninvestigation... huh?"
                             ]
                         },
                         {
@@ -10330,7 +10330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: What should I do?"
+                                "\\C[11]Kenichi\\C[0]: What should I do?"
                             ]
                         },
                         {
@@ -10688,7 +10688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: Phew... is this good enough?"
+                                "\\C[11]Kenichi\\C[0]: Phew... is this good enough?"
                             ]
                         },
                         {
@@ -10800,7 +10800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: Yeah... Oh, but..."
+                                "\\C[11]Kenichi\\C[0]: Yeah... Oh, but..."
                             ]
                         },
                         {

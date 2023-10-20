@@ -10592,7 +10592,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Kenichi: Huh!?"
+                                "\\C[11]Kenichi\\C[0]: Huh!?"
                             ]
                         },
                         {
@@ -11944,7 +11944,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Kenichi: I'm sorry, could I have some coffee?"
+                                "\\C[11]Kenichi\\C[0]: I'm sorry, could I have some coffee?"
                             ]
                         },
                         {
@@ -12238,7 +12238,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Kenichi: Thank you very much!"
+                                "\\C[11]Kenichi\\C[0]: Thank you very much!"
                             ]
                         },
                         {
@@ -16010,7 +16010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: You're welcome. We want to proceed to the\nupper floor."
+                                "\\C[11]Kenichi\\C[0]: You're welcome. We want to proceed to the\nupper floor."
                             ]
                         },
                         {
@@ -16688,7 +16688,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Kenichi: That's enough!!"
+                                "\\C[11]Kenichi\\C[0]: That's enough!!"
                             ]
                         },
                         {

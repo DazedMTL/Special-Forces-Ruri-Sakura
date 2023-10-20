@@ -2240,7 +2240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: ...U-understood!!"
+                                "\\C[11]Kenichi\\C[0]: ...U-understood!!"
                             ]
                         },
                         {
@@ -2827,7 +2827,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Kenichi: Y-Yes, understood!!"
+                                "\\C[11]Kenichi\\C[0]: Y-Yes, understood!!"
                             ]
                         },
                         {
@@ -3992,7 +3992,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Kenichi: Y-Yes, understood!!"
+                                "\\C[11]Kenichi\\C[0]: Y-Yes, understood!!"
                             ]
                         },
                         {
@@ -5157,7 +5157,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Kenichi: Y-Yes, understood!!"
+                                "\\C[11]Kenichi\\C[0]: Y-Yes, understood!!"
                             ]
                         },
                         {

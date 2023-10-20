@@ -17040,7 +17040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: Hmm... Ah, are you the mouse I helped\nbefore?"
+                                "\\C[11]Kenichi\\C[0]: Hmm... Ah, are you the mouse I helped\nbefore?"
                             ]
                         },
                         {
@@ -17073,7 +17073,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: If you stay in a place like this, you'll\nget caught again."
+                                "\\C[11]Kenichi\\C[0]: If you stay in a place like this, you'll\nget caught again."
                             ]
                         },
                         {
@@ -17097,7 +17097,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: Hurry up and run away."
+                                "\\C[11]Kenichi\\C[0]: Hurry up and run away."
                             ]
                         },
                         {
@@ -17169,7 +17169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: Hmm... Is there something buried here?"
+                                "\\C[11]Kenichi\\C[0]: Hmm... Is there something buried here?"
                             ]
                         },
                         {

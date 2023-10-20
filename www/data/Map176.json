@@ -19065,7 +19065,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Kenichi: ............"
+                                "\\C[11]Kenichi\\C[0]: ............"
                             ]
                         },
                         {
@@ -19854,7 +19854,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Kenichi: I will stop you, Onee-chan!"
+                                "\\C[11]Kenichi\\C[0]: I will stop you, Onee-chan!"
                             ]
                         },
                         {
@@ -20366,7 +20366,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Kenichi: U... Uuuuuuuuuuuuuu"
+                                "\\C[11]Kenichi\\C[0]: U... Uuuuuuuuuuuuuu"
                             ]
                         },
                         {
@@ -20455,7 +20455,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Kenichi:\nUwaaaaaaaahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh!"
+                                "\\C[11]Kenichi\\C[0]:\nUwaaaaaaaahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh!"
                             ]
                         },
                         {

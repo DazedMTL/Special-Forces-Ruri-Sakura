@@ -4018,7 +4018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: We did it, Onee-san! Let's get in there\nright away and crush them!!"
+                                "\\C[11]Kenichi\\C[0]: We did it, Onee-san! Let's get in there\nright away and crush them!!"
                             ]
                         },
                         {
@@ -4125,7 +4125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: Y-Yeah! Watch me! I'm also a member of\nthe Future Special Police, you know!"
+                                "\\C[11]Kenichi\\C[0]: Y-Yeah! Watch me! I'm also a member of\nthe Future Special Police, you know!"
                             ]
                         },
                         {
@@ -4816,7 +4816,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: Wait for me, Pink Snake Gang! I will\ndefinitely catch you!!"
+                                "\\C[11]Kenichi\\C[0]: Wait for me, Pink Snake Gang! I will\ndefinitely catch you!!"
                             ]
                         },
                         {
@@ -5006,7 +5006,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kenichi: Y-Yes!"
+                                "\\C[11]Kenichi\\C[0]: Y-Yes!"
                             ]
                         },
                         {

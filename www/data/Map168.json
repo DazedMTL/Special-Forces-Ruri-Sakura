@@ -2297,7 +2297,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Kenichi: U-Understood!!"
+                                "\\C[11]Kenichi\\C[0]: U-Understood!!"
                             ]
                         },
                         {
@@ -2829,7 +2829,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Kenichi: Understood!!"
+                                "\\C[11]Kenichi\\C[0]: Understood!!"
                             ]
                         },
                         {
@@ -2881,7 +2881,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Kenichi: Alright, let's move forward!"
+                                "\\C[11]Kenichi\\C[0]: Alright, let's move forward!"
                             ]
                         },
                         {
@@ -3294,7 +3294,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Kenichi: U-Understood!!"
+                                "\\C[11]Kenichi\\C[0]: U-Understood!!"
                             ]
                         },
                         {
@@ -3826,7 +3826,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Kenichi: Understood!!"
+                                "\\C[11]Kenichi\\C[0]: Understood!!"
                             ]
                         },
                         {
@@ -3878,7 +3878,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Kenichi: Alright, let's move forward!"
+                                "\\C[11]Kenichi\\C[0]: Alright, let's move forward!"
                             ]
                         },
                         {
@@ -4495,7 +4495,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Kenichi: U-Understood!!"
+                                "\\C[11]Kenichi\\C[0]: U-Understood!!"
                             ]
                         },
                         {
@@ -5027,7 +5027,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Kenichi: Understood!!"
+                                "\\C[11]Kenichi\\C[0]: Understood!!"
                             ]
                         },
                         {
@@ -5079,7 +5079,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Kenichi: Alright, let's move forward!"
+                                "\\C[11]Kenichi\\C[0]: Alright, let's move forward!"
                             ]
                         },
                         {
