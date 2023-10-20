@@ -14,13 +14,20 @@
 !bokukae_define.dat
 
 # Images
-!y_01.png
-!y_02.png
-!y_03.png
-!y_04.png
-!auto_battle.png
-!mer.png
-!michi.png
-!result.png
-!skill_bg.png
-!skill_tree.png
+!End01.rpgmvp
+!R01-01.rpgmvp
+!R01-02.rpgmvp
+!R02-01.rpgmvp
+!R02-02.rpgmvp
+!R03-00.rpgmvp
+!R03-01.rpgmvp
+!R03-02.rpgmvp
+!R04-01.rpgmvp
+!S01-01.rpgmvp
+!S01-02.rpgmvp
+!S02-01.rpgmvp
+!S02-02.rpgmvp
+!S03-00.rpgmvp
+!S03-01.rpgmvp
+!S03-02.rpgmvp
+!S04-01.rpgmvp
