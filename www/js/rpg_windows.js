@@ -275,7 +275,7 @@ Window_Base.prototype.drawTextEx = function (text, x, y) {
     }
 };
 
-Window_Base.prototype.drawTextEx = function (text, x, y, size) {
+Window_Base.prototype.drawTextEx2 = function (text, x, y, size) {
     if (text) {
         var textState = { index: 0, x: x, y: y, left: x };
         textState.text = this.convertEscapeCharacters(text);
@@ -1517,7 +1517,7 @@ Window_Help.prototype.setItem = function (item) {
 
 Window_Help.prototype.refresh = function () {
     this.contents.clear();
-    this.drawTextEx(this._text, this.textPadding(), 0, 22);
+    this.drawTextEx2(this._text, this.textPadding(), 0, 22);
 };
 
 //-----------------------------------------------------------------------------

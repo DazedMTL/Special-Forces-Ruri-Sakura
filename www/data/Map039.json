@@ -3803,7 +3803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Well then, if the information is correct,\nthe Pink Snake gang's base should be around here."
+                                "\\C[18]Sakura\\C[0]: Well then, if the information\nis correct, the Pink Snake gang's base should be\naround here."
                             ]
                         },
                         {
@@ -3841,7 +3841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: What do you think, Rurika? My intuition\ntells me that this one is a hit."
+                                "\\C[18]Sakura\\C[0]: What do you think, Rurika? My\nintuition tells me that this one is a hit."
                             ]
                         },
                         {
@@ -3895,7 +3895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: Yes, I agree. At first glance, it looks\nlike an abandoned old building, but considering\nthe security of this area, it's too quiet."
+                                "\\C[23]Rurika\\C[0]: Yes, I agree. At first glance,\nit looks like an abandoned old building, but\nconsidering the security of this area, it's too\nquiet."
                             ]
                         },
                         {
@@ -3933,7 +3933,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: Since we know it's the Pink Snake gang's\nbase, the residents in the area are too scared to\napproach."
+                                "\\C[23]Rurika\\C[0]: Since we know it's the Pink\nSnake gang's base, the residents in the area are\ntoo scared to approach."
                             ]
                         },
                         {
@@ -3971,7 +3971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: Logically, I speculate the same."
+                                "\\C[23]Rurika\\C[0]: Logically, I speculate the\nsame."
                             ]
                         },
                         {
@@ -4049,7 +4049,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Oh, you seem to be full of motivation."
+                                "\\C[18]Sakura\\C[0]: Oh, you seem to be full of\nmotivation."
                             ]
                         },
                         {
@@ -4087,7 +4087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: I'm counting on you, Kenichi- san."
+                                "\\C[23]Rurika\\C[0]: I'm counting on you, Kenichi-\nsan."
                             ]
                         },
                         {
@@ -4854,7 +4854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Oh, nice spirit, Kenichi! Let's get on\nboard right away!"
+                                "\\C[18]Sakura\\C[0]: Oh, nice spirit, Kenichi! Let's\nget on board right away!"
                             ]
                         },
                         {
@@ -4892,7 +4892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Get pumped up and keep up with me! Above\nall, a full-fledged Future Special Police officer\nneeds power!"
+                                "\\C[18]Sakura\\C[0]: Get pumped up and keep up with\nme! Above all, a full-fledged Future Special\nPolice officer needs power!"
                             ]
                         },
                         {
@@ -4930,7 +4930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: Honestly, Sakura, you're always provoking\nhim."
+                                "\\C[23]Rurika\\C[0]: Honestly, Sakura, you're always\nprovoking him."
                             ]
                         },
                         {
@@ -4968,7 +4968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: It's great that you're enthusiastic,\nKenichi-san, but if you want to become a full-\nfledged Future Special Police officer, don't\nforget to stay calm as well."
+                                "\\C[23]Rurika\\C[0]: It's great that you're\nenthusiastic, Kenichi-san, but if you want to\nbecome a full- fledged Future Special Police\nofficer, don't forget to stay calm as well."
                             ]
                         },
                         {
@@ -5639,7 +5639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "SYSTEMObtained \\C[4]\\I[241]Recovery Potion α\\C[0]!"
+                                "SYSTEM Obtained \\C[4]\\I[241]Recovery Potion\nα\\C[0]!"
                             ]
                         },
                         {
