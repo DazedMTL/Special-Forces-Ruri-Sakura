@@ -275,6 +275,21 @@ Window_Base.prototype.drawTextEx = function (text, x, y) {
     }
 };
 
+Window_Base.prototype.drawTextEx = function (text, x, y, size) {
+    if (text) {
+        var textState = { index: 0, x: x, y: y, left: x };
+        textState.text = this.convertEscapeCharacters(text);
+        textState.height = this.calcTextHeight(textState, false);
+        this.contents.fontSize = size
+        while (textState.index < textState.text.length) {
+            this.processCharacter(textState);
+        }
+        return textState.x - x;
+    } else {
+        return 0;
+    }
+};
+
 Window_Base.prototype.convertEscapeCharacters = function (text) {
     text = text.replace(/\\/g, '\x1b');
     text = text.replace(/\x1b\x1b/g, '\\');
@@ -1502,7 +1517,7 @@ Window_Help.prototype.setItem = function (item) {
 
 Window_Help.prototype.refresh = function () {
     this.contents.clear();
-    this.drawTextEx(this._text, this.textPadding(), 0);
+    this.drawTextEx(this._text, this.textPadding(), 0, 22);
 };
 
 //-----------------------------------------------------------------------------

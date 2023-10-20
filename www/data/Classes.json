@@ -51,7 +51,7 @@
             }
         ],
         "learnings": [],
-        "name": "Apprentice Special Police Officer",
+        "name": "Apprentice SPF Officer",
         "note": "",
         "params": [
             [
@@ -923,7 +923,7 @@
             }
         ],
         "learnings": [],
-        "name": "Loser Special Police Officer",
+        "name": "Loser SPF Officer",
         "note": "",
         "params": [
             [
@@ -1816,7 +1816,7 @@
                 "skillId": 87
             }
         ],
-        "name": "Special Forces Officer (Assault)",
+        "name": "SPF Officer (Assault)",
         "note": "",
         "params": [
             [
@@ -2714,7 +2714,7 @@
                 "skillId": 89
             }
         ],
-        "name": "Special Police Officer (Thunder)",
+        "name": "SPF Officer (Thunder)",
         "note": "",
         "params": [
             [
