@@ -37,8 +37,8 @@
         ],
         "initialLevel": 2,
         "maxLevel": 99,
-        "name": "ケンイチ",
-        "nickname": "見習い特警隊員",
+        "name": "Kenichi",
+        "nickname": "Apprentice Special Police Officer",
         "note": "",
         "profile": ""
     },
@@ -79,8 +79,8 @@
         ],
         "initialLevel": 6,
         "maxLevel": 99,
-        "name": "サクラ",
-        "nickname": "特警隊員",
+        "name": "Sakura",
+        "nickname": "Special Police Officer",
         "note": "",
         "profile": ""
     },
@@ -121,8 +121,8 @@
         ],
         "initialLevel": 6,
         "maxLevel": 99,
-        "name": "ルリカ",
-        "nickname": "特警隊員",
+        "name": "Rurika",
+        "nickname": "Special Police Officer",
         "note": "",
         "profile": ""
     },
@@ -142,7 +142,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "パスワード",
+        "name": "Password",
         "nickname": "",
         "note": "",
         "profile": ""

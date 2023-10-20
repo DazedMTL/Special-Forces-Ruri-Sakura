@@ -61,7 +61,7 @@
             }
         ],
         "gold": 10,
-        "name": "バイオスライムα",
+        "name": "Bioslime Alpha",
         "note": "",
         "params": [
             160,
@@ -142,7 +142,7 @@
             }
         ],
         "gold": 12,
-        "name": "バイオラットα",
+        "name": "Bio Rat Alpha",
         "note": "",
         "params": [
             180,
@@ -223,7 +223,7 @@
             }
         ],
         "gold": 18,
-        "name": "サイレンα",
+        "name": "Siren Alpha",
         "note": "",
         "params": [
             120,
@@ -297,7 +297,7 @@
             }
         ],
         "gold": 24,
-        "name": "マシンワームα",
+        "name": "Machine Worm Alpha",
         "note": "",
         "params": [
             250,
@@ -440,7 +440,7 @@
             }
         ],
         "gold": 16,
-        "name": "バイオスライムβ",
+        "name": "Bioslime Beta",
         "note": "",
         "params": [
             220,
@@ -521,7 +521,7 @@
             }
         ],
         "gold": 18,
-        "name": "バイオラットβ",
+        "name": "Bio Rat Beta",
         "note": "",
         "params": [
             210,
@@ -602,7 +602,7 @@
             }
         ],
         "gold": 32,
-        "name": "サイレンβ",
+        "name": "Siren Beta",
         "note": "",
         "params": [
             180,
@@ -683,7 +683,7 @@
             }
         ],
         "gold": 38,
-        "name": "マシンワームβ",
+        "name": "Machine Worm Beta",
         "note": "",
         "params": [
             280,
@@ -826,7 +826,7 @@
             }
         ],
         "gold": 36,
-        "name": "バイオスライムγ",
+        "name": "Bioslime Gamma",
         "note": "",
         "params": [
             280,
@@ -907,7 +907,7 @@
             }
         ],
         "gold": 38,
-        "name": "バイオラットγ",
+        "name": "Bio Rat Gamma",
         "note": "",
         "params": [
             300,
@@ -988,7 +988,7 @@
             }
         ],
         "gold": 41,
-        "name": "サイレンγ",
+        "name": "Siren Gamma",
         "note": "",
         "params": [
             249,
@@ -1069,7 +1069,7 @@
             }
         ],
         "gold": 48,
-        "name": "マシンワームγ",
+        "name": "Machine Worm Gamma",
         "note": "",
         "params": [
             340,
@@ -1219,7 +1219,7 @@
             }
         ],
         "gold": 100,
-        "name": "ガードマシーン",
+        "name": "Guard Machine",
         "note": "",
         "params": [
             500,
@@ -1307,7 +1307,7 @@
             }
         ],
         "gold": 100,
-        "name": "バイオドッグ",
+        "name": "Bio Dog",
         "note": "",
         "params": [
             600,
@@ -1390,7 +1390,7 @@
             }
         ],
         "gold": 300,
-        "name": "クローンミュータントα",
+        "name": "Clone Mutant Alpha",
         "note": "",
         "params": [
             650,
@@ -1473,7 +1473,7 @@
             }
         ],
         "gold": 100,
-        "name": "クローンミュータント",
+        "name": "Clone Mutant",
         "note": "",
         "params": [
             250,
@@ -1671,7 +1671,7 @@
             }
         ],
         "gold": 1200,
-        "name": "巨大ミュータント兵",
+        "name": "Giant Mutant Soldier",
         "note": "",
         "params": [
             2500,
@@ -1815,7 +1815,7 @@
             }
         ],
         "gold": 2500,
-        "name": "レッドドリル",
+        "name": "Red Drill",
         "note": "",
         "params": [
             4800,
@@ -1958,7 +1958,7 @@
             }
         ],
         "gold": 81,
-        "name": "メカドールα",
+        "name": "Mecha Doll Alpha",
         "note": "",
         "params": [
             340,
@@ -2039,7 +2039,7 @@
             }
         ],
         "gold": 89,
-        "name": "キルドールα",
+        "name": "Kildoll Alpha",
         "note": "",
         "params": [
             380,
@@ -2120,7 +2120,7 @@
             }
         ],
         "gold": 92,
-        "name": "ベアドールα",
+        "name": "Beadoll Alpha",
         "note": "",
         "params": [
             420,
@@ -2208,7 +2208,7 @@
             }
         ],
         "gold": 120,
-        "name": "バイオ警備員α",
+        "name": "Bio Security Guard Alpha",
         "note": "",
         "params": [
             460,
@@ -2358,7 +2358,7 @@
             }
         ],
         "gold": 91,
-        "name": "メカドールβ",
+        "name": "Mecha Doll Beta",
         "note": "",
         "params": [
             380,
@@ -2446,7 +2446,7 @@
             }
         ],
         "gold": 111,
-        "name": "キルドールβ",
+        "name": "Kildoll Beta",
         "note": "",
         "params": [
             420,
@@ -2527,7 +2527,7 @@
             }
         ],
         "gold": 122,
-        "name": "ベアドールβ",
+        "name": "Beadoll Beta",
         "note": "",
         "params": [
             460,
@@ -2622,7 +2622,7 @@
             }
         ],
         "gold": 170,
-        "name": "バイオ警備員β",
+        "name": "Bio Security Guard Beta",
         "note": "",
         "params": [
             520,
@@ -2772,7 +2772,7 @@
             }
         ],
         "gold": 135,
-        "name": "メカドールγ",
+        "name": "Mecha Doll Gamma",
         "note": "",
         "params": [
             460,
@@ -2860,7 +2860,7 @@
             }
         ],
         "gold": 156,
-        "name": "キルドールγ",
+        "name": "Kildoll Gamma",
         "note": "",
         "params": [
             480,
@@ -2941,7 +2941,7 @@
             }
         ],
         "gold": 187,
-        "name": "ベアドールγ",
+        "name": "Beadoll Gamma",
         "note": "",
         "params": [
             520,
@@ -3036,7 +3036,7 @@
             }
         ],
         "gold": 260,
-        "name": "バイオ警備員γ",
+        "name": "Bio Security Guard Gamma",
         "note": "",
         "params": [
             580,
@@ -3186,7 +3186,7 @@
             }
         ],
         "gold": 509,
-        "name": "サイボーグ研究員",
+        "name": "Cyborg Researcher",
         "note": "",
         "params": [
             1000,
@@ -3274,7 +3274,7 @@
             }
         ],
         "gold": 300,
-        "name": "サイボーグ研究助手",
+        "name": "Cyborg Research Assistant",
         "note": "",
         "params": [
             950,
@@ -3355,7 +3355,7 @@
             }
         ],
         "gold": 100,
-        "name": "バイオプラント",
+        "name": "Bio Plant",
         "note": "",
         "params": [
             550,
@@ -3438,7 +3438,7 @@
             }
         ],
         "gold": 400,
-        "name": "クローンミュータントβ",
+        "name": "Clone Mutant Beta",
         "note": "",
         "params": [
             1000,
@@ -3636,7 +3636,7 @@
             }
         ],
         "gold": 2000,
-        "name": "怪力ミュータント兵",
+        "name": "Powerful Mutant Soldier",
         "note": "",
         "params": [
             5500,
@@ -3806,7 +3806,7 @@
             }
         ],
         "gold": 5000,
-        "name": "ブルーオーガ",
+        "name": "Blue Ogre",
         "note": "",
         "params": [
             9000,
@@ -3945,7 +3945,7 @@
             }
         ],
         "gold": 0,
-        "name": "ブルービット",
+        "name": "Blue Bit",
         "note": "",
         "params": [
             255,
@@ -4042,7 +4042,7 @@
             }
         ],
         "gold": 100,
-        "name": "ネオプラント（回復）",
+        "name": "Neo Plant (Recovery)",
         "note": "",
         "params": [
             500,
@@ -4139,7 +4139,7 @@
             }
         ],
         "gold": 100,
-        "name": "ネオプラント（攻撃）",
+        "name": "Neo Plant (Attack)",
         "note": "",
         "params": [
             500,
@@ -4289,7 +4289,7 @@
             }
         ],
         "gold": 189,
-        "name": "バイオジェルα",
+        "name": "Bio Gel Alpha",
         "note": "",
         "params": [
             1000,
@@ -4370,7 +4370,7 @@
             }
         ],
         "gold": 201,
-        "name": "バイオスネークα",
+        "name": "Biosnake Alpha",
         "note": "",
         "params": [
             1100,
@@ -4451,7 +4451,7 @@
             }
         ],
         "gold": 198,
-        "name": "サイレンズα",
+        "name": "Sirens Alpha",
         "note": "",
         "params": [
             980,
@@ -4539,7 +4539,7 @@
             }
         ],
         "gold": 211,
-        "name": "アーマーメカα",
+        "name": "Armor Mecha Alpha",
         "note": "",
         "params": [
             1400,
@@ -4622,7 +4622,7 @@
             }
         ],
         "gold": 255,
-        "name": "ミュータント兵",
+        "name": "Mutant Soldier",
         "note": "",
         "params": [
             1600,
@@ -4698,7 +4698,7 @@
             }
         ],
         "gold": 255,
-        "name": "ミュータント兵",
+        "name": "Mutant Soldier",
         "note": "",
         "params": [
             1400,
@@ -4848,7 +4848,7 @@
             }
         ],
         "gold": 221,
-        "name": "バイオ兵士",
+        "name": "Bio Soldier",
         "note": "",
         "params": [
             1500,
@@ -4936,7 +4936,7 @@
             }
         ],
         "gold": 221,
-        "name": "バイオ兵士",
+        "name": "Bio Soldier",
         "note": "",
         "params": [
             1500,
@@ -5024,7 +5024,7 @@
             }
         ],
         "gold": 221,
-        "name": "メカソルジャー",
+        "name": "Mech Soldier",
         "note": "",
         "params": [
             1800,
@@ -5112,7 +5112,7 @@
             }
         ],
         "gold": 221,
-        "name": "メカソルジャー",
+        "name": "Mech Soldier",
         "note": "",
         "params": [
             1800,
@@ -5202,7 +5202,7 @@
             }
         ],
         "gold": 325,
-        "name": "ミュータント兵",
+        "name": "Mutant Soldier",
         "note": "",
         "params": [
             1600,
@@ -5292,7 +5292,7 @@
             }
         ],
         "gold": 325,
-        "name": "ミュータント兵",
+        "name": "Mutant Soldier",
         "note": "",
         "params": [
             1600,
@@ -5456,7 +5456,7 @@
             }
         ],
         "gold": 777,
-        "name": "クローンミュータントγ",
+        "name": "Clone Mutant Gamma",
         "note": "",
         "params": [
             3300,
@@ -5582,7 +5582,7 @@
             }
         ],
         "gold": 4000,
-        "name": "新型ミュータント兵",
+        "name": "New Type Mutant Soldier",
         "note": "",
         "params": [
             8800,
@@ -5749,7 +5749,7 @@
             }
         ],
         "gold": 10000,
-        "name": "実験体1号",
+        "name": "Experimental Subject No.1",
         "note": "",
         "params": [
             15000,
@@ -5830,7 +5830,7 @@
             }
         ],
         "gold": 1000,
-        "name": "エンシェントスライム",
+        "name": "Ancient Slime",
         "note": "",
         "params": [
             10,
@@ -6107,7 +6107,7 @@
             }
         ],
         "gold": 2500,
-        "name": "ガーディアンLV1",
+        "name": "Guardian LV1",
         "note": "",
         "params": [
             7500,
@@ -6260,7 +6260,7 @@
             }
         ],
         "gold": 3500,
-        "name": "ガーディアンLV2",
+        "name": "Guardian LV2",
         "note": "",
         "params": [
             9000,
@@ -6427,7 +6427,7 @@
             }
         ],
         "gold": 4500,
-        "name": "ガーディアンLV3",
+        "name": "Guardian LV3",
         "note": "",
         "params": [
             10500,
@@ -6587,7 +6587,7 @@
             }
         ],
         "gold": 5500,
-        "name": "ガーディアンLV4",
+        "name": "Guardian LV4",
         "note": "",
         "params": [
             13000,
@@ -6747,7 +6747,7 @@
             }
         ],
         "gold": 6500,
-        "name": "ガーディアンLV5",
+        "name": "Guardian LV5",
         "note": "",
         "params": [
             14500,
@@ -6921,7 +6921,7 @@
             }
         ],
         "gold": 7500,
-        "name": "ガーディアンLV6",
+        "name": "Guardian LV6",
         "note": "",
         "params": [
             16000,
@@ -7136,7 +7136,7 @@
             }
         ],
         "gold": 0,
-        "name": "最終防衛システム",
+        "name": "Final Defense System",
         "note": "",
         "params": [
             21000,
@@ -7346,7 +7346,7 @@
             }
         ],
         "gold": 300,
-        "name": "防衛プログラム（機）",
+        "name": "Defense Program (Machine)",
         "note": "",
         "params": [
             1800,
@@ -7439,7 +7439,7 @@
             }
         ],
         "gold": 300,
-        "name": "防衛プログラム（犬）",
+        "name": "Defense Program (Dog)",
         "note": "",
         "params": [
             1800,
@@ -7525,7 +7525,7 @@
             }
         ],
         "gold": 300,
-        "name": "防衛プログラム（剣）",
+        "name": "Defense Program (Ken)",
         "note": "",
         "params": [
             1900,
@@ -7618,7 +7618,7 @@
             }
         ],
         "gold": 300,
-        "name": "防衛プログラム（霊）",
+        "name": "Defense Program (Spirit)",
         "note": "",
         "params": [
             1800,
@@ -7718,7 +7718,7 @@
             }
         ],
         "gold": 300,
-        "name": "防衛プログラム（眼）",
+        "name": "Defense Program (Eye)",
         "note": "",
         "params": [
             1800,
@@ -7811,7 +7811,7 @@
             }
         ],
         "gold": 300,
-        "name": "防衛プログラム（怪）",
+        "name": "Defense Program (Mysterious)",
         "note": "",
         "params": [
             1800,
@@ -7956,7 +7956,7 @@
             }
         ],
         "gold": 0,
-        "name": "ルリカ",
+        "name": "Rurika",
         "note": "",
         "params": [
             5000,
@@ -8046,7 +8046,7 @@
             }
         ],
         "gold": 0,
-        "name": "サクラ",
+        "name": "Sakura",
         "note": "",
         "params": [
             7500,
@@ -8933,7 +8933,7 @@
             }
         ],
         "gold": 1000,
-        "name": "ミミックLV1",
+        "name": "Mimic LV1",
         "note": "6",
         "params": [
             650,
@@ -9083,7 +9083,7 @@
             }
         ],
         "gold": 10000,
-        "name": "ミミックLV3",
+        "name": "Mimic LV3",
         "note": "6",
         "params": [
             5000,
@@ -9233,7 +9233,7 @@
             }
         ],
         "gold": 50,
-        "name": "警備用ロボットα",
+        "name": "Security Robot Alpha",
         "note": "強いザコ枠",
         "params": [
             300,
@@ -9309,7 +9309,7 @@
             }
         ],
         "gold": 50,
-        "name": "ミュータントクローンα",
+        "name": "Mutant Clone Alpha",
         "note": "",
         "params": [
             300,
@@ -9597,7 +9597,7 @@
             }
         ],
         "gold": 0,
-        "name": "スライムレギオン",
+        "name": "Slime Legion",
         "note": "イベントでHP回復200/T付与",
         "params": [
             3500,
@@ -9754,7 +9754,7 @@
             }
         ],
         "gold": 0,
-        "name": "スライムレギオン",
+        "name": "Slime Legion",
         "note": "イベントでHP回復200/T付与",
         "params": [
             2500,
@@ -9911,7 +9911,7 @@
             }
         ],
         "gold": 0,
-        "name": "スライムレギオン",
+        "name": "Slime Legion",
         "note": "イベントでHP回復200/T付与",
         "params": [
             1500,
@@ -10054,7 +10054,7 @@
             }
         ],
         "gold": 0,
-        "name": "スライムコア",
+        "name": "Slime Core",
         "note": "イベントでHP回復200/T付与",
         "params": [
             1000,
@@ -10197,7 +10197,7 @@
             }
         ],
         "gold": 10,
-        "name": "バイオスライムα",
+        "name": "Bioslime Alpha",
         "note": "",
         "params": [
             120,
@@ -10278,7 +10278,7 @@
             }
         ],
         "gold": 10,
-        "name": "バイオラットα",
+        "name": "Bio Rat Alpha",
         "note": "",
         "params": [
             130,
@@ -10352,7 +10352,7 @@
             }
         ],
         "gold": 10,
-        "name": "バイオフィッシュα",
+        "name": "Biofish Alpha",
         "note": "",
         "params": [
             120,
@@ -10426,7 +10426,7 @@
             }
         ],
         "gold": 15,
-        "name": "バイオプラントα",
+        "name": "Bio Plant Alpha",
         "note": "",
         "params": [
             150,
@@ -10500,7 +10500,7 @@
             }
         ],
         "gold": 15,
-        "name": "バイオスパイダーα",
+        "name": "Biospider Alpha",
         "note": "",
         "params": [
             140,
@@ -10574,7 +10574,7 @@
             }
         ],
         "gold": 20,
-        "name": "警備用ドローンα",
+        "name": "Security Drone Alpha",
         "note": "速い、脆い、弱い\n※自爆攻撃持ち",
         "params": [
             100,
@@ -10648,7 +10648,7 @@
             }
         ],
         "gold": 20,
-        "name": "作業用ロボットα",
+        "name": "Work Robot Alpha",
         "note": "",
         "params": [
             200,
@@ -10736,7 +10736,7 @@
             }
         ],
         "gold": 300,
-        "name": "警備用ロボットα",
+        "name": "Security Robot Alpha",
         "note": "強いザコ枠",
         "params": [
             350,
@@ -10817,7 +10817,7 @@
             }
         ],
         "gold": 10,
-        "name": "バイオスライムβ",
+        "name": "Bioslime Beta",
         "note": "",
         "params": [
             220,
@@ -10905,7 +10905,7 @@
             }
         ],
         "gold": 25,
-        "name": "バイオスライムΩ",
+        "name": "Bioslime Omega",
         "note": "",
         "params": [
             220,
@@ -10986,7 +10986,7 @@
             }
         ],
         "gold": 25,
-        "name": "バイオラットΩ",
+        "name": "Bio Rat Omega",
         "note": "",
         "params": [
             150,
@@ -11067,7 +11067,7 @@
             }
         ],
         "gold": 25,
-        "name": "バイオフィッシュΩ",
+        "name": "Biofish Omega",
         "note": "",
         "params": [
             180,
@@ -11148,7 +11148,7 @@
             }
         ],
         "gold": 35,
-        "name": "バイオプラントΩ",
+        "name": "Bio Plant Omega",
         "note": "",
         "params": [
             250,
@@ -11229,7 +11229,7 @@
             }
         ],
         "gold": 25,
-        "name": "バイオスパイダーΩ",
+        "name": "Biospider Omega",
         "note": "",
         "params": [
             180,
@@ -11310,7 +11310,7 @@
             }
         ],
         "gold": 45,
-        "name": "警備用ドローンΩ",
+        "name": "Security Drone Omega",
         "note": "",
         "params": [
             150,
@@ -11391,7 +11391,7 @@
             }
         ],
         "gold": 45,
-        "name": "作業用ロボットΩ",
+        "name": "Work Robot Omega",
         "note": "",
         "params": [
             300,
@@ -11479,7 +11479,7 @@
             }
         ],
         "gold": 100,
-        "name": "警備用ロボットΩ",
+        "name": "Security Robot Omega",
         "note": "",
         "params": [
             450,
@@ -11582,7 +11582,7 @@
             }
         ],
         "gold": 1000,
-        "name": "ラッキースライム",
+        "name": "Lucky Slime",
         "note": "",
         "params": [
             1,
@@ -11694,7 +11694,7 @@
             }
         ],
         "gold": 500,
-        "name": "ゲートキーパーR",
+        "name": "Gatekeeper R",
         "note": "",
         "params": [
             1200,
@@ -11806,7 +11806,7 @@
             }
         ],
         "gold": 500,
-        "name": "ゲートキーパーR",
+        "name": "Gatekeeper R",
         "note": "",
         "params": [
             800,
@@ -11920,7 +11920,7 @@
             }
         ],
         "gold": 1000,
-        "name": "バイオタートル",
+        "name": "Bio Turtle",
         "note": "",
         "params": [
             1800,
@@ -12034,7 +12034,7 @@
             }
         ],
         "gold": 1000,
-        "name": "バイオタートル",
+        "name": "Bio Turtle",
         "note": "",
         "params": [
             1300,
@@ -12196,7 +12196,7 @@
             }
         ],
         "gold": 200,
-        "name": "ガードロボ",
+        "name": "Guard Robot",
         "note": "",
         "params": [
             900,
@@ -12296,7 +12296,7 @@
             }
         ],
         "gold": 200,
-        "name": "ガードロボ",
+        "name": "Guard Robot",
         "note": "",
         "params": [
             900,
@@ -12389,7 +12389,7 @@
             }
         ],
         "gold": 200,
-        "name": "ガードロボ",
+        "name": "Guard Robot",
         "note": "",
         "params": [
             900,
@@ -12489,7 +12489,7 @@
             }
         ],
         "gold": 200,
-        "name": "ガードロボ",
+        "name": "Guard Robot",
         "note": "",
         "params": [
             800,
@@ -12589,7 +12589,7 @@
             }
         ],
         "gold": 200,
-        "name": "警備ロボ",
+        "name": "Security Robot",
         "note": "",
         "params": [
             800,
@@ -12689,7 +12689,7 @@
             }
         ],
         "gold": 200,
-        "name": "警備ロボ",
+        "name": "Security Robot",
         "note": "",
         "params": [
             800,
@@ -12782,7 +12782,7 @@
             }
         ],
         "gold": 200,
-        "name": "警備ロボ",
+        "name": "Security Robot",
         "note": "",
         "params": [
             800,
@@ -12882,7 +12882,7 @@
             }
         ],
         "gold": 200,
-        "name": "警備ロボ",
+        "name": "Security Robot",
         "note": "",
         "params": [
             800,
@@ -12968,7 +12968,7 @@
             }
         ],
         "gold": 25,
-        "name": "キーパードローン",
+        "name": "Keypad Drone",
         "note": "",
         "params": [
             200,
@@ -13056,7 +13056,7 @@
             }
         ],
         "gold": 100,
-        "name": "警備用ロボ",
+        "name": "Security Robot",
         "note": "",
         "params": [
             450,
@@ -13137,7 +13137,7 @@
             }
         ],
         "gold": 45,
-        "name": "警備用ドローン",
+        "name": "Security Drone",
         "note": "",
         "params": [
             150,

@@ -51,7 +51,7 @@
             }
         ],
         "learnings": [],
-        "name": "見習い特警隊員",
+        "name": "Apprentice Special Police Officer",
         "note": "",
         "params": [
             [
@@ -923,7 +923,7 @@
             }
         ],
         "learnings": [],
-        "name": "負け犬特警隊員",
+        "name": "Loser Special Police Officer",
         "note": "",
         "params": [
             [
@@ -1816,7 +1816,7 @@
                 "skillId": 87
             }
         ],
-        "name": "特警隊員（強襲）",
+        "name": "Special Forces Officer (Assault)",
         "note": "",
         "params": [
             [
@@ -2714,7 +2714,7 @@
                 "skillId": 89
             }
         ],
-        "name": "特警隊員（雷撃）",
+        "name": "Special Police Officer (Thunder)",
         "note": "",
         "params": [
             [
@@ -3607,7 +3607,7 @@
                 "skillId": 87
             }
         ],
-        "name": "新生PS団員（奴隷嫁）",
+        "name": "New PS Member (Slave Wife)",
         "note": "",
         "params": [
             [
@@ -4505,7 +4505,7 @@
                 "skillId": 89
             }
         ],
-        "name": "新生PS団員（オナホ嫁）",
+        "name": "New PS Member (Onahole Wife)",
         "note": "",
         "params": [
             [

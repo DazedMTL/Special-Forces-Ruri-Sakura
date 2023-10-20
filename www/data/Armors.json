@@ -3,7 +3,7 @@
     {
         "id": 1,
         "atypeId": 3,
-        "description": "【防御+5/精神+5/HP+75】\n特警隊の象徴的スーツ『ギア』、その基本型。",
+        "description": "【Defense +5/Spirit +5/HP +75】 The iconic suit of the Special\nPolice Force, Gear, in its basic form.",
         "etypeId": 2,
         "traits": [
             {
@@ -18,7 +18,7 @@
             }
         ],
         "iconIndex": 137,
-        "name": "バイオギアLV0",
+        "name": "Bio Gear LV0",
         "note": "",
         "params": [
             75,
@@ -35,7 +35,7 @@
     {
         "id": 2,
         "atypeId": 3,
-        "description": "【防御+10/精神+10/HP+100/SP+10】\n特警隊の象徴的スーツ『ギア』、その基本型。",
+        "description": "[Defense+10/Spirit+10/HP+100/SP+10] The emblematic suit of\nthe Special Police Force, Gear, in its basic form.",
         "etypeId": 2,
         "traits": [
             {
@@ -50,7 +50,7 @@
             }
         ],
         "iconIndex": 137,
-        "name": "バイオギアLV1",
+        "name": "Bio Gear LV1",
         "note": "",
         "params": [
             100,
@@ -67,7 +67,7 @@
     {
         "id": 3,
         "atypeId": 3,
-        "description": "【防御+20/精神+20/HP+250/SP+25】\n特警隊の象徴的スーツ『ギア』、その基本型。",
+        "description": "【Defense +20/Spirit +20/HP +250/SP +25】 The iconic suit of\nthe Special Police Force, Gear, in its basic form.",
         "etypeId": 2,
         "traits": [
             {
@@ -82,7 +82,7 @@
             }
         ],
         "iconIndex": 137,
-        "name": "バイオギアLV2",
+        "name": "Bio Gear LV2",
         "note": "",
         "params": [
             250,
@@ -99,7 +99,7 @@
     {
         "id": 4,
         "atypeId": 3,
-        "description": "【防御+40/精神+40/HP+500/SP+50】\n特警隊の象徴的スーツ『ギア』、その基本型。",
+        "description": "【Defense +40/Spirit +40/HP +500/SP +50】 The iconic suit of\nthe Special Police Force, Gear, in its basic form.",
         "etypeId": 2,
         "traits": [
             {
@@ -114,7 +114,7 @@
             }
         ],
         "iconIndex": 137,
-        "name": "バイオギアLV3",
+        "name": "Bio Gear LV3",
         "note": "",
         "params": [
             500,
@@ -131,7 +131,7 @@
     {
         "id": 5,
         "atypeId": 3,
-        "description": "【防御+20/精神+10/HP+500/SP+10】\n銃弾すら弾く極薄の超強化特殊繊維によって作られている。",
+        "description": "【Defense +20/Spirit +10/HP +500/SP +10】 It is made from an\nultra-thin, super-enhanced special fiber that can even\ndeflect bullets.",
         "etypeId": 2,
         "traits": [
             {
@@ -146,7 +146,7 @@
             }
         ],
         "iconIndex": 137,
-        "name": "強襲型バイオギアLV1",
+        "name": "Assault Type Bio Gear LV1",
         "note": "",
         "params": [
             500,
@@ -163,7 +163,7 @@
     {
         "id": 6,
         "atypeId": 3,
-        "description": "【防御+30/精神+20/HP+750/SP+25】\n銃弾すら弾く極薄の超強化特殊繊維によって作られている。",
+        "description": "【Defense +30/Spirit +20/HP +750/SP +25】 It is made from an\nultra-thin, highly reinforced special fiber that can even\ndeflect bullets.",
         "etypeId": 2,
         "traits": [
             {
@@ -178,7 +178,7 @@
             }
         ],
         "iconIndex": 137,
-        "name": "強襲型バイオギアLV2",
+        "name": "Assault Type Bio Gear LV2",
         "note": "",
         "params": [
             750,
@@ -195,7 +195,7 @@
     {
         "id": 7,
         "atypeId": 3,
-        "description": "【防御+50/精神+40/HP+1000/SP+50】\n銃弾すら弾く極薄の超強化特殊繊維によって作られている。",
+        "description": "【Defense +50/Spirit +40/HP +1000/SP +50】 It is made from an\nultra-thin, highly reinforced special fiber that can even\ndeflect bullets.",
         "etypeId": 2,
         "traits": [
             {
@@ -210,7 +210,7 @@
             }
         ],
         "iconIndex": 137,
-        "name": "強襲型バイオギアLV3",
+        "name": "Assault Type Bio Gear LV3",
         "note": "",
         "params": [
             1000,
@@ -227,7 +227,7 @@
     {
         "id": 8,
         "atypeId": 3,
-        "description": "【防御+10/精神+20/HP+100/SP+50】\nスーツ表面に刻まれた回路により様々な機能を発揮する。",
+        "description": "【Defense +10/Spirit +20/HP +100/SP +50】 It exhibits various\nfunctions through the circuits engraved on the surface of\nthe suit.",
         "etypeId": 2,
         "traits": [
             {
@@ -242,7 +242,7 @@
             }
         ],
         "iconIndex": 137,
-        "name": "雷撃型バイオギアLV1",
+        "name": "Thunderstrike Bio Gear LV1",
         "note": "",
         "params": [
             100,
@@ -259,7 +259,7 @@
     {
         "id": 9,
         "atypeId": 3,
-        "description": "【防御+20/精神+30/HP+250/SP+100】\nスーツ表面に刻まれた回路により様々な機能を発揮する。",
+        "description": "【Defense +20/Spirit +30/HP +250/SP +100】 It exhibits various\nfunctions through the circuits engraved on the surface of\nthe suit.",
         "etypeId": 2,
         "traits": [
             {
@@ -274,7 +274,7 @@
             }
         ],
         "iconIndex": 137,
-        "name": "雷撃型バイオギアLV2",
+        "name": "Thunderstrike Bio Gear LV2",
         "note": "",
         "params": [
             250,
@@ -291,7 +291,7 @@
     {
         "id": 10,
         "atypeId": 3,
-        "description": "【防御+40/精神+50/HP+500/SP+250】\nスーツ表面に刻まれた回路により様々な機能を発揮する。",
+        "description": "【Defense +40/Spirit +50/HP +500/SP +250】 It exhibits various\nfunctions through the circuits engraved on the surface of\nthe suit.",
         "etypeId": 2,
         "traits": [
             {
@@ -306,7 +306,7 @@
             }
         ],
         "iconIndex": 137,
-        "name": "雷撃型バイオギアLV3",
+        "name": "Thunderstrike Bio Gear LV3",
         "note": "",
         "params": [
             500,
@@ -323,7 +323,7 @@
     {
         "id": 11,
         "atypeId": 3,
-        "description": "【防御+75/精神+75/HP+1000/SP+100】\n重点的に童貞を守り射精を管理するマゾ用新型鎧。",
+        "description": "【Defense+75/Spirit+75/HP+1000/SP+100】 A new type of armor\ndesigned specifically for masochists, with a focus on\nprotecting virginity and managing ejaculation.",
         "etypeId": 2,
         "traits": [
             {
@@ -338,7 +338,7 @@
             }
         ],
         "iconIndex": 85,
-        "name": "NTRギア童貞型",
+        "name": "NTR Gear Virgin Type",
         "note": "",
         "params": [
             1000,
@@ -355,7 +355,7 @@
     {
         "id": 12,
         "atypeId": 3,
-        "description": "【攻撃+80/防御+80/精神+60/HP+1500/SP+200/HP再生10％】\n戦闘補助とちん媚び変態マゾアピールを両立させた最新鎧♡",
+        "description": " 【Attack +80/Defense +80/Spirit +60/HP +1500/SP +200/HP\nRegeneration 10%】 The latest armor that combines battle\nsupport and a submissive masochistic appeal ♡",
         "etypeId": 2,
         "traits": [
             {
@@ -375,7 +375,7 @@
             }
         ],
         "iconIndex": 84,
-        "name": "スレイブギア強襲型",
+        "name": "Slave Gear Assault Type",
         "note": "",
         "params": [
             1500,
@@ -392,7 +392,7 @@
     {
         "id": 13,
         "atypeId": 3,
-        "description": "【防御+60/集中+80/精神+60/HP+1000/SP+500/HP再生10％】\n雷撃強化とちん媚び変態マゾアピールを両立させた最新鎧♡",
+        "description": " 【Defense +60/ Concentration +80/ Spirit +60/ HP +1000/ SP\n+500/ HP Regeneration 10%】 The latest armor that combines\nlightning reinforcement and a charming masochistic appeal ♡",
         "etypeId": 2,
         "traits": [
             {
@@ -407,7 +407,7 @@
             }
         ],
         "iconIndex": 84,
-        "name": "スレイブギア雷撃型",
+        "name": "Slave Gear - Thunder Type",
         "note": "",
         "params": [
             1000,
@@ -478,7 +478,7 @@
     {
         "id": 16,
         "atypeId": 1,
-        "description": "【状態異常無効】\n貴重なミスリル製だが装着個所に問題がある。",
+        "description": "【Status Ailment Nullification】 It's a valuable mithril-made\nitem, but there is a problem with the place where it is\nworn.",
         "etypeId": 3,
         "traits": [
             {
@@ -528,7 +528,7 @@
             }
         ],
         "iconIndex": 84,
-        "name": "ミスリルピアス",
+        "name": "Mithril Earrings",
         "note": "",
         "params": [
             0,
@@ -545,7 +545,7 @@
     {
         "id": 17,
         "atypeId": 1,
-        "description": "【ステータス弱体化無効/ステータスボーナス（20％）】\nキモヒコの支配を完全に受け入れ隷属した証明。",
+        "description": "【Status Weakening Nullification/Status Bonus (20%)】 Proof of\nfully accepting and submitting to Kimohiko's domination.",
         "etypeId": 5,
         "traits": [
             {
@@ -620,7 +620,7 @@
             }
         ],
         "iconIndex": 84,
-        "name": "従属刻印",
+        "name": "Subjugation Seal",
         "note": "",
         "params": [
             0,
@@ -664,7 +664,7 @@
     {
         "id": 19,
         "atypeId": 1,
-        "description": "【ステータス弱体化無効/ステータスボーナス（10％）】\nキモヒコの能力と共鳴しバイオギアが変化した。",
+        "description": "【Status Weakening Nullification/Status Bonus (10%)】 The Bio\nGear has undergone a transformation in resonance with\nKimohiko's abilities.",
         "etypeId": 5,
         "traits": [
             {
@@ -734,7 +734,7 @@
             }
         ],
         "iconIndex": 84,
-        "name": "バイオギア強化",
+        "name": "Bio Gear Enhancement",
         "note": "",
         "params": [
             0,
@@ -967,7 +967,7 @@
     {
         "id": 28,
         "atypeId": 1,
-        "description": "【防+1/特防+1】\n幼いケンイチがプレゼントした赤い指輪。",
+        "description": "【Defense +1/Special Defense +1】 A red ring that young\nKenichi gave as a present.",
         "etypeId": 3,
         "traits": [
             {
@@ -977,7 +977,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "おもちゃの指輪（赤）",
+        "name": "Toy Ring (Red)",
         "note": "",
         "params": [
             0,
@@ -994,7 +994,7 @@
     {
         "id": 29,
         "atypeId": 1,
-        "description": "【防+1/特防+1】\n幼いケンイチがプレゼントした青い指輪。",
+        "description": "【Defense +1/Special Defense +1】 A blue ring that young\nKenichi gave as a present.",
         "etypeId": 3,
         "traits": [
             {
@@ -1004,7 +1004,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "おもちゃの指輪（青）",
+        "name": "Toy Ring (Blue)",
         "note": "",
         "params": [
             0,
@@ -1804,7 +1804,7 @@
     {
         "id": 59,
         "atypeId": 1,
-        "description": "【毒無効】\n毒から守ってくれる指輪。",
+        "description": "[PoisonNullification] A ring that protects from poison.",
         "etypeId": 5,
         "traits": [
             {
@@ -1814,7 +1814,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "毒耐性デバイス",
+        "name": "Poison Resistance Device",
         "note": "",
         "params": [
             0,
@@ -1831,7 +1831,7 @@
     {
         "id": 60,
         "atypeId": 1,
-        "description": "【毒/猛毒無効】\n毒と猛毒から守ってくれる指輪。",
+        "description": "【Poison/Severe Poison Nullification】 A ring that protects\nfrom poison and severe poison.",
         "etypeId": 5,
         "traits": [
             {
@@ -1846,7 +1846,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "猛毒耐性デバイス",
+        "name": "Poison Resistance Device",
         "note": "",
         "params": [
             0,
@@ -1863,7 +1863,7 @@
     {
         "id": 61,
         "atypeId": 1,
-        "description": "【出血無効】\n出血から守ってくれる指輪。",
+        "description": "【Bleeding Nullification】 A ring that protects from bleeding.",
         "etypeId": 5,
         "traits": [
             {
@@ -1873,7 +1873,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "出血耐性デバイス",
+        "name": "Bleeding Resistance Device",
         "note": "",
         "params": [
             0,
@@ -1890,7 +1890,7 @@
     {
         "id": 62,
         "atypeId": 1,
-        "description": "【暗闇無効】\n暗闇から守ってくれる指輪。",
+        "description": "【Darkness Nullification】 A ring that protects from darkness.",
         "etypeId": 5,
         "traits": [
             {
@@ -1900,7 +1900,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "暗闇耐性デバイス",
+        "name": "Darkness Resistance Device",
         "note": "",
         "params": [
             0,
@@ -1917,7 +1917,7 @@
     {
         "id": 63,
         "atypeId": 1,
-        "description": "【麻痺無効】\n麻痺から守ってくれる指輪。",
+        "description": "[ParalysisNullification] A ring that protects against\nparalysis.",
         "etypeId": 5,
         "traits": [
             {
@@ -1927,7 +1927,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "麻痺耐性デバイス",
+        "name": "Paralysis Resistance Device",
         "note": "",
         "params": [
             0,
@@ -1944,7 +1944,7 @@
     {
         "id": 64,
         "atypeId": 1,
-        "description": "【沈黙無効】\n沈黙から守ってくれる指輪。",
+        "description": "【Silence Nullification】 A ring that protects from silence.",
         "etypeId": 5,
         "traits": [
             {
@@ -1954,7 +1954,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "沈黙耐性デバイス",
+        "name": "Silence Resistance Device",
         "note": "",
         "params": [
             0,
@@ -1971,7 +1971,7 @@
     {
         "id": 65,
         "atypeId": 1,
-        "description": "【混乱無効】\n混乱から守ってくれる指輪。",
+        "description": "【Confusion Nullification】 A ring that protects from\nconfusion.",
         "etypeId": 5,
         "traits": [
             {
@@ -1981,7 +1981,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "混乱耐性デバイス",
+        "name": "Confusion Resistance Device",
         "note": "",
         "params": [
             0,
@@ -1998,7 +1998,7 @@
     {
         "id": 66,
         "atypeId": 1,
-        "description": "【睡眠無効】\n睡眠から守ってくれる指輪。",
+        "description": "【Sleep Nullification】 A ring that protects you from sleep.",
         "etypeId": 5,
         "traits": [
             {
@@ -2008,7 +2008,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "睡眠耐性デバイス",
+        "name": "Sleep Resistance Device",
         "note": "",
         "params": [
             0,
@@ -2025,7 +2025,7 @@
     {
         "id": 67,
         "atypeId": 1,
-        "description": "【魅了無効】\n魅了から守ってくれる指輪。",
+        "description": "[CharmNullification] A ring that protects from charm.",
         "etypeId": 5,
         "traits": [
             {
@@ -2035,7 +2035,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "魅了耐性デバイス",
+        "name": "Fascination Resistance Device",
         "note": "",
         "params": [
             0,
@@ -2052,7 +2052,7 @@
     {
         "id": 68,
         "atypeId": 1,
-        "description": "【激昂無効】\n激昂から守ってくれる指輪。",
+        "description": "[RageNullification] A ring that protects from rage.",
         "etypeId": 5,
         "traits": [
             {
@@ -2062,7 +2062,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "激昂耐性デバイス",
+        "name": "Frenzy Resistance Device",
         "note": "",
         "params": [
             0,
@@ -2106,7 +2106,7 @@
     {
         "id": 70,
         "atypeId": 1,
-        "description": "【攻+10】\n赤色の指輪型デバイス、攻撃力を上昇させる。",
+        "description": "【Attack +10】 A red ring-shaped device that increases attack\npower.",
         "etypeId": 4,
         "traits": [
             {
@@ -2116,7 +2116,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "パワーデバイスα",
+        "name": "Power Device Alpha",
         "note": "",
         "params": [
             0,
@@ -2133,7 +2133,7 @@
     {
         "id": 71,
         "atypeId": 1,
-        "description": "【攻+25/防+10】\n赤色の指輪型デバイス、攻撃力と防御力を上昇させる。",
+        "description": "[Attack+25/Defense+10] A red ring-shaped device that\nincreases attack power and defense power.",
         "etypeId": 4,
         "traits": [
             {
@@ -2143,7 +2143,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "パワーデバイスβ",
+        "name": "Power Device Beta",
         "note": "",
         "params": [
             0,
@@ -2160,7 +2160,7 @@
     {
         "id": 72,
         "atypeId": 1,
-        "description": "【防+10】\n黄色の指輪型デバイス、防御力を上昇させる。",
+        "description": "【Defense +10】 A yellow ring-shaped device that increases\ndefense power.",
         "etypeId": 4,
         "traits": [
             {
@@ -2170,7 +2170,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "ガードデバイスα",
+        "name": "Guard Device Alpha",
         "note": "",
         "params": [
             0,
@@ -2187,7 +2187,7 @@
     {
         "id": 73,
         "atypeId": 1,
-        "description": "【HP+200/防+25】\n黄色の指輪型デバイス、HPと防御力を上昇させる。",
+        "description": "【HP+200/DEF+25】 A yellow ring-shaped device that increases\nHP and defense power.",
         "etypeId": 4,
         "traits": [
             {
@@ -2197,7 +2197,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "ガードデバイスβ",
+        "name": "Guard Device Beta",
         "note": "",
         "params": [
             200,
@@ -2214,7 +2214,7 @@
     {
         "id": 74,
         "atypeId": 1,
-        "description": "【集中+10/精神+10】\n緑色の指輪型デバイス、集中力と精神力を上昇させる。",
+        "description": "【Concentration +10/Mental +10】 A green ring-shaped device\nthat increases concentration and mental power.",
         "etypeId": 4,
         "traits": [
             {
@@ -2229,7 +2229,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "マインドデバイスα",
+        "name": "Mind Device Alpha",
         "note": "",
         "params": [
             0,
@@ -2246,7 +2246,7 @@
     {
         "id": 75,
         "atypeId": 1,
-        "description": "【SP+100/集中+15/精神+15】\n緑色の指輪型デバイス、精神力と特殊防御力を上昇させる。",
+        "description": "【SP+100/Concentration+15/Mental+15】 A green ring-shaped\ndevice that increases mental power and special defense.",
         "etypeId": 4,
         "traits": [
             {
@@ -2261,7 +2261,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "マインドデバイスβ",
+        "name": "Mind Device Beta",
         "note": "",
         "params": [
             0,
@@ -2278,7 +2278,7 @@
     {
         "id": 76,
         "atypeId": 1,
-        "description": "【敏捷+10】\n青色の指輪型デバイス、敏捷力を上昇させる。",
+        "description": "【Agility +10】 A blue ring-shaped device that increases\nagility.",
         "etypeId": 4,
         "traits": [
             {
@@ -2288,7 +2288,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "スピードデバイスα",
+        "name": "Speed Device Alpha",
         "note": "",
         "params": [
             0,
@@ -2305,7 +2305,7 @@
     {
         "id": 77,
         "atypeId": 1,
-        "description": "【敏捷+25】\n青色の指輪型デバイス、敏捷力を上昇させる。",
+        "description": "【Agility +25】 A blue ring-shaped device that increases\nagility.",
         "etypeId": 4,
         "traits": [
             {
@@ -2315,7 +2315,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "スピードデバイスβ",
+        "name": "Speed Device Beta",
         "note": "",
         "params": [
             0,
@@ -2332,7 +2332,7 @@
     {
         "id": 78,
         "atypeId": 1,
-        "description": "【獲得金額2倍】\n金の指輪、金運を上昇させる。",
+        "description": "【Double the Amount Earned】 A gold ring that increases your\nfinancial luck.",
         "etypeId": 4,
         "traits": [
             {
@@ -2342,7 +2342,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "ゴールドリング",
+        "name": "Gold Ring",
         "note": "",
         "params": [
             0,
@@ -2359,7 +2359,7 @@
     {
         "id": 79,
         "atypeId": 1,
-        "description": "【アイテムドロップ率2倍】\n奇跡の指輪、幸運を呼び寄せる。",
+        "description": "【Double Item Drop Rate】 The Ring of Miracles, it attracts\ngood fortune.",
         "etypeId": 4,
         "traits": [
             {
@@ -2369,7 +2369,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "ミラクルリング",
+        "name": "Miracle Ring",
         "note": "",
         "params": [
             0,
@@ -2386,7 +2386,7 @@
     {
         "id": 80,
         "atypeId": 1,
-        "description": "【全ステータスアップ/状態異常能力低下無効】\n虹色の指輪、さらに獲得金額とアイテムドロップ率が二倍。",
+        "description": " 【All Status Up/Nullify Decreased Abnormal Ability】 The\nrainbow-colored ring further doubles the amount of acquired\nmoney and item drop rate.",
         "etypeId": 4,
         "traits": [
             {
@@ -2471,7 +2471,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "レインボーリング",
+        "name": "Rainbow Ring",
         "note": "",
         "params": [
             5000,
@@ -2515,7 +2515,7 @@
     {
         "id": 82,
         "atypeId": 1,
-        "description": "【攻+25/暗闇無効】\n精緻な狙いで攻撃力が上昇し暗闇を無効化する。",
+        "description": "【Attack +25/Darkness Nullification】 With precise aim, the\nattack power increases and darkness is nullified.",
         "etypeId": 4,
         "traits": [
             {
@@ -2525,7 +2525,7 @@
             }
         ],
         "iconIndex": 151,
-        "name": "サイバーグラス",
+        "name": "Cyber Glasses",
         "note": "",
         "params": [
             10,
@@ -2542,7 +2542,7 @@
     {
         "id": 83,
         "atypeId": 1,
-        "description": "【HP+100/弱熱耐性/弱電耐性】\n耐熱耐電加工を施した補助装備、赤い追加装甲。",
+        "description": "【HP+100/Weak Heat Resistance/Weak Electric Resistance】 An\nauxiliary equipment treated with heat and electric\nresistance, with additional red armor.",
         "etypeId": 4,
         "traits": [
             {
@@ -2557,7 +2557,7 @@
             }
         ],
         "iconIndex": 147,
-        "name": "レッドガード",
+        "name": "Red Guard",
         "note": "",
         "params": [
             100,
@@ -2574,7 +2574,7 @@
     {
         "id": 84,
         "atypeId": 1,
-        "description": "【HP+100/防御+15/混乱無効】\n電波を防ぐ特殊なバンド、混乱を無効化する。",
+        "description": "【HP+100/Defense+15/Confusion Nullification】 A special band\nthat protects against electromagnetic waves and nullifies\nconfusion.",
         "etypeId": 4,
         "traits": [
             {
@@ -2584,7 +2584,7 @@
             }
         ],
         "iconIndex": 151,
-        "name": "安全バンド",
+        "name": "Safety Band",
         "note": "",
         "params": [
             100,
@@ -2601,7 +2601,7 @@
     {
         "id": 85,
         "atypeId": 1,
-        "description": "【攻+30/会心率+4％】\n腕輪型の攻撃補助装備、会心率が上昇する。",
+        "description": "[Attack+30/CriticalRate+4%] An armlet-type attack support\nequipment that increases critical rate.",
         "etypeId": 4,
         "traits": [
             {
@@ -2611,7 +2611,7 @@
             }
         ],
         "iconIndex": 147,
-        "name": "ブルーバングル",
+        "name": "Blue Bangle",
         "note": "",
         "params": [
             100,
@@ -2628,7 +2628,7 @@
     {
         "id": 86,
         "atypeId": 1,
-        "description": "【HP+50/弱電耐性/出血無効】\n耐電コーティングを施した補助装甲の試作品。",
+        "description": "【HP+50/Weak Electric Resistance/Bleed Immunity】 A prototype\nof auxiliary armor coated with electrical resistance.",
         "etypeId": 4,
         "traits": [
             {
@@ -2643,7 +2643,7 @@
             }
         ],
         "iconIndex": 147,
-        "name": "ブルーガード",
+        "name": "Blue Guard",
         "note": "",
         "params": [
             50,
@@ -2660,7 +2660,7 @@
     {
         "id": 87,
         "atypeId": 1,
-        "description": "【HP+200/弱体化耐性】\nミスリルを編み込んだ腰布、50％で弱体を無効化する。",
+        "description": "【HP+200/Debuff Resistance】 A loincloth woven with mithril,\nnullifying debuffs with a 50% chance.",
         "etypeId": 4,
         "traits": [
             {
@@ -2700,7 +2700,7 @@
             }
         ],
         "iconIndex": 147,
-        "name": "ミスリルの腰布",
+        "name": "Mithril loincloth",
         "note": "",
         "params": [
             200,
@@ -2717,7 +2717,7 @@
     {
         "id": 88,
         "atypeId": 1,
-        "description": "【攻撃+100/防御-100/集中+100/精神-100/会心率+6％】\n奇妙に揺らぐ奇怪な金属の腕輪、会心率が上昇する。",
+        "description": "【Attack +100/Defense -100/Focus +100/Spirit -100/Critical\nRate +6%】 A strange and mysterious metal bracelet that\nfluctuates oddly, increasing the critical rate.",
         "etypeId": 4,
         "traits": [
             {
@@ -2727,7 +2727,7 @@
             }
         ],
         "iconIndex": 147,
-        "name": "カオスバングル",
+        "name": "Chaos Bangle",
         "note": "",
         "params": [
             0,
@@ -2744,7 +2744,7 @@
     {
         "id": 89,
         "atypeId": 1,
-        "description": "【HP+100/熱耐性/電耐性】\n耐熱耐電加工を施した補助装備、不思議な輝きを帯びる。",
+        "description": "【HP+100/Heat Resistance/Electric Resistance】 An auxiliary\nequipment that has been treated with heat and electric\nresistance, it emits a mysterious glow.",
         "etypeId": 4,
         "traits": [
             {
@@ -2759,7 +2759,7 @@
             }
         ],
         "iconIndex": 147,
-        "name": "ミスリルガード",
+        "name": "Mithril Guard",
         "note": "",
         "params": [
             100,
@@ -2803,7 +2803,7 @@
     {
         "id": 91,
         "atypeId": 1,
-        "description": "【攻撃+100/集中+100/ウイルス耐性】\n通常は防げない状態異常を防ぐための装置。",
+        "description": "【Attack +100/Concentration +100/Virus Resistance】 A device\nused to prevent status abnormalities that cannot be normally\navoided.",
         "etypeId": 4,
         "traits": [
             {
@@ -2813,7 +2813,7 @@
             }
         ],
         "iconIndex": 147,
-        "name": "電脳防壁",
+        "name": "Cyber Defense Barrier",
         "note": "",
         "params": [
             0,
@@ -3019,7 +3019,7 @@
     {
         "id": 99,
         "atypeId": 1,
-        "description": "【攻+15/毒無効】\n攻撃力が上昇し毒を無効化する鬼の骨飾り。",
+        "description": "【Attack +15/Poison Immunity】 A demon bone ornament that\nincreases attack power and nullifies poison.",
         "etypeId": 5,
         "traits": [
             {
@@ -3029,7 +3029,7 @@
             }
         ],
         "iconIndex": 147,
-        "name": "毒鬼の骨",
+        "name": "Poison Demon's Bone",
         "note": "",
         "params": [
             0,
@@ -3046,7 +3046,7 @@
     {
         "id": 100,
         "atypeId": 1,
-        "description": "【攻+15/敏+15/毒無効】\n攻撃力と敏捷性が上昇し毒を無効化する羽飾り。",
+        "description": "[Attack+15/Agility+15/PoisonNullification] A feather\nornament that increases attack power and agility while\nnullifying poison.",
         "etypeId": 5,
         "traits": [
             {
@@ -3056,7 +3056,7 @@
             }
         ],
         "iconIndex": 147,
-        "name": "毒鳥の羽",
+        "name": "Poison Bird Feather",
         "note": "",
         "params": [
             0,
@@ -3073,7 +3073,7 @@
     {
         "id": 101,
         "atypeId": 1,
-        "description": "【防+25/激昂無効】\n防御力が上昇し激昂を無効化する燃え続ける石。",
+        "description": "【Defense +25/No Rage】 A burning stone that increases defense\nand nullifies rage.",
         "etypeId": 5,
         "traits": [
             {
@@ -3083,7 +3083,7 @@
             }
         ],
         "iconIndex": 147,
-        "name": "燃える石片",
+        "name": "Burning Stone Fragment",
         "note": "",
         "params": [
             0,
@@ -3100,7 +3100,7 @@
     {
         "id": 102,
         "atypeId": 1,
-        "description": "【攻+25/魔+25/激昂無効/沈黙無効】\n攻撃力と魔力が上昇し激昂と沈黙を無効化する石。",
+        "description": "【Attack +25/Magic +25/Nullify Rage/Nullify Silence】 A stone\nthat increases attack power and magic power, and nullifies\nrage and silence.",
         "etypeId": 5,
         "traits": [
             {
@@ -3115,7 +3115,7 @@
             }
         ],
         "iconIndex": 147,
-        "name": "赤と青の石",
+        "name": "Red and Blue Stone",
         "note": "",
         "params": [
             0,
@@ -3132,7 +3132,7 @@
     {
         "id": 103,
         "atypeId": 1,
-        "description": "【魔+30/敏+30/混乱無効】\n魔力と敏捷性が上昇し混乱を無効化する古びた小刀。",
+        "description": "【Magic +30/Agility +30/Confusion Nullification】 An old\ndagger that increases magic power and agility and nullifies\nconfusion.",
         "etypeId": 5,
         "traits": [
             {
@@ -3142,7 +3142,7 @@
             }
         ],
         "iconIndex": 147,
-        "name": "太古の守り刀",
+        "name": "Ancient Guardian Sword",
         "note": "",
         "params": [
             0,
@@ -3159,11 +3159,11 @@
     {
         "id": 104,
         "atypeId": 1,
-        "description": "【HP+500/MP+250/敏+50】\nHPとMP、敏捷性が上昇する不気味な水晶。",
+        "description": "【HP+500/MP+250/AGI+50】 A creepy crystal that increases HP,\nMP, and agility.",
         "etypeId": 5,
         "traits": [],
         "iconIndex": 147,
-        "name": "紫水晶",
+        "name": "Amethyst",
         "note": "",
         "params": [
             500,
@@ -3207,7 +3207,7 @@
     {
         "id": 106,
         "atypeId": 1,
-        "description": "【HP+200/防+20/弱体化耐性】\n竜の牙で作ったブローチ、50％の確率で弱体を無効化する。",
+        "description": "【HP+200/Defense+20/Debuff Resistance】 A brooch made from a\ndragon's fang, with a 50% chance to nullify debuffs.",
         "etypeId": 5,
         "traits": [
             {
@@ -3247,7 +3247,7 @@
             }
         ],
         "iconIndex": 147,
-        "name": "竜のブローチ",
+        "name": "Dragon Brooch",
         "note": "",
         "params": [
             200,
@@ -3264,7 +3264,7 @@
     {
         "id": 107,
         "atypeId": 1,
-        "description": "【HP+500/防+20/弱体化無効】\n古い竜の牙で作ったブローチ、弱体を無効化する。",
+        "description": "【HP+500/DEF+20/Nullify Debuff】 A brooch made from the fang\nof an ancient dragon, nullifying debuffs.",
         "etypeId": 5,
         "traits": [
             {
@@ -3304,7 +3304,7 @@
             }
         ],
         "iconIndex": 147,
-        "name": "古竜のブローチ",
+        "name": "Ancient Dragon Brooch",
         "note": "",
         "params": [
             500,
@@ -3321,7 +3321,7 @@
     {
         "id": 108,
         "atypeId": 1,
-        "description": "【MP+100/状態異常耐性】\n不可思議な色彩のブローチ、状態異常を50％で無効化する。",
+        "description": "【MP+100/Status Ailment Resistance】 A mysterious brooch with\nunique colors that nullifies status ailments with a 50%\nchance.",
         "etypeId": 5,
         "traits": [
             {
@@ -3381,7 +3381,7 @@
             }
         ],
         "iconIndex": 147,
-        "name": "奇石のブローチ",
+        "name": "Mysterious Stone Brooch",
         "note": "",
         "params": [
             0,
@@ -3398,7 +3398,7 @@
     {
         "id": 109,
         "atypeId": 1,
-        "description": "【MP+250/状態異常無効】\n太古の城の冠、今は存在しない金属で作られている。",
+        "description": "【MP+250/Status ailment nullification】 It is made of an\nancient metal, a crown of a long-lost castle.",
         "etypeId": 5,
         "traits": [
             {
@@ -3458,7 +3458,7 @@
             }
         ],
         "iconIndex": 147,
-        "name": "太古の王冠",
+        "name": "Ancient Crown",
         "note": "",
         "params": [
             0,
@@ -3475,7 +3475,7 @@
     {
         "id": 110,
         "atypeId": 1,
-        "description": "【状態異常無効】\n",
+        "description": "[StatusAilmentNullification]",
         "etypeId": 5,
         "traits": [
             {
@@ -3540,7 +3540,7 @@
             }
         ],
         "iconIndex": 147,
-        "name": "魔除けのアミュレット",
+        "name": "Amulet of Warding",
         "note": "",
         "params": [
             0,
@@ -3584,7 +3584,7 @@
     {
         "id": 112,
         "atypeId": 1,
-        "description": "【転倒無効】\n軽やかな足取りで転倒を避ける靴。",
+        "description": "【No Falling】 Shoes that allow you to avoid falling with\nlight footsteps.",
         "etypeId": 5,
         "traits": [
             {
@@ -3594,7 +3594,7 @@
             }
         ],
         "iconIndex": 140,
-        "name": "不転のブーツ",
+        "name": "Boots of Immobility",
         "note": "",
         "params": [
             0,
@@ -3611,7 +3611,7 @@
     {
         "id": 113,
         "atypeId": 1,
-        "description": "【敏+20】\n軽やかな足取りで敏捷度を大きく上昇させる靴。",
+        "description": "【Agility +20】 These shoes increase agility by a large margin\nwith their light and nimble steps.",
         "etypeId": 5,
         "traits": [
             {
@@ -3621,7 +3621,7 @@
             }
         ],
         "iconIndex": 140,
-        "name": "加速のブーツ",
+        "name": "Acceleration Boots",
         "note": "",
         "params": [
             0,
@@ -3638,7 +3638,7 @@
     {
         "id": 114,
         "atypeId": 1,
-        "description": "【敏+20/転倒無効】\n実際に小さな魔法の翼が生えている靴。",
+        "description": "【Agility +20/Immune to Falling】 These shoes actually have\nsmall magical wings growing on them.",
         "etypeId": 5,
         "traits": [
             {
@@ -3653,7 +3653,7 @@
             }
         ],
         "iconIndex": 140,
-        "name": "翼のブーツ",
+        "name": "Wing Boots",
         "note": "",
         "params": [
             0,
@@ -3670,7 +3670,7 @@
     {
         "id": 115,
         "atypeId": 1,
-        "description": "【攻+25】\n攻撃力を上昇させる鬼の腕輪。",
+        "description": "【Attack +25】 A demon's bracelet that increases attack power.",
         "etypeId": 5,
         "traits": [
             {
@@ -3680,7 +3680,7 @@
             }
         ],
         "iconIndex": 144,
-        "name": "怪力の腕輪",
+        "name": "Bracelet of Superhuman Strength",
         "note": "",
         "params": [
             0,
@@ -3697,7 +3697,7 @@
     {
         "id": 116,
         "atypeId": 1,
-        "description": "【攻+50/防-25】\n防御力と引き換えに攻撃力を大きく上昇させる鬼の腕輪。",
+        "description": "【Attack +50/Defense -25】 A demon's bracelet that greatly\nincreases attack power at the cost of defense.",
         "etypeId": 5,
         "traits": [
             {
@@ -3707,7 +3707,7 @@
             }
         ],
         "iconIndex": 144,
-        "name": "乱神の腕輪",
+        "name": "Chaotic God's Bracelet",
         "note": "",
         "params": [
             0,
@@ -3724,7 +3724,7 @@
     {
         "id": 117,
         "atypeId": 1,
-        "description": "【防-200/魔防-200/会心率+25％】\n全てを捨て力を求めた鬼神の腕輪。",
+        "description": "【Defense -200/Magic Defense -200/Critical Hit Rate +25%】 A\nwristband of a demon god who abandoned everything and sought\npower.",
         "etypeId": 5,
         "traits": [
             {
@@ -3734,7 +3734,7 @@
             }
         ],
         "iconIndex": 144,
-        "name": "怪力乱神の腕輪",
+        "name": "Bracelet of Unbridled Strength",
         "note": "",
         "params": [
             0,
@@ -3778,7 +3778,7 @@
     {
         "id": 119,
         "atypeId": 1,
-        "description": "【炎撃耐性】\n炎撃から守ってくれる指輪。",
+        "description": "【Fire Resistance】 A ring that protects against fire attacks.",
         "etypeId": 5,
         "traits": [
             {
@@ -3788,7 +3788,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "耐炎撃デバイス",
+        "name": "Fire Resistance Device",
         "note": "ブルー\n\nレッド\nグリーン\nイエロー",
         "params": [
             0,
@@ -3805,7 +3805,7 @@
     {
         "id": 120,
         "atypeId": 1,
-        "description": "【土撃耐性】\n土撃から守ってくれる指輪。",
+        "description": "【Earth Strike Resistance】 A ring that protects against earth\nstrikes.",
         "etypeId": 5,
         "traits": [
             {
@@ -3815,7 +3815,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "耐土撃デバイス",
+        "name": "Earth Resistance Device",
         "note": "",
         "params": [
             0,
@@ -3832,7 +3832,7 @@
     {
         "id": 121,
         "atypeId": 1,
-        "description": "【雷撃耐性】\n雷撃から守ってくれる指輪。",
+        "description": "【Lightning Resistance】 A ring that protects against\nlightning attacks.",
         "etypeId": 5,
         "traits": [
             {
@@ -3842,7 +3842,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "耐雷撃デバイス",
+        "name": "Lightning Resistance Device",
         "note": "",
         "params": [
             0,
@@ -3859,7 +3859,7 @@
     {
         "id": 122,
         "atypeId": 1,
-        "description": "【氷撃耐性】\n氷撃から守ってくれる指輪。",
+        "description": "[IceResistance] A ring that protects against ice attacks.",
         "etypeId": 5,
         "traits": [
             {
@@ -3869,7 +3869,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "耐氷撃デバイス",
+        "name": "Ice Resistance Device",
         "note": "",
         "params": [
             0,
@@ -3994,7 +3994,7 @@
     {
         "id": 127,
         "atypeId": 1,
-        "description": "【防+5/暗闇無効】\n簡易的なものだが十分な性能を持ち、赤外線も見える。",
+        "description": "【Defense +5/Darkness Nullification】 It's a simple item, but\nit has sufficient performance and can even see infrared\nlight.",
         "etypeId": 3,
         "traits": [
             {
@@ -4009,7 +4009,7 @@
             }
         ],
         "iconIndex": 132,
-        "name": "レーザーゴーグル",
+        "name": "Laser Goggles",
         "note": "<mat1:A6*1>\n<mat2:I118*2>\n<mat3:I125*1>\n<matG:200>",
         "params": [
             0,
@@ -4026,7 +4026,7 @@
     {
         "id": 128,
         "atypeId": 1,
-        "description": "【防+5/混乱無効】\n超音波攻撃を防ぐために耳栓を無理矢理くっつけた。",
+        "description": "【Defense +5/Confusion Nullification】 I forcefully attached\nearplugs to prevent the ultrasonic attack.",
         "etypeId": 3,
         "traits": [
             {
@@ -4041,7 +4041,7 @@
             }
         ],
         "iconIndex": 132,
-        "name": "強力耳栓",
+        "name": "Powerful Earplugs",
         "note": "<mat1:A6*1>\n<mat2:I118*2>\n<mat3:I124*1>\n<matG:200>",
         "params": [
             0,
@@ -4058,7 +4058,7 @@
     {
         "id": 129,
         "atypeId": 1,
-        "description": "【SP+50】\nブラスターの補助パーツ、バッテリーが増加する。",
+        "description": "【SP+50】 The auxiliary part of the Blaster, the battery,\nincreases.",
         "etypeId": 4,
         "traits": [
             {
@@ -4068,7 +4068,7 @@
             }
         ],
         "iconIndex": 144,
-        "name": "追加バッテリー",
+        "name": "Additional Battery",
         "note": "<mat1:I130*1>\n<mat2:I112*2>\n<matG:300>",
         "params": [
             0,
@@ -4085,7 +4085,7 @@
     {
         "id": 130,
         "atypeId": 1,
-        "description": "【攻+10】\nブラスターの補助パーツ、攻撃力を上昇させる。",
+        "description": "【Attack +10】 A supplementary part for the Blaster that\nincreases attack power.",
         "etypeId": 4,
         "traits": [
             {
@@ -4095,7 +4095,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "ブラスターデバイス",
+        "name": "Blaster Device",
         "note": "<mat1:I130*1>\n<matG:300>",
         "params": [
             0,
@@ -4112,7 +4112,7 @@
     {
         "id": 131,
         "atypeId": 1,
-        "description": "【攻+10/SP+50】\n補助パーツを無理矢理くっつけた、意外となんとかなる。",
+        "description": "【Attack +10/SP +50】 By forcefully attaching auxiliary parts,\nsurprisingly, it somehow works out.",
         "etypeId": 4,
         "traits": [
             {
@@ -4122,7 +4122,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "SPデバイス",
+        "name": "SP Device",
         "note": "<mat1:A12*1>\n<mat2:A13*1>\n<matG:500>",
         "params": [
             0,
@@ -4166,7 +4166,7 @@
     {
         "id": 133,
         "atypeId": 1,
-        "description": "【防+4/HP+25】\n未来特警の制服だが、かなり痛んでいる。",
+        "description": "【Defense +4/HP +25】 It's the uniform of the Future Special\nPolice, but it's quite damaged.",
         "etypeId": 2,
         "traits": [
             {
@@ -4176,7 +4176,7 @@
             }
         ],
         "iconIndex": 137,
-        "name": "ボロボロのスーツ",
+        "name": "Tattered Suit",
         "note": "",
         "params": [
             25,
@@ -4193,7 +4193,7 @@
     {
         "id": 134,
         "atypeId": 1,
-        "description": "【防+8/HP+75】\n廃材を寄せ集めてボロボロのスーツを修繕した。",
+        "description": "【Defense +8/HP +75】 I gathered scraps and repaired my\ntattered suit.",
         "etypeId": 2,
         "traits": [
             {
@@ -4203,7 +4203,7 @@
             }
         ],
         "iconIndex": 137,
-        "name": "ジャンクスーツ",
+        "name": "Junk Suit",
         "note": "<mat1:A1*1>\n<mat2:I117*4>\n<matG:50>",
         "params": [
             75,
@@ -4220,7 +4220,7 @@
     {
         "id": 135,
         "atypeId": 1,
-        "description": "【防+16/HP+150】\nジャンクスーツをさらに強化し耐久性を上昇させた。",
+        "description": "【Defense +16/HP +150】 I further strengthened the junk suit\nand increased its durability.",
         "etypeId": 2,
         "traits": [
             {
@@ -4230,7 +4230,7 @@
             }
         ],
         "iconIndex": 137,
-        "name": "メタルスーツ",
+        "name": "Metal Suit",
         "note": "<mat1:A2*1>\n<mat2:I118*4>\n<matG:100>",
         "params": [
             150,
@@ -4247,7 +4247,7 @@
     {
         "id": 136,
         "atypeId": 1,
-        "description": "【防+32/HP+300】\nメタルスーツをさらに強化し耐久性を上昇させた。",
+        "description": "【Defense +32/HP +300】 I further strengthened the Metal Suit\nand increased its durability.",
         "etypeId": 2,
         "traits": [
             {
@@ -4257,7 +4257,7 @@
             }
         ],
         "iconIndex": 137,
-        "name": "フルメタルスーツ",
+        "name": "Full Metal Suit",
         "note": "<mat1:A3*1>\n<mat2:I119*4>\n<matG:200>",
         "params": [
             300,
@@ -4274,7 +4274,7 @@
     {
         "id": 137,
         "atypeId": 1,
-        "description": "【防+52/HP+600/SP+100/HP充電+10％】\n廃材の寄せ集めが特殊合金に極めて優秀な装備になった。",
+        "description": "【Defense +52/HP +600/SP +100/HP Charging +10%】 The\ncollection of scrap materials has become an extremely\nexcellent equipment made of special alloy.",
         "etypeId": 2,
         "traits": [
             {
@@ -4289,7 +4289,7 @@
             }
         ],
         "iconIndex": 137,
-        "name": "ホワイトスーツ",
+        "name": "White Suit",
         "note": "<mat1:A4*1>\n<mat2:I119*6>\n<mat3:I130*1>\n<matG:100>",
         "params": [
             250,
@@ -4306,7 +4306,7 @@
     {
         "id": 138,
         "atypeId": 1,
-        "description": "【防+2/HP+25】\n廃材を寄せ集め制作したヘルメット、装備しないよりマシ。",
+        "description": "【Defense +2/HP +25】 A helmet made by gathering scraps, it's\nbetter to equip it than not to.",
         "etypeId": 3,
         "traits": [
             {
@@ -4316,7 +4316,7 @@
             }
         ],
         "iconIndex": 132,
-        "name": "ジャンクヘルム",
+        "name": "Junk Helm",
         "note": "<mat1:I117*2>\n<matG:50>",
         "params": [
             25,
@@ -4333,7 +4333,7 @@
     {
         "id": 139,
         "atypeId": 1,
-        "description": "【防+4/HP+50/毒無効】\n高性能フィルターにより防毒性能を得たジャンクヘルム。",
+        "description": "【Defense +4/HP +50/Poison Immunity】 A junk helmet that has\ngained poison resistance through a high-performance filter.",
         "etypeId": 3,
         "traits": [
             {
@@ -4348,7 +4348,7 @@
             }
         ],
         "iconIndex": 132,
-        "name": "防毒マスク",
+        "name": "Gas Mask",
         "note": "<mat1:A6*1>\n<mat2:I118*2>\n<mat3:I24*1>\n<matG:100>",
         "params": [
             50,
@@ -4365,7 +4365,7 @@
     {
         "id": 140,
         "atypeId": 1,
-        "description": "【防+6/HP+100/毒/猛毒無効】\n極めて高い防毒性能とそれなりの防御性能を持つヘルム。",
+        "description": "【Defense +6/HP +100/Poison/Poison Resistance】 A helmet with\nextremely high poison resistance and decent defense\ncapabilities.",
         "etypeId": 3,
         "traits": [
             {
@@ -4385,7 +4385,7 @@
             }
         ],
         "iconIndex": 132,
-        "name": "バイオヘルム",
+        "name": "Biohelm",
         "note": "<mat1:A7*1>\n<mat2:I119*3>\n<mat3:I24*1>\n<matG:300>",
         "params": [
             100,
@@ -4402,7 +4402,7 @@
     {
         "id": 141,
         "atypeId": 1,
-        "description": "【防+12/HP+250/毒/猛毒無効/SP充電+10％】\n防毒性能、防御性能、自動充電機能を持つヘルム。",
+        "description": "【Defense +12/HP +250/Poison/Immunity to Severe Poison/SP\nCharge +10%】 A helmet with poison resistance, defense\ncapabilities, and automatic charging function.",
         "etypeId": 3,
         "traits": [
             {
@@ -4427,7 +4427,7 @@
             }
         ],
         "iconIndex": 132,
-        "name": "ホワイトヘルム",
+        "name": "White Helm",
         "note": "<mat1:A8*1>\n<mat2:I119*3>\n<mat3:I130*1>\n<matG:100>",
         "params": [
             250,
@@ -4444,7 +4444,7 @@
     {
         "id": 142,
         "atypeId": 1,
-        "description": "【防+1】\n廃材を寄せ集め制作したプレート、装備しないよりマシ。",
+        "description": "【Defense +1】 A plate made by gathering scraps, it's better\nthan not equipping anything.",
         "etypeId": 4,
         "traits": [
             {
@@ -4454,7 +4454,7 @@
             }
         ],
         "iconIndex": 129,
-        "name": "ジャンクプレート",
+        "name": "Junk Plate",
         "note": "<mat1:I117*1>\n<matG:10>",
         "params": [
             0,
@@ -4471,7 +4471,7 @@
     {
         "id": 143,
         "atypeId": 1,
-        "description": "【防+1/酸攻撃耐性（弱）】\n酸攻撃に対するコーティングを施したプレート。",
+        "description": "【Defense +1 / Acid Attack Resistance (Weak)】 A plate coated\nto resist acid attacks.",
         "etypeId": 4,
         "traits": [
             {
@@ -4491,7 +4491,7 @@
             }
         ],
         "iconIndex": 129,
-        "name": "耐酸性プレート",
+        "name": "Acid-resistant Plate",
         "note": "<mat1:A10*1>\n<mat2:I118*2>\n<mat3:I124*1>\n<matG:50>",
         "params": [
             0,
@@ -4508,7 +4508,7 @@
     {
         "id": 144,
         "atypeId": 1,
-        "description": "【防+1/酸攻撃耐性（強）】\n酸攻撃に対する強力なコーティングを施したプレート。",
+        "description": "【Defense +1 / Acid Attack Resistance (Strong)】 A plate that\nhas been coated with a powerful coating to resist acid\nattacks.",
         "etypeId": 4,
         "traits": [
             {
@@ -4528,7 +4528,7 @@
             }
         ],
         "iconIndex": 129,
-        "name": "ゴールドガード",
+        "name": "Gold Guard",
         "note": "<mat1:A11*1>\n<mat2:I119*2>\n<mat3:I125*1>\n<matG:150>",
         "params": [
             0,
@@ -4545,7 +4545,7 @@
     {
         "id": 145,
         "atypeId": 1,
-        "description": "【防+1/酸攻撃耐性（完全）】\n酸攻撃を完全にシャットアウトするプレート。",
+        "description": "【Defense +1 / Acid Attack Resistance (Complete)】 A plate\nthat completely shuts out acid attacks.",
         "etypeId": 4,
         "traits": [
             {
@@ -4570,7 +4570,7 @@
             }
         ],
         "iconIndex": 129,
-        "name": "ハイパーガード",
+        "name": "Hyper Guard",
         "note": "<mat1:A12*1>\n<mat2:I119*2>\n<mat3:I130*1>\n<matG:100>",
         "params": [
             0,
@@ -4695,7 +4695,7 @@
     {
         "id": 150,
         "atypeId": 5,
-        "description": "【小型盾/防+1/回避+2%】\n攻撃を受け流すための小型盾。",
+        "description": "【Small Shield/Defense+1/Evasion+2%】 A small shield used to\ndeflect attacks.",
         "etypeId": 2,
         "traits": [
             {
@@ -4705,7 +4705,7 @@
             }
         ],
         "iconIndex": 129,
-        "name": "バックラー",
+        "name": "Buckler",
         "note": "",
         "params": [
             0,
@@ -4722,7 +4722,7 @@
     {
         "id": 151,
         "atypeId": 5,
-        "description": "【小型盾/防+3/回避+4%】\n青銅の板で作られた小型盾。",
+        "description": "【Small Shield/Defense +3/Evasion +4%】 A small shield made of\nbronze plates.",
         "etypeId": 2,
         "traits": [
             {
@@ -4732,7 +4732,7 @@
             }
         ],
         "iconIndex": 129,
-        "name": "ブロンズバックラー",
+        "name": "Bronze Buckler",
         "note": "",
         "params": [
             0,
@@ -4749,7 +4749,7 @@
     {
         "id": 152,
         "atypeId": 5,
-        "description": "【小型盾/防+6/回避+5%】\n鉄板で作られた小型盾。",
+        "description": "【Small Shield/Defense +6/Evasion +5%】 A small shield made of\niron plate.",
         "etypeId": 2,
         "traits": [
             {
@@ -4759,7 +4759,7 @@
             }
         ],
         "iconIndex": 129,
-        "name": "アイアンバックラー",
+        "name": "Iron Buckler",
         "note": "",
         "params": [
             0,
@@ -4776,7 +4776,7 @@
     {
         "id": 153,
         "atypeId": 5,
-        "description": "【小型盾/防+8/回避+8%】\n魔法の金属ミスリルで作られた小型盾。",
+        "description": "【Small Shield/Defense +8/Evasion +8%】 A small shield made of\nmagical metal mithril.",
         "etypeId": 2,
         "traits": [
             {
@@ -4786,7 +4786,7 @@
             }
         ],
         "iconIndex": 129,
-        "name": "ミスリルバックラー",
+        "name": "Mithril Buckler",
         "note": "",
         "params": [
             0,
@@ -4803,7 +4803,7 @@
     {
         "id": 154,
         "atypeId": 5,
-        "description": "【小型盾/防+10/回避+10%】\nドラゴンの鱗を貼り付けて作られた小型盾。",
+        "description": "【Small Shield/Defense +10/Evasion +10%】 A small shield made\nby attaching dragon scales.",
         "etypeId": 2,
         "traits": [
             {
@@ -4813,7 +4813,7 @@
             }
         ],
         "iconIndex": 129,
-        "name": "ドラゴンバックラー",
+        "name": "Dragon Backler",
         "note": "",
         "params": [
             0,
@@ -4857,11 +4857,11 @@
     {
         "id": 156,
         "atypeId": 6,
-        "description": "【大型盾/防+4/HP+50】\n堅木を重ね合わせて作った盾。",
+        "description": "【Large Shield/Defense+4/HP+50】 A shield made by layering\nsturdy wood together.",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 128,
-        "name": "ウッドシールド",
+        "name": "Wood Shield",
         "note": "",
         "params": [
             50,
@@ -4878,11 +4878,11 @@
     {
         "id": 157,
         "atypeId": 6,
-        "description": "【大型盾/防+8/HP+100】\n頑丈な銅板を加工して作られた盾。",
+        "description": "【Large Shield/Defense+8/HP+100】 A shield made by processing\nsturdy copper plates.",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 128,
-        "name": "ブロンズシールド",
+        "name": "Bronze Shield",
         "note": "",
         "params": [
             0,
@@ -4899,11 +4899,11 @@
     {
         "id": 158,
         "atypeId": 6,
-        "description": "【大型盾/防+12/HP+150】\n頑丈な鋼板を加工して作られた盾。",
+        "description": "【Large Shield/Defense+12/HP+150】 A shield made by processing\nsturdy steel plates.",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 128,
-        "name": "アイアンシールド",
+        "name": "Iron Shield",
         "note": "",
         "params": [
             150,
@@ -4920,11 +4920,11 @@
     {
         "id": 159,
         "atypeId": 6,
-        "description": "【大型盾/防+18/HP+300】\n魔法の金属ミスリルで作られた盾。",
+        "description": "【Large Shield/Defense+18/HP+300】 A shield made of magical\nmetal called Mithril.",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 128,
-        "name": "ミスリルシールド",
+        "name": "Mithril Shield",
         "note": "",
         "params": [
             300,
@@ -4941,11 +4941,11 @@
     {
         "id": 160,
         "atypeId": 6,
-        "description": "【大型盾/防+24/HP+500】\nドラゴンの鱗を貼り付けて作られた盾。",
+        "description": "【Large Shield/Defense+24/HP+500】 A shield made by attaching\ndragon scales.",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 128,
-        "name": "ドラゴンシールド",
+        "name": "Dragon Shield",
         "note": "",
         "params": [
             500,
@@ -4989,7 +4989,7 @@
     {
         "id": 162,
         "atypeId": 1,
-        "description": "【頭/防+1】\n頑丈な布製のバンダナ。",
+        "description": "【Head/Defense+1】 A sturdy cloth bandana.",
         "etypeId": 3,
         "traits": [
             {
@@ -4999,7 +4999,7 @@
             }
         ],
         "iconIndex": 150,
-        "name": "布のバンダナ",
+        "name": "Cloth Bandana",
         "note": "",
         "params": [
             0,
@@ -5016,7 +5016,7 @@
     {
         "id": 163,
         "atypeId": 3,
-        "description": "【頭/防+4】\nなめし革で補強されたバンダナ。",
+        "description": "【Head/Defense+4】 A bandana reinforced with tanned leather.",
         "etypeId": 3,
         "traits": [
             {
@@ -5026,7 +5026,7 @@
             }
         ],
         "iconIndex": 150,
-        "name": "レザーバンダナ",
+        "name": "Leather Bandana",
         "note": "",
         "params": [
             0,
@@ -5043,7 +5043,7 @@
     {
         "id": 164,
         "atypeId": 3,
-        "description": "【頭/防+6】\n鉄板で補強した革製のバンダナ。",
+        "description": "【Head/Defense+6】 A leather bandana reinforced with iron\nplate.",
         "etypeId": 3,
         "traits": [
             {
@@ -5053,7 +5053,7 @@
             }
         ],
         "iconIndex": 150,
-        "name": "鉢金",
+        "name": "Bowl Helmet",
         "note": "",
         "params": [
             0,
@@ -5070,7 +5070,7 @@
     {
         "id": 165,
         "atypeId": 3,
-        "description": "【頭/防+10】\n鉄の帽子。",
+        "description": "【Head/Defense+10】 Iron helmet.",
         "etypeId": 3,
         "traits": [
             {
@@ -5080,7 +5080,7 @@
             }
         ],
         "iconIndex": 131,
-        "name": "鉄帽子",
+        "name": "Iron Helmet",
         "note": "",
         "params": [
             0,
@@ -5097,7 +5097,7 @@
     {
         "id": 166,
         "atypeId": 3,
-        "description": "【頭/防+14】\nミスリルの糸で編まれたバンダナ。",
+        "description": "【Head/Defense+14】 A bandana woven with mithril thread.",
         "etypeId": 3,
         "traits": [
             {
@@ -5107,7 +5107,7 @@
             }
         ],
         "iconIndex": 150,
-        "name": "ミスリルバンダナ",
+        "name": "Mithril Bandana",
         "note": "",
         "params": [
             0,
@@ -5124,7 +5124,7 @@
     {
         "id": 167,
         "atypeId": 3,
-        "description": "【頭/防+20】\n竜の鱗で補強したバンダナ。",
+        "description": "【Head/Defense +20】 A bandana reinforced with dragon scales.",
         "etypeId": 3,
         "traits": [
             {
@@ -5134,7 +5134,7 @@
             }
         ],
         "iconIndex": 150,
-        "name": "竜のバンダナ",
+        "name": "Dragon Bandana",
         "note": "",
         "params": [
             0,
@@ -5178,7 +5178,7 @@
     {
         "id": 169,
         "atypeId": 2,
-        "description": "【頭/防+2/魔力+2/魔防+1】\n木で作られた帽子。",
+        "description": "[Head/Defense+2/MagicPower+2/MagicDefense+1] A hat made of\nwood.",
         "etypeId": 3,
         "traits": [
             {
@@ -5188,7 +5188,7 @@
             }
         ],
         "iconIndex": 133,
-        "name": "木の帽子",
+        "name": "Wooden Hat",
         "note": "",
         "params": [
             0,
@@ -5205,7 +5205,7 @@
     {
         "id": 170,
         "atypeId": 2,
-        "description": "【頭/防+4/魔力+6/魔防+2】\n魔法使いっぽい帽子。",
+        "description": "【Head/Defense+4/Magic Power+6/Magic Defense+2】 A hat that\nlooks like it belongs to a magician.",
         "etypeId": 3,
         "traits": [
             {
@@ -5215,7 +5215,7 @@
             }
         ],
         "iconIndex": 133,
-        "name": "とんがり帽子",
+        "name": "Pointy Hat",
         "note": "",
         "params": [
             0,
@@ -5232,7 +5232,7 @@
     {
         "id": 171,
         "atypeId": 2,
-        "description": "【頭/防+6/魔力+10/魔防+5/MP+10】\n魔法使いの帽子。",
+        "description": "【Head/Defense+6/Magic Power+10/Magic Defense+5/MP+10】 A\nwizard's hat.",
         "etypeId": 3,
         "traits": [
             {
@@ -5242,7 +5242,7 @@
             }
         ],
         "iconIndex": 133,
-        "name": "マジカルハット",
+        "name": "Magical Hat",
         "note": "",
         "params": [
             0,
@@ -5259,7 +5259,7 @@
     {
         "id": 172,
         "atypeId": 2,
-        "description": "【頭/防+12/魔力+15/魔防+10/MP+50】\n優れた魔法使いの帽子。",
+        "description": "【Head/Defense+12/Magic Power+15/Magic Defense+10/MP+50】 A\nsuperior wizard's hat.",
         "etypeId": 3,
         "traits": [
             {
@@ -5269,7 +5269,7 @@
             }
         ],
         "iconIndex": 134,
-        "name": "ミスリルハット",
+        "name": "Mithril Hat",
         "note": "",
         "params": [
             0,
@@ -5286,7 +5286,7 @@
     {
         "id": 173,
         "atypeId": 2,
-        "description": "【頭/防+18/魔力+25/魔防+20/MP+100】\n賢者の帽子。",
+        "description": "【Head/Defense+18/Magic Power+25/Magic Defense+20/MP+100】\nWizard's hat.",
         "etypeId": 4,
         "traits": [
             {
@@ -5296,7 +5296,7 @@
             }
         ],
         "iconIndex": 134,
-        "name": "メイガスハット",
+        "name": "Magus Hat",
         "note": "",
         "params": [
             0,
@@ -5340,11 +5340,11 @@
     {
         "id": 175,
         "atypeId": 4,
-        "description": "【頭/防+4/HP+50】\n堅い木で作った兜。",
+        "description": "【Head/Defense+4/HP+50】 A helmet made of sturdy wood.",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 132,
-        "name": "ウッドヘルム",
+        "name": "Wood Helm",
         "note": "",
         "params": [
             50,
@@ -5361,11 +5361,11 @@
     {
         "id": 176,
         "atypeId": 4,
-        "description": "【大型盾/防+8/HP+100】\n青銅で作られた兜",
+        "description": " 【Large Shield/Defense+8/HP+100】 A helmet made of bronze.",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 132,
-        "name": "ブロンズヘルム",
+        "name": "Bronze Helm",
         "note": "",
         "params": [
             100,
@@ -5382,7 +5382,7 @@
     {
         "id": 177,
         "atypeId": 4,
-        "description": "【頭/防+12/150】\n頑丈な鋼板を加工して作られた兜。",
+        "description": "【Head/Defense+12/150】 A helmet made by processing sturdy\nsteel plates.",
         "etypeId": 3,
         "traits": [
             {
@@ -5397,7 +5397,7 @@
             }
         ],
         "iconIndex": 132,
-        "name": "アイアンヘルム",
+        "name": "Iron Helm",
         "note": "",
         "params": [
             150,
@@ -5414,7 +5414,7 @@
     {
         "id": 178,
         "atypeId": 4,
-        "description": "【頭/防+18/HP+300】\n魔法の金属ミスリルで作られた兜。",
+        "description": "【Head/Defense+18/HP+300】 A helmet made of magical metal\nmithril.",
         "etypeId": 3,
         "traits": [
             {
@@ -5424,7 +5424,7 @@
             }
         ],
         "iconIndex": 132,
-        "name": "ミスリルヘルム",
+        "name": "Mithril Helmet",
         "note": "",
         "params": [
             300,
@@ -5441,11 +5441,11 @@
     {
         "id": 179,
         "atypeId": 4,
-        "description": "【頭/防+24/HP+500】\nドラゴンの鱗と角を加工して作られた兜。",
+        "description": "【Head/Defense+24/HP+500】 A helmet made by processing dragon\nscales and horns.",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 132,
-        "name": "ドラゴンヘルム",
+        "name": "Dragon Helm",
         "note": "",
         "params": [
             500,
@@ -5489,7 +5489,7 @@
     {
         "id": 181,
         "atypeId": 1,
-        "description": "【防+1】\n",
+        "description": "【Defense +1】",
         "etypeId": 4,
         "traits": [
             {
@@ -5499,7 +5499,7 @@
             }
         ],
         "iconIndex": 135,
-        "name": "布の服",
+        "name": "Cloth Armor",
         "note": "",
         "params": [
             0,
@@ -5516,7 +5516,7 @@
     {
         "id": 182,
         "atypeId": 3,
-        "description": "【防+8】\n厳しい旅にも耐える頑丈な服。",
+        "description": "【Defense +8】 Sturdy clothing that can withstand a harsh\njourney.",
         "etypeId": 4,
         "traits": [
             {
@@ -5526,7 +5526,7 @@
             }
         ],
         "iconIndex": 135,
-        "name": "旅人の服",
+        "name": "Traveler's Clothes",
         "note": "",
         "params": [
             0,
@@ -5543,11 +5543,11 @@
     {
         "id": 183,
         "atypeId": 3,
-        "description": "【防+14】\nなめし革で作られた比較的軽い鎧。",
+        "description": "【Defense +14】 A relatively lightweight armor made of tanned\nleather.",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 136,
-        "name": "レザーアーマー",
+        "name": "Leather Armor",
         "note": "",
         "params": [
             0,
@@ -5564,11 +5564,11 @@
     {
         "id": 184,
         "atypeId": 3,
-        "description": "【防+28】\nオイルで煮込んで硬化させた革鎧。",
+        "description": "【Defense +28】 Leather armor that has been boiled in oil and\nhardened.",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 136,
-        "name": "ハードレザー",
+        "name": "Hard Leather",
         "note": "",
         "params": [
             0,
@@ -5585,11 +5585,11 @@
     {
         "id": 185,
         "atypeId": 3,
-        "description": "【身体/防+36】\n魔法の金属ミスリルで補強されたハードレザー。",
+        "description": "【Body/Defense +36】 Hard leather reinforced with magical\nmetal mithril.",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 136,
-        "name": "ミスリルレザー",
+        "name": "Mithril Leather",
         "note": "",
         "params": [
             0,
@@ -5606,11 +5606,11 @@
     {
         "id": 186,
         "atypeId": 3,
-        "description": "【身体/防+48】\nドラゴンの鱗と革で制作されたハードレザー。",
+        "description": "【Body/Defense +48】 Hard leather made from dragon scales and\nleather.",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 136,
-        "name": "ドラゴンレザー",
+        "name": "Dragon Leather",
         "note": "",
         "params": [
             0,
@@ -5654,7 +5654,7 @@
     {
         "id": 188,
         "atypeId": 2,
-        "description": "【身体/防+4/魔力+2/魔防+2】\n木綿で作られた厚手のローブ。",
+        "description": "【Body/Defense+4/Magic Power+2/Magic Defense+2】 A thick robe\nmade of cotton.",
         "etypeId": 4,
         "traits": [
             {
@@ -5664,7 +5664,7 @@
             }
         ],
         "iconIndex": 139,
-        "name": "木綿のローブ",
+        "name": "Cotton Robe",
         "note": "",
         "params": [
             0,
@@ -5681,7 +5681,7 @@
     {
         "id": 189,
         "atypeId": 2,
-        "description": "【身体/防+6/魔力+6/魔防+4】\n絹で作られた上質なマント。",
+        "description": "【Body/Defense+6/Magic Power+6/Magic Defense+4】 A high-\nquality cloak made of silk.",
         "etypeId": 4,
         "traits": [
             {
@@ -5691,7 +5691,7 @@
             }
         ],
         "iconIndex": 139,
-        "name": "絹のローブ",
+        "name": "Silk Robe",
         "note": "",
         "params": [
             0,
@@ -5708,7 +5708,7 @@
     {
         "id": 190,
         "atypeId": 2,
-        "description": "【身体/防+12/魔力+10/魔防+10/MP+10】\n優れた魔法使いの帽子。",
+        "description": "【Body/Defense+12/Magic Power+10/Magic Defense+10/MP+10】 A\nsuperior wizard's hat.",
         "etypeId": 4,
         "traits": [
             {
@@ -5718,7 +5718,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "マジカルローブ",
+        "name": "Magical Robe",
         "note": "",
         "params": [
             0,
@@ -5735,7 +5735,7 @@
     {
         "id": 191,
         "atypeId": 2,
-        "description": "【身体/防+24/魔力+15/魔防+20/MP+50】\nミスリル銀糸で織られたローブ。",
+        "description": "【Body/Defense+24/Magic Power+15/Magic Defense+20/MP+50】 A\nrobe woven with mithril silver thread.",
         "etypeId": 4,
         "traits": [
             {
@@ -5745,7 +5745,7 @@
             }
         ],
         "iconIndex": 139,
-        "name": "ミスリルローブ",
+        "name": "Mithril Robe",
         "note": "",
         "params": [
             0,
@@ -5762,7 +5762,7 @@
     {
         "id": 192,
         "atypeId": 2,
-        "description": "【頭/防+36/魔力+25/魔防+40/MP+100】\n賢者の帽子。",
+        "description": "【Head/Defense+36/Magic Power+25/Magic Defense+40/MP+100】\nWizard's hat.",
         "etypeId": 3,
         "traits": [
             {
@@ -5772,7 +5772,7 @@
             }
         ],
         "iconIndex": 134,
-        "name": "メイガスローブ",
+        "name": "Magus Robe",
         "note": "",
         "params": [
             0,
@@ -5816,11 +5816,11 @@
     {
         "id": 194,
         "atypeId": 4,
-        "description": "【身体/防+8/HP+100】\n鎖を編んだ比較的簡単に制作可能な金属鎧。",
+        "description": "【Body/Defense+8/HP+100】 A relatively easy-to-make metal\narmor woven with chains.",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 132,
-        "name": "チェインメイル",
+        "name": "Chain Mail",
         "note": "",
         "params": [
             100,
@@ -5837,11 +5837,11 @@
     {
         "id": 195,
         "atypeId": 4,
-        "description": "【身体/防+16/HP+200】\n青銅の板を張り付けた頑健な鎧。",
+        "description": "【Body/Defense+16/HP+200】 A sturdy armor with bronze plates\nattached to it.",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 137,
-        "name": "ラメラ―アーマー",
+        "name": "Lamella Armor",
         "note": "",
         "params": [
             200,
@@ -5858,7 +5858,7 @@
     {
         "id": 196,
         "atypeId": 4,
-        "description": "【身体/防+36/HP+600】\n頑丈な鋼板を加工して作られた精巧かつ複雑な全身鎧。",
+        "description": "【Body/Defense+36/HP+600】 A sturdy and intricately crafted\nfull-body armor made from processed steel plates.",
         "etypeId": 4,
         "traits": [
             {
@@ -5868,7 +5868,7 @@
             }
         ],
         "iconIndex": 132,
-        "name": "プレートアーマー",
+        "name": "Plate Armor",
         "note": "",
         "params": [
             600,
@@ -5885,7 +5885,7 @@
     {
         "id": 197,
         "atypeId": 4,
-        "description": "【身体/防+36/HP+600】\n魔法の金属ミスリルで作られた全身鎧。",
+        "description": "【Body/Defense+36/HP+600】 A full-body armor made of magical\nmetal called Mithril.",
         "etypeId": 4,
         "traits": [
             {
@@ -5895,7 +5895,7 @@
             }
         ],
         "iconIndex": 132,
-        "name": "ミスリルアーマー",
+        "name": "Mithril Armor",
         "note": "",
         "params": [
             600,
@@ -5912,7 +5912,7 @@
     {
         "id": 198,
         "atypeId": 4,
-        "description": "【身体/防+48/HP+1000】\nドラゴンの鱗と革で作られた最高級の全身鎧。",
+        "description": "【Body/Defense+48/HP+1000】 The highest quality full-body\narmor made from dragon scales and leather.",
         "etypeId": 4,
         "traits": [
             {
@@ -5922,7 +5922,7 @@
             }
         ],
         "iconIndex": 132,
-        "name": "ドラゴンアーマー",
+        "name": "Dragon Armor",
         "note": "",
         "params": [
             1000,

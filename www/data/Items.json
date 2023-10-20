@@ -11,12 +11,12 @@
             "type": 1,
             "variance": 0
         },
-        "description": "【味方全体】※デバッグ用\n味方全体に99999ダメージ、全滅する。",
+        "description": "[Allallies] *For debugging purposes Inflicts 99999 damage to\nall allies, causing them to be wiped out.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1,
         "itypeId": 1,
-        "name": "自爆アイテム",
+        "name": "Self-Destruct Item",
         "note": "",
         "occasion": 1,
         "price": 0,
@@ -37,12 +37,12 @@
             "type": 1,
             "variance": 0
         },
-        "description": "【敵全体】※デバッグ用\n敵全体に99999ダメージ、相手は死ぬ。",
+        "description": "[AllEnemies] *For Debugging Purposes Deals 99999 damage to\nall enemies, causing them to die.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 87,
         "itypeId": 1,
-        "name": "強制勝利",
+        "name": "Forced Victory",
         "note": "",
         "occasion": 1,
         "price": 0,
@@ -63,7 +63,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方全体】※デバッグ用\nHPとMPを完全回復、状態異常はそのまま。",
+        "description": "[Allallies] *For debugging purposes Fully restores HP and\nMP, status abnormalities remain as they are.",
         "effects": [
             {
                 "code": 11,
@@ -81,7 +81,7 @@
         "hitType": 0,
         "iconIndex": 87,
         "itypeId": 1,
-        "name": "無限回復薬",
+        "name": "Infinite Recovery Potion",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -128,7 +128,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【大事なもの】\n使用することで拠点に帰還する。",
+        "description": "[ImportantItem] Returns you to the base when used.",
         "effects": [
             {
                 "code": 44,
@@ -140,7 +140,7 @@
         "hitType": 0,
         "iconIndex": 87,
         "itypeId": 2,
-        "name": "帰還装置",
+        "name": "Return Device",
         "note": "",
         "occasion": 2,
         "price": 0,
@@ -187,12 +187,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【大事なもの】\n魔法少女に噂の対催眠用護符、とても強力。",
+        "description": "【Important Item】 A highly powerful protective charm rumored\nto be effective against hypnosis for magical girls.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 147,
         "itypeId": 2,
-        "name": "アミュレット",
+        "name": "Amulet",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -213,7 +213,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【大事なもの】\n対催眠用護符の材料が記されている。",
+        "description": "【Important Item】 It contains the materials for an anti-\nhypnosis talisman.",
         "effects": [
             {
                 "code": 44,
@@ -225,7 +225,7 @@
         "hitType": 0,
         "iconIndex": 193,
         "itypeId": 2,
-        "name": "護符のレシピ",
+        "name": "Recipe for Amulet",
         "note": "",
         "occasion": 2,
         "price": 0,
@@ -246,7 +246,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方単体/HP1000回復】\n栄養補給に最適な携帯保尊食、移動中にしか使えない。",
+        "description": "【Ally Single/HP1000 Recovery】 A portable sacred food ideal\nfor nutritional replenishment, can only be used while on the\nmove.",
         "effects": [
             {
                 "code": 11,
@@ -258,7 +258,7 @@
         "hitType": 0,
         "iconIndex": 266,
         "itypeId": 1,
-        "name": "超栄養パン",
+        "name": "Super Nutrient Bread",
         "note": "",
         "occasion": 2,
         "price": 500,
@@ -279,7 +279,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方単体/SP900回復】\n濃厚ミックスフルーツジュース、移動中にしか使えない。",
+        "description": "【Ally Single/SP900 Recovery】 Rich mixed fruit juice, can\nonly be used while moving.",
         "effects": [
             {
                 "code": 12,
@@ -291,7 +291,7 @@
         "hitType": 0,
         "iconIndex": 265,
         "itypeId": 1,
-        "name": "濃厚フルーツジュース",
+        "name": "Rich Fruit Juice",
         "note": "",
         "occasion": 2,
         "price": 1000,
@@ -312,7 +312,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方単体/HP100回復】\n栄養補給に最適な携帯保尊食、移動中にしか使えない。",
+        "description": "【Ally Single/HP Recovery 100】 A portable sacred food ideal\nfor nutritional replenishment, can only be used while on the\nmove.",
         "effects": [
             {
                 "code": 11,
@@ -324,7 +324,7 @@
         "hitType": 0,
         "iconIndex": 266,
         "itypeId": 1,
-        "name": "栄養パン",
+        "name": "Nutritional Bread",
         "note": "",
         "occasion": 2,
         "price": 50,
@@ -345,7 +345,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方単体/SP100回復】\n新鮮ミックスフルーツジュース、移動中にしか使えない。",
+        "description": "【Ally Single/SP100 Recovery】 Fresh mixed fruit juice, can\nonly be used while moving.",
         "effects": [
             {
                 "code": 12,
@@ -357,7 +357,7 @@
         "hitType": 0,
         "iconIndex": 265,
         "itypeId": 1,
-        "name": "フルーツジュース",
+        "name": "Fruit Juice",
         "note": "",
         "occasion": 2,
         "price": 120,
@@ -378,7 +378,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方単体】\nHPを600ポイント回復する。",
+        "description": "[AllySingle] Recovers 600 HP.",
         "effects": [
             {
                 "code": 11,
@@ -390,7 +390,7 @@
         "hitType": 0,
         "iconIndex": 241,
         "itypeId": 1,
-        "name": "回復薬α",
+        "name": "Recovery Potion Alpha",
         "note": "",
         "occasion": 0,
         "price": 300,
@@ -411,7 +411,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方単体】\nHPを1200ポイント回復する。",
+        "description": "[AllySingle] Recovers 1200 HP.",
         "effects": [
             {
                 "code": 11,
@@ -423,7 +423,7 @@
         "hitType": 0,
         "iconIndex": 241,
         "itypeId": 1,
-        "name": "回復薬β",
+        "name": "Recovery Potion β",
         "note": "",
         "occasion": 0,
         "price": 750,
@@ -444,7 +444,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方単体】\nHPを2400ポイント回復する。",
+        "description": "[AllySingle] Recovers 2400 HP.",
         "effects": [
             {
                 "code": 11,
@@ -456,7 +456,7 @@
         "hitType": 0,
         "iconIndex": 241,
         "itypeId": 1,
-        "name": "回復薬γ",
+        "name": "Recovery Potion γ",
         "note": "",
         "occasion": 0,
         "price": 1500,
@@ -477,7 +477,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方単体】\nSPを50ポイント回復する。",
+        "description": "[AllySingle] Recovers 50 SP points.",
         "effects": [
             {
                 "code": 12,
@@ -489,7 +489,7 @@
         "hitType": 0,
         "iconIndex": 183,
         "itypeId": 1,
-        "name": "メンタルハーブα",
+        "name": "Mental Herb Alpha",
         "note": "",
         "occasion": 0,
         "price": 500,
@@ -510,7 +510,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方単体】\nSPを150ポイント回復する。",
+        "description": "[AllySingle] Recovers 150 SP points.",
         "effects": [
             {
                 "code": 12,
@@ -522,7 +522,7 @@
         "hitType": 0,
         "iconIndex": 183,
         "itypeId": 1,
-        "name": "メンタルハーブβ",
+        "name": "Mental Herb β",
         "note": "",
         "occasion": 0,
         "price": 1500,
@@ -543,7 +543,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方単体】\nSPを500回復する。",
+        "description": "[AllySingle] Recovers 500 SP.",
         "effects": [
             {
                 "code": 12,
@@ -555,7 +555,7 @@
         "hitType": 0,
         "iconIndex": 183,
         "itypeId": 1,
-        "name": "メンタルハーブγ",
+        "name": "Mental Herb γ",
         "note": "",
         "occasion": 0,
         "price": 3500,
@@ -576,7 +576,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方単体】\nHPとMPを完全に回復する。",
+        "description": "【Ally Single】 Completely restores HP and MP.",
         "effects": [
             {
                 "code": 11,
@@ -594,7 +594,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "エリクサー",
+        "name": "Elixir",
         "note": "",
         "occasion": 0,
         "price": 1,
@@ -615,7 +615,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方全体】\nHPとMPを完全に回復する。",
+        "description": "[Allallies] Completely restores HP and MP.",
         "effects": [
             {
                 "code": 11,
@@ -633,7 +633,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "ラストエリクサー",
+        "name": "Last Elixir",
         "note": "",
         "occasion": 0,
         "price": 1,
@@ -654,7 +654,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方全体】\nHPを500ポイント回復する。",
+        "description": "[Allallies] Recovers 500 HP.",
         "effects": [
             {
                 "code": 11,
@@ -666,7 +666,7 @@
         "hitType": 0,
         "iconIndex": 243,
         "itypeId": 1,
-        "name": "ヒールボムα",
+        "name": "Heal Bomb Alpha",
         "note": "",
         "occasion": 0,
         "price": 1500,
@@ -687,7 +687,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方全体】\nHPを800ポイント回復する。",
+        "description": "[Allallies] Recovers 800 HP.",
         "effects": [
             {
                 "code": 11,
@@ -699,7 +699,7 @@
         "hitType": 0,
         "iconIndex": 243,
         "itypeId": 1,
-        "name": "ヒールボムβ",
+        "name": "Heal Bomb β",
         "note": "",
         "occasion": 0,
         "price": 3000,
@@ -720,7 +720,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方全体】\nHPを1800ポイント回復する。",
+        "description": "[Allallies] Recovers 1800 HP.",
         "effects": [
             {
                 "code": 11,
@@ -732,7 +732,7 @@
         "hitType": 0,
         "iconIndex": 243,
         "itypeId": 1,
-        "name": "ヒールボムΩ",
+        "name": "Heal Bomb Ω",
         "note": "",
         "occasion": 0,
         "price": 5000,
@@ -753,7 +753,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方単体】\n毒と猛毒を治療する薬。",
+        "description": "【Ally Single】 A medicine that cures poison and deadly\npoison.",
         "effects": [
             {
                 "code": 22,
@@ -771,7 +771,7 @@
         "hitType": 0,
         "iconIndex": 241,
         "itypeId": 1,
-        "name": "解毒剤",
+        "name": "Antidote",
         "note": "\n",
         "occasion": 0,
         "price": 20,
@@ -792,7 +792,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方単体】\n出血を治療する圧迫布。",
+        "description": "[AllySingle] A compression cloth that treats bleeding.",
         "effects": [
             {
                 "code": 22,
@@ -804,7 +804,7 @@
         "hitType": 0,
         "iconIndex": 188,
         "itypeId": 1,
-        "name": "包帯",
+        "name": "Bandage",
         "note": "\n",
         "occasion": 0,
         "price": 50,
@@ -825,7 +825,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方単体】\n毒、出血、戦闘不能以外の状態異常を治癒する。",
+        "description": "[AllySingle] Cures status ailments other than poison,\nbleeding, and incapacitation.",
         "effects": [
             {
                 "code": 22,
@@ -879,7 +879,7 @@
         "hitType": 0,
         "iconIndex": 188,
         "itypeId": 1,
-        "name": "リフレッシュシート",
+        "name": "Refresh Sheet",
         "note": "",
         "occasion": 0,
         "price": 100,
@@ -900,7 +900,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方単体】\n戦闘不能から復活する薬。",
+        "description": "[AllySingle] A medicine that revives from incapacitation.",
         "effects": [
             {
                 "code": 22,
@@ -918,7 +918,7 @@
         "hitType": 0,
         "iconIndex": 223,
         "itypeId": 1,
-        "name": "気付け薬",
+        "name": "Awareness Potion",
         "note": "",
         "occasion": 0,
         "price": 500,
@@ -939,7 +939,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方単体】\nウイルスの状態異常を治癒する。",
+        "description": "[AllySingle] Cures virus status ailments.",
         "effects": [
             {
                 "code": 22,
@@ -951,7 +951,7 @@
         "hitType": 0,
         "iconIndex": 245,
         "itypeId": 1,
-        "name": "ワクチン",
+        "name": "Vaccine",
         "note": "",
         "occasion": 0,
         "price": 300,
@@ -972,7 +972,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方単体/HP100回復】\n安くておいしいパン、移動中にしか使えない。",
+        "description": "【Ally Single/HP Recovery 100】 Cheap and delicious bread, can\nonly be used while moving.",
         "effects": [
             {
                 "code": 11,
@@ -984,7 +984,7 @@
         "hitType": 0,
         "iconIndex": 266,
         "itypeId": 1,
-        "name": "パン",
+        "name": "Bread",
         "note": "",
         "occasion": 2,
         "price": 15,
@@ -1005,7 +1005,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方単体/MP回復】\n新鮮なトマト、移動中にしか使えない。",
+        "description": "【Ally Single/MP Recovery】 Fresh tomatoes, can only be used\nwhile moving.",
         "effects": [
             {
                 "code": 12,
@@ -1017,7 +1017,7 @@
         "hitType": 0,
         "iconIndex": 280,
         "itypeId": 1,
-        "name": "トマト",
+        "name": "Tomato",
         "note": "",
         "occasion": 2,
         "price": 30,
@@ -1038,7 +1038,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方単体/HP200回復】\nおいしいチーズ、移動中にしか使えない。",
+        "description": "【Ally Single/HP200 Recovery】 Delicious cheese, can only be\nused while moving.",
         "effects": [
             {
                 "code": 11,
@@ -1050,7 +1050,7 @@
         "hitType": 0,
         "iconIndex": 269,
         "itypeId": 1,
-        "name": "チーズ",
+        "name": "Cheese",
         "note": "",
         "occasion": 2,
         "price": 30,
@@ -1071,7 +1071,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方単体/MP15回復】\n新鮮なぶどう、移動中にしか使えない。",
+        "description": "【Ally Single/MP15 Recovery】 Fresh grapes, can only be used\nwhile moving.",
         "effects": [
             {
                 "code": 12,
@@ -1083,7 +1083,7 @@
         "hitType": 0,
         "iconIndex": 264,
         "itypeId": 1,
-        "name": "ぶどう",
+        "name": "Grape",
         "note": "",
         "occasion": 2,
         "price": 30,
@@ -1104,7 +1104,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方単体/MP15回復】\n新鮮なりんご、移動中にしか使えない。",
+        "description": "【Ally Single/MP15 Recovery】 Fresh apple, can only be used\nwhile moving.",
         "effects": [
             {
                 "code": 12,
@@ -1116,7 +1116,7 @@
         "hitType": 0,
         "iconIndex": 265,
         "itypeId": 1,
-        "name": "りんご",
+        "name": "Apple",
         "note": "",
         "occasion": 2,
         "price": 30,
@@ -1137,7 +1137,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方単体/MP15回復】\n新鮮なオレンジ、移動中にしか使えない。",
+        "description": "【Ally Single/MP15 Recovery】 Fresh orange, can only be used\nwhile moving.",
         "effects": [
             {
                 "code": 12,
@@ -1149,7 +1149,7 @@
         "hitType": 0,
         "iconIndex": 263,
         "itypeId": 1,
-        "name": "オレンジ",
+        "name": "Orange",
         "note": "",
         "occasion": 2,
         "price": 30,
@@ -1170,7 +1170,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方単体/HP100回復】\n上品な香りのバタークッキー、移動中にしか使えない。",
+        "description": "【Ally Single/HP Recovery 100】 A butter cookie with a refined\naroma, can only be used while moving.",
         "effects": [
             {
                 "code": 11,
@@ -1182,7 +1182,7 @@
         "hitType": 0,
         "iconIndex": 274,
         "itypeId": 1,
-        "name": "クッキー",
+        "name": "Cookie",
         "note": "",
         "occasion": 2,
         "price": 15,
@@ -1203,7 +1203,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方単体/HP&MP全回復】\nクイーン・オブ・スイーツ、移動中にしか使えない。",
+        "description": "【Ally Single/HP&MP Fully Restored】 Queen of Sweets, can only\nbe used while moving.",
         "effects": [
             {
                 "code": 11,
@@ -1221,7 +1221,7 @@
         "hitType": 0,
         "iconIndex": 271,
         "itypeId": 1,
-        "name": "プリン・ア・ラ・モード",
+        "name": "Pudding a la Mode",
         "note": "",
         "occasion": 2,
         "price": 1000,
@@ -1242,12 +1242,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【素材アイテム】\n新鮮なにんじん、調理しておいしく食べたい。",
+        "description": "【Material Item】 I want to cook and eat fresh carrots\ndeliciously.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 256,
         "itypeId": 1,
-        "name": "にんじん",
+        "name": "Carrot",
         "note": "",
         "occasion": 3,
         "price": 50,
@@ -1268,12 +1268,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【素材アイテム】\n新鮮なたまねぎ、調理しておいしく食べたい。",
+        "description": "【Material Item】 I want to cook and eat fresh onions\ndeliciously.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 257,
         "itypeId": 1,
-        "name": "たまねぎ",
+        "name": "Onion",
         "note": "",
         "occasion": 3,
         "price": 50,
@@ -1294,12 +1294,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【素材アイテム】\n大きなじゃがいも、調理しておいしく食べたい。",
+        "description": "【Material Item】 I want to cook and eat a big potato\ndeliciously.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 258,
         "itypeId": 1,
-        "name": "じゃがいも",
+        "name": "Potato",
         "note": "",
         "occasion": 3,
         "price": 50,
@@ -1320,12 +1320,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【素材アイテム】\n大きなピーマン、調理しておいしく食べたい。",
+        "description": "【Material Item】 I want to cook and eat a big bell pepper\ndeliciously.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 279,
         "itypeId": 1,
-        "name": "ピーマン",
+        "name": "Green pepper",
         "note": "",
         "occasion": 3,
         "price": 50,
@@ -1346,12 +1346,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【素材アイテム】\nでっかいキノコ、生で食べるのは怖い。",
+        "description": "【Material Item】 A big mushroom, it's scary to eat it raw.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 261,
         "itypeId": 1,
-        "name": "キノコ",
+        "name": "Mushroom",
         "note": "",
         "occasion": 3,
         "price": 100,
@@ -1372,12 +1372,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【素材アイテム】\n大粒のクルミ、殻を割るのが大変。",
+        "description": "【Material Item】 Large walnuts, it's difficult to crack the\nshell.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 262,
         "itypeId": 1,
-        "name": "クルミ",
+        "name": "Walnut",
         "note": "",
         "occasion": 3,
         "price": 50,
@@ -1398,12 +1398,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【素材アイテム】\n良い香りのするハーブ、料理に一味を加える。",
+        "description": "【Material Item】 A fragrant herb that adds a touch of flavor\nto dishes.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 276,
         "itypeId": 1,
-        "name": "ハーブ",
+        "name": "Herb",
         "note": "",
         "occasion": 3,
         "price": 50,
@@ -1424,12 +1424,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【素材アイテム】\n苦みのするハーブ、料理に一味を加える。",
+        "description": "【Material Item】 Bitter herb that adds a touch of flavor to\ndishes.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 277,
         "itypeId": 1,
-        "name": "ハーブ",
+        "name": "Herb",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -1450,12 +1450,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【素材アイテム】\n新鮮なお肉、メインディッシュにどうぞ。",
+        "description": "【Material Item】 Fresh meat, please enjoy as the main dish.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 259,
         "itypeId": 1,
-        "name": "肉",
+        "name": "Meat",
         "note": "",
         "occasion": 3,
         "price": 250,
@@ -1476,7 +1476,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方単体/HP回復50％】\n上手に焼けました、移動中にしか使えない。",
+        "description": "【Ally Single/HP Recovery 50%】 It was cooked well, can only\nbe used while moving.",
         "effects": [
             {
                 "code": 11,
@@ -1488,7 +1488,7 @@
         "hitType": 0,
         "iconIndex": 259,
         "itypeId": 1,
-        "name": "ローストミート",
+        "name": "Roast Meat",
         "note": "",
         "occasion": 2,
         "price": 500,
@@ -1509,12 +1509,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【素材アイテム】\n新鮮な魚、メインディッシュにどうぞ。",
+        "description": "【Material Item】 Fresh fish, please enjoy as the main dish.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 260,
         "itypeId": 1,
-        "name": "魚",
+        "name": "Fish",
         "note": "",
         "occasion": 3,
         "price": 250,
@@ -1535,7 +1535,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方単体/HP回復50％】\n上手に焼けました、移動中にしか使えない。",
+        "description": "【Ally Single/HP Recovery 50%】 It was cooked well, can only\nbe used while moving.",
         "effects": [
             {
                 "code": 11,
@@ -1547,7 +1547,7 @@
         "hitType": 0,
         "iconIndex": 260,
         "itypeId": 1,
-        "name": "ローストフィッシュ",
+        "name": "Roast Fish",
         "note": "",
         "occasion": 2,
         "price": 500,
@@ -1568,7 +1568,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方単体/HP200回復】\nおいしいソーセージ、移動中にしか使えない。",
+        "description": "【Ally Single/HP200 Recovery】 Delicious sausage, can only be\nused while moving.",
         "effects": [
             {
                 "code": 11,
@@ -1580,7 +1580,7 @@
         "hitType": 0,
         "iconIndex": 272,
         "itypeId": 1,
-        "name": "ソーセージ",
+        "name": "Sausage",
         "note": "",
         "occasion": 2,
         "price": 50,
@@ -1601,7 +1601,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方単体/HP300回復】\nおいしいホットドッグ、移動中にしか使えない。",
+        "description": "【Ally Single/HP300 Recovery】 Delicious hot dog, can only be\nused while moving.",
         "effects": [
             {
                 "code": 11,
@@ -1613,7 +1613,7 @@
         "hitType": 0,
         "iconIndex": 266,
         "itypeId": 1,
-        "name": "ホットドッグ",
+        "name": "Hot Dog",
         "note": "",
         "occasion": 2,
         "price": 50,
@@ -1634,12 +1634,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【素材アイテム】\n新鮮なたまご、料理界の万能選手。",
+        "description": "【Material Item】 Fresh eggs, the all-around player in the\nculinary world.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 267,
         "itypeId": 1,
-        "name": "たまご",
+        "name": "Egg",
         "note": "",
         "occasion": 3,
         "price": 20,
@@ -1660,12 +1660,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【素材アイテム】\nよくわからない生き物の卵、多分、食べられる。",
+        "description": "【Material Item】 An egg of an unknown creature, probably\nedible.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 268,
         "itypeId": 1,
-        "name": "謎の卵",
+        "name": "Mysterious Egg",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -1686,12 +1686,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【素材アイテム】\n塩、料理には欠かせない。",
+        "description": "【Material Item】 Salt, essential for cooking.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 273,
         "itypeId": 1,
-        "name": "塩",
+        "name": "Salt",
         "note": "",
         "occasion": 3,
         "price": 10,
@@ -1712,12 +1712,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【素材アイテム】\n砂糖、お菓子作りには欠かせない。",
+        "description": "【Material Item】 Sugar, essential for making sweets.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 273,
         "itypeId": 1,
-        "name": "砂糖",
+        "name": "Sugar",
         "note": "",
         "occasion": 3,
         "price": 10,
@@ -1738,12 +1738,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【素材アイテム】\n小麦粉、色んなところに使われている。",
+        "description": "【Material Item】 Wheat flour, used in various places.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 274,
         "itypeId": 1,
-        "name": "小麦粉",
+        "name": "Wheat flour",
         "note": "",
         "occasion": 3,
         "price": 10,
@@ -1764,7 +1764,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方単体/HP&MP回復】\n未成年は飲んではいけない、移動中にしか使えない。",
+        "description": "[AllySingle/HP&MPRecovery] Minors should not drink, can only\nbe used while moving.",
         "effects": [
             {
                 "code": 11,
@@ -1782,7 +1782,7 @@
         "hitType": 0,
         "iconIndex": 275,
         "itypeId": 1,
-        "name": "ワイン",
+        "name": "Wine",
         "note": "",
         "occasion": 2,
         "price": 800,
@@ -1803,7 +1803,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方単体/SP80回復】\n栄養満点の苦いジュース、移動中にしか使えない。",
+        "description": "【Ally Single/SP80 Recovery】 A nutritious but bitter juice\nthat can only be used while moving.",
         "effects": [
             {
                 "code": 12,
@@ -1815,7 +1815,7 @@
         "hitType": 0,
         "iconIndex": 279,
         "itypeId": 1,
-        "name": "健康野菜ジュース",
+        "name": "Healthy Vegetable Juice",
         "note": "",
         "occasion": 2,
         "price": 120,
@@ -1836,7 +1836,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方単体/SP100回復】\n新鮮りんごジュース、移動中にしか使えない。",
+        "description": "【Ally Single/SP100 Recovery】 Fresh apple juice, can only be\nused while moving.",
         "effects": [
             {
                 "code": 12,
@@ -1848,7 +1848,7 @@
         "hitType": 0,
         "iconIndex": 265,
         "itypeId": 1,
-        "name": "りんごジュース",
+        "name": "Apple Juice",
         "note": "",
         "occasion": 2,
         "price": 120,
@@ -1869,7 +1869,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方単体/SP100回復】\n濃縮還元ぶどうジュース、移動中にしか使えない。",
+        "description": "【Ally Single/SP100 Recovery】 Concentrated reduced grape\njuice, can only be used while moving.",
         "effects": [
             {
                 "code": 12,
@@ -1881,7 +1881,7 @@
         "hitType": 0,
         "iconIndex": 264,
         "itypeId": 1,
-        "name": "ぶどうジュース",
+        "name": "Grape Juice",
         "note": "",
         "occasion": 2,
         "price": 120,
@@ -1902,7 +1902,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方単体/SP100回復】\nつぶつぶミカンジュース、移動中にしか使えない。",
+        "description": "【Ally Single/SP100 Recovery】 Pulp Orange Juice, can only be\nused while moving.",
         "effects": [
             {
                 "code": 12,
@@ -1914,7 +1914,7 @@
         "hitType": 0,
         "iconIndex": 263,
         "itypeId": 1,
-        "name": "ミカンジュース",
+        "name": "Orange Juice",
         "note": "",
         "occasion": 2,
         "price": 120,
@@ -1935,12 +1935,12 @@
             "type": 1,
             "variance": 0
         },
-        "description": "【敵単体】\nとても痛い、固定100ダメージを与える",
+        "description": "[SingleEnemy] Inflicts a very painful fixed damage of 100.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 241,
         "itypeId": 1,
-        "name": "お注射",
+        "name": "Injection",
         "note": "",
         "occasion": 1,
         "price": 100,
@@ -1961,7 +1961,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【成長】\n最大HPを50ポイント上げる。",
+        "description": "【Growth】 Increases maximum HP by 50 points.",
         "effects": [
             {
                 "code": 42,
@@ -1973,7 +1973,7 @@
         "hitType": 0,
         "iconIndex": 208,
         "itypeId": 1,
-        "name": "バイタルアップ",
+        "name": "Vital Up",
         "note": "",
         "occasion": 2,
         "price": 200,
@@ -1994,7 +1994,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【成長】\n最大MPを10ポイント上げる。",
+        "description": "【Growth】 Increases maximum MP by 10 points.",
         "effects": [
             {
                 "code": 42,
@@ -2006,7 +2006,7 @@
         "hitType": 0,
         "iconIndex": 208,
         "itypeId": 1,
-        "name": "メンタルアップ",
+        "name": "Mental Up",
         "note": "",
         "occasion": 2,
         "price": 200,
@@ -2027,7 +2027,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【成長】\n攻撃力を3ポイント上げる。",
+        "description": "【Growth】 Increases attack power by 3 points.",
         "effects": [
             {
                 "code": 42,
@@ -2039,7 +2039,7 @@
         "hitType": 0,
         "iconIndex": 208,
         "itypeId": 1,
-        "name": "パワーアップ",
+        "name": "Power Up",
         "note": "",
         "occasion": 2,
         "price": 200,
@@ -2060,7 +2060,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【成長】\n防御力を3ポイント上げる。",
+        "description": "【Growth】 Increases defense by 3 points.",
         "effects": [
             {
                 "code": 42,
@@ -2072,7 +2072,7 @@
         "hitType": 0,
         "iconIndex": 208,
         "itypeId": 1,
-        "name": "ガードアップ",
+        "name": "Guard Up",
         "note": "",
         "occasion": 2,
         "price": 200,
@@ -2093,7 +2093,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【成長】\n魔法力と魔法防御を3ポイント上げる。",
+        "description": "【Growth】 Increases magic power and magic defense by 3\npoints.",
         "effects": [
             {
                 "code": 42,
@@ -2111,7 +2111,7 @@
         "hitType": 0,
         "iconIndex": 208,
         "itypeId": 1,
-        "name": "マジックアップ",
+        "name": "Magic Up",
         "note": "",
         "occasion": 2,
         "price": 200,
@@ -2132,7 +2132,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【成長】\n敏捷性を3ポイント上げる。",
+        "description": "【Growth】 Increase agility by 3 points.",
         "effects": [
             {
                 "code": 42,
@@ -2144,7 +2144,7 @@
         "hitType": 0,
         "iconIndex": 208,
         "itypeId": 1,
-        "name": "スピードアップ",
+        "name": "Speed Up",
         "note": "",
         "occasion": 2,
         "price": 200,
@@ -2165,7 +2165,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【成長】\n運を3ポイント上げる。",
+        "description": "【Growth】 Increases luck by 3 points.",
         "effects": [
             {
                 "code": 42,
@@ -2177,7 +2177,7 @@
         "hitType": 0,
         "iconIndex": 208,
         "itypeId": 1,
-        "name": "ラックアップ",
+        "name": "Lock Up",
         "note": "",
         "occasion": 2,
         "price": 200,
@@ -2198,7 +2198,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【成長】\n全能力値を上げる。",
+        "description": "【Growth】 Raises all ability values.",
         "effects": [
             {
                 "code": 42,
@@ -2246,7 +2246,7 @@
         "hitType": 0,
         "iconIndex": 208,
         "itypeId": 1,
-        "name": "ミラクルアップ",
+        "name": "Miracle Up",
         "note": "",
         "occasion": 2,
         "price": 1000,
@@ -2293,7 +2293,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【汎用スキル習得】\n通常攻撃よりやや強力な単体攻撃",
+        "description": "【General Skill Acquisition】 Slightly stronger single-target\nattack than normal attacks.",
         "effects": [
             {
                 "code": 43,
@@ -2305,7 +2305,7 @@
         "hitType": 0,
         "iconIndex": 245,
         "itypeId": 1,
-        "name": "『強打』",
+        "name": "Strong Strike",
         "note": "",
         "occasion": 0,
         "price": 2500,
@@ -2326,7 +2326,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【汎用スキル習得】\n通常攻撃の半分程度の威力で全体を攻撃する。",
+        "description": "【General Skill Acquisition】 Attacks the entire group with\napproximately half the power of a normal attack.",
         "effects": [
             {
                 "code": 43,
@@ -2338,7 +2338,7 @@
         "hitType": 0,
         "iconIndex": 245,
         "itypeId": 1,
-        "name": "『旋風撃』",
+        "name": "Whirlwind Strike",
         "note": "",
         "occasion": 0,
         "price": 5000,
@@ -2359,7 +2359,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【汎用スキル習得】\n味方単体のHPを小回復させる。",
+        "description": "【General Skill Acquisition】 Allows the user to slightly\nrestore the HP of a single ally.",
         "effects": [
             {
                 "code": 43,
@@ -2371,7 +2371,7 @@
         "hitType": 0,
         "iconIndex": 245,
         "itypeId": 1,
-        "name": "『回復支援LV1』",
+        "name": "Recovery Support LV1",
         "note": "",
         "occasion": 0,
         "price": 2000,
@@ -2392,7 +2392,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【汎用スキル習得】\n味方単体のHPを中回復させる。",
+        "description": "【General Skill Acquisition】 Restores the HP of a single ally\nto a moderate extent.",
         "effects": [
             {
                 "code": 43,
@@ -2404,7 +2404,7 @@
         "hitType": 0,
         "iconIndex": 245,
         "itypeId": 1,
-        "name": "『回復支援LV2』",
+        "name": "Healing Support LV2",
         "note": "",
         "occasion": 0,
         "price": 4000,
@@ -2425,7 +2425,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【汎用スキル習得】\n味方全体のHPを小回復させる。",
+        "description": "【General Skill Acquisition】 Allows the user to slightly\nrestore the HP of all allies.",
         "effects": [
             {
                 "code": 43,
@@ -2437,7 +2437,7 @@
         "hitType": 0,
         "iconIndex": 245,
         "itypeId": 1,
-        "name": "『全体回復支援LV1』",
+        "name": "Full Recovery Support LV1",
         "note": "",
         "occasion": 0,
         "price": 10000,
@@ -2458,7 +2458,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【汎用スキル習得】\n味方単体の『毒』を解除する。",
+        "description": "【General Skill Acquisition】 Removes Poison from a single\nally.",
         "effects": [
             {
                 "code": 43,
@@ -2470,7 +2470,7 @@
         "hitType": 0,
         "iconIndex": 245,
         "itypeId": 1,
-        "name": "『解毒支援』",
+        "name": "Detox Support",
         "note": "",
         "occasion": 0,
         "price": 1000,
@@ -2491,7 +2491,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【汎用スキル習得】\n味方単体の『出血』を解除し、HPを小回復させる。",
+        "description": "【General Skill Acquisition】 Removes Bleeding from a single\nally and slightly restores HP.",
         "effects": [
             {
                 "code": 43,
@@ -2503,7 +2503,7 @@
         "hitType": 0,
         "iconIndex": 245,
         "itypeId": 1,
-        "name": "『止血支援』",
+        "name": "Hemostatic Support",
         "note": "",
         "occasion": 0,
         "price": 3000,
@@ -2524,7 +2524,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【汎用スキル習得】\n味方単体の『猛毒/暗闇/混乱/麻痺』を解除。",
+        "description": "【General Skill Acquisition】 Removes\nPoison/Blindness/Confusion/Paralysis from a single ally.",
         "effects": [
             {
                 "code": 43,
@@ -2536,7 +2536,7 @@
         "hitType": 0,
         "iconIndex": 245,
         "itypeId": 1,
-        "name": "『治療支援』",
+        "name": "Healing Support",
         "note": "",
         "occasion": 0,
         "price": 5000,
@@ -2557,7 +2557,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【汎用スキル習得】\n自分自身のHPとMPをわずかに回復する",
+        "description": "【General Skill Acquisition】 Slightly restores own HP and MP.",
         "effects": [
             {
                 "code": 43,
@@ -2569,7 +2569,7 @@
         "hitType": 0,
         "iconIndex": 245,
         "itypeId": 1,
-        "name": "『息吹』",
+        "name": "Breath",
         "note": "",
         "occasion": 0,
         "price": 2000,
@@ -2616,7 +2616,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【汎用スキル習得】\n【パッシブ／HP+300】",
+        "description": "【Generic Skill Acquisition】 【Passive/HP+300】",
         "effects": [
             {
                 "code": 43,
@@ -2628,7 +2628,7 @@
         "hitType": 0,
         "iconIndex": 245,
         "itypeId": 1,
-        "name": "『HP強化』",
+        "name": "HP Enhancement",
         "note": "",
         "occasion": 0,
         "price": 4000,
@@ -2649,7 +2649,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【汎用スキル習得】\n【パッシブ／SP+100】",
+        "description": "【Generic Skill Acquisition】 【Passive/SP+100】",
         "effects": [
             {
                 "code": 43,
@@ -2661,7 +2661,7 @@
         "hitType": 0,
         "iconIndex": 245,
         "itypeId": 1,
-        "name": "『SP強化』",
+        "name": "SP Enhancement",
         "note": "",
         "occasion": 0,
         "price": 4000,
@@ -2682,7 +2682,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【汎用スキル習得】\n【パッシブ／攻撃力+5％』",
+        "description": "【General Skill Acquisition】 【Passive/Attack Power +5%】",
         "effects": [
             {
                 "code": 43,
@@ -2694,7 +2694,7 @@
         "hitType": 0,
         "iconIndex": 245,
         "itypeId": 1,
-        "name": "『攻撃力強化』",
+        "name": "Attack Power Enhancement",
         "note": "",
         "occasion": 0,
         "price": 8000,
@@ -2715,7 +2715,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【汎用スキル習得】\n【パッシブ／集中力+5％』",
+        "description": "【General Skill Acquisition】 【Passive/Concentration +5%】",
         "effects": [
             {
                 "code": 43,
@@ -2727,7 +2727,7 @@
         "hitType": 0,
         "iconIndex": 245,
         "itypeId": 1,
-        "name": "『集中力強化』",
+        "name": "Concentration Enhancement",
         "note": "",
         "occasion": 0,
         "price": 8000,
@@ -2774,7 +2774,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【汎用スキル習得】\n味方単体の『ウイルス』を解除。",
+        "description": "【Acquisition of General Skill】 Removes the Virus from a\nsingle ally.",
         "effects": [
             {
                 "code": 43,
@@ -2786,7 +2786,7 @@
         "hitType": 0,
         "iconIndex": 245,
         "itypeId": 1,
-        "name": "『ワクチンプログラム』",
+        "name": "Vaccine Program",
         "note": "",
         "occasion": 0,
         "price": 5000,
@@ -2807,7 +2807,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【汎用スキル習得】\n味方全体に『ウイルス』を防ぐ防壁を張る。",
+        "description": "【General Skill Acquisition】 Create a protective barrier that\nprevents Virus for all allies.",
         "effects": [
             {
                 "code": 43,
@@ -2819,7 +2819,7 @@
         "hitType": 0,
         "iconIndex": 245,
         "itypeId": 1,
-        "name": "『電脳防壁』",
+        "name": "Cyber Barrier",
         "note": "",
         "occasion": 0,
         "price": 10000,
@@ -2866,12 +2866,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【特殊アイテム】\n極めて頑健で特殊な石材を加工するために必要な薬剤。",
+        "description": "[SpecialItem] A special medicine required to process\nextremely durable and unique stone materials.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 228,
         "itypeId": 1,
-        "name": "特殊溶解液",
+        "name": "Special Dissolving Solution",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -2892,12 +2892,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【特殊アイテム】\n極めて再生力の強いバイオ植物を枯死させる薬剤。",
+        "description": "[SpecialItem] A drug that causes highly regenerative bio-\nplants to wither and die.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 228,
         "itypeId": 1,
-        "name": "特製除草剤",
+        "name": "Special Weed Killer",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -2944,12 +2944,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【換金/イベント】\nバイオ生物の粘液、色々と使い道がある。",
+        "description": "【Exchange/Event】 The slime of bioorganisms has various uses.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 178,
         "itypeId": 1,
-        "name": "バイオ粘液",
+        "name": "Bio slime",
         "note": "",
         "occasion": 3,
         "price": 100,
@@ -2970,12 +2970,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【換金/イベント】\n軽くて頑丈なため、一部の工芸家などに人気。",
+        "description": "【Exchange/Crafting】 Lightweight and sturdy, making it\npopular among certain artisans and craftsmen.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 298,
         "itypeId": 1,
-        "name": "バイオボーン",
+        "name": "Bio Bone",
         "note": "",
         "occasion": 3,
         "price": 100,
@@ -2996,12 +2996,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【換金/イベント】\n非常に強靭な布地。",
+        "description": "【Exchange/Event】 Extremely durable fabric.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 296,
         "itypeId": 1,
-        "name": "頑健な布地",
+        "name": "Sturdy fabric",
         "note": "",
         "occasion": 3,
         "price": 200,
@@ -3022,12 +3022,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【換金/イベント】\n軽くて頑丈なため、一部の工芸家などに人気。",
+        "description": "【Exchange/Crafting】 Lightweight and sturdy, making it\npopular among certain artisans and craftsmen.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 290,
         "itypeId": 1,
-        "name": "バイオ繊維",
+        "name": "Bio Fiber",
         "note": "",
         "occasion": 3,
         "price": 200,
@@ -3048,12 +3048,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【換金/イベント】\n地味にまだ動いている、使い道がわからない。",
+        "description": "[Exchange/Event] It is still moving quietly, and I don't\nknow how to use it.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 292,
         "itypeId": 1,
-        "name": "バイオ触手",
+        "name": "Bio Tentacle",
         "note": "",
         "occasion": 3,
         "price": 300,
@@ -3074,12 +3074,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【換金/イベント】\nバイオ蛇の持つ毒、強壮剤の原料にもなる。",
+        "description": "【Exchange/Event】 It can be used as a raw material for the\nvenom of the Bio Snake and a tonic.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 298,
         "itypeId": 1,
-        "name": "バイオ蛇毒",
+        "name": "Bio Snake Venom",
         "note": "",
         "occasion": 3,
         "price": 300,
@@ -3100,12 +3100,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【換金/イベント】\n壊れた歯車、直せばまだ使えそうだ。",
+        "description": "【Exchange/Event】 The broken gear seems like it can still be\nused if repaired.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 305,
         "itypeId": 1,
-        "name": "壊れた歯車",
+        "name": "Broken Gear",
         "note": "",
         "occasion": 3,
         "price": 100,
@@ -3126,12 +3126,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【換金/イベント】\n壊れた基盤、直せばまだ使えそうだ。",
+        "description": "【Exchange/Event】 The broken foundation seems usable if\nrepaired.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 305,
         "itypeId": 1,
-        "name": "壊れた基盤",
+        "name": "Broken Foundation",
         "note": "",
         "occasion": 3,
         "price": 200,
@@ -3152,12 +3152,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【換金/イベント】\n壊れたモーター、直せばまだ使えそうだ。",
+        "description": "【Exchange/Event】 The broken motor seems like it can still be\nused if repaired.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 305,
         "itypeId": 1,
-        "name": "壊れたモーター",
+        "name": "Broken Motor",
         "note": "",
         "occasion": 3,
         "price": 300,
@@ -3178,12 +3178,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【換金/イベント】\n実際は機械の部品、子供たちの間で流行っている。",
+        "description": "【Exchange/Event】 Actually, it's a machine part that is\npopular among children.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 299,
         "itypeId": 1,
-        "name": "エンブレム（赤）",
+        "name": "Emblem (Red)",
         "note": "",
         "occasion": 3,
         "price": 50,
@@ -3204,12 +3204,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【換金/イベント】\n実際は機械の部品、子供たちの間で流行っている。",
+        "description": "【Exchange/Event】 Actually, it's a popular trend among\nchildren, machine parts.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 299,
         "itypeId": 1,
-        "name": "エンブレム（青）",
+        "name": "Emblem (Blue)",
         "note": "",
         "occasion": 3,
         "price": 50,
@@ -3230,12 +3230,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【換金/イベント】\n実際は機械の部品、子供たちの間で流行っている、レア。",
+        "description": "【Exchange/Event】 Actually, it's a rare machine part that is\npopular among children.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 299,
         "itypeId": 1,
-        "name": "輝くエンブレム（赤）",
+        "name": "Shining Emblem (Red)",
         "note": "",
         "occasion": 3,
         "price": 100,
@@ -3256,12 +3256,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【換金/イベント】\n実際は機械の部品、子供たちの間で流行っている、レア。",
+        "description": "【Exchange/Event】 Actually, it's a rare machine part that is\npopular among children.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 299,
         "itypeId": 1,
-        "name": "輝くエンブレム（青）",
+        "name": "Shining Emblem (Blue)",
         "note": "",
         "occasion": 3,
         "price": 100,
@@ -3308,12 +3308,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "幼いケンイチがプレゼントした指輪。\nおねえちゃんたちをお嫁さんにすると宣言した。",
+        "description": "The young Kenichi gave a ring as a present. He declared that\nhe would marry his older sisters.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 145,
         "itypeId": 2,
-        "name": "おもちゃの指輪（赤）",
+        "name": "Toy Ring (Red)",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -3334,12 +3334,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "幼いケンイチがプレゼントした指輪。\nおねえちゃんたちをお嫁さんにすると宣言した。",
+        "description": "The young Kenichi gave a ring as a present. He declared that\nhe would marry his older sisters.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 145,
         "itypeId": 2,
-        "name": "おもちゃの指輪（青）",
+        "name": "Toy Ring (Blue)",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -3360,12 +3360,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "幼いケンイチがプレゼントした指輪（笑）\nおもちゃは結局、単なるおもちゃでしかなかった。",
+        "description": "The young Kenichi gave a ring as a present (laughs). In the\nend, the toy was nothing more than just a toy.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 145,
         "itypeId": 1,
-        "name": "おもちゃの指輪（赤）",
+        "name": "Toy Ring (Red)",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -3386,12 +3386,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "幼いケンイチがプレゼントした指輪（笑）\nおもちゃは結局、単なるおもちゃでしかなかった。",
+        "description": "The young Kenichi gave a ring as a present (laughs). In the\nend, the toy was nothing more than just a toy.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 145,
         "itypeId": 1,
-        "name": "おもちゃの指輪（青）",
+        "name": "Toy Ring (Blue)",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -3438,12 +3438,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【特殊アイテム】\n使い捨てだが、一部のロックを解除可能。",
+        "description": "[SpecialItem] Disposable, but can unlock certain locks.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 188,
         "itypeId": 1,
-        "name": "入室許可証",
+        "name": "Room Entry Permit",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -3464,12 +3464,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【特殊アイテム】\nこだわる人は、とてもこだわる品物です。",
+        "description": "【Special Item】 For those who are particular, it is a very\nparticular item.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 274,
         "itypeId": 2,
-        "name": "コーヒー豆",
+        "name": "Coffee beans",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -3490,12 +3490,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【特殊アイテム】\n悪魔のように黒く、地獄のように熱い。",
+        "description": "[SpecialItem] As black as a demon, as hot as hell.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 226,
         "itypeId": 2,
-        "name": "濃厚どろどろコーヒー",
+        "name": "Rich and thick coffee",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -3516,12 +3516,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【特殊アイテム】\nその名の通り、山盛りで濃厚で胃もたれ確実なラーメン。",
+        "description": "【Special Item】 As the name suggests, a mountain of rich and\nheavy ramen that is sure to cause indigestion.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 274,
         "itypeId": 2,
-        "name": "山盛り濃厚ラーメン",
+        "name": "Piled High Rich Ramen",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -3542,12 +3542,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【特殊アイテム】\nミュータント能力を増幅する特殊鉱、ギア強化に使用する。",
+        "description": "【Special Item】 A special ore that amplifies mutant\nabilities, used for gear enhancement.",
         "effects": [],
         "hitType": 2,
         "iconIndex": 306,
         "itypeId": 1,
-        "name": "ミスリルインゴット",
+        "name": "Mithril Ingot",
         "note": "",
         "occasion": 3,
         "price": 20000,
@@ -3594,12 +3594,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【換金アイテム】\n再利用可能な素材が混ざっているので引き取ってもらえる。",
+        "description": "【Cash Items】 You can receive them because they contain\nreusable materials.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 305,
         "itypeId": 1,
-        "name": "スクラップα",
+        "name": "Scrap Alpha",
         "note": "",
         "occasion": 3,
         "price": 200,
@@ -3620,12 +3620,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【素材】\n再利用可能な素材が混ざっているので引き取ってもらえる。",
+        "description": "【Material】 It can be taken away because it contains reusable\nmaterials.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 305,
         "itypeId": 1,
-        "name": "スクラップβ",
+        "name": "Scrap β",
         "note": "",
         "occasion": 3,
         "price": 800,
@@ -3646,12 +3646,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【素材】\n再利用可能な素材が混ざっているので引き取ってもらえる。",
+        "description": "【Material】 It can be taken away because it contains reusable\nmaterials.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 305,
         "itypeId": 1,
-        "name": "スクラップγ",
+        "name": "Scrap Gamma",
         "note": "",
         "occasion": 3,
         "price": 1600,
@@ -3698,12 +3698,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【特殊アイテム】\nバイオギアにも使用されている特殊鉱、純度がいまいち。",
+        "description": "【Special Item】 A special mineral used in Bio Gear, but its\npurity is not quite satisfactory.",
         "effects": [],
         "hitType": 2,
         "iconIndex": 305,
         "itypeId": 1,
-        "name": "下級ミスリル鉱石",
+        "name": "Low-grade Mithril Ore",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -3724,12 +3724,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【特殊アイテム】\nバイオギアにも使用されている特殊鉱、なかなかの純度。",
+        "description": "【Special Item】 A special mineral used in Bio Gear, with\nquite a high purity.",
         "effects": [],
         "hitType": 2,
         "iconIndex": 305,
         "itypeId": 1,
-        "name": "中級ミスリル鉱石",
+        "name": "Intermediate Mithril Ore",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -3750,12 +3750,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【特殊アイテム】\nバイオギアにも使用されている特殊鉱、極めて純度が高い。",
+        "description": "【Special Item】 A special mineral used in Bio Gear, known for\nits extremely high purity.",
         "effects": [],
         "hitType": 2,
         "iconIndex": 305,
         "itypeId": 1,
-        "name": "上級ミスリル鉱石",
+        "name": "Advanced Mithril Ore",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -3802,12 +3802,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【素材】\nバイオギアに固有スキルを追加するために使用する。",
+        "description": "【Material】 Used to add unique skills to Bio Gear.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 306,
         "itypeId": 1,
-        "name": "特殊チップα",
+        "name": "Special Chip Alpha",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -3828,12 +3828,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【素材】\nバイオギアに固有スキルを追加するために使用する。",
+        "description": "【Material】 Used to add unique skills to Bio Gear.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 306,
         "itypeId": 1,
-        "name": "特殊チップβ",
+        "name": "Special Chip β",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -3854,12 +3854,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【素材】\nバイオギアに固有スキルを追加するために使用する。",
+        "description": "【Material】 Used to add unique skills to Bio Gear.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 306,
         "itypeId": 1,
-        "name": "特殊チップγ",
+        "name": "Special Chip γ",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -3880,12 +3880,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【素材】\nバイオギアに固有スキルを追加するために使用する。",
+        "description": "【Material】 Used to add unique skills to Bio Gear.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 306,
         "itypeId": 1,
-        "name": "特殊チップΩ",
+        "name": "Special Chip Ω",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -3906,12 +3906,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【換金アイテム】\nピンクスネーク団の軍資金なので遠慮なく売り飛ばそう。",
+        "description": "【Cash Items】 Since it's the Pink Snake Gang's military\nfunds, feel free to sell them off without hesitation.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 313,
         "itypeId": 1,
-        "name": "小金塊",
+        "name": "Small Gold Nugget",
         "note": "",
         "occasion": 3,
         "price": 5000,
@@ -3932,12 +3932,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【換金アイテム】\nピンクスネーク団の軍資金なので遠慮なく売り飛ばそう。",
+        "description": "【Cash Items】 Since it's the Pink Snake Gang's military\nfunds, feel free to sell them off.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 313,
         "itypeId": 1,
-        "name": "金塊",
+        "name": "Gold Nugget",
         "note": "",
         "occasion": 3,
         "price": 10000,
@@ -3958,12 +3958,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【換金アイテム】\nピンクスネーク団の軍資金なので遠慮なく売り飛ばそう。",
+        "description": "【Cash Items】 Since it's the Pink Snake Gang's military\nfunds, feel free to sell them off.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 313,
         "itypeId": 1,
-        "name": "大金塊",
+        "name": "Large Gold Nugget",
         "note": "",
         "occasion": 3,
         "price": 20000,
@@ -4010,12 +4010,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【イベント】\n誰かが落とした大事な書類、落とし主に届けてあげよう。",
+        "description": "[Event] Let's deliver the important documents someone\ndropped back to the owner.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 193,
         "itypeId": 2,
-        "name": "大事な書類",
+        "name": "Important Documents",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -4036,12 +4036,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【イベント】\n迷子のにゃんこ、飼い主に届けてあげよう。",
+        "description": "[Event] Let's deliver the lost kitten to its owner.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 87,
         "itypeId": 2,
-        "name": "迷子のにゃんこ",
+        "name": "Lost Kitty",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -4062,12 +4062,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【イベント】\n迷子のわんこ、飼い主に届けてあげよう。",
+        "description": "[Event] Let's deliver the lost dog to its owner.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 87,
         "itypeId": 2,
-        "name": "迷子のわんこ",
+        "name": "Lost Puppy",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -4192,12 +4192,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【重要】\nパッと見てでは内容を理解できないが重要らしい。",
+        "description": "[Important] At first glance, it may not be understandable,\nbut it seems to be important.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 193,
         "itypeId": 2,
-        "name": "重要書類",
+        "name": "Important Documents",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -4218,12 +4218,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【重要】\n社内で使えるカードキー、二つの星が刻まれている。",
+        "description": "[Important] A card key that can be used within the company,\nwith two stars engraved on it.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 244,
         "itypeId": 2,
-        "name": "カードキー（☆☆）",
+        "name": "Card Key (☆☆)",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -4244,12 +4244,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【重要】\n社内で使えるカードキー、三つの星が刻まれている。",
+        "description": "[Important] A card key that can be used within the company,\nwith three stars engraved on it.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 244,
         "itypeId": 2,
-        "name": "カードキー（☆☆☆）",
+        "name": "Card Key (☆☆☆)",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -4270,12 +4270,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【重要】\n社内で使えるカードキー、四つの星が刻まれている。",
+        "description": "[Important] A card key that can be used within the company,\nwith four stars engraved on it.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 244,
         "itypeId": 2,
-        "name": "カードキー（☆☆☆☆）",
+        "name": "Card Key (☆☆☆☆)",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -4296,12 +4296,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【重要】\n社内で使えるカードキー、赤い星が刻まれている。",
+        "description": "[Important] A card key that can be used within the company,\nwith a red star engraved on it.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 244,
         "itypeId": 2,
-        "name": "レッドカードキー",
+        "name": "Red Card Key",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -4322,12 +4322,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【重要】\n社内で使えるカードキー、青い星が刻まれている。",
+        "description": "[Important] A card key that can be used within the company,\nwith a blue star engraved on it.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 244,
         "itypeId": 2,
-        "name": "ブルーカードキー",
+        "name": "Blue Card Key",
         "note": "",
         "occasion": 3,
         "price": 0,
