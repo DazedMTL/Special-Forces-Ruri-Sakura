@@ -14598,7 +14598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: ......"
+                                "\\C[23]Rurika\\C[0]: ......"
                             ]
                         },
                         {
@@ -15139,7 +15139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: H-Hey, Kenichi. Sorry, it seems this brat\nhere got in the way."
+                                "\\C[18]Sakura\\C[0]: H-Hey, Kenichi. Sorry, it seems this brat\nhere got in the way."
                             ]
                         },
                         {
@@ -15278,7 +15278,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: Kenichi-san, what was that communication\nabout?"
+                                "\\C[23]Rurika\\C[0]: Kenichi-san, what was that communication\nabout?"
                             ]
                         },
                         {
@@ -15354,7 +15354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: ...I see, it was Kimohiko's prank."
+                                "\\C[23]Rurika\\C[0]: ...I see, it was Kimohiko's prank."
                             ]
                         },
                         {
@@ -15439,7 +15439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: .................."
+                                "\\C[23]Rurika\\C[0]: .................."
                             ]
                         },
                         {
@@ -15515,7 +15515,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: Ah, no, it's nothing."
+                                "\\C[23]Rurika\\C[0]: Ah, no, it's nothing."
                             ]
                         },
                         {
@@ -15553,7 +15553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: Kimohiko-kun will probably get scolded\nlater. 'Don't play with the Future Special Police\nequipment,' they'll say."
+                                "\\C[23]Rurika\\C[0]: Kimohiko-kun will probably get scolded\nlater. 'Don't play with the Future Special Police\nequipment,' they'll say."
                             ]
                         },
                         {
@@ -15629,7 +15629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: Hehehe, that's right."
+                                "\\C[23]Rurika\\C[0]: Hehehe, that's right."
                             ]
                         },
                         {
@@ -15667,7 +15667,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: Well then, let's go back to patrolling as\nwell."
+                                "\\C[23]Rurika\\C[0]: Well then, let's go back to patrolling as\nwell."
                             ]
                         },
                         {
@@ -15888,7 +15888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Phew, w-well, sorry. This brat is\nwandering around all over the place."
+                                "\\C[18]Sakura\\C[0]: Phew, w-well, sorry. This brat is\nwandering around all over the place."
                             ]
                         },
                         {
@@ -16125,7 +16125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: ...This damn brat."
+                                "\\C[18]Sakura\\C[0]: ...This damn brat."
                             ]
                         },
                         {
@@ -16172,7 +16172,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: ...I see."
+                                "\\C[23]Rurika\\C[0]: ...I see."
                             ]
                         },
                         {
@@ -16447,7 +16447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Got it, I'll collect it later."
+                                "\\C[18]Sakura\\C[0]: Got it, I'll collect it later."
                             ]
                         },
                         {
@@ -16485,7 +16485,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: Yes, let's make sure to collect it without\nforgetting."
+                                "\\C[23]Rurika\\C[0]: Yes, let's make sure to collect it without\nforgetting."
                             ]
                         },
                         {
@@ -17957,7 +17957,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Hmm, I've been walking around this area in\ncircles."
+                                "\\C[18]Sakura\\C[0]: Hmm, I've been walking around this area in\ncircles."
                             ]
                         },
                         {
@@ -17995,7 +17995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Well, if we can easily find the suspicious\nperson, there shouldn't be any trouble, right?"
+                                "\\C[18]Sakura\\C[0]: Well, if we can easily find the suspicious\nperson, there shouldn't be any trouble, right?"
                             ]
                         },
                         {
@@ -18109,7 +18109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: I might be a little late."
+                                "\\C[18]Sakura\\C[0]: I might be a little late."
                             ]
                         },
                         {
@@ -18403,7 +18403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Communication, huh..."
+                                "\\C[18]Sakura\\C[0]: Communication, huh..."
                             ]
                         },
                         {
@@ -18716,7 +18716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: ...I don't think that's the case, though."
+                                "\\C[18]Sakura\\C[0]: ...I don't think that's the case, though."
                             ]
                         },
                         {
@@ -18754,7 +18754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Well, let's wait a little longer, shall\nwe?"
+                                "\\C[18]Sakura\\C[0]: Well, let's wait a little longer, shall\nwe?"
                             ]
                         },
                         {
@@ -19202,7 +19202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: Phew... I'm sorry, I'm late."
+                                "\\C[23]Rurika\\C[0]: Phew... I'm sorry, I'm late."
                             ]
                         },
                         {
@@ -19325,7 +19325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: ...I-I see, is that so? I'm sorry about\nthat."
+                                "\\C[23]Rurika\\C[0]: ...I-I see, is that so? I'm sorry about\nthat."
                             ]
                         },
                         {
@@ -19819,7 +19819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: By the way, Rurika..."
+                                "\\C[18]Sakura\\C[0]: By the way, Rurika..."
                             ]
                         },
                         {
@@ -19919,7 +19919,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Ah, sorry, I made a little mistake."
+                                "\\C[18]Sakura\\C[0]: Ah, sorry, I made a little mistake."
                             ]
                         },
                         {
@@ -19957,7 +19957,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: By the way, how was your patrol over\nthere?"
+                                "\\C[18]Sakura\\C[0]: By the way, how was your patrol over\nthere?"
                             ]
                         },
                         {
@@ -20004,7 +20004,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: ...I didn't see any suspicious individuals\nin particular."
+                                "\\C[23]Rurika\\C[0]: ...I didn't see any suspicious individuals\nin particular."
                             ]
                         },
                         {
@@ -20042,7 +20042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: It was just a normal patrol, nothing out\nof the ordinary."
+                                "\\C[23]Rurika\\C[0]: It was just a normal patrol, nothing out\nof the ordinary."
                             ]
                         },
                         {
@@ -20194,7 +20194,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: ...Y-Yes, that's right."
+                                "\\C[23]Rurika\\C[0]: ...Y-Yes, that's right."
                             ]
                         },
                         {
@@ -20232,7 +20232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: There might be something useful inside."
+                                "\\C[23]Rurika\\C[0]: There might be something useful inside."
                             ]
                         },
                         {
@@ -21223,7 +21223,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Ah, you're the Future Special Police Onee-\nsan."
+                                "\\C[18]Sakura\\C[0]: Ah, you're the Future Special Police Onee-\nsan."
                             ]
                         },
                         {
@@ -21247,7 +21247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: What's wrong? Did something happen?"
+                                "\\C[18]Sakura\\C[0]: What's wrong? Did something happen?"
                             ]
                         },
                         {
@@ -21343,7 +21343,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Haaan, I see."
+                                "\\C[18]Sakura\\C[0]: Haaan, I see."
                             ]
                         },
                         {
@@ -21920,7 +21920,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Yo, hello."
+                                "\\C[18]Sakura\\C[0]: Yo, hello."
                             ]
                         },
                         {
@@ -21944,7 +21944,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: What's wrong? Did something happen again?"
+                                "\\C[18]Sakura\\C[0]: What's wrong? Did something happen again?"
                             ]
                         },
                         {
@@ -22576,7 +22576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Yo, hello."
+                                "\\C[18]Sakura\\C[0]: Yo, hello."
                             ]
                         },
                         {
@@ -22600,7 +22600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: What's wrong? Did something happen again?"
+                                "\\C[18]Sakura\\C[0]: What's wrong? Did something happen again?"
                             ]
                         },
                         {

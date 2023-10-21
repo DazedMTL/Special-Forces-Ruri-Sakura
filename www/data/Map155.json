@@ -2861,7 +2861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: I don't have an appointment, but as a\nfuture special police officer, I will investigate\nthis company."
+                                "\\C[23]Rurika\\C[0]: I don't have an appointment, but as a\nfuture special police officer, I will investigate\nthis company."
                             ]
                         },
                         {
@@ -2975,7 +2975,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: No problem, I will investigate here on my\nown."
+                                "\\C[23]Rurika\\C[0]: No problem, I will investigate here on my\nown."
                             ]
                         },
                         {
@@ -3091,7 +3091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: I have destroyed the security of that\nelevator."
+                                "\\C[23]Rurika\\C[0]: I have destroyed the security of that\nelevator."
                             ]
                         },
                         {
@@ -3115,7 +3115,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: Well then, shall we go?"
+                                "\\C[23]Rurika\\C[0]: Well then, shall we go?"
                             ]
                         },
                         {

@@ -2249,7 +2249,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Sakura: Hmph, prepare yourself, you giant\nmonster!!"
+                                "\\C[18]Sakura\\C[0]: Hmph, prepare yourself, you giant\nmonster!!"
                             ]
                         },
                         {
@@ -2273,7 +2273,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Rurika: Kenichi-san, please don't push yourself.\nLet us support you!"
+                                "\\C[23]Rurika\\C[0]: Kenichi-san, please don't push yourself.\nLet us support you!"
                             ]
                         },
                         {
@@ -2757,7 +2757,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Sakura: Alright, well done Kenichi."
+                                "\\C[18]Sakura\\C[0]: Alright, well done Kenichi."
                             ]
                         },
                         {
@@ -2781,7 +2781,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Rurika: Let's continue the exploration like this."
+                                "\\C[23]Rurika\\C[0]: Let's continue the exploration like this."
                             ]
                         },
                         {
@@ -2805,7 +2805,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Rurika: Of course, let's not forget to retreat\nbefore it becomes dangerous."
+                                "\\C[23]Rurika\\C[0]: Of course, let's not forget to retreat\nbefore it becomes dangerous."
                             ]
                         },
                         {
@@ -3246,7 +3246,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Sakura: Hmph, prepare yourself, you giant\nmonster!!"
+                                "\\C[18]Sakura\\C[0]: Hmph, prepare yourself, you giant\nmonster!!"
                             ]
                         },
                         {
@@ -3270,7 +3270,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Rurika: Kenichi-san, please don't push yourself.\nLet us support you!"
+                                "\\C[23]Rurika\\C[0]: Kenichi-san, please don't push yourself.\nLet us support you!"
                             ]
                         },
                         {
@@ -3754,7 +3754,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Sakura: Alright, well done Kenichi."
+                                "\\C[18]Sakura\\C[0]: Alright, well done Kenichi."
                             ]
                         },
                         {
@@ -3778,7 +3778,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Rurika: Let's continue the exploration like this."
+                                "\\C[23]Rurika\\C[0]: Let's continue the exploration like this."
                             ]
                         },
                         {
@@ -3802,7 +3802,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Rurika: Of course, let's not forget to retreat\nbefore it becomes dangerous."
+                                "\\C[23]Rurika\\C[0]: Of course, let's not forget to retreat\nbefore it becomes dangerous."
                             ]
                         },
                         {
@@ -4447,7 +4447,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Sakura: Hmph, prepare yourself, you giant\nmonster!!"
+                                "\\C[18]Sakura\\C[0]: Hmph, prepare yourself, you giant\nmonster!!"
                             ]
                         },
                         {
@@ -4471,7 +4471,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Rurika: Kenichi-san, please don't push yourself.\nLet us support you!"
+                                "\\C[23]Rurika\\C[0]: Kenichi-san, please don't push yourself.\nLet us support you!"
                             ]
                         },
                         {
@@ -4955,7 +4955,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Sakura: Alright, well done Kenichi."
+                                "\\C[18]Sakura\\C[0]: Alright, well done Kenichi."
                             ]
                         },
                         {
@@ -4979,7 +4979,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Rurika: Let's continue the exploration like this."
+                                "\\C[23]Rurika\\C[0]: Let's continue the exploration like this."
                             ]
                         },
                         {
@@ -5003,7 +5003,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Rurika: Of course, let's not forget to retreat\nbefore it becomes dangerous."
+                                "\\C[23]Rurika\\C[0]: Of course, let's not forget to retreat\nbefore it becomes dangerous."
                             ]
                         },
                         {

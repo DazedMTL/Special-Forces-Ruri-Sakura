@@ -3051,7 +3051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Ah, please, I'm begging you."
+                                "\\C[18]Sakura\\C[0]: Ah, please, I'm begging you."
                             ]
                         },
                         {
@@ -3075,7 +3075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: Hehe, nice to meet you. Please take care\nof me."
+                                "\\C[23]Rurika\\C[0]: Hehe, nice to meet you. Please take care\nof me."
                             ]
                         },
                         {
@@ -3319,7 +3319,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: I see, well, it's just like usual then."
+                                "\\C[18]Sakura\\C[0]: I see, well, it's just like usual then."
                             ]
                         },
                         {
@@ -3343,7 +3343,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: The place we're infiltrating and the\nmethod are just a little different, aren't they?"
+                                "\\C[23]Rurika\\C[0]: The place we're infiltrating and the\nmethod are just a little different, aren't they?"
                             ]
                         },
                         {
@@ -3446,7 +3446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Of course it's a no-no, my dear master\n\\I[15]. Just wait, because we will offer up the\ncity to you \\I[15]."
+                                "\\C[18]Sakura\\C[0]: Of course it's a no-no, my dear master\n\\I[15]. Just wait, because we will offer up the\ncity to you \\I[15]."
                             ]
                         },
                         {
@@ -3477,7 +3477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: I have a collection of onaholes for your\nentertainment, Master \\I[15]. Please have fun with\nthem over there... \\I[15]"
+                                "\\C[23]Rurika\\C[0]: I have a collection of onaholes for your\nentertainment, Master \\I[15]. Please have fun with\nthem over there... \\I[15]"
                             ]
                         },
                         {
@@ -4143,7 +4143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: ...Oh, really?"
+                                "\\C[18]Sakura\\C[0]: ...Oh, really?"
                             ]
                         },
                         {
@@ -4167,7 +4167,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: ...hehe\\I[15]"
+                                "\\C[23]Rurika\\C[0]: ...hehe\\I[15]"
                             ]
                         },
                         {
@@ -4240,7 +4240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: You're amazing, as expected of my master\n\\I[15]."
+                                "\\C[18]Sakura\\C[0]: You're amazing, as expected of my master\n\\I[15]."
                             ]
                         },
                         {
@@ -4264,7 +4264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: Yes, it was exciting \\I[15]."
+                                "\\C[23]Rurika\\C[0]: Yes, it was exciting \\I[15]."
                             ]
                         },
                         {

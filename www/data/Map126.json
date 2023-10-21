@@ -13884,7 +13884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Especially around here, it's the center of\nthe city."
+                                "\\C[18]Sakura\\C[0]: Especially around here, it's the center of\nthe city."
                             ]
                         },
                         {
@@ -13922,7 +13922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: Because there are stations here, people\nnaturally gather, and where people gather, shops\nalso gather."
+                                "\\C[23]Rurika\\C[0]: Because there are stations here, people\nnaturally gather, and where people gather, shops\nalso gather."
                             ]
                         },
                         {
@@ -13960,7 +13960,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: Of course, there are also guys like the\nPink Snake Gang."
+                                "\\C[23]Rurika\\C[0]: Of course, there are also guys like the\nPink Snake Gang."
                             ]
                         },
                         {
@@ -13998,7 +13998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Alright, Kenichi. Please guide us to the\nPink Snake Gang's important base right away."
+                                "\\C[18]Sakura\\C[0]: Alright, Kenichi. Please guide us to the\nPink Snake Gang's important base right away."
                             ]
                         },
                         {
@@ -14204,7 +14204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Ah, I see. It's right before an important\njob, so I'll let it slide. Let go of my hand."
+                                "\\C[18]Sakura\\C[0]: Ah, I see. It's right before an important\njob, so I'll let it slide. Let go of my hand."
                             ]
                         },
                         {
@@ -14432,7 +14432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Alright, it's the 'General District'."
+                                "\\C[18]Sakura\\C[0]: Alright, it's the 'General District'."
                             ]
                         },
                         {
@@ -14470,7 +14470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: If we head west from here, it's the\n'General District'."
+                                "\\C[18]Sakura\\C[0]: If we head west from here, it's the\n'General District'."
                             ]
                         },
                         {
@@ -14494,7 +14494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: If you proceed along the eastern road, it\nleads to the 'Commercial District'. But you can\nalso reach the 'General District' from there."
+                                "\\C[23]Rurika\\C[0]: If you proceed along the eastern road, it\nleads to the 'Commercial District'. But you can\nalso reach the 'General District' from there."
                             ]
                         },
                         {
@@ -16873,7 +16873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: They say that once you encounter them, you\n'won't be able to go back.' I see, it's definitely\nan intriguing rumor."
+                                "\\C[18]Sakura\\C[0]: They say that once you encounter them, you\n'won't be able to go back.' I see, it's definitely\nan intriguing rumor."
                             ]
                         },
                         {
@@ -16911,7 +16911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: Yes, depending on the meaning of 'won't be\nable to go back.' There is a possibility of being\nabducted by the Pink Snake Gang, which is the\nworst-case scenario."
+                                "\\C[23]Rurika\\C[0]: Yes, depending on the meaning of 'won't be\nable to go back.' There is a possibility of being\nabducted by the Pink Snake Gang, which is the\nworst-case scenario."
                             ]
                         },
                         {
@@ -16942,7 +16942,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: They surround their target in a group\ninside the train, then proceed to incapacitate\nthem with drugs or other means before kidnapping\nthem."
+                                "\\C[23]Rurika\\C[0]: They surround their target in a group\ninside the train, then proceed to incapacitate\nthem with drugs or other means before kidnapping\nthem."
                             ]
                         },
                         {
@@ -16980,7 +16980,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: It seems worth investigating."
+                                "\\C[18]Sakura\\C[0]: It seems worth investigating."
                             ]
                         },
                         {
@@ -17042,7 +17042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: This time, I'll take on the role of\ninfiltration. Rurika, I'll leave the decoy role to\nyou and Kenichi."
+                                "\\C[18]Sakura\\C[0]: This time, I'll take on the role of\ninfiltration. Rurika, I'll leave the decoy role to\nyou and Kenichi."
                             ]
                         },
                         {
@@ -17080,7 +17080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: Understood, then... let's start in one\nhour."
+                                "\\C[23]Rurika\\C[0]: Understood, then... let's start in one\nhour."
                             ]
                         },
                         {
@@ -17353,7 +17353,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Why are you taking him with us? He should\nbe on standby, you brat."
+                                "\\C[18]Sakura\\C[0]: Why are you taking him with us? He should\nbe on standby, you brat."
                             ]
                         },
                         {
@@ -17505,7 +17505,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Are you thinking about something?"
+                                "\\C[18]Sakura\\C[0]: Are you thinking about something?"
                             ]
                         },
                         {
@@ -17605,7 +17605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Jeez... but well, this brat surprisingly\nhas sharp eyes."
+                                "\\C[18]Sakura\\C[0]: Jeez... but well, this brat surprisingly\nhas sharp eyes."
                             ]
                         },
                         {
@@ -17907,7 +17907,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Sakura: Alright, Kimohiko, come along. But don't\nget carried away and start acting like a pervert."
+                                "\\C[18]Sakura\\C[0]: Alright, Kimohiko, come along. But don't\nget carried away and start acting like a pervert."
                             ]
                         },
                         {
@@ -17945,7 +17945,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Sakura: If you do that, I'll punch you."
+                                "\\C[18]Sakura\\C[0]: If you do that, I'll punch you."
                             ]
                         },
                         {
@@ -18122,7 +18122,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Sakura: Well, that was a bit too sudden."
+                                "\\C[18]Sakura\\C[0]: Well, that was a bit too sudden."
                             ]
                         },
                         {
@@ -18160,7 +18160,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Sakura: Shouldn't we prepare a little more before\ndoing it?"
+                                "\\C[18]Sakura\\C[0]: Shouldn't we prepare a little more before\ndoing it?"
                             ]
                         },
                         {
@@ -18236,7 +18236,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Rurika: Groping is a crime, Kimohiko-kun. Even if\nyou meant it as a light joke, you shouldn't say\nit."
+                                "\\C[23]Rurika\\C[0]: Groping is a crime, Kimohiko-kun. Even if\nyou meant it as a light joke, you shouldn't say\nit."
                             ]
                         },
                         {
@@ -18566,7 +18566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: So, it seems that the notorious groping\ngroup has started moving again."
+                                "\\C[18]Sakura\\C[0]: So, it seems that the notorious groping\ngroup has started moving again."
                             ]
                         },
                         {
@@ -18604,7 +18604,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Geez, they never learn. Even though they\nshould have learned their lesson after I caught\nthem all red-handed and gave them a taste of their\nown medicine."
+                                "\\C[18]Sakura\\C[0]: Geez, they never learn. Even though they\nshould have learned their lesson after I caught\nthem all red-handed and gave them a taste of their\nown medicine."
                             ]
                         },
                         {
@@ -18642,7 +18642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: It's probably unrelated to the Pink Snake\nGang..."
+                                "\\C[18]Sakura\\C[0]: It's probably unrelated to the Pink Snake\nGang..."
                             ]
                         },
                         {
@@ -18778,7 +18778,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Sakura: I can't leave the enemies of women alone.\nAlright, let's do another undercover investigation\nto eradicate the perverts."
+                                "\\C[18]Sakura\\C[0]: I can't leave the enemies of women alone.\nAlright, let's do another undercover investigation\nto eradicate the perverts."
                             ]
                         },
                         {
@@ -18946,7 +18946,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Sakura: Well, yeah. Damn it, I guess I did help\nout last time... so there's that."
+                                "\\C[18]Sakura\\C[0]: Well, yeah. Damn it, I guess I did help\nout last time... so there's that."
                             ]
                         },
                         {
@@ -19498,7 +19498,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Sakura: ...I'll observe a little longer."
+                                "\\C[18]Sakura\\C[0]: ...I'll observe a little longer."
                             ]
                         },
                         {
@@ -19522,7 +19522,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Sakura: For now, I'll contact the police through\nthe Future Special Police."
+                                "\\C[18]Sakura\\C[0]: For now, I'll contact the police through\nthe Future Special Police."
                             ]
                         },
                         {
@@ -19795,7 +19795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: You're welcome, or so I'd like to say..."
+                                "\\C[18]Sakura\\C[0]: You're welcome, or so I'd like to say..."
                             ]
                         },
                         {
@@ -19833,7 +19833,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: It's only natural as a future special\npolice officer, so don't worry about it."
+                                "\\C[18]Sakura\\C[0]: It's only natural as a future special\npolice officer, so don't worry about it."
                             ]
                         },
                         {
@@ -19871,7 +19871,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: K-Kenichi..."
+                                "\\C[18]Sakura\\C[0]: K-Kenichi..."
                             ]
                         },
                         {
@@ -19985,7 +19985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Oh, that's the spirit!"
+                                "\\C[18]Sakura\\C[0]: Oh, that's the spirit!"
                             ]
                         },
                         {
@@ -20023,7 +20023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Alright, let's go for the third undercover\ninvestigation to eradicate gropers!"
+                                "\\C[18]Sakura\\C[0]: Alright, let's go for the third undercover\ninvestigation to eradicate gropers!"
                             ]
                         },
                         {
@@ -21823,7 +21823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: What do you think, Kenichi-san?"
+                                "\\C[23]Rurika\\C[0]: What do you think, Kenichi-san?"
                             ]
                         },
                         {
@@ -21899,7 +21899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: No, that's not what I meant."
+                                "\\C[18]Sakura\\C[0]: No, that's not what I meant."
                             ]
                         },
                         {
@@ -21937,7 +21937,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Geez, get it together, Kenichi. Save your\nimagination for later when thinking about Onee-\nchan's swimsuit figure."
+                                "\\C[18]Sakura\\C[0]: Geez, get it together, Kenichi. Save your\nimagination for later when thinking about Onee-\nchan's swimsuit figure."
                             ]
                         },
                         {
@@ -21975,7 +21975,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: That's right, Kenichi-san. Please don't\nforget that I'm currently on a mission as a Future\nSpecial Police."
+                                "\\C[23]Rurika\\C[0]: That's right, Kenichi-san. Please don't\nforget that I'm currently on a mission as a Future\nSpecial Police."
                             ]
                         },
                         {
@@ -22092,7 +22092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Let's put aside the swimsuits for now and\nfocus on whether the beach over there is\n'dangerous' or not, I'm curious."
+                                "\\C[18]Sakura\\C[0]: Let's put aside the swimsuits for now and\nfocus on whether the beach over there is\n'dangerous' or not, I'm curious."
                             ]
                         },
                         {
@@ -22123,45 +22123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: Yes, let's put aside the swimsuits for\nnow. It's a possible story that there could be\nillegal transactions happening at the beach."
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Rurika: If we head a little further back and hide\nbehind the rocks, we probably won't be found."
+                                "\\C[23]Rurika\\C[0]: Yes, let's put aside the swimsuits for\nnow. It's a possible story that there could be\nillegal transactions happening at the beach."
                             ]
                         },
                         {
@@ -22199,7 +22161,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: I don't think there's any large-scale\ntransactions happening, but it seems worth\ninvestigating."
+                                "\\C[23]Rurika\\C[0]: If we head a little further back and hide\nbehind the rocks, we probably won't be found."
                             ]
                         },
                         {
@@ -22237,7 +22199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: So that means..."
+                                "\\C[23]Rurika\\C[0]: I don't think there's any large-scale\ntransactions happening, but it seems worth\ninvestigating."
                             ]
                         },
                         {
@@ -22275,7 +22237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: Since I brought it up, I will take on the\nrole of undercover agent."
+                                "\\C[18]Sakura\\C[0]: So that means..."
                             ]
                         },
                         {
@@ -22313,7 +22275,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: Kenichi-san and Sakura, I'm counting on\nyou to be decoys."
+                                "\\C[23]Rurika\\C[0]: Since I brought it up, I will take on the\nrole of undercover agent."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\C[23]Rurika\\C[0]: Kenichi-san and Sakura, I'm counting on\nyou to be decoys."
                             ]
                         },
                         {
@@ -22662,7 +22662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: ...Kimohiko-kun, are you planning to\nparticipate too?"
+                                "\\C[23]Rurika\\C[0]: ...Kimohiko-kun, are you planning to\nparticipate too?"
                             ]
                         },
                         {
@@ -22738,7 +22738,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: No, it's strictly an undercover\ninvestigation."
+                                "\\C[23]Rurika\\C[0]: No, it's strictly an undercover\ninvestigation."
                             ]
                         },
                         {
@@ -22869,7 +22869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: Setting aside the swimsuit date, Kimohiko-\nkun's company will be a good camouflage, won't it?"
+                                "\\C[23]Rurika\\C[0]: Setting aside the swimsuit date, Kimohiko-\nkun's company will be a good camouflage, won't it?"
                             ]
                         },
                         {
@@ -22938,7 +22938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: Even if it's a mistake, it doesn't look\nlike Future Special Police. If we consider\nefficiency alone, we can judge it as an effective\nmeans."
+                                "\\C[23]Rurika\\C[0]: Even if it's a mistake, it doesn't look\nlike Future Special Police. If we consider\nefficiency alone, we can judge it as an effective\nmeans."
                             ]
                         },
                         {
@@ -23039,7 +23039,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Rurika: Kimohiko-kun, can I ask you a favor?"
+                                "\\C[23]Rurika\\C[0]: Kimohiko-kun, can I ask you a favor?"
                             ]
                         },
                         {
@@ -23077,7 +23077,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Rurika: However, this is strictly an undercover\ninvestigation. You must not do anything without\nfollowing my instructions."
+                                "\\C[23]Rurika\\C[0]: However, this is strictly an undercover\ninvestigation. You must not do anything without\nfollowing my instructions."
                             ]
                         },
                         {
@@ -23115,7 +23115,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Rurika: If you behave well, I'll give you a reward\nlater."
+                                "\\C[23]Rurika\\C[0]: If you behave well, I'll give you a reward\nlater."
                             ]
                         },
                         {
@@ -23191,7 +23191,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Sakura: Geez, don't cause trouble for Rurika,\nokay?"
+                                "\\C[18]Sakura\\C[0]: Geez, don't cause trouble for Rurika,\nokay?"
                             ]
                         },
                         {
@@ -23321,7 +23321,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Sakura: Alright, once we wait a little bit, shall\nwe go too...?"
+                                "\\C[18]Sakura\\C[0]: Alright, once we wait a little bit, shall\nwe go too...?"
                             ]
                         },
                         {
@@ -23359,7 +23359,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Sakura: Hmm, what's wrong, Kenichi?"
+                                "\\C[18]Sakura\\C[0]: Hmm, what's wrong, Kenichi?"
                             ]
                         },
                         {
@@ -23549,7 +23549,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Sakura: Get it together, we're the Future Special\nPolice."
+                                "\\C[18]Sakura\\C[0]: Get it together, we're the Future Special\nPolice."
                             ]
                         },
                         {
@@ -23587,7 +23587,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Sakura: If it's a swimsuit, I'll show you later,\nOnee-chan."
+                                "\\C[18]Sakura\\C[0]: If it's a swimsuit, I'll show you later,\nOnee-chan."
                             ]
                         },
                         {
@@ -23966,7 +23966,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Rurika: But, should we even conduct the\ninvestigation in the first place?"
+                                "\\C[23]Rurika\\C[0]: But, should we even conduct the\ninvestigation in the first place?"
                             ]
                         },
                         {
@@ -23990,7 +23990,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Rurika: It's just an uncertain rumor, so it\nwouldn't hurt to observe the situation a little\nlonger before making a judgment."
+                                "\\C[23]Rurika\\C[0]: It's just an uncertain rumor, so it\nwouldn't hurt to observe the situation a little\nlonger before making a judgment."
                             ]
                         },
                         {
@@ -24059,7 +24059,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Sakura: Geez, is that all you think about? Don't\nget too carried away, you brat."
+                                "\\C[18]Sakura\\C[0]: Geez, is that all you think about? Don't\nget too carried away, you brat."
                             ]
                         },
                         {
@@ -24495,7 +24495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: ............"
+                                "\\C[23]Rurika\\C[0]: ............"
                             ]
                         },
                         {
@@ -24761,7 +24761,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: This beach has a low priority as an\ninvestigation target..."
+                                "\\C[23]Rurika\\C[0]: This beach has a low priority as an\ninvestigation target..."
                             ]
                         },
                         {
@@ -24897,7 +24897,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Rurika: Yes, that's true... Regular investigations\nand patrols are necessary."
+                                "\\C[23]Rurika\\C[0]: Yes, that's true... Regular investigations\nand patrols are necessary."
                             ]
                         },
                         {
@@ -24935,7 +24935,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Rurika: If I'm with Kimohiko-kun, even if we make\na mistake, it won't look like an undercover\ninvestigation for the Future Special Police."
+                                "\\C[23]Rurika\\C[0]: If I'm with Kimohiko-kun, even if we make\na mistake, it won't look like an undercover\ninvestigation for the Future Special Police."
                             ]
                         },
                         {
@@ -25011,7 +25011,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Rurika: That's not true."
+                                "\\C[23]Rurika\\C[0]: That's not true."
                             ]
                         },
                         {
@@ -25125,7 +25125,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Rurika: That's not true, it's an undercover\ninvestigation."
+                                "\\C[23]Rurika\\C[0]: That's not true, it's an undercover\ninvestigation."
                             ]
                         },
                         {
@@ -25201,7 +25201,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Rurika: So, please stop pulling me."
+                                "\\C[23]Rurika\\C[0]: So, please stop pulling me."
                             ]
                         },
                         {
@@ -25513,7 +25513,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Sakura: Choosing Kimohiko as my partner for the\nundercover investigation is rational, you know."
+                                "\\C[18]Sakura\\C[0]: Choosing Kimohiko as my partner for the\nundercover investigation is rational, you know."
                             ]
                         },
                         {
@@ -25551,7 +25551,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Sakura: For example..."
+                                "\\C[18]Sakura\\C[0]: For example..."
                             ]
                         },
                         {
@@ -25589,7 +25589,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Sakura: What if Kenichi ends up investigating with\nRurika in swimsuits?"
+                                "\\C[18]Sakura\\C[0]: What if Kenichi ends up investigating with\nRurika in swimsuits?"
                             ]
                         },
                         {
@@ -25779,7 +25779,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Sakura: Well, that's how it is."
+                                "\\C[18]Sakura\\C[0]: Well, that's how it is."
                             ]
                         },
                         {
@@ -25817,7 +25817,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Sakura: When it comes to suitability for\nundercover investigations, Kenichi tends to be a\nbit too serious."
+                                "\\C[18]Sakura\\C[0]: When it comes to suitability for\nundercover investigations, Kenichi tends to be a\nbit too serious."
                             ]
                         },
                         {
@@ -25855,7 +25855,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Sakura: So, don't worry about that brat being\nchosen."
+                                "\\C[18]Sakura\\C[0]: So, don't worry about that brat being\nchosen."
                             ]
                         },
                         {
@@ -26261,7 +26261,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Rurika: No, it is indeed a low-priority\ninvestigation target."
+                                "\\C[23]Rurika\\C[0]: No, it is indeed a low-priority\ninvestigation target."
                             ]
                         },
                         {
@@ -26299,7 +26299,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Rurika: Let's not do it this time."
+                                "\\C[23]Rurika\\C[0]: Let's not do it this time."
                             ]
                         },
                         {
@@ -26791,7 +26791,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: In the end, there wasn't anything special\nat the beach, huh?"
+                                "\\C[23]Rurika\\C[0]: In the end, there wasn't anything special\nat the beach, huh?"
                             ]
                         },
                         {
@@ -26829,7 +26829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: Do you think it was a wasted effort,\nKenichi?"
+                                "\\C[23]Rurika\\C[0]: Do you think it was a wasted effort,\nKenichi?"
                             ]
                         },
                         {
@@ -26981,7 +26981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: That's right, Kenichi-san. You have a\nsolid mindset as a future special police officer."
+                                "\\C[23]Rurika\\C[0]: That's right, Kenichi-san. You have a\nsolid mindset as a future special police officer."
                             ]
                         },
                         {
@@ -27043,7 +27043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: Well then, since we're here, shall we\nconduct a long-awaited undercover investigation at\nthe beach? \\I[15]"
+                                "\\C[23]Rurika\\C[0]: Well then, since we're here, shall we\nconduct a long-awaited undercover investigation at\nthe beach? \\I[15]"
                             ]
                         },
                         {
@@ -30021,7 +30021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Sorry, but it can't be helped."
+                                "\\C[18]Sakura\\C[0]: Sorry, but it can't be helped."
                             ]
                         },
                         {
@@ -30050,7 +30050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Excuse me, but I'm going to push through!!"
+                                "\\C[18]Sakura\\C[0]: Excuse me, but I'm going to push through!!"
                             ]
                         },
                         {
@@ -30167,7 +30167,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Alright, let's go!"
+                                "\\C[18]Sakura\\C[0]: Alright, let's go!"
                             ]
                         },
                         {
@@ -31053,7 +31053,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: What's wrong, old man?"
+                                "\\C[18]Sakura\\C[0]: What's wrong, old man?"
                             ]
                         },
                         {
@@ -31843,7 +31843,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Hmm, what do you need this time, old man?"
+                                "\\C[18]Sakura\\C[0]: Hmm, what do you need this time, old man?"
                             ]
                         },
                         {
@@ -32561,7 +32561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Geez, what a lively old man. So, what do\nyou need this time?"
+                                "\\C[18]Sakura\\C[0]: Geez, what a lively old man. So, what do\nyou need this time?"
                             ]
                         },
                         {
@@ -33216,7 +33216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Ah, I'm sorry, old man \\I[15].\nUnfortunately, we are already sold out \\I[15]."
+                                "\\C[18]Sakura\\C[0]: Ah, I'm sorry, old man \\I[15].\nUnfortunately, we are already sold out \\I[15]."
                             ]
                         },
                         {
@@ -33247,7 +33247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: Yes, a long time ago \\I[15], I was already\ngathered together with my husband, as well as my\nsister... hehe \\I[15]"
+                                "\\C[23]Rurika\\C[0]: Yes, a long time ago \\I[15], I was already\ngathered together with my husband, as well as my\nsister... hehe \\I[15]"
                             ]
                         },
                         {

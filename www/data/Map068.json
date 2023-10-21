@@ -5510,7 +5510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Oops, stop!"
+                                "\\C[18]Sakura\\C[0]: Oops, stop!"
                             ]
                         },
                         {
@@ -5543,7 +5543,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Now the mutant soldiers... they come with\na bonus this time."
+                                "\\C[18]Sakura\\C[0]: Now the mutant soldiers... they come with\na bonus this time."
                             ]
                         },
                         {
@@ -5567,38 +5567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: Bio-organisms and guard robots, huh? These\nare the soldiers that Pink Snake Gang often uses\nas well."
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Rurika: Both of them are even cheaper than mutant\nsoldiers, I suppose. Although their individual\nperformance is inferior, there tends to be a\nlarger number of them."
+                                "\\C[23]Rurika\\C[0]: Bio-organisms and guard robots, huh? These\nare the soldiers that Pink Snake Gang often uses\nas well."
                             ]
                         },
                         {
@@ -5629,7 +5598,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Alright, here's a problem, Kenichi. In a\nsituation like this, how do you think we should\nfight?"
+                                "\\C[23]Rurika\\C[0]: Both of them are even cheaper than mutant\nsoldiers, I suppose. Although their individual\nperformance is inferior, there tends to be a\nlarger number of them."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\C[18]Sakura\\C[0]: Alright, here's a problem, Kenichi. In a\nsituation like this, how do you think we should\nfight?"
                             ]
                         },
                         {
@@ -5760,7 +5760,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: Half correct. It is indeed correct to\nfight back using our abilities, but..."
+                                "\\C[23]Rurika\\C[0]: Half correct. It is indeed correct to\nfight back using our abilities, but..."
                             ]
                         },
                         {
@@ -5798,7 +5798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: It's even more efficient to choose\nabilities that match our opponents."
+                                "\\C[18]Sakura\\C[0]: It's even more efficient to choose\nabilities that match our opponents."
                             ]
                         },
                         {
@@ -5822,7 +5822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: For example, bio-organisms are generally\nweak against attacks with a fire attribute."
+                                "\\C[18]Sakura\\C[0]: For example, bio-organisms are generally\nweak against attacks with a fire attribute."
                             ]
                         },
                         {
@@ -5846,7 +5846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: On the other hand, electric attributes are\neffective against guard robots."
+                                "\\C[23]Rurika\\C[0]: On the other hand, electric attributes are\neffective against guard robots."
                             ]
                         },
                         {
@@ -5870,7 +5870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: It's basic, so please remember it."
+                                "\\C[23]Rurika\\C[0]: It's basic, so please remember it."
                             ]
                         },
                         {
@@ -5894,7 +5894,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: Just by being mindful of this, the battle\nwill become much easier, so don't forget it."
+                                "\\C[23]Rurika\\C[0]: Just by being mindful of this, the battle\nwill become much easier, so don't forget it."
                             ]
                         },
                         {
@@ -6552,7 +6552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: I see, that's a hit."
+                                "\\C[18]Sakura\\C[0]: I see, that's a hit."
                             ]
                         },
                         {
@@ -6590,7 +6590,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: Yes, it seems to be a hit."
+                                "\\C[23]Rurika\\C[0]: Yes, it seems to be a hit."
                             ]
                         },
                         {
@@ -6882,7 +6882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Alright, let's just blow them away for\nnow."
+                                "\\C[18]Sakura\\C[0]: Alright, let's just blow them away for\nnow."
                             ]
                         },
                         {
@@ -6920,7 +6920,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Kenichi, make sure not to push yourself\ntoo hard."
+                                "\\C[18]Sakura\\C[0]: Kenichi, make sure not to push yourself\ntoo hard."
                             ]
                         },
                         {
@@ -6958,7 +6958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: Yes, I think we can handle this number\neasily."
+                                "\\C[23]Rurika\\C[0]: Yes, I think we can handle this number\neasily."
                             ]
                         },
                         {
@@ -6996,7 +6996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: I don't mean to let my guard down, but\nKenichi-san, please prioritize your own safety in\nbattle."
+                                "\\C[23]Rurika\\C[0]: I don't mean to let my guard down, but\nKenichi-san, please prioritize your own safety in\nbattle."
                             ]
                         },
                         {
@@ -7359,7 +7359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Yeah, that's right. Your movements were\ndecent. Compared to me, you still have a long way\nto go though."
+                                "\\C[18]Sakura\\C[0]: Yeah, that's right. Your movements were\ndecent. Compared to me, you still have a long way\nto go though."
                             ]
                         },
                         {
@@ -7397,7 +7397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: However, you are definitely making\nprogress. The day when you become a full-fledged\nspecial police officer might be close."
+                                "\\C[23]Rurika\\C[0]: However, you are definitely making\nprogress. The day when you become a full-fledged\nspecial police officer might be close."
                             ]
                         },
                         {
@@ -7473,7 +7473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Ah, I'm looking forward to it."
+                                "\\C[18]Sakura\\C[0]: Ah, I'm looking forward to it."
                             ]
                         },
                         {
@@ -7511,7 +7511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: Yes, but right now we have a job in front\nof us. Since there were mutant soldiers, there\nmust be something definite happening."
+                                "\\C[23]Rurika\\C[0]: Yes, but right now we have a job in front\nof us. Since there were mutant soldiers, there\nmust be something definite happening."
                             ]
                         },
                         {
@@ -7549,7 +7549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: Let's search thoroughly and gather clues\nabout the Pink Snake Gang."
+                                "\\C[23]Rurika\\C[0]: Let's search thoroughly and gather clues\nabout the Pink Snake Gang."
                             ]
                         },
                         {
@@ -8136,7 +8136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Oops, stop!"
+                                "\\C[18]Sakura\\C[0]: Oops, stop!"
                             ]
                         },
                         {
@@ -8169,7 +8169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Now the mutant soldiers... they come with\na bonus this time."
+                                "\\C[18]Sakura\\C[0]: Now the mutant soldiers... they come with\na bonus this time."
                             ]
                         },
                         {
@@ -8193,38 +8193,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: Bio-organisms and guard robots, huh? These\nare the soldiers that Pink Snake Gang often uses\nas well."
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Rurika: Both of them are even cheaper than mutant\nsoldiers, I suppose. Although their individual\nperformance is inferior, there tends to be a\nlarger number of them."
+                                "\\C[23]Rurika\\C[0]: Bio-organisms and guard robots, huh? These\nare the soldiers that Pink Snake Gang often uses\nas well."
                             ]
                         },
                         {
@@ -8255,7 +8224,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Alright, here's a problem, Kenichi. In a\nsituation like this, how do you think we should\nfight?"
+                                "\\C[23]Rurika\\C[0]: Both of them are even cheaper than mutant\nsoldiers, I suppose. Although their individual\nperformance is inferior, there tends to be a\nlarger number of them."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\C[18]Sakura\\C[0]: Alright, here's a problem, Kenichi. In a\nsituation like this, how do you think we should\nfight?"
                             ]
                         },
                         {
@@ -8386,7 +8386,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: Half correct. It is indeed correct to\nfight back using our abilities, but..."
+                                "\\C[23]Rurika\\C[0]: Half correct. It is indeed correct to\nfight back using our abilities, but..."
                             ]
                         },
                         {
@@ -8424,7 +8424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: It's even more efficient to choose\nabilities that match our opponents."
+                                "\\C[18]Sakura\\C[0]: It's even more efficient to choose\nabilities that match our opponents."
                             ]
                         },
                         {
@@ -8472,7 +8472,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: On the other hand, electric-based attacks\nare effective against guard robots."
+                                "\\C[23]Rurika\\C[0]: On the other hand, electric-based attacks\nare effective against guard robots."
                             ]
                         },
                         {
@@ -8496,7 +8496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: It's basic, so please remember it."
+                                "\\C[23]Rurika\\C[0]: It's basic, so please remember it."
                             ]
                         },
                         {
@@ -8520,7 +8520,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: Just by being mindful of this, the battle\nwill become much easier, so don't forget it."
+                                "\\C[23]Rurika\\C[0]: Just by being mindful of this, the battle\nwill become much easier, so don't forget it."
                             ]
                         },
                         {
@@ -9481,7 +9481,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Sakura: Ah, well done."
+                                "\\C[18]Sakura\\C[0]: Ah, well done."
                             ]
                         },
                         {
@@ -9505,7 +9505,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Rurika: Please don't forget to exploit the\nenemy's weaknesses in battle."
+                                "\\C[23]Rurika\\C[0]: Please don't forget to exploit the\nenemy's weaknesses in battle."
                             ]
                         },
                         {
@@ -9758,7 +9758,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Oops, stop right there."
+                                "\\C[18]Sakura\\C[0]: Oops, stop right there."
                             ]
                         },
                         {
@@ -9791,7 +9791,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Now the mutant soldiers... they come with\na bonus this time."
+                                "\\C[18]Sakura\\C[0]: Now the mutant soldiers... they come with\na bonus this time."
                             ]
                         },
                         {
@@ -9815,38 +9815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: Bio-organisms and guard robots, huh?\nThese are the soldiers that Pink Snake Gang often\nuses as well."
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Rurika: Both of them are even cheaper than mutant\nsoldiers, I suppose. Although their individual\nperformance is inferior, there tends to be a\nlarger number of them."
+                                "\\C[23]Rurika\\C[0]: Bio-organisms and guard robots, huh?\nThese are the soldiers that Pink Snake Gang often\nuses as well."
                             ]
                         },
                         {
@@ -9877,7 +9846,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Alright, here's a question, Kenichi. How\ndo you think we should fight in a situation like\nthis?"
+                                "\\C[23]Rurika\\C[0]: Both of them are even cheaper than mutant\nsoldiers, I suppose. Although their individual\nperformance is inferior, there tends to be a\nlarger number of them."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\C[18]Sakura\\C[0]: Alright, here's a question, Kenichi. How\ndo you think we should fight in a situation like\nthis?"
                             ]
                         },
                         {
@@ -10008,7 +10008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: Half correct. It is indeed correct to\nfight back using our abilities, but..."
+                                "\\C[23]Rurika\\C[0]: Half correct. It is indeed correct to\nfight back using our abilities, but..."
                             ]
                         },
                         {
@@ -10046,7 +10046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: It's even more efficient to choose\nabilities that match our opponents."
+                                "\\C[18]Sakura\\C[0]: It's even more efficient to choose\nabilities that match our opponents."
                             ]
                         },
                         {
@@ -10070,7 +10070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: For example, bio-organisms are generally\nweak against attacks with a fire attribute."
+                                "\\C[18]Sakura\\C[0]: For example, bio-organisms are generally\nweak against attacks with a fire attribute."
                             ]
                         },
                         {
@@ -10094,7 +10094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: On the other hand, electric attributes\nare effective against guard robots."
+                                "\\C[23]Rurika\\C[0]: On the other hand, electric attributes\nare effective against guard robots."
                             ]
                         },
                         {
@@ -10118,7 +10118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: It's basic, so please remember it."
+                                "\\C[23]Rurika\\C[0]: It's basic, so please remember it."
                             ]
                         },
                         {
@@ -10142,7 +10142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: Just by being mindful of this, the battle\nwill become much easier, so don't forget it."
+                                "\\C[23]Rurika\\C[0]: Just by being mindful of this, the battle\nwill become much easier, so don't forget it."
                             ]
                         },
                         {
@@ -10374,7 +10374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Well then, it seems like this is the\ndeepest part..."
+                                "\\C[18]Sakura\\C[0]: Well then, it seems like this is the\ndeepest part..."
                             ]
                         },
                         {
@@ -10511,7 +10511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Even though they were using mutant\nsoldiers to protect it, it doesn't seem like\nthere's anything significant here, does it?"
+                                "\\C[18]Sakura\\C[0]: Even though they were using mutant\nsoldiers to protect it, it doesn't seem like\nthere's anything significant here, does it?"
                             ]
                         },
                         {
@@ -10581,7 +10581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: I don't think there's nothing here. For\nnow, let's investigate thoroughly."
+                                "\\C[23]Rurika\\C[0]: I don't think there's nothing here. For\nnow, let's investigate thoroughly."
                             ]
                         },
                         {
@@ -11137,7 +11137,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Sakura: Ah, well done."
+                                "\\C[18]Sakura\\C[0]: Ah, well done."
                             ]
                         },
                         {
@@ -11161,7 +11161,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Rurika: Please don't forget to exploit the\nenemy's weaknesses in battle."
+                                "\\C[23]Rurika\\C[0]: Please don't forget to exploit the\nenemy's weaknesses in battle."
                             ]
                         },
                         {
@@ -12194,7 +12194,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Sakura: Ah, well done."
+                                "\\C[18]Sakura\\C[0]: Ah, well done."
                             ]
                         },
                         {
@@ -12218,7 +12218,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Rurika: Please don't forget to exploit the\nenemy's weaknesses in battle."
+                                "\\C[23]Rurika\\C[0]: Please don't forget to exploit the\nenemy's weaknesses in battle."
                             ]
                         },
                         {

@@ -13902,7 +13902,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Oh, oh, you're quite dedicated to your\njob."
+                                "\\C[18]Sakura\\C[0]: Oh, oh, you're quite dedicated to your\njob."
                             ]
                         },
                         {
@@ -13926,7 +13926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Sorry, but I have something to do ahead."
+                                "\\C[18]Sakura\\C[0]: Sorry, but I have something to do ahead."
                             ]
                         },
                         {
@@ -13950,7 +13950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: I'm gonna push my way through!!"
+                                "\\C[18]Sakura\\C[0]: I'm gonna push my way through!!"
                             ]
                         },
                         {

@@ -15400,7 +15400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: What's wrong, old man?"
+                                "\\C[18]Sakura\\C[0]: What's wrong, old man?"
                             ]
                         },
                         {
@@ -16190,7 +16190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Hmm, what do you need this time, old man?"
+                                "\\C[18]Sakura\\C[0]: Hmm, what do you need this time, old man?"
                             ]
                         },
                         {
@@ -16908,7 +16908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Geez, what a lively old man. So, what do\nyou need this time?"
+                                "\\C[18]Sakura\\C[0]: Geez, what a lively old man. So, what do\nyou need this time?"
                             ]
                         },
                         {

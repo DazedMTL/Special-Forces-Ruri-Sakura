@@ -13804,7 +13804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: It seems like they have achieved some\nresults over there."
+                                "\\C[23]Rurika\\C[0]: It seems like they have achieved some\nresults over there."
                             ]
                         },
                         {
@@ -13842,7 +13842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Hey, you're late. These guys are the\ninfamous groping group, and I caught all of them."
+                                "\\C[18]Sakura\\C[0]: Hey, you're late. These guys are the\ninfamous groping group, and I caught all of them."
                             ]
                         },
                         {
@@ -14269,7 +14269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: It's fine. I'll treat those perverts so\nbadly that they won't even be able to speak."
+                                "\\C[18]Sakura\\C[0]: It's fine. I'll treat those perverts so\nbadly that they won't even be able to speak."
                             ]
                         },
                         {
@@ -14506,7 +14506,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: The perpetrators of the group molestation\nshouldn't act all cool."
+                                "\\C[18]Sakura\\C[0]: The perpetrators of the group molestation\nshouldn't act all cool."
                             ]
                         },
                         {
@@ -14837,7 +14837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: ...is that so? Let's collect it later,\njust in case."
+                                "\\C[18]Sakura\\C[0]: ...is that so? Let's collect it later,\njust in case."
                             ]
                         },
                         {
@@ -14884,7 +14884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: ...Yes, let's make sure to collect it\nwithout forgetting."
+                                "\\C[23]Rurika\\C[0]: ...Yes, let's make sure to collect it\nwithout forgetting."
                             ]
                         },
                         {
@@ -16364,7 +16364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: S-Sorry to keep you waiting."
+                                "\\C[23]Rurika\\C[0]: S-Sorry to keep you waiting."
                             ]
                         },
                         {
@@ -16525,7 +16525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: To cut to the chase, we couldn't confirm\nthe existence of the Pink Snake gang in\nparticular."
+                                "\\C[23]Rurika\\C[0]: To cut to the chase, we couldn't confirm\nthe existence of the Pink Snake gang in\nparticular."
                             ]
                         },
                         {
@@ -16563,7 +16563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: However, it seems that they are indeed\nbeing used to gather discreetly and avoid\nattracting attention."
+                                "\\C[23]Rurika\\C[0]: However, it seems that they are indeed\nbeing used to gather discreetly and avoid\nattracting attention."
                             ]
                         },
                         {
@@ -16601,7 +16601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: This time, there was a gathering of sorts\nwith a slightly unusual hobby."
+                                "\\C[23]Rurika\\C[0]: This time, there was a gathering of sorts\nwith a slightly unusual hobby."
                             ]
                         },
                         {
@@ -16715,7 +16715,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: ...That is..."
+                                "\\C[23]Rurika\\C[0]: ...That is..."
                             ]
                         },
                         {
@@ -16952,7 +16952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: ...Yes, that's right."
+                                "\\C[23]Rurika\\C[0]: ...Yes, that's right."
                             ]
                         },
                         {
@@ -17075,7 +17075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: ...I see, so is that all?"
+                                "\\C[18]Sakura\\C[0]: ...I see, so is that all?"
                             ]
                         },
                         {
@@ -17265,7 +17265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Alright, I'll collect it later."
+                                "\\C[18]Sakura\\C[0]: Alright, I'll collect it later."
                             ]
                         },
                         {
@@ -18914,7 +18914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: What's wrong, old man?"
+                                "\\C[18]Sakura\\C[0]: What's wrong, old man?"
                             ]
                         },
                         {
@@ -19704,7 +19704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Hmm, what do you need this time, old man?"
+                                "\\C[18]Sakura\\C[0]: Hmm, what do you need this time, old man?"
                             ]
                         },
                         {
@@ -20422,7 +20422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Geez, what a lively old man. So, what do\nyou need this time?"
+                                "\\C[18]Sakura\\C[0]: Geez, what a lively old man. So, what do\nyou need this time?"
                             ]
                         },
                         {

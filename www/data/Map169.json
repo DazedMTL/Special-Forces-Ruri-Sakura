@@ -4135,7 +4135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: ...He's the type that kills your\nmotivation."
+                                "\\C[18]Sakura\\C[0]: ...He's the type that kills your\nmotivation."
                             ]
                         },
                         {
@@ -4159,7 +4159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: Just to confirm, if you're going to be\narrested quietly, I won't resort to rough tactics."
+                                "\\C[23]Rurika\\C[0]: Just to confirm, if you're going to be\narrested quietly, I won't resort to rough tactics."
                             ]
                         },
                         {
@@ -4300,7 +4300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Ah, I remember hearing about it, was it\ncalled Neo Mutants?"
+                                "\\C[18]Sakura\\C[0]: Ah, I remember hearing about it, was it\ncalled Neo Mutants?"
                             ]
                         },
                         {
@@ -4324,7 +4324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: When you become a mutant beyond mutants..."
+                                "\\C[23]Rurika\\C[0]: When you become a mutant beyond mutants..."
                             ]
                         },
                         {
@@ -4729,7 +4729,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Sakura: This is the last one, let's do it!"
+                                "\\C[18]Sakura\\C[0]: This is the last one, let's do it!"
                             ]
                         },
                         {
@@ -4753,7 +4753,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Rurika: Now, let's annihilate the Pink Snake gang."
+                                "\\C[23]Rurika\\C[0]: Now, let's annihilate the Pink Snake gang."
                             ]
                         },
                         {
@@ -5167,7 +5167,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Sakura: That's how it is."
+                                "\\C[18]Sakura\\C[0]: That's how it is."
                             ]
                         },
                         {
@@ -5191,7 +5191,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Rurika: Are we still going to continue?"
+                                "\\C[23]Rurika\\C[0]: Are we still going to continue?"
                             ]
                         },
                         {
@@ -5765,7 +5765,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Sakura: This is the final battle, let's do it!"
+                                "\\C[18]Sakura\\C[0]: This is the final battle, let's do it!"
                             ]
                         },
                         {
@@ -5789,7 +5789,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Rurika: Now, let's annihilate the Pink Snake Gang."
+                                "\\C[23]Rurika\\C[0]: Now, let's annihilate the Pink Snake Gang."
                             ]
                         },
                         {
@@ -6203,7 +6203,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Sakura: That's how it is."
+                                "\\C[18]Sakura\\C[0]: That's how it is."
                             ]
                         },
                         {
@@ -6227,7 +6227,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Rurika: Are we still going to do it?"
+                                "\\C[23]Rurika\\C[0]: Are we still going to do it?"
                             ]
                         },
                         {
@@ -6750,7 +6750,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Sakura: This is the last one, let's do it!"
+                                "\\C[18]Sakura\\C[0]: This is the last one, let's do it!"
                             ]
                         },
                         {
@@ -6774,7 +6774,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Rurika: Now, let's annihilate the Pink Snake Gang."
+                                "\\C[23]Rurika\\C[0]: Now, let's annihilate the Pink Snake Gang."
                             ]
                         },
                         {
@@ -7188,7 +7188,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Sakura: That's how it is."
+                                "\\C[18]Sakura\\C[0]: That's how it is."
                             ]
                         },
                         {
@@ -7212,7 +7212,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Rurika: Are we still going to do it?"
+                                "\\C[23]Rurika\\C[0]: Are we still going to do it?"
                             ]
                         },
                         {
@@ -7786,7 +7786,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Sakura: This is the final battle, let's do it!"
+                                "\\C[18]Sakura\\C[0]: This is the final battle, let's do it!"
                             ]
                         },
                         {
@@ -7810,7 +7810,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Rurika: Now, let's annihilate the Pink Snake Gang."
+                                "\\C[23]Rurika\\C[0]: Now, let's annihilate the Pink Snake Gang."
                             ]
                         },
                         {
@@ -8224,7 +8224,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Sakura: That's how it is."
+                                "\\C[18]Sakura\\C[0]: That's how it is."
                             ]
                         },
                         {
@@ -8248,7 +8248,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Rurika: Are we still going to do it?"
+                                "\\C[23]Rurika\\C[0]: Are we still going to do it?"
                             ]
                         },
                         {
@@ -8771,7 +8771,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Sakura: This is the last one, let's do it!"
+                                "\\C[18]Sakura\\C[0]: This is the last one, let's do it!"
                             ]
                         },
                         {
@@ -8795,7 +8795,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Rurika: Now, let's annihilate the Pink Snake Gang."
+                                "\\C[23]Rurika\\C[0]: Now, let's annihilate the Pink Snake Gang."
                             ]
                         },
                         {
@@ -9209,7 +9209,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Sakura: That's how it is."
+                                "\\C[18]Sakura\\C[0]: That's how it is."
                             ]
                         },
                         {
@@ -9233,7 +9233,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Rurika: Are we still going to continue?"
+                                "\\C[23]Rurika\\C[0]: Are we still going to continue?"
                             ]
                         },
                         {
@@ -9807,7 +9807,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Sakura: This is the final battle, let's do it!"
+                                "\\C[18]Sakura\\C[0]: This is the final battle, let's do it!"
                             ]
                         },
                         {
@@ -9831,7 +9831,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Rurika: Now, let's annihilate the Pink Snake Gang."
+                                "\\C[23]Rurika\\C[0]: Now, let's annihilate the Pink Snake Gang."
                             ]
                         },
                         {
@@ -10245,7 +10245,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Sakura: That's how it is."
+                                "\\C[18]Sakura\\C[0]: That's how it is."
                             ]
                         },
                         {
@@ -10269,7 +10269,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Rurika: Are we still going to do it?"
+                                "\\C[23]Rurika\\C[0]: Are we still going to do it?"
                             ]
                         },
                         {

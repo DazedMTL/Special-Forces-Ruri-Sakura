@@ -10650,7 +10650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: This was Kenichi-san's first real\nexploration, wasn't it?"
+                                "\\C[23]Rurika\\C[0]: This was Kenichi-san's first real\nexploration, wasn't it?"
                             ]
                         },
                         {
@@ -10698,7 +10698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: This is a device that will teleport us to\nthe Future Special Police Base."
+                                "\\C[23]Rurika\\C[0]: This is a device that will teleport us to\nthe Future Special Police Base."
                             ]
                         },
                         {
@@ -10722,7 +10722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: If you want to end the exploration, please\nuse this."
+                                "\\C[23]Rurika\\C[0]: If you want to end the exploration, please\nuse this."
                             ]
                         },
                         {

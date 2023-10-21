@@ -7730,7 +7730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Sorry, old man. I can't leisurely eat\nbecause I'm in the middle of work."
+                                "\\C[18]Sakura\\C[0]: Sorry, old man. I can't leisurely eat\nbecause I'm in the middle of work."
                             ]
                         },
                         {
@@ -7761,7 +7761,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Well, I'll let this kind of light banter\nslide."
+                                "\\C[18]Sakura\\C[0]: Well, I'll let this kind of light banter\nslide."
                             ]
                         },
                         {
@@ -10370,7 +10370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: What's the big deal? Just casually talk to\nthem and ask if anything happened."
+                                "\\C[18]Sakura\\C[0]: What's the big deal? Just casually talk to\nthem and ask if anything happened."
                             ]
                         },
                         {
@@ -10401,7 +10401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Just by us doing the investigation, those\nshady guys will naturally expose their flaws."
+                                "\\C[18]Sakura\\C[0]: Just by us doing the investigation, those\nshady guys will naturally expose their flaws."
                             ]
                         },
                         {
@@ -10728,7 +10728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Ah, this should be enough."
+                                "\\C[18]Sakura\\C[0]: Ah, this should be enough."
                             ]
                         },
                         {
@@ -10752,7 +10752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Honestly, it felt like a peaceful beach."
+                                "\\C[18]Sakura\\C[0]: Honestly, it felt like a peaceful beach."
                             ]
                         },
                         {
@@ -10776,7 +10776,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: Well, since I'm in the decoy group, let's\ncount on Rurika's investigation."
+                                "\\C[23]Rurika\\C[0]: Well, since I'm in the decoy group, let's\ncount on Rurika's investigation."
                             ]
                         },
                         {
@@ -10962,7 +10962,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: It's about time to gather."
+                                "\\C[18]Sakura\\C[0]: It's about time to gather."
                             ]
                         },
                         {

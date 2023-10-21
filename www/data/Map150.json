@@ -10362,7 +10362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Alright, could you please move aside for a\nmoment?"
+                                "\\C[18]Sakura\\C[0]: Alright, could you please move aside for a\nmoment?"
                             ]
                         },
                         {
@@ -10386,7 +10386,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Ready, set, go!"
+                                "\\C[18]Sakura\\C[0]: Ready, set, go!"
                             ]
                         },
                         {
@@ -10446,7 +10446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: No good, it doesn't even budge. It doesn't\nseem like it's simply hard."
+                                "\\C[18]Sakura\\C[0]: No good, it doesn't even budge. It doesn't\nseem like it's simply hard."
                             ]
                         },
                         {
@@ -10477,7 +10477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Rurika, please examine the path."
+                                "\\C[18]Sakura\\C[0]: Rurika, please examine the path."
                             ]
                         },
                         {
@@ -10573,7 +10573,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: I see, understood. Physically destroying\nthis seems difficult."
+                                "\\C[23]Rurika\\C[0]: I see, understood. Physically destroying\nthis seems difficult."
                             ]
                         },
                         {
@@ -10604,7 +10604,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: Perhaps a \\C[4]special dissolving\nsolution\\C[0] is needed."
+                                "\\C[23]Rurika\\C[0]: Perhaps a \\C[4]special dissolving\nsolution\\C[0] is needed."
                             ]
                         },
                         {
@@ -10628,7 +10628,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: Let's start by exploring the surroundings."
+                                "\\C[23]Rurika\\C[0]: Let's start by exploring the surroundings."
                             ]
                         },
                         {
@@ -10652,7 +10652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: There is a high possibility that a\ndissolving solution is hidden nearby in case we\nbecome unable to pass through."
+                                "\\C[23]Rurika\\C[0]: There is a high possibility that a\ndissolving solution is hidden nearby in case we\nbecome unable to pass through."
                             ]
                         },
                         {

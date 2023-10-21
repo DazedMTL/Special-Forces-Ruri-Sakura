@@ -2154,7 +2154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Oh, so even a mere mutant criminal dares\nto say that?"
+                                "\\C[18]Sakura\\C[0]: Oh, so even a mere mutant criminal dares\nto say that?"
                             ]
                         },
                         {
@@ -2178,7 +2178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: Unfortunately, our mission is to defeat\nevil like you."
+                                "\\C[23]Rurika\\C[0]: Unfortunately, our mission is to defeat\nevil like you."
                             ]
                         },
                         {
@@ -2779,7 +2779,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Sakura: It seems like I can't arrest you gently!"
+                                "\\C[18]Sakura\\C[0]: It seems like I can't arrest you gently!"
                             ]
                         },
                         {
@@ -2803,7 +2803,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Rurika: Kenichi-san, I'm counting on your support!"
+                                "\\C[23]Rurika\\C[0]: Kenichi-san, I'm counting on your support!"
                             ]
                         },
                         {
@@ -3944,7 +3944,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Sakura: It seems like I can't arrest you gently!"
+                                "\\C[18]Sakura\\C[0]: It seems like I can't arrest you gently!"
                             ]
                         },
                         {
@@ -3968,7 +3968,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Rurika: Kenichi-san, I'm counting on your support!"
+                                "\\C[23]Rurika\\C[0]: Kenichi-san, I'm counting on your support!"
                             ]
                         },
                         {
@@ -5109,7 +5109,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Sakura: It seems like I can't arrest you gently!"
+                                "\\C[18]Sakura\\C[0]: It seems like I can't arrest you gently!"
                             ]
                         },
                         {
@@ -5133,7 +5133,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Rurika: Kenichi-san, I'm counting on your support!"
+                                "\\C[23]Rurika\\C[0]: Kenichi-san, I'm counting on your support!"
                             ]
                         },
                         {

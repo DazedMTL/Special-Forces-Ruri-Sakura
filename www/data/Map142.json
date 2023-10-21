@@ -10348,7 +10348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: It seems we need a \\C[4]card key\\C[0] to\nproceed upwards."
+                                "\\C[23]Rurika\\C[0]: It seems we need a \\C[4]card key\\C[0] to\nproceed upwards."
                             ]
                         },
                         {
@@ -10372,7 +10372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: ...It seems to be a more complex system\nthan the one below."
+                                "\\C[23]Rurika\\C[0]: ...It seems to be a more complex system\nthan the one below."
                             ]
                         },
                         {
@@ -10396,7 +10396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: I think it would be difficult to deal with\nit using my electric shock."
+                                "\\C[23]Rurika\\C[0]: I think it would be difficult to deal with\nit using my electric shock."
                             ]
                         },
                         {

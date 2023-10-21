@@ -13394,7 +13394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: Yes, I'm the Onee-san from Future Special\nPolice!"
+                                "\\C[23]Rurika\\C[0]: Yes, I'm the Onee-san from Future Special\nPolice!"
                             ]
                         },
                         {
@@ -14021,7 +14021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Ah, you're the Onee-san from the Future\nSpecial Police."
+                                "\\C[18]Sakura\\C[0]: Ah, you're the Onee-san from the Future\nSpecial Police."
                             ]
                         },
                         {
@@ -14045,7 +14045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: What's wrong? Did something happen?"
+                                "\\C[18]Sakura\\C[0]: What's wrong? Did something happen?"
                             ]
                         },
                         {
@@ -14141,7 +14141,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Haaan, I see."
+                                "\\C[18]Sakura\\C[0]: Haaan, I see."
                             ]
                         },
                         {
@@ -15792,7 +15792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Ah, you're the Onee-san from Future\nSpecial Police."
+                                "\\C[18]Sakura\\C[0]: Ah, you're the Onee-san from Future\nSpecial Police."
                             ]
                         },
                         {
@@ -15816,7 +15816,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: What's wrong? Did something happen?"
+                                "\\C[18]Sakura\\C[0]: What's wrong? Did something happen?"
                             ]
                         },
                         {
@@ -15912,7 +15912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Haaan, I see."
+                                "\\C[18]Sakura\\C[0]: Haaan, I see."
                             ]
                         },
                         {

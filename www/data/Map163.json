@@ -15900,7 +15900,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: Hello, I'm from the Future Special Police.\nCould I have a little of your time to talk about\nstore security?"
+                                "\\C[23]Rurika\\C[0]: Hello, I'm from the Future Special Police.\nCould I have a little of your time to talk about\nstore security?"
                             ]
                         },
                         {
@@ -15931,7 +15931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: I apologize for the delay. I am Rurika\nfrom the Future Special Police."
+                                "\\C[23]Rurika\\C[0]: I apologize for the delay. I am Rurika\nfrom the Future Special Police."
                             ]
                         },
                         {
@@ -16759,7 +16759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: It looks like fun, Kenichi-san."
+                                "\\C[23]Rurika\\C[0]: It looks like fun, Kenichi-san."
                             ]
                         },
                         {
@@ -16836,7 +16836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: It's finished, so I'm thinking of wrapping\nup soon. What do you think?"
+                                "\\C[23]Rurika\\C[0]: It's finished, so I'm thinking of wrapping\nup soon. What do you think?"
                             ]
                         },
                         {
@@ -16867,7 +16867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: Are you surrounded by bloomers Onee-sans a\nlittle longer?"
+                                "\\C[23]Rurika\\C[0]: Are you surrounded by bloomers Onee-sans a\nlittle longer?"
                             ]
                         },
                         {
@@ -17402,7 +17402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: Hey, can I speak to the manager? I'm\nSakura from the Future Special Police. I need a\nlittle bit of time."
+                                "\\C[18]Sakura\\C[0]: Hey, can I speak to the manager? I'm\nSakura from the Future Special Police. I need a\nlittle bit of time."
                             ]
                         },
                         {
@@ -18145,7 +18145,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rurika: Oh, it looks fun, Kenichi."
+                                "\\C[23]Rurika\\C[0]: Oh, it looks fun, Kenichi."
                             ]
                         },
                         {
@@ -18222,7 +18222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura: I see, I see. By the way, is the\ndiscussion over here finished?"
+                                "\\C[18]Sakura\\C[0]: I see, I see. By the way, is the\ndiscussion over here finished?"
                             ]
                         },
                         {

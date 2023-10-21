@@ -5351,7 +5351,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Sakura: Alright, this time it's finally the last\nbattle."
+                                "\\C[18]Sakura\\C[0]: Alright, this time it's finally the last\nbattle."
                             ]
                         },
                         {
@@ -5375,7 +5375,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Rurika: Yes, let's proceed without letting our\nguard down."
+                                "\\C[23]Rurika\\C[0]: Yes, let's proceed without letting our\nguard down."
                             ]
                         },
                         {
@@ -5846,7 +5846,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Sakura: Phew, as expected of the central system of\nthe city."
+                                "\\C[18]Sakura\\C[0]: Phew, as expected of the central system of\nthe city."
                             ]
                         },
                         {
@@ -5870,7 +5870,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Rurika: They were tough opponents, but with this,\nwe can make the city belong to our husband, right?"
+                                "\\C[23]Rurika\\C[0]: They were tough opponents, but with this,\nwe can make the city belong to our husband, right?"
                             ]
                         },
                         {
@@ -6056,7 +6056,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Sakura: Wow, you're doing great."
+                                "\\C[18]Sakura\\C[0]: Wow, you're doing great."
                             ]
                         },
                         {
@@ -6080,7 +6080,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Sakura: I've reevaluated you a bit, even though\nyou're a masochistic small-dicked \\I[15]."
+                                "\\C[18]Sakura\\C[0]: I've reevaluated you a bit, even though\nyou're a masochistic small-dicked \\I[15]."
                             ]
                         },
                         {
@@ -6104,7 +6104,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Rurika: Well, should I say you have no sense of\nyour place, or should I call you reckless?"
+                                "\\C[23]Rurika\\C[0]: Well, should I say you have no sense of\nyour place, or should I call you reckless?"
                             ]
                         },
                         {
@@ -6128,7 +6128,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Rurika: It seems like it's been a while since you\nneeded some punishment \\I[15]."
+                                "\\C[23]Rurika\\C[0]: It seems like it's been a while since you\nneeded some punishment \\I[15]."
                             ]
                         },
                         {
@@ -6590,7 +6590,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Rurika: Now, Kenichi-san \\I[15]"
+                                "\\C[23]Rurika\\C[0]: Now, Kenichi-san \\I[15]"
                             ]
                         },
                         {
@@ -6614,7 +6614,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Rurika: Conquering the city, it's the final touch\n\\I[15]."
+                                "\\C[23]Rurika\\C[0]: Conquering the city, it's the final touch\n\\I[15]."
                             ]
                         },
                         {
@@ -6638,7 +6638,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Sakura: It's an important system that protects the\ncity \\I[15]."
+                                "\\C[18]Sakura\\C[0]: It's an important system that protects the\ncity \\I[15]."
                             ]
                         },
                         {
@@ -6662,7 +6662,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Sakura: Kenichi, make sure to deliver the\nfinishing blow \\I[15]."
+                                "\\C[18]Sakura\\C[0]: Kenichi, make sure to deliver the\nfinishing blow \\I[15]."
                             ]
                         },
                         {
@@ -6686,7 +6686,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Rurika: I can never defy my husband again \\I[15],\nand not only that, I can't defy Onee-chan and the\nothers either \\I[15]."
+                                "\\C[23]Rurika\\C[0]: I can never defy my husband again \\I[15],\nand not only that, I can't defy Onee-chan and the\nothers either \\I[15]."
                             ]
                         },
                         {
@@ -6717,7 +6717,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Sakura: If you understand it well, then you can do\nit, right? \\I[15]"
+                                "\\C[18]Sakura\\C[0]: If you understand it well, then you can do\nit, right? \\I[15]"
                             ]
                         },
                         {
